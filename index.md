@@ -1,19 +1,37 @@
 ---
-
 layout: col-sidebar
-title: OWASP germany
-tags: example-tag
+title: OWASP Germany
+tags: germany
 level: 4
-
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+![German Chapter Logo](assets/images/OWASP_German_Chapter_WHITE_PNG.png)
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+## Über OWASP
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+OWASP ist eine unabhängige, weltweite Community mit dem Ziel, die
+Bedeutung der Sicherheit von Webanwendungen »sichtbar zu machen«
+Know-How zur Entwicklung und den Betrieb sicherer Webanwendungen zu
+verbreiten und frei zur Verfügung zu stellen. Sämtliche
+OWASP-Instrumente, wie Dokumente, Videos, Slides, Podcasts etc. sind
+kostenlos unter einer freien Lizenz verwendbar.
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+OWASP ist frei, offen und herstellerunabhängig. Alle Interessierten sind
+herzlich willkommen etwa in Projekten mitzuarbeiten oder nur am Wissen
+zu partizipieren. Eine prima Gelegenheit sich einen Eindruck zu
+verschaffen, sind die OWASP Stammtische, die regelmäßig in vielen
+deutschen Großstädten stattfinden.
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+## OWASP German Chapter
 
+OWASP organisiert sich in sogenannten Chaptern. Eines davon ist das
+deutsche Chapter, auf dessen Seite ihr euch gerade befindet. Der Chapter
+Lead wird jährlich im Chapter Meeting gewählt. Derzeitiger Chapter Lead
+ist Tobias Glemser.
+
+Mitglieder im Chapter Board sind (in alphabetischer Reihenfolge): Achim
+Hoffmann, Alexios Fakos, Bastian Braun, Bjoern Kimminich, Boris
+Hemkemeier, Christian Becker, Christian Dresen, Daniel Gora, Henrik
+Willert, Ingo Hanke, Ives Laaf, Jan Wolff, Johannes Schoenborn, Martin
+Johns, Michael Schäfer, Ralf Allar, Sven Schlüter, Tobias Glemser,
+Torsten Gigler

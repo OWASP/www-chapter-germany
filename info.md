@@ -1,17 +1,5 @@
-### germany Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
+### Kontakt
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
-
-### Code Repository
-* [repo](#)
-
-### Change Log
-* [changes](#)
-
+* [Email](mailto://germany-chapter-leaders@owasp.org)
+* [Twitter](https://twitter.com/owasp_de)
+* [Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/) ([:e-mail:](mailto://germany-chapter@owasp.org))
