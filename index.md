@@ -28,10 +28,3 @@ OWASP organisiert sich in sogenannten Chaptern. Eines davon ist das
 deutsche Chapter, auf dessen Seite ihr euch gerade befindet. Der Chapter
 Lead wird jährlich im Chapter Meeting gewählt. Derzeitiger Chapter Lead
 ist Tobias Glemser.
-
-Mitglieder im Chapter Board sind (in alphabetischer Reihenfolge): Achim
-Hoffmann, Alexios Fakos, Bastian Braun, Bjoern Kimminich, Boris
-Hemkemeier, Christian Becker, Christian Dresen, Daniel Gora, Henrik
-Willert, Ingo Hanke, Ives Laaf, Jan Wolff, Johannes Schoenborn, Martin
-Johns, Michael Schäfer, Ralf Allar, Sven Schlüter, Tobias Glemser,
-Torsten Gigler
