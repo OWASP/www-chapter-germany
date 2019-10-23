@@ -3,6 +3,8 @@ layout: col-sidebar
 title: OWASP Germany
 tags: germany
 level: 4
+region: Europe
+
 ---
 
 ![German Chapter Logo](assets/images/OWASP_German_Chapter_WHITE_PNG.png)
