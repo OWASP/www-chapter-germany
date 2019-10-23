@@ -15,6 +15,7 @@
 * Henrik Willert
 * Ingo Hanke
 * Ives Laaf
+* Dirk Wetter
 * Jan Wolff
 * Johannes Schoenborn
 * Martin Johns
