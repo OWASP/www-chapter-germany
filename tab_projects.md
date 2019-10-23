@@ -16,5 +16,6 @@ lassen! Ein Ausschnitt:
 * OWASP Juice Shop
 * OWASP Top 10 Privacy Risks Project
 * OWASP Top 10 für Entwickler
-* OWASP Top 10 2013: Deutsche Übersetzung
+* OWASP Top 10 2017 (und 2013): Deutsche Übersetzung
+* OWASP Docker Top 10
 * Best Practices: Web Application Firewalls
