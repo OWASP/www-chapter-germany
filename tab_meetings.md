@@ -30,7 +30,7 @@ sind wie dier Organisation OWASP, herstellerneutral und ohne Marketingvorträge.
 
 Der nächste German OWASP Day findet am 10.12.2019 in Karlsruhe statt.
 Der Vorverkauf startet bald. Folgt uns auf [Twitter](https://www.twitter.com/OWASP_de) 
-oder annonciere die Mailingliste, um auf dem aktuellen Stand zu bleiben!
+oder abboniere die Mailingliste, um auf dem aktuellen Stand zu bleiben!
 
 ## Chapter Meetings
 
