@@ -12,7 +12,7 @@ In mehreren Städten gibt es _OWASP-Stammtische_, bei denen man sich in
 lockerer Runde trifft, um sich auszutauschen, nette Leute kennenzulernen
 oder ernsthafte Sicherheitsthemen zu diskutieren -- meistens mit
 Vortrag. Dies sind offene Treffen. _Jeder_ ist herzlich eingeladen,
-vorbeizukommen, einfach zu lauschen oder mit zu disktutieren.
+vorbeizukommen, einfach zu lauschen oder mit zu diskutieren.
 
 Aktive Stammtische gibt es (Stand Oktober 2019) in: München, Frankfurt, 
 Hamburg, Stuttgart, Köln,  Hannover, Karlsruhe, Dresden, Ruhrpott,
