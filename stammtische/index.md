@@ -1,5 +1,5 @@
 ---
-layout: col-sidebar
+layout: ../col-sidebar
 title: OWASP Germany, Stammtische
 tags: germany
 level: 5
