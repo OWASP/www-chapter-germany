@@ -1,5 +1,5 @@
 ---
-layout: col-sidebar
+layout: full-width
 title: OWASP Germany, Chapter Meetings
 tags: germany
 level: 5
