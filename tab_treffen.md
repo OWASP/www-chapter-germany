@@ -20,7 +20,7 @@ Heilbronn-Franken.
 
 ## German OWASP Day
 
-Der German OWASP Day ist die jährlich stattfindende Konferenz des German
+Der [German OWASP Day](https://god.owasp.de) ist die jährlich stattfindende Konferenz des German
 OWASP Chapters. Das Publikum ist gemischt und reicht von der klassischen “security
 crowd” über Entwickler, IT-Sicherheitsverantwortliche bzw. IT-Leiter. Die Veranstaltung 
 OWASP Day bietet Fachvorträgen zu sicherer Entwicklung, Betrieb und Test im
@@ -28,9 +28,7 @@ Umfeld von Anwendungen, sowie Security-Managementthemen oder ab und wann
 mal heiße Themen außerhalb der klassischen OWASP-Thematik. OWASP-Konferenzen
 sind wie dier Organisation OWASP, herstellerneutral und ohne Marketingvorträge.
 
-Der nächste German OWASP Day findet am 10.12.2019 in Karlsruhe statt.
-Der Vorverkauf startet bald. Folgt uns auf [Twitter](https://www.twitter.com/OWASP_de) 
-oder abboniere die Mailingliste, um auf dem aktuellen Stand zu bleiben!
+Der nächste German OWASP Day [findet am 10.12.2019 in Karlsruhe](https://god.owasp.de) statt. Der [Call for Presentations](https://god.owasp.de/cfp) ist geschlossen und der Vorverkauf startet in Kürze. Folge uns auf Twitter oder abboniere die Mailingliste, um auf dem aktuellen Stand zu bleiben!
 
 ## Chapter Meetings
 
