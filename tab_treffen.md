@@ -1,5 +1,5 @@
 ---
-title: Meetings
+title: Treffen
 layout:  null
 tab: true
 order: 2
