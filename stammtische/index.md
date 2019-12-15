@@ -8,7 +8,7 @@ region: Europe
 
 ---
 
-!German Chapter Logo(https://www2.owasp.org/www-chapter-germany/assets/images/OWASP_German_Chapter_WHITE_PNG.png)
+!German Chapter Logo(/www-chapter-germany/assets/images/OWASP_German_Chapter_WHITE_PNG.png)
 
 ## Über unsere Stammtische
 
