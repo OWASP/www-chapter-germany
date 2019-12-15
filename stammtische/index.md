@@ -8,7 +8,6 @@ region: Europe
 
 ---
 
-!German Chapter Logo(/www-chapter-germany/assets/images/OWASP_German_Chapter_WHITE_PNG.png)
 
 ## Über unsere Stammtische
 
@@ -36,7 +35,7 @@ Lokale Stammtische gibt es in einer Reihe von Städten:
 * Frankfurt
 * Stuttgart
 * Köln
-* Hamburg
+* ![Hamburger Stammtisch](hamburg/)[Hamburg]
 * Karlsruhe
 * Dresden
 * Ruhrpott
