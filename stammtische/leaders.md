@@ -1,2 +1,5 @@
-# Leaders
-[TBD]
+
+### Leaders
+
+Siehe die enstprechenden Stammtische
+
