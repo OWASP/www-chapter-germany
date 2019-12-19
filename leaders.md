@@ -10,10 +10,12 @@
 * Bjoern Kimminich
 * Christian Dresen
 * Christof Lessmann
+* Dirk Wetter
 * Henrik Willert
 * Ingo Hanke
 * Ives Laaf
-* Dirk Wetter
+* Jan Wolff
 * Martin Johns
+* Michael Schaefer
 * Tobias Glemser
 * Torsten Gigler
