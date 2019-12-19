@@ -1,2 +1,0 @@
-# Leaders
-[TBD]
