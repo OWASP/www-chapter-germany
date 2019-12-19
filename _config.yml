@@ -1,3 +1,7 @@
 remote_theme: "owasp/www--site-theme"
 plugins:
  - jekyll-include-cache-0.2.0
+include:
+ - 'stammtische'
+ - 'stammtische/hamburg'
+ - 'chapter_meetings'
