@@ -38,16 +38,16 @@ bedeutet.
 
 Lokale Stammtische gibt es in einer Reihe von Städten:
 
-* München
-* Frankfurt
-* Stuttgart
-* Köln
-* [Hamburger Stammtisch](hamburg/)
-* Karlsruhe
-* Dresden
-* Ruhrpott
-* Heilbronn-Franken
-* Hannover
+* [München](muenchen/)
+* [Hamburg](hamburg/)
+* [Frankfurt](frankfurt/)
+* [Stuttgart](stuttgart/)
+* [Karlsruhe](karlsruhe/)
+* [Dresden](dresden/)
+* [Köln](koeln/)
+* [Ruhrpott](ruhrpott/)
+* [Heilbronn-Franken](heilbronn_franken/)
+* [Hannover](hannover/)
 
 Es gab aktive Stammtische in
 
@@ -90,9 +90,9 @@ Nein. OWASPs Mission ist es, Wissen kostenfrei unter alle interessierten Leute z
 
 ### Was sind die Anforderungen an einen Vortrag?
 
-Ein Vortrag muss herstellerneutral erfolgen, siehe den enstprechenden Abschnitt
-im [OWASP Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement),
-d.h. u.a. kein Company Slide Deck und kein Marketing. "Namedropping" sollte
+Ein Vortrag muss herstellerneutral erfolgen, siehe den entprechenden Abschnitt
+im [OWASP Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement).
+Was bedeutet, dass kein Company Slide Deck und kein Marketing geht. Auch "Namedropping" sollte
 möglichst vermieden werden. Der Stammtischorganisator muss die Sprecher auf die
 Vereinbarung hinweisen. Natürlich kann jeder auf einer Seite auf seinen
 Hintergrund hinweisen inkl. Nennung des Arbeitsgebers. Eine
