@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: [OWASP Germany](https://www2.owasp.org/www-chapter-germany) > Stammtische
+title: OWASP Germany > Stammtische
 
 ---
 
