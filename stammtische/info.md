@@ -1,6 +1,6 @@
-# My Subdir Info
+# Navigation
 
-* One
-* Two
+* zurück zu [OWASP Germany](https://www2.owasp.org/www-chapter-germany)
+* [Lokale Stammtische](#lokale-stammtische)
 * Three
 
