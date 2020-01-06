@@ -1,5 +1,5 @@
 ### Kontakt
 
-* [E-Mail](mailto://germany-chapter-leaders@owasp.org)
+* [Google Group](https://groups.google.com/a/owasp.org/group/germany-chapter/) ([📧](mailto://germany-chapter@owasp.org))
 * [Twitter](https://twitter.com/owasp_de)
-* [Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/) ([📧](mailto://germany-chapter@owasp.org))
+* [YouTube](https://www.youtube.com/channel/UCO7VtjaFHkfsDNZEFg9OssQ)

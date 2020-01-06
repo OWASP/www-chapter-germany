@@ -91,7 +91,7 @@ Nein. OWASPs Mission ist es, Wissen kostenfrei unter alle interessierten Leute z
 ### Was sind die Anforderungen an einen Vortrag?
 
 Ein Vortrag muss herstellerneutral erfolgen, siehe den entprechenden Abschnitt
-im [OWASP Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement).
+im [OWASP Speaker Agreement](/www-policy/legal/speaker-agreement.html).
 Was bedeutet, dass kein Company Slide Deck und kein Marketing geht. Auch "Namedropping" sollte
 möglichst vermieden werden. Der Stammtischorganisator muss die Sprecher auf die
 Vereinbarung hinweisen. Natürlich kann jeder auf einer Seite auf seinen
@@ -104,7 +104,7 @@ gewährleisten.
 ### Muss ich Mitglied sein um einen Stammtisch zu organisieren?
 
 Nein. Schön wäre es natürlich. Angenehmer Nebeneffekt: Eine owasp.org-Adresse
-bekommt jedes Mitglied, siehe [Membership] (/Membership), damit
+bekommt jedes Mitglied, siehe [Membership](/membership), damit
 ließe sich das Posten der Ankündigung am einfachsten realisieren.
 
 ### Wie kündige ich einen Stammtisch an?

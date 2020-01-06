@@ -1,15 +1,8 @@
+### Navigation ([🔙](#lokale-stammtische))
 
-# My Subdir Info
-
-* One
-* Two
-* Three
-
-<!--
+* zurück zu [Lokale Stammtische](#lokale-stammtische)
+* [Stammtisch FAQ](#stammtisch-faq)
 
 ### Kontakt
 
-* [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/)
-* [Twitter](https://twitter.com/owasp_de)
-
--->
+* [MeetUp](https://www.meetup.com/OWASP-Hamburg-Stammtisch/)
