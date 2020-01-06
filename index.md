@@ -34,9 +34,18 @@ ist Tobias Glemser.
 
 ## Mitarbeit
 
-Mitarbeit am OWASP German Chapter ist willkommen. Wir freuen uns auf Beiträge in unserer Mailingliste. Diese sollten natürlich einen Bezug zu Anwendungssicherheit haben. Denkbar sind also u. A. Fragen, Tipps, aktuelle Hinweise, Stellenangebote oder Projektgesuche. Es gibt auch ein Mailarchiv der *alten* Liste, die nicht mehr genutzt wird. 
+Mitarbeit am OWASP German Chapter ist willkommen. Wir freuen uns auf
+Beiträge in unserer Mailingliste. Diese sollten natürlich einen Bezug zu
+Anwendungssicherheit haben. Denkbar sind also u. A. Fragen, Tipps,
+aktuelle Hinweise, Stellenangebote oder Projektgesuche. Es gibt auch ein
+Mailarchiv der *alten* Liste, die nicht mehr genutzt wird.
 
-Wenn Sie nicht an den Meetings teilnehmen können, kontaktieren Sie einfach einen der German Chapter Board Member oder schreiben Sie eine E-Mail an unsere Mailingliste [germany-chapter@owasp.org](mailto:germany-chapter@owasp.org).
+Wenn Sie nicht an den Meetings teilnehmen können, kontaktieren Sie
+einfach einen der German Chapter Board Member oder schreiben Sie eine
+E-Mail an unsere Mailingliste
+[germany-chapter@owasp.org](mailto:germany-chapter@owasp.org).
 
 ## Presse
-Informationen für die Presse finden sich [hier (TBD)]().
+
+Informationen für die Presse finden sich
+[hier (🔧 TODO)]().
