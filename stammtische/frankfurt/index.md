@@ -1,11 +1,11 @@
 ---
 
 layout: col-sidebar
-title: OWASP Germany, Stammtische
+title: OWASP Germany > Stammtische > Frankfurt
 
 ---
 
-## OWASP Stammtisch `<Stadt/Region>`
+## OWASP Stammtisch Frankfurt
 
 🔧 TODO
 
