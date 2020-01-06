@@ -7,7 +7,7 @@ title: OWASP Germany, Stammtische
 
 ## OWASP Stammtisch Hamburg
 
-:wrench: TODO
+🔧 TODO
 
 
 
