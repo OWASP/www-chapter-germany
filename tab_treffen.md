@@ -37,7 +37,7 @@ haben -- die in anderen Ländern als Chapter organisiert sind.
 Gemäß dem O in OWASP (open) sind auch diese Treffen öffentlich.
 Jedermann kann daran teilnehmen und sich an der Arbeit im Chapter
 beteiligen. Das letzte Meeting hat am Tag vor dem
-[German OWASP Day](#div-konferenz) (also am 09.12.) in Karlsruhe
+[German OWASP Day](/www-chapter-germany/#div-konferenz) (also am 09.12.) in Karlsruhe
 stattgefunden. Selbstverständlich sind auch alle Ergebnisse der Treffen
 öffentlich. Was auf den vergangenen Treffen jeweils besprochen /
 beschlossen wurde, ist auf der
