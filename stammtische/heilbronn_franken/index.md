@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Germany > Stammtische > Heilbronn-Franken
+title: OWASP Germany > Stammtische > Heilbronn
 
 ---
 
