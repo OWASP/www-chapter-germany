@@ -6,4 +6,4 @@
 
 ### Kontakt
 
-* [MeetUp](https://www.meetup.com/<MeetUp-Name_des_Stammtischs>)
+* [Meetup](ihttps://www.meetup.com/OWASP-Stuttgart-Stammtisch/)
