@@ -9,10 +9,10 @@ title: OWASP Germany > Stammtische > München
 ### ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
 #### A K T U E L L E S :
-Einladung zum (105.) Münchner OWASP-Stammtisch am Di, 28.01.2020, um 19:00 Uhr (erst am 4. Dienstag).
+Einladung zum (105.) Münchner OWASP-Stammtisch am **Di, 28.01.2020**, um 19:00 Uhr (**erst am 4. Dienstag**).
 
 Agenda:
-* Vortrag: Update der OWASP Top 10 Privacy Risks (Florian Stahl)
+* Vortrag: **Update der OWASP Top 10 Privacy Risks (Florian Stahl)**
   * Rückblick & Hintergrund
   * Aktuelle Version der OWASP Top 10 Privacy Risks (2014)
   * Update 2019/2020
@@ -42,4 +42,5 @@ Bitte diese Info an potentiell Interessierte weiterleiten. Unser Thema ist in er
 Schönen Gruß,
 Orga-Team für den Münchner OWASP Stammtisch (Christoph, Thomas und Torsten) 
 
-Vgl bisherige Wiki-Seite: https://wiki.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/M%C3%BCnchen
+#### Weitere Informationen und bereits gehaltene Stammtisch-Vorträge
+[Vgl bisherige Wiki-Seite](https://wiki.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/M%C3%BCnchen)
