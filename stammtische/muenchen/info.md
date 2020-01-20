@@ -6,4 +6,4 @@
 
 ### Kontakt
 
-* [MeetUp](https://www.meetup.com/<MeetUp-Name_des_Stammtischs>)
+* [MeetUp](https://www.meetup.com/de-DE/OWASP_Muenchen_Stammtisch/)
