@@ -6,4 +6,6 @@
 
 ### Kontakt
 
+<!--
 * [MeetUp](https://www.meetup.com/<MeetUp-Name_des_Stammtischs>)
+-->
