@@ -5,8 +5,6 @@ title: OWASP Germany > Stammtische > Hamburg
 
 ---
 
-## OWASP Stammtisch Hamburg
-
 ### Generelles zu den Treffen in Hamburg
 
 Wer und Interesse hat mitzuwirken oder hosten möchte, bitte bei Dirk

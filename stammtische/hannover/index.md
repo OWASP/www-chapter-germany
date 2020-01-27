@@ -5,8 +5,6 @@ title: OWASP Germany > Stammtische > Hannover
 
 ---
 
-## OWASP Stammtisch Hannover
-
 ### Überblick
 
   - Meetup:
