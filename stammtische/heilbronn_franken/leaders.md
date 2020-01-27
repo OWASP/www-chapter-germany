@@ -1,4 +1,4 @@
 ### Organisatoren
 
-* `<Organisator 1>`
-* `<Organisator 2>`
+* Andreas Mayer
+* Andreas Kurtz
