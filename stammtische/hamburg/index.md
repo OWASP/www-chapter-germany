@@ -5,26 +5,21 @@ title: OWASP Germany > Stammtische > Hamburg
 
 ---
 
-### Generelles zu den Treffen in Hamburg
+<br />
+
+## Generelles
 
 Wer und Interesse hat mitzuwirken oder hosten möchte, bitte bei Dirk
-Wetter melden (dirk aet owasp puhunkt org). Beim Hosten kommen leider
-keine Beratungsfirmen in Frage, OWASP ist vendorneutral.
+Wetter melden (dirk aet owasp puhunkt org). Bitte beachten, OWASP
+ist vendorneutral.
 
-#### Hamburg ist einen Vortrag Wert
+### Hamburg ist einen Vortrag Wert
 
-<b>Wir suchen Vorträge für die Stammtische in 2020</b>
+<b>Wir suchen Vorträge für die Stammtische in 2020</b>. Möchtest du einen Vortrag halten? Prima\! Bitte um kurze Info an die Organisatoren, wenn du (für uns relevante) Themen parat hast, die du uns näher bringen möchtest. Wie bei OWASP üblich: Wir sind an Sicherheit im Internet -- Technik, Organisation, Entwicklung, Datenschutz -- interessiert. Nicht an Marketing. Nicht an Buzzwords.
 
-Möchte jemand einen Vortrag halten? Prima\! Bitte um kurze Info an Dirk
-Wetter, wenn du (für uns relevante) Themen parat hast, die du uns näher
-bringen möchtest. Wie bei OWASP üblich: Wir sind an Sicherheit im
-Internet -- Technik, Organisation, Entwicklung, Datenschutz --
-interessiert. Nicht an Marketing. Und auch nicht an Buzzwords.
+### Wie bekomme ich Treffen mit?
 
-#### Wie bekomme ich Treffen mit?
-
-Tretet gerne der [OWASP Hamburg Stammtisch
-Meetup-Gruppe](http://www.meetup.com/OWASP-Hamburg-Stammtisch/) bei, um
+Tretet gerne unserer [Meetup-Gruppe](http://www.meetup.com/OWASP-Hamburg-Stammtisch/) bei, um
 zeitnah über Treffen auf dem Laufenden zu bleiben. Die Meetup-Seite ist
 zudem meistens etwas aktueller.
 
@@ -33,13 +28,12 @@ frei und offen. Man muss dafür kein OWASP-Mitglied sein. Hinweise auf
 diese Webseite oder auf einzelne Treffen an Kollegen oder Bekannte sind
 gern gesehen.
 
-Alle Treffen
 
-#### Aktuelle Treffen
+### Aktuelle Treffen
 
 -----
 
-##### 46\. Stammtisch: 2. Dezember 2019
+#### 47\. Stammtisch: 28. Januar 2020
 
   - Sprecher: Hanno Böck
   - Titel: "Was bedeuten Quantencomputer für die Sicherheit im
@@ -56,18 +50,27 @@ In Planung sind weitere Vorträge, u.a. zu ZAP, MISP, WASM
 
 -----
 
-#### Vergangene Treffen
+### Vergangene Treffen
 
-**45. Stammtisch: 13. November 2019**
+#### 46\. Stammtisch: 2.12.2019
+
+  - Sprecher: Hanno Böck
+  - Titel: "Was bedeuten Quantencomputer für die Sicherheit im
+    Internet?"
+  - Lokation: [Kühne & Nagel, Großer
+    Grasbrook 11-13](https://her.is/1Ws8uP8)
+  - [Abstract](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/266493638/)
+  - [Slides](https://int21.de/slides/owasp-hh-quanten/#/)
+
+
+#### 45. Stammtisch: 13.11.2019
 
   - Sprecher: Martin Tschirsich
   - Titel: "Sicherheit der bundesweiten elektronischen Patientenakte"
   - Lokation: [SPIEGEL, Ericusspitze 1](https://her.is/2E6liYh)
-  - Abstract:
-    <https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/265655766/>
-  - Danach: TBD
+  - [Abstract](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/265655766/)
 
-##### 44\. Stammtisch: 23. Oktober 2019
+#### 44\. Stammtisch: 23.10.2019
 
   - Sprecher: Matthias Rohr
   - Titel: "Continuous Security Testing mit IAST"
@@ -75,23 +78,22 @@ In Planung sind weitere Vorträge, u.a. zu ZAP, MISP, WASM
     [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/265345540/)
   - Start: 18:30 Uhr
   - Lokation: [Xing](https://her.is/2FgcKhR)
-  - [Slides](https://www.owasp.org/index.php/File:Dirk_Wetter_-_Docker_Top10-HH.pdf)
+  - [Slides]()
 
-##### 43\. Stammtisch: 30.9.2019
+#### 43\. Stammtisch: 30.9.2019
 
   - Security-Schnack im Franziskaner
   - Lokation: Große Theaterstraße 9
   - Start: 19:00 Uhr
-  - Mehr: Siehe
-    [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/264612192/)
+  - Mehr: Siehe [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/264612192/)
 
-##### 42\. Stammtisch: 4.7.2019
+#### 42\. Stammtisch: 4.7.2019
 
   - Netzwerktreffen
   - Lokation: [Strandpauli](https://her.is/2XooJVb)
   - Start: 18:30 Uhr
 
-##### 41\. Stammtisch: 22.5.2019
+#### 41\. Stammtisch: 22.5.2019
 
   - Netzwerktreffen (ohne Vortrag)
   - Location:
@@ -99,7 +101,7 @@ In Planung sind weitere Vorträge, u.a. zu ZAP, MISP, WASM
     (Esplanade 18, 20354 Hamburg)
   - Start: 19:00 Uhr
 
-##### 40\. Stammtisch: 27.3.2019
+#### 40\. Stammtisch: 27.3.2019
 
   - Vortrag: "OWASP Docker / Container Top 10"
   - Vortragender: Dirk Wetter
@@ -109,7 +111,7 @@ In Planung sind weitere Vorträge, u.a. zu ZAP, MISP, WASM
   - Lokation: [Xing](https://her.is/2FgcKhR)
   - [Slides](https://www.owasp.org/images/9/93/Continuous_Security_Testing_mit_IAST.pdf)
 
-##### 39\. Stammtisch: 27.2.2019
+#### 39\. Stammtisch: 27.2.2019
 
   - Kurzvorträge zu
       - Björn Kimminich: "Neues aus der Saftpresse: Juice Shop 8"
@@ -132,37 +134,34 @@ In Planung sind weitere Vorträge, u.a. zu ZAP, MISP, WASM
   - Abstract und mehr:
     [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/258185324/)
 
-##### 38\. Stammtisch: 30.1.2019
+#### 38\. Stammtisch: 30.1.2019
 
   - Thema: Authentifizierungskonzepte von OAUTH2
+  - Vortragender: Timo Pagel
   - Start: 18:30 Uhr
-  - Lokation: [Kühne & Nagel, Großer
-    Grasbrook 11-13](https://her.is/1Ws8uP8)
-  - Abstract und mehr:
-    [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/257959894/)
-  - Slides:
-    [Slides](https://www.owasp.org/images/2/2c/Timo_Pagel_-_OAuth2_Flows.pdf)
+  - Lokation: [Kühne & Nagel, Großer Grasbrook 11-13](https://her.is/1Ws8uP8)
+  - Abstract und mehr: [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/257959894/)
+  - [Slides](https://www.owasp.org/images/2/2c/Timo_Pagel_-_OAuth2_Flows.pdf)
 
-##### 37\. Stammtisch: 4.12.2018
+#### 37\. Stammtisch: 4.12.2018
 
   - Networking
   - Start: 19:00 Uhr
   - Lokation: [Klimperkiste](https://her.is/2POSuea)
-  - Mehr:
-    [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/256620737/)
+  - Mehr: [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/256620737/)
 
-##### 36\. Stammtisch: 1.11.2018
+#### 36\. Stammtisch: 1.11.2018
 
   - Thema: Common API security pitfalls
   - Vortragender: Philippe de Ryck
   - Abstract: Siehe
     <https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/255794105/>
   - Vortragsstart: 18:30 Uhr
-  - Lokation: <https://her.is/2FgcKhR> Xing\]
+  - Lokation: [Xing](https://her.is/2FgcKhR> Xing)
   - Slides:
     [Slides](https://www.owasp.org/images/8/8d/20181101_-_Common_API_security_pitfalls_%28OWASP%29_small.pdf)
 
-##### 35\. Stammtisch: 22.8.2018
+#### 35\. Stammtisch: 22.8.2018
 
   - Vortrag: "Selbstverteidigung für deine Applikation"
   - Vortragende: Rüdiger Heins und Ben Brunzel
@@ -175,7 +174,7 @@ In Planung sind weitere Vorträge, u.a. zu ZAP, MISP, WASM
 
 Juli - Mitte August: Sommerpause
 
-##### 34\. Stammtisch: 31.5.2018
+#### 34\. Stammtisch: 31.5.2018
 
   - Vortrag: "Defect Dojo -- The Good, the Bad and the Ugly"
   - Vortragende: Manuel Schneider / Tilmann Haak
@@ -187,9 +186,7 @@ Juli - Mitte August: Sommerpause
   - Lokation: BCD Travel
   - Nachbereitung: TBD
 
------
-
-##### 33\. Stammtisch: 26.4.2018
+#### 33\. Stammtisch: 26.4.2018
 
   - Vortrag I: "Ruhig schlafen trotz krititischer Daten -- Hashicorp
     Vault" (Jörg Krainer)
@@ -201,37 +198,33 @@ Juli - Mitte August: Sommerpause
     [Xing](https://www.here.com/germany/hamburg/street-square/dammtorstra%C3%9Fe-32--loc-dmVyc2lvbj0xO3RpdGxlPURhbW10b3JzdHJhJUMzJTlGZSszMjtsYXQ9NTMuNTU2MTI4NDg4ODUzNTc0O2xvbj05Ljk4NzgwNDQ4OTIxMDI0ODtzdHJlZXQ9RGFtbXRvcnN0cmElQzMlOUZlO2hvdXNlPTMyO2NpdHk9SGFtYnVyZztwb3N0YWxDb2RlPTIwMzU0O2NvdW50cnk9REVVO2Rpc3RyaWN0PU5ldXN0YWR0O3N0YXRlPUhhbWJ1cmc7Y291bnR5PUhhbWJ1cmc7Y2F0ZWdvcnlJZD1idWlsZGluZztzb3VyY2VTeXN0ZW09aW50ZXJuYWw?map=53.55593,9.98838,15,satellite&msg=Dammtorstra%C3%9Fe%2032&x=ep)
   - Nachbereitung: Klimperkiste
 
-##### 32\. Stammtisch: 28.2.2018
+#### 32\. Stammtisch: 28.2.2018
 
-  - Titel: "Hallo, Frida\! - Dynamic Binary Instrumentation (nicht nur)
-    auf Android"
+  - Titel: "Hallo, Frida\! - Dynamic Binary Instrumentation (nicht nur) auf Android"
   - Vortragende: Michael Helwig, Hendrik Spiegel
-  - Abstract:
-    <https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/247644169/>
+  - [Abstract](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/247644169/)
   - Vortragsstart: 19:00
   - Lokation: Kühne & Nagel, Großer Grasbrook 11-13
 
-##### 31\. Stammtisch: 30.1.2018
+#### 31\. Stammtisch: 30.1.2018
 
   - Titel: "Einführung in Docker-Sicherheit"
   - Vortragender: Timo Pagel
-  - Abstract:
-    <https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/246927844/>
+  - [Abstract](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/246927844/)
   - Uhrzeit: 18:30
   - Lokation: BCD Travel
 
-##### 30\. Stammtisch: 28.11.2017
+#### 30\. Stammtisch: 28.11.2017
 
   - Titel: "2017: **O**WASP Top 10 2017"
   - Vortragender: Dirk Wetter
   - Abstract:
     <http://lists.owasp.org/pipermail/owasp-germany/2017-November/001052.html>
   - Uhrzeit: 18:30
-  - Lokation:
-    [Xing](https://www.here.com/germany/hamburg/street-square/dammtorstra%C3%9Fe-32--loc-dmVyc2lvbj0xO3RpdGxlPURhbW10b3JzdHJhJUMzJTlGZSszMjtsYXQ9NTMuNTU2MTI4NDg4ODUzNTc0O2xvbj05Ljk4NzgwNDQ4OTIxMDI0ODtzdHJlZXQ9RGFtbXRvcnN0cmElQzMlOUZlO2hvdXNlPTMyO2NpdHk9SGFtYnVyZztwb3N0YWxDb2RlPTIwMzU0O2NvdW50cnk9REVVO2Rpc3RyaWN0PU5ldXN0YWR0O3N0YXRlPUhhbWJ1cmc7Y291bnR5PUhhbWJ1cmc7Y2F0ZWdvcnlJZD1idWlsZGluZztzb3VyY2VTeXN0ZW09aW50ZXJuYWw?map=53.55593,9.98838,15,satellite&msg=Dammtorstra%C3%9Fe%2032&x=ep)
+  - Lokation: [Xing](https://www.here.com/germany/hamburg/street-square/dammtorstra%C3%9Fe-32--loc-dmVyc2lvbj0xO3RpdGxlPURhbW10b3JzdHJhJUMzJTlGZSszMjtsYXQ9NTMuNTU2MTI4NDg4ODUzNTc0O2xvbj05Ljk4NzgwNDQ4OTIxMDI0ODtzdHJlZXQ9RGFtbXRvcnN0cmElQzMlOUZlO2hvdXNlPTMyO2NpdHk9SGFtYnVyZztwb3N0YWxDb2RlPTIwMzU0O2NvdW50cnk9REVVO2Rpc3RyaWN0PU5ldXN0YWR0O3N0YXRlPUhhbWJ1cmc7Y291bnR5PUhhbWJ1cmc7Y2F0ZWdvcnlJZD1idWlsZGluZztzb3VyY2VTeXN0ZW09aW50ZXJuYWw?map=53.55593,9.98838,15,satellite&msg=Dammtorstra%C3%9Fe%2032&x=ep)
   - [Slides](https://www.owasp.org/images/8/8e/Dirk_Wetter_-_OWASP_T10.pdf)
 
-##### 29\. Stammtisch am 27. September 2017
+#### 29\. Stammtisch am 27. September 2017
 
   - Titel: "OWASP Cornucopia"
   - Vortragende: Mamta Naidu
@@ -240,18 +233,17 @@ Juli - Mitte August: Sommerpause
   - Uhrzeit: 18:30
   - Lokation: BCD Travel
 
-##### 28\. Stammtisch am 4. Juli 2017
+#### 28\. Stammtisch am 4. Juli 2017
 
   - Titel: "LKA zu Internetkriminalität"
   - Vortragender: Andreas Dondera
   - Abstract:
     <http://lists.owasp.org/pipermail/owasp-germany/2017-June/001000.html>
   - Uhrzeit: 18:30
-  - Lokation:
-    [Xing](https://www.here.com/germany/hamburg/street-square/dammtorstra%C3%9Fe-32--loc-dmVyc2lvbj0xO3RpdGxlPURhbW10b3JzdHJhJUMzJTlGZSszMjtsYXQ9NTMuNTU2MTI4NDg4ODUzNTc0O2xvbj05Ljk4NzgwNDQ4OTIxMDI0ODtzdHJlZXQ9RGFtbXRvcnN0cmElQzMlOUZlO2hvdXNlPTMyO2NpdHk9SGFtYnVyZztwb3N0YWxDb2RlPTIwMzU0O2NvdW50cnk9REVVO2Rpc3RyaWN0PU5ldXN0YWR0O3N0YXRlPUhhbWJ1cmc7Y291bnR5PUhhbWJ1cmc7Y2F0ZWdvcnlJZD1idWlsZGluZztzb3VyY2VTeXN0ZW09aW50ZXJuYWw?map=53.55593,9.98838,15,satellite&msg=Dammtorstra%C3%9Fe%2032&x=ep)
+  - Lokation: [Xing](https://www.here.com/germany/hamburg/street-square/dammtorstra%C3%9Fe-32--loc-dmVyc2lvbj0xO3RpdGxlPURhbW10b3JzdHJhJUMzJTlGZSszMjtsYXQ9NTMuNTU2MTI4NDg4ODUzNTc0O2xvbj05Ljk4NzgwNDQ4OTIxMDI0ODtzdHJlZXQ9RGFtbXRvcnN0cmElQzMlOUZlO2hvdXNlPTMyO2NpdHk9SGFtYnVyZztwb3N0YWxDb2RlPTIwMzU0O2NvdW50cnk9REVVO2Rpc3RyaWN0PU5ldXN0YWR0O3N0YXRlPUhhbWJ1cmc7Y291bnR5PUhhbWJ1cmc7Y2F0ZWdvcnlJZD1idWlsZGluZztzb3VyY2VTeXN0ZW09aW50ZXJuYWw?map=53.55593,9.98838,15,satellite&msg=Dammtorstra%C3%9Fe%2032&x=ep)
   - [Slides](https://www.owasp.org/images/c/c8/Donde%2C_LKA_ZAC_HH_IT-Sicherheit_2017.pdf)
 
-##### <s>28. Stammtisch am 30. Mai 2017</s>
+#### <s>28. Stammtisch am 30. Mai 2017</s>
 
   - Leider ist der Sprecher erkrankt. Neuer Termin folgt bald
   - <s>Titel: "Docker Security"</s>
@@ -259,17 +251,14 @@ Juli - Mitte August: Sommerpause
   - <s>Abstract:
     <http://lists.owasp.org/pipermail/owasp-germany/2017-May/000990.html></s>
   - <s>Uhrzeit: 18:30</s>
-  - <s>Lokation:
-    [Xing](https://www.here.com/germany/hamburg/street-square/dammtorstra%C3%9Fe-32--loc-dmVyc2lvbj0xO3RpdGxlPURhbW10b3JzdHJhJUMzJTlGZSszMjtsYXQ9NTMuNTU2MTI4NDg4ODUzNTc0O2xvbj05Ljk4NzgwNDQ4OTIxMDI0ODtzdHJlZXQ9RGFtbXRvcnN0cmElQzMlOUZlO2hvdXNlPTMyO2NpdHk9SGFtYnVyZztwb3N0YWxDb2RlPTIwMzU0O2NvdW50cnk9REVVO2Rpc3RyaWN0PU5ldXN0YWR0O3N0YXRlPUhhbWJ1cmc7Y291bnR5PUhhbWJ1cmc7Y2F0ZWdvcnlJZD1idWlsZGluZztzb3VyY2VTeXN0ZW09aW50ZXJuYWw?map=53.55593,9.98838,15,satellite&msg=Dammtorstra%C3%9Fe%2032&x=ep)</s>
+  - <s>Lokation: [Xing](https://www.here.com/germany/hamburg/street-square/dammtorstra%C3%9Fe-32--loc-dmVyc2lvbj0xO3RpdGxlPURhbW10b3JzdHJhJUMzJTlGZSszMjtsYXQ9NTMuNTU2MTI4NDg4ODUzNTc0O2xvbj05Ljk4NzgwNDQ4OTIxMDI0ODtzdHJlZXQ9RGFtbXRvcnN0cmElQzMlOUZlO2hvdXNlPTMyO2NpdHk9SGFtYnVyZztwb3N0YWxDb2RlPTIwMzU0O2NvdW50cnk9REVVO2Rpc3RyaWN0PU5ldXN0YWR0O3N0YXRlPUhhbWJ1cmc7Y291bnR5PUhhbWJ1cmc7Y2F0ZWdvcnlJZD1idWlsZGluZztzb3VyY2VTeXN0ZW09aW50ZXJuYWw?map=53.55593,9.98838,15,satellite&msg=Dammtorstra%C3%9Fe%2032&x=ep)</s>
 
-##### 27\. Stammtisch am 25. April 2017
+#### 27\. Stammtisch am 25. April 2017
 
   - Thema: Es gibt eine Reihe von Kurzvorträgen, s.u.
   - Uhrzeit: 18:30
-  - Lokation: [Smaato, Valentinskamp 70
-    (Emporio)](https://wego.here.com/directions/mix//Valentinskamp-70,-Neustadt,-20355-Hamburg,-Germany:loc-dmVyc2lvbj0xO3RpdGxlPVZhbGVudGluc2thbXArNzA7bGFuZz1kZTtsYXQ9NTMuNTU2MDE4ODI5MzQ1Nztsb249OS45ODM1MzAwNDQ1NTU2NjQ7c3RyZWV0PVZhbGVudGluc2thbXA7aG91c2U9NzA7Y2l0eT1IYW1idXJnO3Bvc3RhbENvZGU9MjAzNTU7Y291bnRyeT1ERVU7ZGlzdHJpY3Q9TmV1c3RhZHQ7c3RhdGU9SGFtYnVyZztjb3VudHk9SGFtYnVyZztjYXRlZ29yeUlkPWJ1aWxkaW5nO3NvdXJjZVN5c3RlbT1pbnRlcm5hbDtubGF0PTUzLjU1NTY0ODgwMzcxMDk0O25sb249OS45ODM1NTAwNzE3MTYzMDk?map=53.55678,9.98334,17,satellite)
+  - Lokation: [Smaato, Valentinskamp 70, (Emporio)](https://wego.here.com/directions/mix//Valentinskamp-70,-Neustadt,-20355-Hamburg,-Germany:loc-dmVyc2lvbj0xO3RpdGxlPVZhbGVudGluc2thbXArNzA7bGFuZz1kZTtsYXQ9NTMuNTU2MDE4ODI5MzQ1Nztsb249OS45ODM1MzAwNDQ1NTU2NjQ7c3RyZWV0PVZhbGVudGluc2thbXA7aG91c2U9NzA7Y2l0eT1IYW1idXJnO3Bvc3RhbENvZGU9MjAzNTU7Y291bnRyeT1ERVU7ZGlzdHJpY3Q9TmV1c3RhZHQ7c3RhdGU9SGFtYnVyZztjb3VudHk9SGFtYnVyZztjYXRlZ29yeUlkPWJ1aWxkaW5nO3NvdXJjZVN5c3RlbT1pbnRlcm5hbDtubGF0PTUzLjU1NTY0ODgwMzcxMDk0O25sb249OS45ODM1NTAwNzE3MTYzMDk?map=53.55678,9.98334,17,satellite)
 
-<!-- end list -->
 
   - **Kurzvorträge** Abstracts
     [hier](http://lists.owasp.org/pipermail/owasp-germany/2017-April/000979.html)
@@ -282,37 +271,30 @@ Juli - Mitte August: Sommerpause
       - Manuel Schneider erklärt "EyeWitness"
       - Dirk Wetter gibt ein Update zu TLS-Fingerprinting
 
-##### 26\. Stammtisch am 28. März 2017
+#### 26\. Stammtisch am 28. März 2017
 
   - Thema: Netzwerken/Treffen
   - Uhrzeit: 18:30 Uhr
-  - Lokation:
-    [Klimperkiste](https://wego.here.com/directions/mix//Klimperkiste,-Esplanade-18,-Neustadt,-20354-Hamburg:276u1x0e-c8203eb918394e93a94b169736b5474c?map=53.55844,9.9885,17,normal)
+  - Lokation: [Klimperkiste](https://wego.here.com/directions/mix//Klimperkiste,-Esplanade-18,-Neustadt,-20354-Hamburg:276u1x0e-c8203eb918394e93a94b169736b5474c?map=53.55844,9.9885,17,normal)
 
-##### 25\. Stammtisch am 13. Dezember 2016
+#### 25\. Stammtisch am 13. Dezember 2016
 
-  - Titel: "Ein Feldbericht -- Erfahrungen aus 4 Jahren Secure
-    Development Lifecycle"
+  - Titel: "Ein Feldbericht -- Erfahrungen aus 4 Jahren Secure Development Lifecycle"
   - Vortragender: Benjamin Pfänder
   - Uhrzeit (Start Vortrag): **18:45** Uhr
-  - Lokation:
-    [Xing](https://www.here.com/germany/hamburg/street-square/dammtorstra%C3%9Fe-32--loc-dmVyc2lvbj0xO3RpdGxlPURhbW10b3JzdHJhJUMzJTlGZSszMjtsYXQ9NTMuNTU2MTI4NDg4ODUzNTc0O2xvbj05Ljk4NzgwNDQ4OTIxMDI0ODtzdHJlZXQ9RGFtbXRvcnN0cmElQzMlOUZlO2hvdXNlPTMyO2NpdHk9SGFtYnVyZztwb3N0YWxDb2RlPTIwMzU0O2NvdW50cnk9REVVO2Rpc3RyaWN0PU5ldXN0YWR0O3N0YXRlPUhhbWJ1cmc7Y291bnR5PUhhbWJ1cmc7Y2F0ZWdvcnlJZD1idWlsZGluZztzb3VyY2VTeXN0ZW09aW50ZXJuYWw?map=53.55593,9.98838,15,satellite&msg=Dammtorstra%C3%9Fe%2032&x=ep)
+  - Lokation: [Xing](https://www.here.com/germany/hamburg/street-square/dammtorstra%C3%9Fe-32--loc-dmVyc2lvbj0xO3RpdGxlPURhbW10b3JzdHJhJUMzJTlGZSszMjtsYXQ9NTMuNTU2MTI4NDg4ODUzNTc0O2xvbj05Ljk4NzgwNDQ4OTIxMDI0ODtzdHJlZXQ9RGFtbXRvcnN0cmElQzMlOUZlO2hvdXNlPTMyO2NpdHk9SGFtYnVyZztwb3N0YWxDb2RlPTIwMzU0O2NvdW50cnk9REVVO2Rpc3RyaWN0PU5ldXN0YWR0O3N0YXRlPUhhbWJ1cmc7Y291bnR5PUhhbWJ1cmc7Y2F0ZWdvcnlJZD1idWlsZGluZztzb3VyY2VTeXN0ZW09aW50ZXJuYWw?map=53.55593,9.98838,15,satellite&msg=Dammtorstra%C3%9Fe%2032&x=ep)
 
-##### 24\. Stammtisch am 2. August 2016
+#### 24\. Stammtisch am 2. August 2016
 
-  - Titel: \~ OWASPs Dependency Checker
+  - Titel: OWASPs Dependency Checker
   - Vortragender: Tilmann Haak
-
-<!-- end list -->
-
   - [Abstract](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/232788936/)
   - Uhrzeit: **18:00** Uhr
-  - Lokation:
-    [Xing](https://www.here.com/germany/hamburg/street-square/dammtorstra%C3%9Fe-32--loc-dmVyc2lvbj0xO3RpdGxlPURhbW10b3JzdHJhJUMzJTlGZSszMjtsYXQ9NTMuNTU2MTI4NDg4ODUzNTc0O2xvbj05Ljk4NzgwNDQ4OTIxMDI0ODtzdHJlZXQ9RGFtbXRvcnN0cmElQzMlOUZlO2hvdXNlPTMyO2NpdHk9SGFtYnVyZztwb3N0YWxDb2RlPTIwMzU0O2NvdW50cnk9REVVO2Rpc3RyaWN0PU5ldXN0YWR0O3N0YXRlPUhhbWJ1cmc7Y291bnR5PUhhbWJ1cmc7Y2F0ZWdvcnlJZD1idWlsZGluZztzb3VyY2VTeXN0ZW09aW50ZXJuYWw?map=53.55593,9.98838,15,satellite&msg=Dammtorstra%C3%9Fe%2032&x=ep)
+  - Lokation: [Xing](https://www.here.com/germany/hamburg/street-square/dammtorstra%C3%9Fe-32--loc-dmVyc2lvbj0xO3RpdGxlPURhbW10b3JzdHJhJUMzJTlGZSszMjtsYXQ9NTMuNTU2MTI4NDg4ODUzNTc0O2xvbj05Ljk4NzgwNDQ4OTIxMDI0ODtzdHJlZXQ9RGFtbXRvcnN0cmElQzMlOUZlO2hvdXNlPTMyO2NpdHk9SGFtYnVyZztwb3N0YWxDb2RlPTIwMzU0O2NvdW50cnk9REVVO2Rpc3RyaWN0PU5ldXN0YWR0O3N0YXRlPUhhbWJ1cmc7Y291bnR5PUhhbWJ1cmc7Y2F0ZWdvcnlJZD1idWlsZGluZztzb3VyY2VTeXN0ZW09aW50ZXJuYWw?map=53.55593,9.98838,15,satellite&msg=Dammtorstra%C3%9Fe%2032&x=ep)
 
-##### 23\. Stammtisch 14. Juni 2016
+#### 23\. Stammtisch 14. Juni 2016
 
-  - Titel: \~ Passwort Cracking mit GPUs
+  - Titel: Passwort Cracking mit GPUs
   - Vortragender: Ingo Bente
   - [Abstract](http://lists.owasp.org/pipermail/owasp-germany/2016-June/000885.html),
     [Slides](https://docs.google.com/presentation/d/1p60jVRUKChBP0fQ8MO5qAyS5M5k3gdbNQr7oaJfz-3k/edit?pref=2&pli=1#slide=id.p)
@@ -320,7 +302,7 @@ Juli - Mitte August: Sommerpause
   - Lokation:
     [Xing](https://www.here.com/germany/hamburg/street-square/dammtorstra%C3%9Fe-32--loc-dmVyc2lvbj0xO3RpdGxlPURhbW10b3JzdHJhJUMzJTlGZSszMjtsYXQ9NTMuNTU2MTI4NDg4ODUzNTc0O2xvbj05Ljk4NzgwNDQ4OTIxMDI0ODtzdHJlZXQ9RGFtbXRvcnN0cmElQzMlOUZlO2hvdXNlPTMyO2NpdHk9SGFtYnVyZztwb3N0YWxDb2RlPTIwMzU0O2NvdW50cnk9REVVO2Rpc3RyaWN0PU5ldXN0YWR0O3N0YXRlPUhhbWJ1cmc7Y291bnR5PUhhbWJ1cmc7Y2F0ZWdvcnlJZD1idWlsZGluZztzb3VyY2VTeXN0ZW09aW50ZXJuYWw?map=53.55593,9.98838,15,satellite&msg=Dammtorstra%C3%9Fe%2032&x=ep)
 
-##### 22\. Stammtisch 17. Mai 2016
+#### 22\. Stammtisch 17. Mai 2016
 
   - Titel: \~ "Fail Fast, Automation von Sicherheitsprüfungen für
     Webanwendungen"
@@ -329,9 +311,9 @@ Juli - Mitte August: Sommerpause
   - Lokation:
     [codecentric](https://maps.here.com/germany/hamburg/street-square/gro%C3%9Fe-elbstra%C3%9Fe-14--loc-dmVyc2lvbj0xO3RpdGxlPUdybyVDMyU5RmUrRWxic3RyYSVDMyU5RmUrMTQ7bGFuZz1kZTtsYXQ9NTMuNTQ1MTg4OTAzODA4NTk0O2xvbj05Ljk1MTQ1MDM0NzkwMDM5O3N0cmVldD1Hcm8lQzMlOUZlK0VsYnN0cmElQzMlOUZlO2hvdXNlPTE0O2NpdHk9SGFtYnVyZztwb3N0YWxDb2RlPTIyNzY3O2NvdW50cnk9REVVO2Rpc3RyaWN0PUFsdG9uYS1BbHRzdGFkdDtzdGF0ZT1IYW1idXJnO2NvdW50eT1IYW1idXJnO2NhdGVnb3J5SWQ9YnVpbGRpbmc7c291cmNlU3lzdGVtPWludGVybmFsO25sYXQ9NTMuNTQ1MDcwNjQ4MTkzMzY7bmxvbj05Ljk1MTUxOTk2NjEyNTQ4OA?map=53.54576,9.95379,16,satellite&msg=Gro%C3%9Fe%20Elbstra%C3%9Fe%2014)
 
-##### 21\. Stammtisch 8. März 2016
+#### 21\. Stammtisch 8.3.2016
 
-  - Titel: \~Bedrohungsanalyse mit Microsofts SDLC Threat Modeling Tools
+  - Titel: Bedrohungsanalyse mit Microsofts SDLC Threat Modeling Tools
   - Vortragender: Matthias Rohr
   - Uhrzeit: 18:30 Uhr
   - Lokation: Völckersstr. 38 22765 Hamburg, Ottensen (SinnerSchrader)
@@ -339,13 +321,13 @@ Juli - Mitte August: Sommerpause
 
 Winterpause
 
-##### 20\. Stammtisch 17. November 2015
+#### 20\. Stammtisch 17. November 2015
 
   - Uhrzeit: 18:00 Uhr
   - Lokation:
     [Xing](https://www.here.com/germany/hamburg/street-square/dammtorstra%C3%9Fe-32--loc-dmVyc2lvbj0xO3RpdGxlPURhbW10b3JzdHJhJUMzJTlGZSszMjtsYXQ9NTMuNTU2MTI4NDg4ODUzNTc0O2xvbj05Ljk4NzgwNDQ4OTIxMDI0ODtzdHJlZXQ9RGFtbXRvcnN0cmElQzMlOUZlO2hvdXNlPTMyO2NpdHk9SGFtYnVyZztwb3N0YWxDb2RlPTIwMzU0O2NvdW50cnk9REVVO2Rpc3RyaWN0PU5ldXN0YWR0O3N0YXRlPUhhbWJ1cmc7Y291bnR5PUhhbWJ1cmc7Y2F0ZWdvcnlJZD1idWlsZGluZztzb3VyY2VTeXN0ZW09aW50ZXJuYWw?map=53.55593,9.98838,15,satellite&msg=Dammtorstra%C3%9Fe%2032&x=ep)
 
-Zwei Kurz-Vorträge gab's: tragender
+Zwei Kurz-Vorträge gab's:
 
   - Ingo Chao über "HTTP-Header-Enrichment in SSL-Verbindungen"
   - Dirk Wetter: "Aber HTTPS bedeutet Privacy\!1\!\!"
@@ -354,30 +336,24 @@ Zwei Kurz-Vorträge gab's: tragender
 
 Ausklang in der "Klimperkiste"
 
-Zwecks Planung bitte Bescheid sagen, wer dabei ist (Mail an Dirk, Bei
-[Xing](https://www.xing.com/events/owasp-stammtisch-hamburg-17-11-kurzvortragen-1621270)
-oder
-[Meetup](http://www.meetup.com/OWASP-Hamburg-Stammtisch/events/226421947/)).
+Zwecks Planung bitte Bescheid sagen, wer dabei ist (Mail an Dirk, Bei [Xing](https://www.xing.com/events/owasp-stammtisch-hamburg-17-11-kurzvortragen-1621270) oder [Meetup](http://www.meetup.com/OWASP-Hamburg-Stammtisch/events/226421947/)).
 
-##### 19\. Stammtisch 6. Oktober 2015
+#### 19\. Stammtisch 6. Oktober 2015
 
   - Uhrzeit: 18:00 Uhr
   - Lokation:
     [Xing](https://www.here.com/germany/hamburg/street-square/dammtorstra%C3%9Fe-32--loc-dmVyc2lvbj0xO3RpdGxlPURhbW10b3JzdHJhJUMzJTlGZSszMjtsYXQ9NTMuNTU2MTI4NDg4ODUzNTc0O2xvbj05Ljk4NzgwNDQ4OTIxMDI0ODtzdHJlZXQ9RGFtbXRvcnN0cmElQzMlOUZlO2hvdXNlPTMyO2NpdHk9SGFtYnVyZztwb3N0YWxDb2RlPTIwMzU0O2NvdW50cnk9REVVO2Rpc3RyaWN0PU5ldXN0YWR0O3N0YXRlPUhhbWJ1cmc7Y291bnR5PUhhbWJ1cmc7Y2F0ZWdvcnlJZD1idWlsZGluZztzb3VyY2VTeXN0ZW09aW50ZXJuYWw?map=53.55593,9.98838,15,satellite&msg=Dammtorstra%C3%9Fe%2032&x=ep)
   - Vortrag:
       - Dirk Wetter -- Von einem, der auszog einen SSL/TLS-Checker zu
-        schreiben, [Abstract auf der
-        Mailing-Liste](http://lists.owasp.org/pipermail/owasp-germany/2015-September/000814.html)
-      - \[<https://www.owasp.org/images/a/aa/Dirk_Wetter_--_Von_einem%2C_der_auszog_>..._.pdf
-        Slides\]
+        schreiben, [Abstract auf der Mailing-Liste](http://lists.owasp.org/pipermail/owasp-germany/2015-September/000814.html)
+      - [Slides](https://www.owasp.org/images/a/aa/Dirk_Wetter_--_Von_einem%2C_der_auszog_..._.pdf)
   - Ausklang in der "Klimperkiste"
 
 Zwecks Planung bitte einfach Bescheid sagen, wer dabei ist (Mail an
-Dirk, Bei
-[Xing](https://www.xing.com/events/ssl-tls-testing-einfach-1603954) oder
-[Meetup](http://www.meetup.com/OWASP-Hamburg-Stammtisch/events/225398503/)
+Dirk, bei [Xing](https://www.xing.com/events/ssl-tls-testing-einfach-1603954) oder
+[Meetup](http://www.meetup.com/OWASP-Hamburg-Stammtisch/events/225398503/).
 
-##### 18\. Stammtisch 24. Juni 2015
+#### 18\. Stammtisch 24. Juni 2015
 
 Wir machen an o.g. Mittwoch ein Netzwerkabend plus Diskussion der OWASP
 AppSec-Konferenz in Amsterdam\!
@@ -386,7 +362,7 @@ AppSec-Konferenz in Amsterdam\!
   - Lokation: Klimperkiste
     (http://www.openstreetmap.org/?mlat=53.55773\&mlon=9.99049\#map=17/53.55774/9.99049).
 
-##### 17\. Stammtisch 27. Januar 2015
+#### 17\. Stammtisch 27. Januar 2015
 
   - Björn Kimminich: So ein Saftladen\! - Hacking Session für Developer
     (und Pentester)
@@ -403,14 +379,14 @@ AppSec-Konferenz in Amsterdam\!
     Juice-Shop](https://github.com/bkimminich/juice-shop#setup)\! Vor
     Ort kein öffentliches WLAN\!
 
-##### 16\. Stammtisch am 28.12.2014
+#### 16\. Stammtisch am 28.12.2014
 
   - Am Rande des 31c3.
   - Treffen um 18:45 vor
     [Halle 1](http://lists.owasp.org/pipermail/owasp-germany/2014-December/000724.html)
     an der Spielecke
 
-##### 15\. Stammtisch am 28.10.2014 (Dienstag)
+#### 15\. Stammtisch am 28.10.2014 (Dienstag)
 
   - Uhrzeit: 18:00 Uhr
   - Lokation:
@@ -423,7 +399,7 @@ AppSec-Konferenz in Amsterdam\!
         [Slides](https://www.owasp.org/images/4/40/Dirk_Wetter_-_Kleine%2C_feine_Helferlein_HTTP_Header_und_Security.pdf)
   - Ausklang in der "Klimperkiste"
 
-##### 14\. Stammtisch am 29.4.2014 (Dienstag)
+#### 14\. Stammtisch am 29.4.2014 (Dienstag)
 
   - Uhrzeit: 19:00 Uhr
   - Lokation:
@@ -443,7 +419,7 @@ AppSec-Konferenz in Amsterdam\!
 Bitte kurz Dirk Bescheid sagen per PM oder beim Xing-Event zwecks
 Planungssicherheit.
 
-##### Lucky13 ;-) Vortrag am 20.3.2014 (Donnerstag)
+#### Lucky13 ;-) Vortrag am 20.3.2014 (Donnerstag)
 
   - Uhrzeit: 19:00 Uhr
   - Lokation: Xing
@@ -454,7 +430,7 @@ Planungssicherheit.
     oder im
     [Xing-Event](https://www.xing.com/events/owasp-stammtisch-hamburg-1375791)
 
-##### 12\. Treffen am 28.11.2013 (Donnerstag)
+#### 12\. Treffen am 28.11.2013 (Donnerstag)
 
   - Uhrzeit: 19:00 Uhr
   - Stammtisch mit Schnack über Websicherheit und mehr ([Mail
@@ -462,9 +438,9 @@ Planungssicherheit.
   - Lokation: [Noahs Taverna /
     Großneumarkt 52](http://www.openstreetmap.org/?way=44710832#map=17/53.55016/9.97895)
 
-##### September: Pause wegen [AppSec Research](http://2013.appsec.eu)
+#### September: Pause wegen [AppSec Research](http://2013.appsec.eu)
 
-##### 11\. Treffen/Vortrag am 16.7.2013 (Dienstag\!)
+#### 11\. Treffen/Vortrag am 16.7.2013 (Dienstag\!)
 
   - Uhrzeit: 18:30 Uhr
   - Lokation: [Adobe Systems Engineering GmbH, Große
@@ -480,7 +456,7 @@ Planungssicherheit.
   - Nachbereitung: Strandpauli (Nachzügler: gerne bei 040/2442035-1
     anrufen)
 
-##### 10\. Treffen/Vortrag am 16.5.2013
+#### 10\. Treffen/Vortrag am 16.5.2013
 
   - Uhrzeit: 18h
   - Lokation: [Großer Grasbrook 11-13,
@@ -495,7 +471,7 @@ Planungssicherheit.
     [(Abstract von der
     Mailing-Liste)](http://lists.owasp.org/pipermail/owasp-germany/2013-April/000488.html)
 
-##### 9\. Treffen/Vortrag am 14.3.2013
+#### 9\. Treffen/Vortrag am 14.3.2013
 
   - Uhrzeit: 19h
   - [Vortrag](http://www.guug.de/lokal/hamburg/talks/naxsi.pdf) von
@@ -509,7 +485,7 @@ Planungssicherheit.
   - Mehr auf der
     [Mailing-Liste](http://lists.owasp.org/pipermail/owasp-germany/2013-February/000470.html).
 
-##### 8\. Treffen am 24.1.2013
+#### 8\. Treffen am 24.1.2013
 
   - Uhrzeit: 19h
   - Ort: [Scotty's Ottensen](http://www.scottys-ottensen.de/),
@@ -517,7 +493,7 @@ Planungssicherheit.
   - Treffen mit sinnieren über Websicherheit, OWASPs AppSecEU 2013 und
     sich spotan ergebene Themen
 
-##### 7\. Treffen am 8.10.2012
+#### 7\. Treffen am 8.10.2012
 
 Wir wollen uns ab nun regelmäßig alle zwei Monate treffen (skippen
 allerdings den Dezember)
@@ -528,7 +504,7 @@ allerdings den Dezember)
   - Treffen ohne Vortrag, mit sinnieren und plauschen über Web- und
     Softwaresicherheit, Webservices, AppSecEU 2013 etc.
 
-##### 6\. Treffen am 13.8.2012
+#### 6\. Treffen am 13.8.2012
 
   - Uhrzeit: 19h
   - Ort: [Hamburg City Beach
@@ -541,7 +517,7 @@ Hamburg sein. Wir werden neben einem Rückblick auf die AppSecEU 2012 in
 Athen voraussichtlich auch die anstehende AppSecEU 2013 in Hamburg beim
 Bier diskutieren.
 
-##### 5\. Treffen (Vortrag) am 13.9.2011
+#### 5\. Treffen (Vortrag) am 13.9.2011
 
   - Uhrzeit: 20 Uhr
   - Vortrag von Dirk Kollberg (Sophos)/Toralv Dirro (McAfee)
@@ -552,7 +528,7 @@ Bier diskutieren.
   - [Abstract](https://lists.owasp.org/pipermail/owasp-germany/2011-August/000303.html)
     von der Mailingliste
 
-##### 4\. Treffen (Vortrag) 14.4.2011
+#### 4\. Treffen (Vortrag) 14.4.2011
 
   - Vortrag von Tim Sattler: "Sicherheit in der Cloud - Chancen und
     Risiken".
@@ -561,40 +537,27 @@ Bier diskutieren.
     Seminarraum 304 (3.OG)
   - [Slides](http://www.guug.de/lokal/hamburg/talks/OWASP_Sicherheit_in_der_Cloud.pdf)
 
-##### 3\. Treffen am 7.3.2011
+#### 3\. Treffen am 7.3.2011
 
-Den Rosenmontag begehen wir im Norden mit einem Konkurrenzprogramm:
-Gemütlicher OWASP-Abend mit sinnieren über die Websicherheit in <i>Omas
-Apotheke</i> in der Schanze. Los geht's um 19 Uhr.
+Den Rosenmontag begehen wir im Norden mit einem Konkurrenzprogramm: Gemütlicher OWASP-Abend mit sinnieren über die Websicherheit in <i>Omas Apotheke</i> in der Schanze. Los geht's um 19 Uhr.
 
-##### 2\. Treffen (Vortrag) am 14.10.2010
+#### 2\. Treffen (Vortrag) am 14.10.2010
 
-Vortragsthema: "OWASP Top 10 - Wat nu?"
-[Slides](http://drwetter.eu/talks/OWASP_T10-Wat-nu.pdf)
-Datum/Zeit: 14.10.2010, 19 Uhr
-Ort: Uni RZ in der
-[Schlüterstrasse 70](http://maps.google.com/maps?f=q&hl=en&q=hamburg,++schlueterstr.+70,+germany&t=h&om=1&ll=53.569861,9.986293&spn=0.010806,0.02296),
-Seminarraum 304 (3.OG)
-Vortragender: Dirk Wetter
+* Vortragsthema: "OWASP Top 10 - Wat nu?"
+* [Slides](http://drwetter.eu/talks/OWASP_T10-Wat-nu.pdf)
+* Datum/Zeit: 14.10.2010, 19 Uhr
+* Ort: Uni RZ in der [Schlüterstrasse 70](http://maps.google.com/maps?f=q&hl=en&q=hamburg,++schlueterstr.+70,+germany&t=h&om=1&ll=53.569861,9.986293&spn=0.010806,0.02296), Seminarraum 304 (3.OG)
+* Vortragender: Dirk Wetter
 
-##### 1\. Treffen am 8.7.2010
+#### 1\. Treffen am 8.7.2010
 
-Wir treffen uns erstmalig am **8.7.2010 um 19 Uhr** auf
+Wir treffen uns erstmalig am 8.7.2010 um 19 Uhr auf
 [Strandpauli](http://maps.google.de/maps?q=strandpauli&um=1&ie=UTF-8&sa=N&hl=en&tab=wl),
-einem der Beachclubs mit Aussicht auf den schönen Hamburger Hafen. Der
-8.7. ist der erste Ferientag in HH und fußballfrei.
-Inhalt des ersten Treffens ist eher ein Informationsaustausch: Neben
-etwas Networking wäre es prima, Erwartungen zu diskutieren und
-vielleicht die ersten Vorträge zu planen. Da das in dem Etablissement im
-Sommer dort wahrscheinlich nicht ganz leer sein wird und der Beachclub
-sicherlich nicht auf den OWASP-Stammtisch wartet ;-) wird wärmstens
-empfohlen, bis zum 7.7. morgens Dirk Wetter sich anzumelden, der dann
-die Reservierung vornimmt. Sonst muss man halt stehen. ;-)
-Mindestens einer wird ein OWASP-T-Shirt tragen. (Hint: Das Logo ist auch
-auf dieser Webseite zu finden).
+einem der Beachclubs mit Aussicht auf den schönen Hamburger Hafen. Der 8.7. ist der erste Ferientag in HH und fußballfrei. Inhalt des ersten Treffens ist eher ein Informationsaustausch: Neben
+etwas Networking wäre es prima, Erwartungen zu diskutieren und vielleicht die ersten Vorträge zu planen. Da das in dem Etablissement im Sommer dort wahrscheinlich nicht ganz leer sein wird und der Beachclub sicherlich nicht auf den OWASP-Stammtisch wartet ;-) wird wärmstens
+empfohlen, bis zum 7.7. morgens Dirk Wetter sich anzumelden, der dann die Reservierung vornimmt. Sonst muss man halt stehen. ;-)
+Mindestens einer wird ein OWASP-T-Shirt tragen. (Hint: Das Logo ist auch auf dieser Webseite zu finden).
 
-[Category:Germany](Category:Germany "wikilink")
-[Category:Stammtisch](Category:Stammtisch "wikilink")
 
 
 
