@@ -1,4 +1,6 @@
 ### Organisatoren
 
-* `<Organisator 1>`
-* `<Organisator 2>`
+* Christian Becker
+* Tim Guenther
+
+Nachfolger gesucht!
