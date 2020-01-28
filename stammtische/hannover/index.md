@@ -15,6 +15,20 @@ title: OWASP Germany > Stammtische > Hannover
 
 #### Aktuelle Treffen
 
+##### 4\. Stammtisch: Mittwoch, 26.02.2020
+
+  - Vortragsabend zum Thema "Sichere Softwareentwicklung mit OWASP"
+  - Lokation: E.ON Digital Technology in der Tresckowstraße, Details gibt es im Vorfeld hier und
+    in Meetup.
+  - Start: 18:00 Uhr
+  - Anmeldung:
+    <https://www.meetup.com/OWASP-Germany-Chapter-Stammtisch-Hannover/events/267754664/>
+    oder per E-Mail an benjamin.liebe@owasp.org
+
+-----
+
+#### Vergangene Treffen
+
 -----
 
 ##### 3\. Stammtisch: Mittwoch, 22.01.2020
@@ -26,10 +40,6 @@ title: OWASP Germany > Stammtische > Hannover
   - Anmeldung:
     <https://www.meetup.com/OWASP-Germany-Chapter-Stammtisch-Hannover/events/267233859/>
     oder per E-Mail an benjamin.liebe@owasp.org
-
-#### Vergangene Treffen
-
------
 
 ##### 2\. Stammtisch: Donnerstag, 24.10.2019
 
