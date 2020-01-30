@@ -33,16 +33,8 @@ gern gesehen.
 
 -----
 
-#### 47\. Stammtisch: 28. Januar 2020
+#### 48\. Stammtisch: TBA
 
-  - Sprecher: Hanno Böck
-  - Titel: "Was bedeuten Quantencomputer für die Sicherheit im
-    Internet?"
-  - Lokation: [Kühne & Nagel, Großer
-    Grasbrook 11-13](https://her.is/1Ws8uP8)
-  - Abstract:
-    <https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/266493638/>
-  - Danach: TBD
 
 -----
 
@@ -52,13 +44,20 @@ In Planung sind weitere Vorträge, u.a. zu ZAP, MISP, WASM
 
 ### Vergangene Treffen
 
+#### 47\. Stammtisch: 28. Januar 2020
+
+  - Security-Netzwerken im Januar
+  - Lokation: Franziskaner, Große Theaterstraße 9
+  - Start: 18:30 Uhr
+  - [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/267883763/)
+
+-----
+
 #### 46\. Stammtisch: 2.12.2019
 
   - Sprecher: Hanno Böck
-  - Titel: "Was bedeuten Quantencomputer für die Sicherheit im
-    Internet?"
-  - Lokation: [Kühne & Nagel, Großer
-    Grasbrook 11-13](https://her.is/1Ws8uP8)
+  - Titel: "Was bedeuten Quantencomputer für die Sicherheit im Internet?"
+  - Lokation: [Kühne & Nagel, Großer Grasbrook 11-13](https://her.is/1Ws8uP8)
   - [Abstract](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/266493638/)
   - [Slides](https://int21.de/slides/owasp-hh-quanten/#/)
 
@@ -96,7 +95,7 @@ In Planung sind weitere Vorträge, u.a. zu ZAP, MISP, WASM
 #### 41\. Stammtisch: 22.5.2019
 
   - Netzwerktreffen (ohne Vortrag)
-  - Location:
+  - Lokation:
     [Klimperkiste](https://share.here.com/p/s-Yz1yZXN0YXVyYW50O2lkPTI3NnUxeDBlLWM4MjAzZWI5MTgzOTRlOTNhOTRiMTY5NzM2YjU0NzRjO2xhdD01My41NTc3Nztsb249OS45OTA1MjtuPUtsaW1wZXJraXN0ZTtubGF0PTUzLjU1Nzg2O25sb249OS45OTA1NjtwaD0lMkI0OTQwMzQ2MzUwO2g9NjkwNDRj)
     (Esplanade 18, 20354 Hamburg)
   - Start: 19:00 Uhr
