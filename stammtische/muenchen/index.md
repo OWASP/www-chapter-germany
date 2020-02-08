@@ -42,7 +42,9 @@ Bitte diese Info an potentiell Interessierte weiterleiten. Unser Thema ist in er
 Schönen Gruß,
 Orga-Team für den Münchner OWASP Stammtisch (Christoph, Thomas und Torsten) 
 
-#### Weitere Informationen und bereits gehaltene Stammtisch-Vorträge
+
+#### Weitere Informationen
 [Vgl bisherige Wiki-Seite](https://wiki.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/M%C3%BCnchen)
+
 
 {% include_relative /_includes/former-talks.md %}
