@@ -9,10 +9,10 @@ title: OWASP Germany > Stammtische > München
 ### ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
 #### A K T U E L L E S :
-Einladung zum (105.) Münchner OWASP-Stammtisch am **Di, 28.01.2020**, um 19:00 Uhr (**erst am 4. Dienstag**).
+Einladung zum (106.) Münchner OWASP-Stammtisch am **Di, 18.02.2020**, um 19:00 Uhr.
 
 Agenda:
-* Vortrag: **Update der OWASP Top 10 Privacy Risks (Florian Stahl)**
+<!-- * Vortrag: **Update der OWASP Top 10 Privacy Risks (Florian Stahl)**
   * Rückblick & Hintergrund
   * Aktuelle Version der OWASP Top 10 Privacy Risks (2014)
   * Update 2019/2020
@@ -20,7 +20,7 @@ Agenda:
     * Diskussion & Update der “Risk Candidates”
     * Risikobewertung (Schaden & Eintrittswahrscheinlichkeit)
     * Offene Punkte
-  * Fazit
+  * Fazit -->
 * Freie Diskussion, bringt bitte Themen mit!
 
 Wir suchen noch Vorträge für die weiteren Stammtische in 2020!
@@ -42,6 +42,30 @@ Bitte diese Info an potentiell Interessierte weiterleiten. Unser Thema ist in er
 Schönen Gruß,
 Orga-Team für den Münchner OWASP Stammtisch (Christoph, Thomas und Torsten) 
 
+
+## Geplante Stammtisch-Vorträge und -Diskussionen
+* März 2020:  17.03.2020
+* April 2020: 21.04.2020
+* Mai 2020:   26.05.2020 (4. Di)
+* Juni 2020:  16.06.2020
+* Juli 2020:  21.07.2020
+* August 2020: Sommerferien - KEIN OWASP-Stammtisch
+<!--
+* August 2020: Sommerferien - KEIN OWASP-Stammtisch
+* Dezember 2020: Weihnachtsferien - KEIN OWASP-Stammtisch
+-->
+
+* <b>Wir suchen Vorträge für die weiteren Stammtische in 2020!</b><br>Möchte jemand einen Vortrag oder einen Lightning-Talk halten? Prima! Sobald wir eine konkrete Zusage haben, werden diese bei der Ankündigung des jeweiligen Termins mit bekannt geben.<br>Also, wie immer: Ich bitte um kurze Info an mich, ob jemand noch weitere (für uns relevante) Themen parat hat, die er uns näher bringen möchte. ''Verkaufsveranstalter werden alle 20 Minuten ausgebuht und müssen dann eine (neue) Runde Bier bezahlen.''
+
+Der Münchner Stammtisch findet (normalerweise) jeden <b>dritten Dienstag im Monat um 19:00 Uhr</b> statt (außer im August und Dezember).<br>
+* In <b>gut erreichbarer Lage</b> mit
+* einem vorab angekündigten, dedizierten <b>Thema</b>
+* mittels <b>Vortrag, wenn's geht</b> oder ersatzweise
+* <b>Lightning-Talk</b>, locker flockige 5 Minuten, keine Präsentation, kein Mikro.
+* Der Termin kann <b>in Einzelfällen</b> auf einen anderen Dienstag (i.d R. 4. oder 2.) <b>verschoben</b> werden, z.B. bei Ferien, Messen oder wenn der Raum nicht verfügbar ist. 
+* <b>Ankündigungen</b> erfolgen hier und über die [https://groups.google.com/a/owasp.org/group/germany-chapter/ <b>Mailing-Liste des German Chapters</b>]
+* weitere Informationen zur [[OWASP German Chapter Stammtisch Initiative|Stammtisch-Initiative des OWASP German Chapters]] (Hintergrund, weitere Städte,...)
+* weitere Informationen zu [[Germany|OWASP Deutschland]] und zu unseren [[Germany/Projekte|Projekten]]
 
 #### Weitere Informationen
 [Vgl bisherige Wiki-Seite](https://wiki.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/M%C3%BCnchen)
