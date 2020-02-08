@@ -63,3 +63,4 @@ Der Münchner Stammtisch findet (normalerweise) jeden <b>dritten Dienstag im Mon
 
 
 {% include_relative /_includes/former-talks.md %}
+
