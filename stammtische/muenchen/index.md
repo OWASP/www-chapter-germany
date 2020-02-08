@@ -12,15 +12,6 @@ title: OWASP Germany > Stammtische > München
 Einladung zum (106.) Münchner OWASP-Stammtisch am **Di, 18.02.2020**, um 19:00 Uhr.
 
 Agenda:
-<!-- * Vortrag: **Update der OWASP Top 10 Privacy Risks (Florian Stahl)**
-  * Rückblick & Hintergrund
-  * Aktuelle Version der OWASP Top 10 Privacy Risks (2014)
-  * Update 2019/2020
-    * Review Methodik
-    * Diskussion & Update der “Risk Candidates”
-    * Risikobewertung (Schaden & Eintrittswahrscheinlichkeit)
-    * Offene Punkte
-  * Fazit -->
 * Freie Diskussion, bringt bitte Themen mit!
 
 Wir suchen noch Vorträge für die weiteren Stammtische in 2020!
