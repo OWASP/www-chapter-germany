@@ -44,3 +44,5 @@ Orga-Team für den Münchner OWASP Stammtisch (Christoph, Thomas und Torsten)
 
 #### Weitere Informationen und bereits gehaltene Stammtisch-Vorträge
 [Vgl bisherige Wiki-Seite](https://wiki.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/M%C3%BCnchen)
+
+{% include former-talks.md %}
