@@ -63,9 +63,9 @@ Der Münchner Stammtisch findet (normalerweise) jeden <b>dritten Dienstag im Mon
 * mittels <b>Vortrag, wenn's geht</b> oder ersatzweise
 * <b>Lightning-Talk</b>, locker flockige 5 Minuten, keine Präsentation, kein Mikro.
 * Der Termin kann <b>in Einzelfällen</b> auf einen anderen Dienstag (i.d R. 4. oder 2.) <b>verschoben</b> werden, z.B. bei Ferien, Messen oder wenn der Raum nicht verfügbar ist. 
-* <b>Ankündigungen</b> erfolgen hier und über die [https://groups.google.com/a/owasp.org/group/germany-chapter/ <b>Mailing-Liste des German Chapters</b>]
-* weitere Informationen zur [[OWASP German Chapter Stammtisch Initiative|Stammtisch-Initiative des OWASP German Chapters]] (Hintergrund, weitere Städte,...)
-* weitere Informationen zu [[Germany|OWASP Deutschland]] und zu unseren [[Germany/Projekte|Projekten]]
+* <b>Ankündigungen</b> erfolgen hier und über die [<b>Mailing-Liste des German Chapters</b>](https://groups.google.com/a/owasp.org/group/germany-chapter/)
+* weitere Informationen zur [<b>Stammtisch-Initiative des OWASP German Chapters</b>](/www-chapter-germany/stammtische/) (Hintergrund, weitere Städte,...)
+* weitere Informationen zu [<b>OWASP Deutschland</b>](/www-chapter-germany/) und zu unseren [<b>Projekten</b>](/www-chapter-germany/#div-projekte)
 
 #### Weitere Informationen
 [Vgl bisherige Wiki-Seite](https://wiki.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/M%C3%BCnchen)
