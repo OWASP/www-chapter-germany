@@ -48,6 +48,7 @@ Lokale Stammtische gibt es in einer Reihe von Städten:
 * [Ruhrpott](ruhrpott/)
 * [Heilbronn-Franken](heilbronn_franken/)
 * [Hannover](hannover/)
+* [Leipzig](leipzig/)
 
 Es gab aktive Stammtische in
 
