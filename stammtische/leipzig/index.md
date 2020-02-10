@@ -15,7 +15,7 @@ Der Leipziger Stammtisch soll regelmäßig alle 1 bis 2 Monate stattfinden:
     [Germany-Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/)
 
 Planung und Organisation übernimmt
-[Lilith TODO](mailto:TODO), [Margin Georgi](mailto:TODO) [Martin Grimmer](mailto:TODO) und [Dennis Kreußel](mailto:TODO)
+[Lilith Pendzich](mailto:TODO), [Margin Georgi](mailto:TODO) [Martin Grimmer](mailto:TODO) und [Dennis Kreußel](mailto:dnk0@lll.sh)
 
 ### Nächster Stammtisch
 

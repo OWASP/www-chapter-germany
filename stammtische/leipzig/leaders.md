@@ -1,5 +1,5 @@
 ### Organisatoren
 
-* Lilith xyz
+* Lilith Pendzich
 * Martin Georgi
 * Dennis Kreußel
