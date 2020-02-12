@@ -7,7 +7,7 @@ title: OWASP Germany > Stammtische > Leipzig
 
 ### Allgemeines
 
-Der Leipziger Stammtisch soll regelmäßig jeden Monat stattfinden:
+Der Leipziger Stammtisch soll regelmäßig alle 6 Wochen stattfinden:
 
   - Festlegung auf ein vorab angekündigtes Thema pro Treffen, möglichst
     mit einem passenden Vortrag
@@ -15,7 +15,7 @@ Der Leipziger Stammtisch soll regelmäßig jeden Monat stattfinden:
     [Germany-Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/)
 
 Planung und Organisation übernimmt
-[Lilith Pendzich](mailto:lilith.pendzich@exxeta.com), [Margin Georgi](mailto:TODO) [Martin Grimmer](mailto:TODO) und [Dennis Kreußel](mailto:dnk0@lll.sh)
+[Lilith Pendzich](mailto:lilith.pendzich@exxeta.com), [Margin Georgi](mailto:georgi@posteo.de), [Martin Grimmer](mailto:mgrimmer42@gmai.com) und [Dennis Kreußel](mailto:dnk0@lll.sh)
 
 ### Nächster Stammtisch
 
@@ -32,6 +32,7 @@ Planung und Organisation übernimmt
   - Security by Design in der Anwendungsentwicklung
   - Master Fingerprint
   - Zwei-Faktor-Authentisierung versus Social Engineering
+  - Wie hasht man richtig?
 
 ### Bereits gehaltene Stammtisch-Vorträge
-
+  - 10.02.2020 19:00 Uhr: Forgetting Passwords
