@@ -12,6 +12,16 @@ title: OWASP Germany > Stammtische > München
 Einladung zum (106.) Münchner OWASP-Stammtisch am **Di, 18.02.2020**, um 19:00 Uhr.
 
 Agenda:
+* Vortrag: Update der OWASP Top 10 Privacy Risks (Florian Stahl)
+  * Rückblick & Hintergrund
+  * Aktuelle Version der OWASP Top 10 Privacy Risks (2014)
+  * Update 2019/2020
+    * Review Methodik
+    * Diskussion & Update der “Risk Candidates”
+    * Risikobewertung (Schaden & Eintrittswahrscheinlichkeit)
+    * Offene Punkte
+  * Fazit
+* German OWASP Day 2020 in München (Planung Veranstaltungsort)
 * Freie Diskussion, bringt bitte Themen mit!
 
 Wir suchen noch Vorträge für die weiteren Stammtische in 2020!
@@ -41,10 +51,7 @@ Orga-Team für den Münchner OWASP Stammtisch (Christoph, Thomas und Torsten)
 * Juni 2020:  16.06.2020
 * Juli 2020:  21.07.2020
 * August 2020: Sommerferien - KEIN OWASP-Stammtisch
-<!--
-* August 2020: Sommerferien - KEIN OWASP-Stammtisch
-* Dezember 2020: Weihnachtsferien - KEIN OWASP-Stammtisch
--->
+<!-- * Dezember 2020: Weihnachtsferien - KEIN OWASP-Stammtisch -->
 
 * <b>Wir suchen Vorträge für die weiteren Stammtische in 2020!</b><br>Möchte jemand einen Vortrag oder einen Lightning-Talk halten? Prima! Sobald wir eine konkrete Zusage haben, werden diese bei der Ankündigung des jeweiligen Termins mit bekannt geben.<br>Also, wie immer: Ich bitte um kurze Info an mich, ob jemand noch weitere (für uns relevante) Themen parat hat, die er uns näher bringen möchte. ''Verkaufsveranstalter werden alle 20 Minuten ausgebuht und müssen dann eine (neue) Runde Bier bezahlen.''
 
