@@ -18,12 +18,15 @@ title: OWASP Germany > Stammtische > Hannover
 ##### 4\. Stammtisch: Mittwoch, 26.02.2020
 
   - Vortragsabend zum Thema "Sichere Softwareentwicklung mit OWASP"
-  - Lokation: E.ON Digital Technology in der Tresckowstraße, Details gibt es im Vorfeld hier und
-    in Meetup.
+  - Lokation: E.ON Digital Technology in der Tresckowstraße 3. Wir treffen uns zum Start am Empfang.
   - Start: 18:00 Uhr
   - Anmeldung:
     <https://www.meetup.com/OWASP-Germany-Chapter-Stammtisch-Hannover/events/267754664/>
     oder per E-Mail an benjamin.liebe@owasp.org
+
+Inhalt: Benjamin Liebe gibt einen Überblick darüber, wie OWASP-Projekte die sichere Softwareentwicklung unterstützen. Dazu wird anhand der neuen Version von SAMM gezeigt, wo sich ausgewählte OWASP-Projekte in die verschiedenen Aktivitäten einer sicheren Softwareentwicklung einordnen lassen.
+
+Wichtig: Besucher beim gastgebenden Unternehmen müssen sich am Empfang mit vollem Namen anmelden. Außerdem muss zur Zeit auf einem Formular angekreuzt werden, ob man innerhalb der vergangenen 14 Tage in China war. Leider sind hier keine Ausnahmen möglich.
 
 -----
 
