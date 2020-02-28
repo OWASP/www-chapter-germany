@@ -58,7 +58,9 @@ Benjamin Liebe gibt einen Überblick darüber, wie OWASP-Projekte die sichere So
     Schiffgraben 4, 30159 Hannover
   - Start: 18:00 Uhr
 
-#### Thema 1: Software Composition Analysis
+###### Thema 1: Software Composition Analysis
+
+[Folien als PDF](assets/20191024_Software_Composition_Analysis.pdf)
 
 Die Gefahren bei der Nutzung von Fremdkomponenten mit bekannten
 Schwachstellen haben bereits seit längerem ihren Platz in den OWASP Top
@@ -68,7 +70,7 @@ wie man in Fremdkomponenten verborgene Schwachstellen in den Griff
 bekommt und dadurch die Sicherheit der selbst entwickelten Anwendungen
 erhöht.
 
-#### Thema 2: Rückblick OWASP Global AppSec 2019
+###### Thema 2: Rückblick OWASP Global AppSec 2019
 
 [Folien als PDF](https://www.owasp.org/images/e/e5/2019-10-24_Hannover_-_OWASP_Global_AppSec_2019_v2.pdf)
 
