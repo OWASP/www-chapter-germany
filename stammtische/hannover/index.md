@@ -15,18 +15,18 @@ title: OWASP Germany > Stammtische > Hannover
 
 #### Aktuelle Treffen
 
-##### 4\. Stammtisch: Mittwoch, 26.02.2020
+##### 5\. Stammtisch: Dienstag, 24.03.2020
 
-  - Vortragsabend zum Thema "Sichere Softwareentwicklung mit OWASP"
-  - Lokation: E.ON Digital Technology in der Tresckowstraße 3. Wir treffen uns zum Start am Empfang.
+  - Vortragsabend zum Thema "OWASP Docker Top 10"
+  - Lokation: Informationsverarbeitung für Versicherungen GmbH,
+    Schiffgraben 4, 30159 Hannover
+  - Raum: Der Veranstaltungsbereich befindet sich links hinter dem Haupteingang der VGH im Gebäude B ([vom Schiffgraben kommend das rechte Gebäude](https://goo.gl/maps/EAaemo2zBXQfT3zz7)) und ist öffentlich zugänglich.
   - Start: 18:00 Uhr
   - Anmeldung:
-    <https://www.meetup.com/OWASP-Germany-Chapter-Stammtisch-Hannover/events/267754664/>
+    <https://www.meetup.com/OWASP-Germany-Chapter-Stammtisch-Hannover/events/269039880/>
     oder per E-Mail an benjamin.liebe@owasp.org
 
-Inhalt: Benjamin Liebe gibt einen Überblick darüber, wie OWASP-Projekte die sichere Softwareentwicklung unterstützen. Dazu wird anhand der neuen Version von SAMM gezeigt, wo sich ausgewählte OWASP-Projekte in die verschiedenen Aktivitäten einer sicheren Softwareentwicklung einordnen lassen.
-
-Wichtig: Besucher beim gastgebenden Unternehmen müssen sich am Empfang mit vollem Namen anmelden. Außerdem muss zur Zeit auf einem Formular angekreuzt werden, ob man innerhalb der vergangenen 14 Tage in China war. Leider sind hier keine Ausnahmen möglich.
+Inhalt: Dirk Wetter vom Stammtisch in Hamburg wird uns an diesem Abend sein Projekt [OWASP Docker Top 10](https://owasp.org/www-project-docker-top-10/) vorstellen, welches er bereits auf verschiedenen Konferenzen präsentiert hat.
 
 -----
 
@@ -34,15 +34,22 @@ Wichtig: Besucher beim gastgebenden Unternehmen müssen sich am Empfang mit voll
 
 -----
 
+##### 4\. Stammtisch: Mittwoch, 26.02.2020
+
+  - Vortragsabend zum Thema "Sichere Softwareentwicklung mit OWASP"
+  - Lokation: E.ON Digital Technology in der Tresckowstraße 3. Wir treffen uns zum Start am Empfang.
+  - Start: 18:00 Uhr
+
+[Folien als PDF](assets/20200226_Sichere_SW-Entwicklung_mit_OWASP.pdf)
+
+Benjamin Liebe gibt einen Überblick darüber, wie OWASP-Projekte die sichere Softwareentwicklung unterstützen. Dazu wird anhand der neuen Version von SAMM gezeigt, wo sich ausgewählte OWASP-Projekte in die verschiedenen Aktivitäten einer sicheren Softwareentwicklung einordnen lassen.
+
 ##### 3\. Stammtisch: Mittwoch, 22.01.2020
 
   - Netzwerk-Treffen (ohne Vorträge)
   - Lokation: Hannover Innenstadt, Details gibt es im Vorfeld hier und
     in Meetup.
   - Start: 18:00 Uhr
-  - Anmeldung:
-    <https://www.meetup.com/OWASP-Germany-Chapter-Stammtisch-Hannover/events/267233859/>
-    oder per E-Mail an benjamin.liebe@owasp.org
 
 ##### 2\. Stammtisch: Donnerstag, 24.10.2019
 
@@ -50,9 +57,6 @@ Wichtig: Besucher beim gastgebenden Unternehmen müssen sich am Empfang mit voll
   - Lokation: Informationsverarbeitung für Versicherungen GmbH,
     Schiffgraben 4, 30159 Hannover
   - Start: 18:00 Uhr
-  - Anmeldung:
-    <https://www.meetup.com/OWASP-Germany-Chapter-Stammtisch-Hannover/events/264790084/>
-    oder per E-Mail an benjamin.liebe@owasp.org
 
 #### Thema 1: Software Composition Analysis
 
