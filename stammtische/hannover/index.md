@@ -15,18 +15,7 @@ title: OWASP Germany > Stammtische > Hannover
 
 #### Aktuelle Treffen
 
-##### 5\. Stammtisch: Dienstag, 24.03.2020
-
-  - Vortragsabend zum Thema "OWASP Docker Top 10"
-  - Lokation: Informationsverarbeitung für Versicherungen GmbH,
-    Schiffgraben 4, 30159 Hannover
-  - Raum: Der Veranstaltungsbereich befindet sich links hinter dem Haupteingang der VGH im Gebäude B ([vom Schiffgraben kommend das rechte Gebäude](https://goo.gl/maps/EAaemo2zBXQfT3zz7)) und ist öffentlich zugänglich.
-  - Start: 18:00 Uhr
-  - Anmeldung:
-    <https://www.meetup.com/OWASP-Germany-Chapter-Stammtisch-Hannover/events/269039880/>
-    oder per E-Mail an benjamin.liebe@owasp.org
-
-Inhalt: Dirk Wetter vom Stammtisch in Hamburg wird uns an diesem Abend sein Projekt [OWASP Docker Top 10](https://owasp.org/www-project-docker-top-10/) vorstellen, welches er bereits auf verschiedenen Konferenzen präsentiert hat.
+Zur Zeit stehen keine Termine an. Der für den 24. März 2020 geplante Stammtisch wurde abgesagt.
 
 -----
 
