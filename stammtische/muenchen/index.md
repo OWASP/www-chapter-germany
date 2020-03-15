@@ -9,7 +9,7 @@ title: OWASP Germany > Stammtische > München
 ### ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
 #### A K T U E L L E S :
-Einladung zum (**107.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 17.03.2020**, um 19:00 Uhr.<br><br>>>> **ACHTUNG:** Dieses Mal **ONLINE!** <<<<br>>>> Als Vorsorge-Maßnahme im Rahmen der aktuellen COVID-19-Epidemie, findet der Stammtisch online statt. Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist.<<<
+Einladung zum (**107.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 17.03.2020**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal **ONLINE!** \<\<\<<br>\>\>\> Als Vorsorge-Maßnahme im Rahmen der aktuellen COVID-19-Epidemie, findet der Stammtisch online statt. \<\<\<<br>\>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
 **Agenda**:
 * **Vortrag: Beyond passwords? – Fido2 and WebAuthn in der Praxis** (**Clemens Hübner**, [Wiederholung des Vortrags vom German OWASP Day 2019](https://god.owasp.de))<br>Während die begrenzte Sicherheit von passwortgestützten Verfahren schon lange belegt ist, konnten
