@@ -9,43 +9,28 @@ title: OWASP Germany > Stammtische > München
 ### ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
 #### A K T U E L L E S :
-Einladung zum (106.) Münchner OWASP-Stammtisch am **Di, 18.02.2020**, um 19:00 Uhr.
+Einladung zum (**107.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 17.03.2020**, um 19:00 Uhr.<br><br>>>> **ACHTUNG:** Dieses Mal **ONLINE!** <<<<br>>>> Als Vorsorge-Maßnahme im Rahmen der aktuellen COVID-19-Epidemie, findet der Stammtisch online statt. Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist.<<<
 
-Agenda:
-* Vortrag: Update der OWASP Top 10 Privacy Risks (Florian Stahl)
-  * Rückblick & Hintergrund
-  * Aktuelle Version der OWASP Top 10 Privacy Risks (2014)
-  * Update 2019/2020
-    * Review Methodik
-    * Diskussion & Update der “Risk Candidates”
-    * Risikobewertung (Schaden & Eintrittswahrscheinlichkeit)
-    * Offene Punkte
-  * Fazit
+**Agenda**:
+* **Vortrag: Beyond passwords? – Fido2 and WebAuthn in der Praxis** (**Clemens Hübner**, [Wiederholung des Vortrags vom German OWASP Day 2019](https://god.owasp.de))<br>Während die begrenzte Sicherheit von passwortgestützten Verfahren schon lange belegt ist, konnten
+sich bislang keine Alternativen durchsetzen. Mit der Web Authentication API (Webauthn) wurde im März letzten Jahres ein neuer Standard veröffentlicht, der nicht zuletzt wegen seiner Beteiligung vieler großer Firmen (u.a. Microsoft, Google, Samsung) als
+aussichtsreicher Kandidat für eine echte Alternative zu Passwörtern gilt.<br>Clemens Hübner und Anna Sinitsyna haben die Sicherheit und Usability von WebAuthn evaluiert und einen Proof-of-Concept der Authentifizierungsmethode in einer Webanwendung geschaffen. Der Vortrag teilt außerdem unsere Erkenntnisse und Eindrücke des jungen Standards sowie der existierenden technischen Umsetzungen.<br><br>Clemens Hübner studierte an der FAU Erlangen-Nürnberg Mathematik und Informatik und schloss mit einer Masterarbeit zur Sicherheit in agilen Entwicklungsmodellen ab. Nach Tätigkeiten als Software Developer sowie im Penetration Testing ist er seit 2018 als Security Engineer bei inovex. Dort begleitet er heute Webentwicklungsprojekte und berät zu Continuous Software Security.
 * German OWASP Day 2020 in München (Planung Veranstaltungsort)
 * Freie Diskussion, bringt bitte Themen mit!
 
 Wir suchen noch Vorträge für die weiteren Stammtische in 2020!
 
-Ort: Hackerhaus, Sendlinger Straße 14, 80331 München
-
-Mit öffentlichen Verkehrsmitteln:
-  * ab Marienplatz [U3/U6, S-Bahn]:<br>Vorbei am Apfelshop zur Sendlinger Tor Straße Richtung Süden. An der Ecke Hackenstraße auf halber Strecke zum Sendlinger Tor liegt das Hackerhaus.
-  * ab Sendlinger Tor [U1/U2/U3/U6]:<br>Man durchschreite das Sendlinger Tor in Richtung Norden. An der Ecke Hackenstraße auf halber Strecke zum Marienplatz liegt das Hackerhaus.
-
-Es ist für 10 Personen ein separater Raum reserviert, voraussichtlich das 'Klavierzimmer' - im Zweifelsfall bitte einfach am Tresen nach dem "OWASP-Stammtisch" fragen.
-
-Um vorhergehende Anmeldung per Mail bei Torsten Gigler  wird gebeten, damit wir ggf. weitere Plätze reservieren können (Danke!) - spontane "Zaungäste" sind aber jederzeit ebenso willkommen.
+Ort: ONLINE, bitte vorher anmelden (s.o.).
 
 #### Spread the word
 
 Bitte diese Info an potentiell Interessierte weiterleiten. Unser Thema ist in erster Linie (Web-)Application Security. Man muss dazu überhaupt nichts von OWASP wissen, ein vorhergehender Blick auf die Website indes schadet sicher nicht.
 
 Schönen Gruß,
-Orga-Team für den Münchner OWASP Stammtisch (Christoph, Thomas und Torsten) 
+Orga-Team für den Münchner OWASP Stammtisch (Christoph, Thomas und [Torsten](https://www.owasp.org/index.php/User:T.Gigler)) 
 
 
 ## Geplante Stammtisch-Vorträge und -Diskussionen
-* März 2020:  17.03.2020
 * April 2020: 21.04.2020
 * Mai 2020:   26.05.2020 (4. Di)
 * Juni 2020:  16.06.2020
