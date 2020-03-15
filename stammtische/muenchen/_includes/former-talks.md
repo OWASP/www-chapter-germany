@@ -1,5 +1,6 @@
 ### Bereits gehaltene Stammtisch-Vorträge
 <!--- Alter Direkt-Link: https://wiki.owasp.org/index.php?title=OWASP_German_Chapter_Stammtisch_Initiative/M%C3%BCnchen#Bereits_gehaltene_Stammtisch-Vortr.C3.A4ge --->
+* Februar 2020: Update der OWASP Top 10 Privacy Risks (Florian Stahl)
 * November 2019: [Open Source Software Flood: Learning to swim](https://wiki.owasp.org/?title=Special:Redirect/file/Software_Composition_Analysis_OWASP_Stammtisch_-_Stanislav_Sivak.pdf) (Stanislav Sivak)
 * Oktober 2019: [Security for Business Benefit - Buy Security Services or do it yourself (DIY)?](https://wiki.owasp.org/?title=Special:Redirect/file/Security_for_Business_Benefit_-_Buy_Security_Services_or_do_it_yourself_-_Jens_Bitter.pdf) (Jens Bitter)
 * September 2019: Stack Overflow Considered Helpful! Deep Learning Security Nudges Towards Stronger Cryptography ([Felix Fischer, PhD Student am Lehrstuhl für Cyber Trust, TU München](https://www.in.tum.de/cybertrust/members/felix-fischer/)), vgl Publications: [Usenix Security 2019 (Author Version)](https://www.in.tum.de/fileadmin/w00bws/cybertrust/papers/2019-USENIXSec-Fischer.pdf)
