@@ -9,13 +9,14 @@ title: OWASP Germany > Stammtische > München
 ### ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
 #### A K T U E L L E S :
-Einladung zum (**107.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 17.03.2020**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal **ONLINE!** \<\<\<<br>\>\>\> Als Vorsorge-Maßnahme im Rahmen der aktuellen COVID-19-Epidemie, findet der Stammtisch online statt. \<\<\<<br>\>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
+Einladung zum (**108.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 21.04.2020**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<<br>
+\>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
 **Agenda**:
-* **Vortrag: Beyond passwords? – Fido2 and WebAuthn in der Praxis** (**Clemens Hübner**, [Wiederholung des Vortrags vom German OWASP Day 2019](https://god.owasp.de))<br>Während die begrenzte Sicherheit von passwortgestützten Verfahren schon lange belegt ist, konnten
-sich bislang keine Alternativen durchsetzen. Mit der Web Authentication API (Webauthn) wurde im März letzten Jahres ein neuer Standard veröffentlicht, der nicht zuletzt wegen seiner Beteiligung vieler großer Firmen (u.a. Microsoft, Google, Samsung) als
-aussichtsreicher Kandidat für eine echte Alternative zu Passwörtern gilt.<br>Anna Sinitsyna und Clemens Hübner haben die Sicherheit und Usability von WebAuthn evaluiert und einen Proof-of-Concept der Authentifizierungsmethode in einer Webanwendung geschaffen. Der Vortrag teilt außerdem unsere Erkenntnisse und Eindrücke des jungen Standards sowie der existierenden technischen Umsetzungen.<br><br>Clemens Hübner studierte an der FAU Erlangen-Nürnberg Mathematik und Informatik und schloss mit einer Masterarbeit zur Sicherheit in agilen Entwicklungsmodellen ab. Nach Tätigkeiten als Software Developer sowie im Penetration Testing ist er seit 2018 als Security Engineer bei inovex. Dort begleitet er heute Webentwicklungsprojekte und berät zu Continuous Software Security.
-* German OWASP Day 2020 in München (Planung Veranstaltungsort)
+* **Vortrag: OWASP Single Sign-On - Entwicklung und Status** (**Nicolas Giese**)<br>
+Sicherheit ist nicht leicht und endet oft bei der ersten Anmeldung eines Benutzers. Noch schwieriger ist es, gute Sicherheit und aktuelle Standards in verschiedene Systeme zu integrieren. Aus den Leiden, gute Authentifizierung in über 200 Geschäftseinheiten in Europa umzusetzen und in die aktuellen Sicherheitsbedürfnisse zu integrieren, entstand die freie Software "OWASP Single Sign-On".
+Mehr Hintergründe, was bisher passiert ist und wo es hingehen soll, stellt uns Nicolas in seinem Vortrag gerne vor.<br>Nicolas Giese arbeitet in der internen IT - Sicherheit von Panasonic und hat dort viel mit Incident Response, Softwareentwicklung und Penetration Testing zu tun.
+* German OWASP Day 2020 in München (Planung)
 * Freie Diskussion, bringt bitte Themen mit!
 
 Wir suchen noch Vorträge für die weiteren Stammtische in 2020!
@@ -31,7 +32,6 @@ Orga-Team für den Münchner OWASP Stammtisch (Christoph, Thomas und [Torsten](h
 
 
 ## Geplante Stammtisch-Vorträge und -Diskussionen
-* April 2020: 21.04.2020
 * Mai 2020:   26.05.2020 (4. Di)
 * Juni 2020:  16.06.2020
 * Juli 2020:  21.07.2020
