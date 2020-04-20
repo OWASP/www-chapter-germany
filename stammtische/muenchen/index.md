@@ -10,6 +10,7 @@ title: OWASP Germany > Stammtische > München
 
 #### A K T U E L L E S :
 Einladung zum (**108.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 21.04.2020**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<
+
 \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
 **Agenda**:
