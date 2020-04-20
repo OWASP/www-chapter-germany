@@ -33,12 +33,19 @@ gern gesehen.
 
 -----
 
-#### 48\. Stammtisch: TBA
+#### 48\. Stammtisch: 23.04.2020
 
+  - Sprecher: Simon Bennetts
+  - Titel: "OWASP ZAP Intro (Online)"
+  - Lokation: Google Meet
+    - Mitglieder des HH-Stammtisch bei MeetUp erhalten den Google Meet-Link nach dem RSVP
+    - Bei Anmeldung mit einer `owasp.org` Email-Adresse kann man dem Event auch hier im Stream beiwohnen: https://stream.meet.google.com/stream/58c6bb4b-b1c7-4f48-b554-96b1b4bd2709
+  - [Abstract](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch/events/270078609/)
+  - [Slides]()
 
 -----
 
-In Planung sind weitere Vorträge, u.a. zu ZAP, MISP, WASM
+In Planung sind weitere Vorträge, u.a. zu MISP, WASM
 
 -----
 
@@ -156,7 +163,7 @@ In Planung sind weitere Vorträge, u.a. zu ZAP, MISP, WASM
   - Abstract: Siehe
     <https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/255794105/>
   - Vortragsstart: 18:30 Uhr
-  - Lokation: [Xing](https://her.is/2FgcKhR> Xing)
+  - Lokation: [Xing](https://her.is/2FgcKhR)
   - Slides:
     [Slides](https://www.owasp.org/images/8/8d/20181101_-_Common_API_security_pitfalls_%28OWASP%29_small.pdf)
 
@@ -474,8 +481,7 @@ Planungssicherheit.
 
   - Uhrzeit: 19h
   - [Vortrag](http://www.guug.de/lokal/hamburg/talks/naxsi.pdf) von
-    Markus Manzke übers [OWASP Naxsi
-    Projekt](OWASP_NAXSI_Project "wikilink").
+    Markus Manzke übers [OWASP Naxsi Projekt](https://github.com/nbs-system/naxsi).
   - Ort: Uni RZ in der
     [Schlüterstrasse 70](http://maps.google.com/maps?f=q&hl=en&q=hamburg,++schlueterstr.+70,+germany&t=h&om=1&ll=53.569861,9.986293&spn=0.010806,0.02296),
     Seminarraum 304 (3.OG).
