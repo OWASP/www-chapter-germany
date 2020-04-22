@@ -27,7 +27,7 @@ Planung und Organisation übernimmt
 
 #### Wo?
 
-  - im Seminarraum oben im [URBN JUNGLE, Brühl 64-66, 04109 Leipzig](https://urbn-jungle.de/) (Treppe hoch, dann zu eurer Rechten)/derzeit online: https://meet.jit.si/OWASPStammtischLeipzig Passw.: OWASP*2020*Leipzig
+  - im Seminarraum oben im [URBN JUNGLE, Brühl 64-66, 04109 Leipzig](https://urbn-jungle.de/) (Treppe hoch, dann zu eurer Rechten)/derzeit online: https://meet.jit.si/OWASPStammtischLeipzig Passw.: OWASP\*2020\*Leipzig
 
 ### Geplante Stammtisch-Vorträge
 
