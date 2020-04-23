@@ -7,7 +7,7 @@ title: OWASP Germany > Stammtische > Leipzig
 
 ### Allgemeines
 
-Der Leipziger Stammtisch soll regelmäßig jeden Monat stattfinden:
+Der Leipziger Stammtisch soll regelmäßig alle sechs Wochen stattfinden:
 
   - Festlegung auf ein vorab angekündigtes Thema pro Treffen, möglichst
     mit einem passenden Vortrag
@@ -23,7 +23,7 @@ Planung und Organisation übernimmt
 
   - 1\. Stammtisch am 10.02.2020 19:00 Uhr: Forgetting Passwords
   - 2\. Stammtisch am 23.03.2020 19:00 Uhr: Threat Modelling
-  - 3\. Stammtisch am 04.05.2020 19:00 Uhr: Thema steht noch aus
+  - 3\. Stammtisch am 04.05.2020 19:00 Uhr: Host based Intrusion Detection mit System Calls
 
 #### Wo?
 
