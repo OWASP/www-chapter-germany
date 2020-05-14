@@ -1,6 +1,7 @@
 ---
 
-layout: col-sidebar title: OWASP Germany > Stammtische > Hamburg
+layout: col-sidebar
+title: OWASP Germany > Stammtische > Hamburg
 
 ---
 
