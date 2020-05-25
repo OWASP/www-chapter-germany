@@ -9,15 +9,15 @@ title: OWASP Germany > Stammtische > München
 ### ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
 #### A K T U E L L E S :
-Einladung zum (**108.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 21.04.2020**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<
+Einladung zum (**109.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 26.05.2020**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<
 
 \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
+... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
+
 **Agenda**:
-* **Vortrag: OWASP Single Sign-On - Entwicklung und Status** (**Nicolas Giese**)<br>
-Sicherheit ist nicht leicht und endet oft bei der ersten Anmeldung eines Benutzers. Noch schwieriger ist es, gute Sicherheit und aktuelle Standards in verschiedene Systeme zu integrieren. Aus den Leiden, gute Authentifizierung in über 200 Geschäftseinheiten in Europa umzusetzen und in die aktuellen Sicherheitsbedürfnisse zu integrieren, entstand die freie Software "OWASP Single Sign-On".
-Mehr Hintergründe, was bisher passiert ist und wo es hingehen soll, stellt uns Nicolas in seinem Vortrag gerne vor.<br>Nicolas Giese arbeitet in der internen IT - Sicherheit von Panasonic und hat dort viel mit Incident Response, Softwareentwicklung und Penetration Testing zu tun.
-* German OWASP Day 2020 in München (Planung)
+* **Vortrag: Kubernetes Security aus Entwicklersicht (Andreas Falk)**<br>Mit der Verbreitung von Kubernetes ist der Java-Entwickler endgültig im Zeitalter von DevSecOps angekommen.
+Doch durch die Vielzahl komplexer Aufgaben in einem Kubernetes-Cluster wird die notwendige Sicherheit leider oft vernachlässigt. Selbst in gemanagten Clustern bekannter Cloud-Anbieter gibt es viele Angriffspunkte, die nur darauf warten, ausgenutzt zu werden.<br>Diese Session stellt die sicherheitskritischen Komponenten eines Kubernetes-Clusters aus der Sicht eines Entwicklers vor. Es werden typische Sicherheitsprobleme und entsprechende Maßnahmen zu deren Behandlung bzw. Beseitigung aufgezeigt. Dazu gehören Themen wie Linux Security Basics sowie die Sicherheit auf den verschiedenen Ebenen wie der Anwendung, im Container und dem Kubernetes-Cluster.<br>Die schrittweise Bereitstellung einer sicheren Anwendung wird dabei in mehreren Live-Demos im Detail aufgezeigt. Wir werden dazu eine Spring Boot Java-Anwendung containerisieren und unter Berücksichtigung empfohlener Sicherheitsmuster in ein Kubernetes-Cluster deployen.<br><br>Andreas Falk ist seit mehr als zwanzig Jahren in der IT-Branche unterwegs. Derzeit arbeitet er für die Novatec Consulting mit Sitz in Stuttgart. In verschiedenen Projekten ist er seither als Berater, Architekt, Coach, und Entwickler im Einsatz. Sein Schwerpunkt liegt auf der agilen Entwicklung von Cloud-Nativen Java Unternehmensanwendungen. Als Mitglied des Open Web Application Security Projects (OWASP) und der OpenID Foundation beschäftigt er sich auch gerne mit allen Aspekten der Anwendungssicherheit.
 * Freie Diskussion, bringt bitte Themen mit!
 
 Wir suchen noch Vorträge für die weiteren Stammtische in 2020!
@@ -33,9 +33,8 @@ Orga-Team für den Münchner OWASP Stammtisch (Christoph, Thomas und [Torsten](h
 
 
 ## Geplante Stammtisch-Vorträge und -Diskussionen
-* Mai 2020:   26.05.2020 (4. Di)
-* Juni 2020:  16.06.2020
-* Juli 2020:  21.07.2020
+* Juni 2020,  16.06.2020: Angriffe auf KI-Algorithmen [Adversarial attacks on AI] (Nurullah Demir)
+* Juli 2020,  21.07.2020 
 * August 2020: Sommerferien - KEIN OWASP-Stammtisch
 <!-- * Dezember 2020: Weihnachtsferien - KEIN OWASP-Stammtisch -->
 
