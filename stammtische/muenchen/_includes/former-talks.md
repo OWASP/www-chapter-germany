@@ -1,5 +1,8 @@
 ### Bereits gehaltene Stammtisch-Vorträge
 <!--- Alter Direkt-Link: https://wiki.owasp.org/index.php?title=OWASP_German_Chapter_Stammtisch_Initiative/M%C3%BCnchen#Bereits_gehaltene_Stammtisch-Vortr.C3.A4ge --->
+* Mai 2020: Kubernetes Security aus Entwicklersicht (Andreas Falk)
+* April 2020: OWASP Single Sign-On - Entwicklung und Status (Nicolas Giese)
+* März 2020: Beyond passwords? – Fido2 and WebAuthn in der Praxis** (Clemens Hübner, [Wiederholung des Vortrags vom German OWASP Day 2019](https://god.owasp.de))
 * Februar 2020: Update der OWASP Top 10 Privacy Risks (Florian Stahl)
 * November 2019: [Open Source Software Flood: Learning to swim](https://wiki.owasp.org/?title=Special:Redirect/file/Software_Composition_Analysis_OWASP_Stammtisch_-_Stanislav_Sivak.pdf) (Stanislav Sivak)
 * Oktober 2019: [Security for Business Benefit - Buy Security Services or do it yourself (DIY)?](https://wiki.owasp.org/?title=Special:Redirect/file/Security_for_Business_Benefit_-_Buy_Security_Services_or_do_it_yourself_-_Jens_Bitter.pdf) (Jens Bitter)
