@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Germany > Stammtische > München
+title: OWASP [Germany](/www-chapter-germany/) > [Stammtische](/www-chapter-germany/stammtische/) > München
 altfooter: true
 
 ---
