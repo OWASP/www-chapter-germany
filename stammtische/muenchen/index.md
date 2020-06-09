@@ -10,15 +10,15 @@ altfooter: true
 ### ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
 #### A K T U E L L E S :
-Einladung zum (**109.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 26.05.2020**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<
+Einladung zum (**110.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 16.06.2020**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<
 
 \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
 ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
 **Agenda**:
-* **Vortrag: Kubernetes Security aus Entwicklersicht (Andreas Falk)**<br>Mit der Verbreitung von Kubernetes ist der Java-Entwickler endgültig im Zeitalter von DevSecOps angekommen.
-Doch durch die Vielzahl komplexer Aufgaben in einem Kubernetes-Cluster wird die notwendige Sicherheit leider oft vernachlässigt. Selbst in gemanagten Clustern bekannter Cloud-Anbieter gibt es viele Angriffspunkte, die nur darauf warten, ausgenutzt zu werden.<br>Diese Session stellt die sicherheitskritischen Komponenten eines Kubernetes-Clusters aus der Sicht eines Entwicklers vor. Es werden typische Sicherheitsprobleme und entsprechende Maßnahmen zu deren Behandlung bzw. Beseitigung aufgezeigt. Dazu gehören Themen wie Linux Security Basics sowie die Sicherheit auf den verschiedenen Ebenen wie der Anwendung, im Container und dem Kubernetes-Cluster.<br>Die schrittweise Bereitstellung einer sicheren Anwendung wird dabei in mehreren Live-Demos im Detail aufgezeigt. Wir werden dazu eine Spring Boot Java-Anwendung containerisieren und unter Berücksichtigung empfohlener Sicherheitsmuster in ein Kubernetes-Cluster deployen.<br><br>Andreas Falk ist seit mehr als zwanzig Jahren in der IT-Branche unterwegs. Derzeit arbeitet er für die Novatec Consulting mit Sitz in Stuttgart. In verschiedenen Projekten ist er seither als Berater, Architekt, Coach, und Entwickler im Einsatz. Sein Schwerpunkt liegt auf der agilen Entwicklung von Cloud-Nativen Java Unternehmensanwendungen. Als Mitglied des Open Web Application Security Projects (OWASP) und der OpenID Foundation beschäftigt er sich auch gerne mit allen Aspekten der Anwendungssicherheit.
+* **Vortrag: Angriffe auf KI-Algorithmen [Adversarial attacks on AI] (Nurullah Demir)**<br>Künstliche Intelligenz (KI) findet heute in vielen Bereichen seinen Einsatz: Gesichtserkennung, selbstfahrende Autos, Sprachassistenten, Diagnose von Krankheiten… Sie bringt viele Vorteile mit sich. Allerdings sind diese Systeme, auch wie viele andere IT-Systeme, verwundbar: Entscheidungen von KI-Algorithmen können manipuliert werden. In diesem Vortrag zeigen wir, wie Angreifer Entscheidungen der KI-Algorithmen durch gegnerische Angriffe manipulieren. Z.B. wie ein Stopp-Schild von KI als Verkehrszeichen "70" erkannt wird, obwohl wir Menschen nichts anormales auf dem Stopp-Schild erkennen. Der Vortrag ist auch für Einsteiger in den Themenbereich KI geeignet.<br><br>Nurullah Demir ist seit mehr als 10 Jahre im Bereich Web Security unterwegs. Er hat seinen Master in Internet Sicherheit am Institut für Internet-Sicherheit, if(is), der Westfälischen Hochschule (internet-sicherheit.de) absolviert, wo er gerade Doktorand ist. Er forscht zurzeit über künstliche Intelligenz im Hinblick auf Cyber-Security, robuste Schutzmechanismen für Web und Open-Source-Intelligence (OSINT). Er liebt Web und Sicherheit und ist Fechter.
+
 * Freie Diskussion, bringt bitte Themen mit!
 
 Wir suchen noch Vorträge für die weiteren Stammtische in 2020!
@@ -32,9 +32,7 @@ Bitte diese Info an potentiell Interessierte weiterleiten. Unser Thema ist in er
 Schönen Gruß,
 Orga-Team für den Münchner OWASP Stammtisch (Christoph, Thomas und [Torsten](https://www.owasp.org/index.php/User:T.Gigler)) 
 
-
 ## Geplante Stammtisch-Vorträge und -Diskussionen
-* Juni 2020,  16.06.2020: Angriffe auf KI-Algorithmen [Adversarial attacks on AI] (Nurullah Demir)
 * Juli 2020,  21.07.2020 
 * August 2020: Sommerferien - KEIN OWASP-Stammtisch
 <!-- * Dezember 2020: Weihnachtsferien - KEIN OWASP-Stammtisch -->
