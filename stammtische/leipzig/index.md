@@ -25,6 +25,7 @@ Planung und Organisation übernimmt
   - 2\. Stammtisch am 23.03.2020 19:00 Uhr: Threat Modelling
   - 3\. Stammtisch am 04.05.2020 19:00 Uhr: Host based Intrusion Detection mit System Calls
   - 4\. Stammtisch am 15.06.2020 19:00 Uhr: Dependency Track im e-commerce Einsatz
+  - 5\. Stammtisch am 27.07.2020 19:00 Uhr: Noch kein Thema. Reicht gerne einen Vorschlag oder Vortrag ein! 
 
 #### Wo?
 
@@ -40,3 +41,6 @@ Planung und Organisation übernimmt
   - Forgetting Passwords
   - Threat Modelling
   - Host based Intrusion Detection mit System Calls
+  - Dependency Track im e-commerce Einsatz
+  
+Wenn ihr ein Thema vorstellen wollt oder Vorschläge habt, meldet euch gerne! 
