@@ -10,14 +10,15 @@ altfooter: true
 ### ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
 #### A K T U E L L E S :
-Einladung zum (**110.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 16.06.2020**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<
+Einladung zum (**111.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 21.07.2020**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<
 
 \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
 ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
 **Agenda**:
-* **Vortrag: Angriffe auf KI-Algorithmen [Adversarial attacks on AI] (Nurullah Demir)**<br>Künstliche Intelligenz (KI) findet heute in vielen Bereichen seinen Einsatz: Gesichtserkennung, selbstfahrende Autos, Sprachassistenten, Diagnose von Krankheiten… Sie bringt viele Vorteile mit sich. Allerdings sind diese Systeme, auch wie viele andere IT-Systeme, verwundbar: Entscheidungen von KI-Algorithmen können manipuliert werden. In diesem Vortrag zeigen wir, wie Angreifer Entscheidungen der KI-Algorithmen durch gegnerische Angriffe manipulieren. Z.B. wie ein Stopp-Schild von KI als Verkehrszeichen "70" erkannt wird, obwohl wir Menschen nichts anormales auf dem Stopp-Schild erkennen. Der Vortrag ist auch für Einsteiger in den Themenbereich KI geeignet.<br><br>Nurullah Demir ist seit mehr als 10 Jahre im Bereich Web Security unterwegs. Er hat seinen Master in Internet Sicherheit am Institut für Internet-Sicherheit, if(is), der Westfälischen Hochschule (internet-sicherheit.de) absolviert, wo er gerade Doktorand ist. Er forscht zurzeit über künstliche Intelligenz im Hinblick auf Cyber-Security, robuste Schutzmechanismen für Web und Open-Source-Intelligence (OSINT). Er liebt Web und Sicherheit und ist Fechter.
+* **Vortrag: OWASP ModSecurity Core Rule Set (Christian Folini)**<br>This is a basic introduction to the OWASP ModSecurity Core Rule Set (CRS). The talk presents ModSecurity as an open source web application firewall, presents important group of rules and explains the core concepts like anomaly scoring, paranoia levels and strict siblings along the way.<br><br>Christian Folini is a security engineer and open source enthusiast. He holds a PhD in medieval history and enjoys defending castles across Europe. Unfortunately, defending medieval castles is not a big business anymore and so, he turned to defending web servers, which he finds equally challenging. He brings more than ten years of experience with ModSecurity configuration in high security environments, DDoS defense and threat modeling.<br>
+Christian Folini co-leads the OWASP ModSecurity Core Rule Set project and he is the author of the second edition of the ModSecurity Handbook. Christian helps to edit the Center for Internet Security "Apache Benchmark". He is a frequent speaker at conferences, where he tries to use his background in the humanities to explain hardcore technical topics to audiences of different backgrounds.
 
 * Freie Diskussion, bringt bitte Themen mit!
 
