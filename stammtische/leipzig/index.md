@@ -25,11 +25,13 @@ Planung und Organisation übernimmt
   - 2\. Stammtisch am 23.03.2020 19:00 Uhr: Threat Modelling
   - 3\. Stammtisch am 04.05.2020 19:00 Uhr: Host based Intrusion Detection mit System Calls
   - 4\. Stammtisch am 15.06.2020 19:00 Uhr: Dependency Track im e-commerce Einsatz
-  - 5\. Stammtisch am 27.07.2020 19:00 Uhr: Noch kein Thema. Reicht gerne einen Vorschlag oder Vortrag ein! 
+  - 5\. Stammtisch am 27.07.2020 19:00 Uhr: Offener Stammtisch ohne Vortrag
 
 #### Wo?
 
   - im Seminarraum oben im [URBN JUNGLE, Brühl 64-66, 04109 Leipzig](https://urbn-jungle.de/) (Treppe hoch, dann zu eurer Rechten)/derzeit online: https://meet.jit.si/OWASPStammtischLeipzig Passw.: OWASP\*2020\*Leipzig
+  
+  - 5. Stammtisch am 27.07.2020 19:00 Uhr: Richard-Wagner-Hain beim Zierlichmanierlich
 
 ### Geplante Stammtisch-Vorträge
 
