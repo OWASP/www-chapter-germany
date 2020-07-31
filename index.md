@@ -4,6 +4,9 @@ title: OWASP Germany
 tags: germany
 level: 4
 region: Europe
+meetup-group: OWASP-Hamburg-Stammtisch
+country: Germany
+postal-code: 
 
 ---
 
