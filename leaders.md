@@ -1,8 +1,8 @@
 ### Leaders
 
-* Tobias Glemser ([📧](mailto://tobias.glemser@owasp.org))
+* Tobias Glemser ([📧](mailto:tobias.glemser@owasp.org))
 
-### Board Members ([📧](mailto://germany-chapter-leaders@owasp.org))
+### Board Members ([📧](mailto:germany-chapter-leaders@owasp.org))
 
 * Achim Hoffmann
 * Alexios Fakos
