@@ -28,6 +28,7 @@ Fragen zur deutschen Version können Sie gerne direkt an das [deutschsprachige T
 ### Archiv:
 * [**OWASP Top 10 2013 in Deutsch (pdf)**](https://wiki.owasp.org/?title=Special:Redirect/file/OWASP_Top_10_2013_DE_Version_1_0.pdf)
 * [**OWASP Top 10 2010 in Deutsch (pdf)**](https://wiki.owasp.org/?title=Special:Redirect/file/OWASPTop10_2010_DE_Version_1_0.pdf) 
+
 <br>
 Ihr deutschsprachiges Top 10-Team<br>
 PS: Bitte tragen Sie **externe Links auf diese Seite** ein, wir aktualisieren sie beim Erscheinen einer neuen Version. So können Sie veraltete Links vermeiden.
