@@ -5,7 +5,7 @@ title: OWASP Germany > Stammtische
 
 ---
 
-<small>zurück zu [OWASP Germany](https://www2.owasp.org/www-chapter-germany)</small>
+<small>zurück zu [OWASP Germany](/www-chapter-germany/)</small>
 
 ## Über unsere Stammtische
 
