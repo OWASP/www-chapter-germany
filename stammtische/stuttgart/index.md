@@ -1,12 +1,12 @@
 ---
 
 layout: col-sidebar
-title: OWASP Germany > Stammtische > Berlin
+title: OWASP Germany > Stammtische > Stuttgart
 altfooter: true
 
 ---
 
-## OWASP Stammtisch Berlin
+## OWASP Stammtisch Stuttgart
 
 🔧 TODO
 
