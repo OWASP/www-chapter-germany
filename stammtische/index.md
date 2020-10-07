@@ -2,6 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Germany > Stammtische
+altfooter: true
 
 ---
 
@@ -45,19 +46,19 @@ Lokale Stammtische gibt es in einer Reihe von Städten:
 * [Karlsruhe](karlsruhe/)
 * [Dresden](dresden/)
 * [Köln](koeln/)
-* [Ruhrpott](ruhrpott/)
 * [Heilbronn-Franken](heilbronn_franken/)
 * [Hannover](hannover/)
 * [Leipzig](leipzig/)
+* [Berlin](berlin/)
 
 Es gab aktive Stammtische in
 
 * Nürnberg
-* Berlin
+* [Ruhrpott](ruhrpott/)
 
 die wiederbelebt werden sollen. Hier lohnt es sich ab und wann mal nach dem
 Status zu schauen -- oder seine Hilfe anzubieten. Beim Berliner Stammtisch
-hoffen wir, 2020 den wieder zu beleben.
+hat das in 2020 geklappt.
 
 ## Stammtisch FAQ
 
