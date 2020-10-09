@@ -24,6 +24,7 @@ Fragen zur deutschen Version können Sie gerne direkt an das [deutschsprachige T
 ### aktuelle Version:
 * [**OWASP Top 10 2017 in Deutsch V1.0 (pdf)**](https://wiki.owasp.org/?title=Special:Redirect/file/OWASP_Top_10-2017_de_V1.0.pdf)
 * [**OWASP Top 10 2017 in Deutsch V1.0 (pptx)**](https://wiki.owasp.org/?title=Special:Redirect/file/OWASP_Top_10-2017_de_V1.0.pptx)
+* [**OWASP Top 10 2017 in Deutsch V1.0 (Webseite)**](/www-project-top-ten/2017/de/)
 
 ### Archiv:
 * [**OWASP Top 10 2013 in Deutsch (pdf)**](https://wiki.owasp.org/?title=Special:Redirect/file/OWASP_Top_10_2013_DE_Version_1_0.pdf)
