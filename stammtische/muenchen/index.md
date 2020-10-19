@@ -10,16 +10,14 @@ altfooter: true
 ### ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
 #### A K T U E L L E S :
-Einladung zum (**112.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 15.09.2020**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<
+Einladung zum (**113.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 20.10.2020**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<
 
 \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
 ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
 **Agenda**:
-* **Vortrag: OWASP ModSecurity Core Rule Set (Christian Folini)**<br>This is a basic introduction to the OWASP ModSecurity Core Rule Set (CRS). The talk presents ModSecurity as an open source web application firewall, presents important group of rules and explains the core concepts like anomaly scoring, paranoia levels and strict siblings along the way.<br><br>Christian Folini is a security engineer and open source enthusiast. He holds a PhD in medieval history and enjoys defending castles across Europe. Unfortunately, defending medieval castles is not a big business anymore and so, he turned to defending web servers, which he finds equally challenging. He brings more than ten years of experience with ModSecurity configuration in high security environments, DDoS defense and threat modeling.<br>
-Christian Folini co-leads the OWASP ModSecurity Core Rule Set project and he is the author of the second edition of the ModSecurity Handbook. Christian helps to edit the Center for Internet Security "Apache Benchmark". He is a frequent speaker at conferences, where he tries to use his background in the humanities to explain hardcore technical topics to audiences of different backgrounds.
-
+* **Vortrag: The Web Cryptography API: Do not Trust Anybody! (Michael Fuchs)**<br>Die zunehmende Verbreitung von Webapps, insbesondere von Single Page Applications, erfordert vermehrt die Implementierung von kryptografischen Funktionen in Javascript zur Ausführung im Browser. Ganz im Sinne von "Don't build your own crypto" hat das W3C mit der Web Crypto API einen Standard für eine Reihe von low-level kryptografischen Operationen veröffentlicht. So können Schlüsselerzeugung, Hashing, Verschlüsselung und Signierung direkt im Browser geschehen.<br>Der Vortrag stellt die API sowie ihre Funktionen vor und berichtet aus der Praxis von der Implementierung mit ihr.<br>Michael Fuchs ist Software Developer bei inovex in München.
 * Freie Diskussion, bringt bitte Themen mit!
 
 Wir suchen noch Vorträge für die weiteren Stammtische in 2020!
