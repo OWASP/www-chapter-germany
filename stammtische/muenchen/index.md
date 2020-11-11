@@ -10,17 +10,18 @@ altfooter: true
 ### ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
 #### A K T U E L L E S :
-Einladung zum (**113.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 20.10.2020**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<
+Einladung zum (**114.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 17.11.2020**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE! (Jitsi Meet)** \<\<\<
 
 \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
 ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
 **Agenda**:
-* **Vortrag: The Web Cryptography API: Do not Trust Anybody! (Michael Fuchs)**<br>Die zunehmende Verbreitung von Webapps, insbesondere von Single Page Applications, erfordert vermehrt die Implementierung von kryptografischen Funktionen in Javascript zur Ausführung im Browser. Ganz im Sinne von "Don't build your own crypto" hat das W3C mit der Web Crypto API einen Standard für eine Reihe von low-level kryptografischen Operationen veröffentlicht. So können Schlüsselerzeugung, Hashing, Verschlüsselung und Signierung direkt im Browser geschehen.<br>Der Vortrag stellt die API sowie ihre Funktionen vor und berichtet aus der Praxis von der Implementierung mit ihr.<br>Michael Fuchs ist Software Developer bei inovex in München.
+* **Vortrag: Cyber-Angriffe auf KI-Algorithmen [Cyberattacks against AI] (Nurullah Demir)**<br>Künstliche Intelligenz (KI) findet heute in vielen Bereichen seinen Einsatz: Gesichtserkennung, selbstfahrende Autos, Sprachassistenten, Diagnose von Krankheiten… Sie bringt viele Vorteile mit sich. Allerdings sind diese Systeme, auch wie viele andere IT-Systeme, verwundbar: Entscheidungen von KI-Algorithmen können manipuliert werden.<br><br>In diesem Vortrag zeigen wir die Methoden, wie Angreifer Entscheidungen der KI-Algorithmen manipulieren. Z.B. wie ein Stopp-Schild von KI als Verkehrszeichen “70” erkannt wird, obwohl wir Menschen nichts anormales auf dem Stopp-Schild erkennen. Der Vortrag ist auch für Einsteiger in den Themenbereich KI geeignet.<br><br>Nurullah Demir ist seit mehr als 10 Jahre im Bereich Web Security unterwegs. Er hat seinen Master in Internet Sicherheit am Institut für Internet-Sicherheit, if(is), der Westfälischen Hochschule (internet-sicherheit.de) absolviert, wo er gerade Doktorand ist. Er forscht zurzeit über künstliche Intelligenz im Hinblick auf Cyber-Security, robuste Schutzmechanismen für Web und Open-Source-Intelligence (OSINT). Er liebt Web und Sicherheit und ist Fechter.
+* Infos vom German-Chaper-Meeting am 16.11.2020
 * Freie Diskussion, bringt bitte Themen mit!
 
-Wir suchen noch Vorträge für die weiteren Stammtische in 2020!
+Wir suchen noch Vorträge für die Stammtische in 2021!
 
 Ort: ONLINE, bitte vorher anmelden (s.o.).
 
@@ -33,10 +34,10 @@ Orga-Team für den Münchner OWASP Stammtisch (Christoph, Thomas und [Torsten](h
 
 ## Geplante Stammtisch-Vorträge und -Diskussionen
 <!--- * Juli 2020,  21.07.2020 
-* August 2020: Sommerferien - KEIN OWASP-Stammtisch
-<!-- * Dezember 2020: Weihnachtsferien - KEIN OWASP-Stammtisch -->
+* August 2020: Sommerferien - KEIN OWASP-Stammtisch --->
+* Dezember 2020: Weihnachtsferien - KEIN OWASP-Stammtisch
 
-* <b>Wir suchen Vorträge für die weiteren Stammtische in 2020!</b><br>Möchte jemand einen Vortrag oder einen Lightning-Talk halten? Prima! Sobald wir eine konkrete Zusage haben, werden diese bei der Ankündigung des jeweiligen Termins mit bekannt geben.<br>Also, wie immer: Ich bitte um kurze Info an mich, ob jemand noch weitere (für uns relevante) Themen parat hat, die er uns näher bringen möchte. ''Verkaufsveranstalter werden alle 20 Minuten ausgebuht und müssen dann eine (neue) Runde Bier bezahlen.''
+* <b>Wir suchen Vorträge für die nächsten Stammtische in 2021!</b><br>Möchte jemand einen Vortrag oder einen Lightning-Talk halten? Prima! Sobald wir eine konkrete Zusage haben, werden diese bei der Ankündigung des jeweiligen Termins mit bekannt geben.<br>Also, wie immer: Ich bitte um kurze Info an mich, ob jemand noch weitere (für uns relevante) Themen parat hat, die er uns näher bringen möchte. ''Verkaufsveranstalter werden alle 20 Minuten ausgebuht und müssen dann eine (neue) Runde Bier bezahlen.''
 
 Der Münchner Stammtisch findet (normalerweise) jeden <b>dritten Dienstag im Monat um 19:00 Uhr</b> statt (außer im August und Dezember).<br>
 * In <b>gut erreichbarer Lage</b> mit
