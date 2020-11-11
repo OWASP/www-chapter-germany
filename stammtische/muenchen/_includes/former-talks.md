@@ -2,7 +2,7 @@
 <!--- Alter Direkt-Link: https://wiki.owasp.org/index.php?title=OWASP_German_Chapter_Stammtisch_Initiative/M%C3%BCnchen#Bereits_gehaltene_Stammtisch-Vortr.C3.A4ge --->
 * Oktober 2020: The Web Cryptography API: Do not Trust Anybody! (Michael Fuchs)
 * September 2020: OWASP ModSecurity Core Rule Set (Teil 2) (Christian Folini)
-* Juli 2020: OWASP ModSecurity Core Rule Set (Teil 2) (Christian Folini)
+* Juli 2020: OWASP ModSecurity Core Rule Set (Teil 1) (Christian Folini)
 * Juni 2020: freie Diskussion
 * Mai 2020: Kubernetes Security aus Entwicklersicht (Andreas Falk)
 * April 2020: OWASP Single Sign-On - Entwicklung und Status (Nicolas Giese)
