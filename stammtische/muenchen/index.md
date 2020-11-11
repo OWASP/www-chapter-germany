@@ -18,7 +18,7 @@ Einladung zum (**114.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **
 
 **Agenda**:
 * **Vortrag: Cyber-Angriffe auf KI-Algorithmen [Cyberattacks against AI] (Nurullah Demir)**<br>Künstliche Intelligenz (KI) findet heute in vielen Bereichen seinen Einsatz: Gesichtserkennung, selbstfahrende Autos, Sprachassistenten, Diagnose von Krankheiten… Sie bringt viele Vorteile mit sich. Allerdings sind diese Systeme, auch wie viele andere IT-Systeme, verwundbar: Entscheidungen von KI-Algorithmen können manipuliert werden.<br><br>In diesem Vortrag zeigen wir die Methoden, wie Angreifer Entscheidungen der KI-Algorithmen manipulieren. Z.B. wie ein Stopp-Schild von KI als Verkehrszeichen “70” erkannt wird, obwohl wir Menschen nichts anormales auf dem Stopp-Schild erkennen. Der Vortrag ist auch für Einsteiger in den Themenbereich KI geeignet.<br><br>Nurullah Demir ist seit mehr als 10 Jahre im Bereich Web Security unterwegs. Er hat seinen Master in Internet Sicherheit am Institut für Internet-Sicherheit, if(is), der Westfälischen Hochschule (internet-sicherheit.de) absolviert, wo er gerade Doktorand ist. Er forscht zurzeit über künstliche Intelligenz im Hinblick auf Cyber-Security, robuste Schutzmechanismen für Web und Open-Source-Intelligence (OSINT). Er liebt Web und Sicherheit und ist Fechter.
-* Infos vom German-Chaper-Meeting am 16.11.2020
+* Infos vom German-Chapter-Meeting am 16.11.2020
 * Freie Diskussion, bringt bitte Themen mit!
 
 Wir suchen noch Vorträge für die Stammtische in 2021!
