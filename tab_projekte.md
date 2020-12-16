@@ -19,3 +19,5 @@ lassen! Ein Ausschnitt:
 * [OWASP Top 10 Privacy Risks Project](/www-project-top-10-privacy-risks/)
 * [Best Practices: Web Application Firewalls](https://wiki.owasp.org/index.php/Category:OWASP_Best_Practices:_Use_of_Web_Application_Firewalls)
 * [OWASP Top 10 für Entwickler](https://wiki.owasp.org/index.php/Category:OWASP_Top_10_fuer_Entwickler)
+* [OWASP Security Pins](/www-project-security-pins/)
+* [OWASP DevSecOps Maturity Model](/www-project-devsecops-maturity-model/)
