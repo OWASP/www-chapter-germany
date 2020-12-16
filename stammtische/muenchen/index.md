@@ -3,6 +3,7 @@
 layout: col-sidebar
 title: OWASP Germany > Stammtische > München
 altfooter: true
+meetup-group: OWASP_Muenchen_Stammtisch
 
 ---
 
