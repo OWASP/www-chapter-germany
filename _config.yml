@@ -5,4 +5,5 @@ plugins:
 include:
  - 'stammtische'
  - 'stammtische/hamburg'
+ - 'stammtische/frankfurt'
  - 'chapter_meetings'
