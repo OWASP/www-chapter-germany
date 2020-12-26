@@ -63,18 +63,43 @@ gern gesehen.
 
 ### Vergangene Treffen
 
+#### 52\. Stammtisch: 09.12.2020
+
+- Sprecher: Jens Müller
+- Titel: "Portable Document Flaws 101"
+- Lokation: Google Meet
+- [Meetup](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch/events/274668074/)
+
+#### 51\. Stammtisch: 24.11.2020
+
+- Sprecher: Björn Kimminich
+- Titel: "Juice Shop 12: Novelties by the litre (Online)"
+- Lokation: Google Meet
+- [Meetup](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch/events/272842835/)
+- [Youtube](https://www.youtube.com/watch?v=AUhDItHHLiY)
+
+#### 50\. Stammtisch: 27.10.2020
+
+- Sprecher: Thomas Weber
+- Titel: "Hardware Hacking 101"
+- Lokation: Google Meet
+- [Meetup](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch/events/273236779/)
+
+#### 49\. Stammtisch: 29.09.2020
+
+- Sprecher: Timo Pagel
+- Titel: "Einführung OWASP DevSecOps Maturity Model (Online)"
+- Lokation: Google Meet
+- [Meetup](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch/events/272820419/)
+- [Youtube](https://www.youtube.com/watch?v=9vYg9Nskeb8)
+
 #### 48\. Stammtisch: 23.04.2020
 
 - Sprecher: Simon Bennetts
 - Titel: "OWASP ZAP Intro (Online)"
 - Lokation: Google Meet
-  - Mitglieder des HH-Stammtisch bei MeetUp erhalten den Google
-    Meet-Link nach dem RSVP
-  - Bei Anmeldung mit einer `owasp.org` Email-Adresse kann man dem Event
-    auch hier im Stream beiwohnen:
-    https://stream.meet.google.com/stream/58c6bb4b-b1c7-4f48-b554-96b1b4bd2709
-- [Abstract](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch/events/270078609/)
-- [Slides]()
+- [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/270078609/)
+- [Youtube](https://www.youtube.com/watch?v=SD28HdVI-Wk)
 
 #### 47\. Stammtisch: 28. Januar 2020
 
