@@ -124,7 +124,8 @@ gern gesehen.
 
 - Sprecher: Martin Tschirsich
 - Titel: "Sicherheit der bundesweiten elektronischen Patientenakte"
-- Lokation: [SPIEGEL, Ericusspitze 1](https://her.is/2E6liYh)
+- Lokation:
+  [SPIEGEL, Ericusspitze 1](https://her.is/2E6liYh)
 - [Abstract](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/265655766/)
 
 #### 44\. Stammtisch: 23.10.2019
@@ -134,7 +135,8 @@ gern gesehen.
 - Abstract und mehr: Siehe
   [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/265345540/)
 - Start: 18:30 Uhr
-- Lokation: [Xing](https://her.is/2FgcKhR)
+- Lokation:
+  [Xing](https://her.is/2FgcKhR)
 - [Slides]()
 
 #### 43\. Stammtisch: 30.9.2019
@@ -148,7 +150,8 @@ gern gesehen.
 #### 42\. Stammtisch: 4.7.2019
 
 - Netzwerktreffen
-- Lokation: [Strandpauli](https://her.is/2XooJVb)
+- Lokation:
+  [Strandpauli](https://her.is/2XooJVb)
 - Start: 18:30 Uhr
 
 #### 41\. Stammtisch: 22.5.2019
@@ -166,7 +169,8 @@ gern gesehen.
 - Abstract und mehr: Siehe
   [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/259390491/)
 - Vortragsstart: 18:30 Uhr
-- Lokation: [Xing](https://her.is/2FgcKhR)
+- Lokation:
+  [Xing](https://her.is/2FgcKhR)
 - [Slides](https://www.owasp.org/images/9/93/Continuous_Security_Testing_mit_IAST.pdf)
 
 #### 39\. Stammtisch: 27.2.2019
@@ -186,7 +190,8 @@ gern gesehen.
     - [Online-Demo zum CyberChef](https://gchq.github.io/CyberChef/),
       [GitHub](https://github.com/gchq/CyberChef)
 - Start: 18:30 Uhr
-- Lokation: [SPIEGEL, Ericusspitze 1](https://her.is/2E6liYh)
+- Lokation:
+  [SPIEGEL, Ericusspitze 1](https://her.is/2E6liYh)
 - Abstract und mehr:
   [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/258185324/)
 
@@ -205,7 +210,8 @@ gern gesehen.
 
 - Networking
 - Start: 19:00 Uhr
-- Lokation: [Klimperkiste](https://her.is/2POSuea)
+- Lokation:
+  [Klimperkiste](https://her.is/2POSuea)
 - Mehr:
   [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/256620737/)
 
@@ -216,7 +222,8 @@ gern gesehen.
 - Abstract: Siehe
   <https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/255794105/>
 - Vortragsstart: 18:30 Uhr
-- Lokation: [Xing](https://her.is/2FgcKhR)
+- Lokation:
+  [Xing](https://her.is/2FgcKhR)
 - Slides:
   [Slides](https://www.owasp.org/images/8/8d/20181101_-_Common_API_security_pitfalls_%28OWASP%29_small.pdf)
 
@@ -398,8 +405,8 @@ Winterpause
 Zwei Kurz-Vorträge gab's:
 
 - Ingo Chao über "HTTP-Header-Enrichment in SSL-Verbindungen"
-- Dirk Wetter: "Aber HTTPS bedeutet Privacy\!1\!\!"
-  ([Slides](https://www.owasp.org/images/3/39/Dirk_Wetter_--_HTTPS_und_Datenschutz.pdf))
+- Dirk Wetter: "Aber HTTPS bedeutet Privacy\!1\!\!" (
+  [Slides](https://www.owasp.org/images/3/39/Dirk_Wetter_--_HTTPS_und_Datenschutz.pdf))
 - [Abstracts](http://lists.owasp.org/pipermail/owasp-germany/2015-November/000830.html)
 
 Ausklang in der "Klimperkiste"
@@ -440,15 +447,18 @@ AppSec-Konferenz in Amsterdam\!
 - Björn Kimminich: So ein Saftladen\! - Hacking Session für Developer
   (und Pentester)
 - Datum: 27.1.2015, 18 Uhr
-- Lokation: [Großer Grasbrook 11-13,
+- Lokation:
+  [Großer Grasbrook 11-13,
   Hafencity](https://maps.google.com/maps?q=K%C3%BChne+und+Nagel,+hamburg&hl=en&ie=UTF8&ll=53.542003,9.996743&spn=0.01057,0.017939&sll=48.474628,10.849214&sspn=0.011793,0.017939&hq=k%C3%BChne+und+nagel,&hnear=Hamburg,+Germany&t=m&z=16)
-  bei [Kühne und
+  bei
+  [Kühne und
   Nagel](http://commons.wikimedia.org/wiki/File:Hamburg.hafencity.kuehne%2BNagel.wmt.jpg).
   Im Raum "Forum" im EG. Anfahrt via U4 bis Überseequartier oder mit den
   Buslinien 6 und 111.
 - Details auf der
   [Mailing-Liste](http://lists.owasp.org/pipermail/owasp-germany/2015-January/000725.html).
-  Eigener Laptop erforderlich, am besten mit bereits [vorinstalliertem
+  Eigener Laptop erforderlich, am besten mit bereits
+  [vorinstalliertem
   Juice-Shop](https://github.com/bkimminich/juice-shop#setup)\! Vor Ort
   kein öffentliches WLAN\!
 
@@ -505,17 +515,20 @@ Planungssicherheit.
 #### 12\. Treffen am 28.11.2013 (Donnerstag)
 
 - Uhrzeit: 19:00 Uhr
-- Stammtisch mit Schnack über Websicherheit und mehr ([Mail
+- Stammtisch mit Schnack über Websicherheit und mehr (
+  [Mail
   Mailing-Liste](http://lists.owasp.org/pipermail/owasp-germany/2013-November/000579.html))
-- Lokation: [Noahs Taverna /
+- Lokation:
+  [Noahs Taverna /
   Großneumarkt 52](http://www.openstreetmap.org/?way=44710832#map=17/53.55016/9.97895)
 
-#### September: Pause wegen [AppSec Research](http://2013.appsec.eu)
+#### September: Pause wegen  [AppSec Research](http://2013.appsec.eu)
 
 #### 11\. Treffen/Vortrag am 16.7.2013 (Dienstag\!)
 
 - Uhrzeit: 18:30 Uhr
-- Lokation: [Adobe Systems Engineering GmbH, Große
+- Lokation:
+  [Adobe Systems Engineering GmbH, Große
   Elbstr. 27](https://maps.google.com/maps?q=Adobe+Systems+Engineering+GmbH,+Gro%C3%9Fe+Elbstr.+27,+3.+OG&ie=UTF8&ll=53.544898,9.953399&spn=0.014943,0.019376&oe=utf-8&fb=1&hq=Adobe+Systems+Engineering+GmbH,+Gro%C3%9Fe+Elbstr.+27,+3.+OG&cid=0,0,2634310756061328020&t=m&z=16),
   3.OG (bei Fischauktionshalle)
 - Sprecher: Sebastian Schinzel
@@ -531,13 +544,16 @@ Planungssicherheit.
 #### 10\. Treffen/Vortrag am 16.5.2013
 
 - Uhrzeit: 18h
-- Lokation: [Großer Grasbrook 11-13,
+- Lokation:
+  [Großer Grasbrook 11-13,
   Hafencity](https://maps.google.com/maps?q=K%C3%BChne+und+Nagel,+hamburg&hl=en&ie=UTF8&ll=53.542003,9.996743&spn=0.01057,0.017939&sll=48.474628,10.849214&sspn=0.011793,0.017939&hq=k%C3%BChne+und+nagel,&hnear=Hamburg,+Germany&t=m&z=16)
-  bei [Kühne und
+  bei
+  [Kühne und
   Nagel](http://commons.wikimedia.org/wiki/File:Hamburg.hafencity.kuehne%2BNagel.wmt.jpg)
 - Anreise: U4 bis Überseequartier, südlicher Ausgang (Busse 6 und 111
   fahren auch in die Hafencity sind aber eher unpraktisch)
-- Vortrag von [Jim Manico](User:jmanico "wikilink") (Hawaii) (English):
+- Vortrag von
+  [Jim Manico](User:jmanico "wikilink") (Hawaii) (English):
   [Securing the SDLC
   (Slides)](https://www.owasp.org/images/7/76/Jim_Manico_%28Hamburg%29_-_Securiing_the_SDLC.pdf)
   [(Abstract von der
@@ -560,7 +576,8 @@ Planungssicherheit.
 #### 8\. Treffen am 24.1.2013
 
 - Uhrzeit: 19h
-- Ort: [Scotty's Ottensen](http://www.scottys-ottensen.de/),
+- Ort:
+  [Scotty's Ottensen](http://www.scottys-ottensen.de/),
   [Karte](http://maps.google.com/maps?q=Friedensallee+14+-16+22765+Hamburg&ll=53.554497,9.928143&spn=0.011383,0.014999&oe=utf-8&hnear=Friedensallee+14,+22765+Hamburg,+Germany&t=m&z=16)
 - Treffen mit sinnieren über Websicherheit, OWASPs AppSecEU 2013 und
   sich spotan ergebene Themen
@@ -571,7 +588,8 @@ Wir wollen uns ab nun regelmäßig alle zwei Monate treffen (skippen
 allerdings den Dezember)
 
 - Uhrzeit: 19h
-- Ort: Arkadasch [Grindelhof 17, 20146
+- Ort: Arkadasch
+  [Grindelhof 17, 20146
   Hamburg](http://maps.google.com/maps?q=arkadasch+hamburg&ll=53.568045,9.982023&spn=0.045926,0.075874&fb=1&hq=arkadasch&hnear=0x47b161837e1813b9:0x4263df27bd63aa0,Hamburg,+Germany&cid=0,0,15852195313309451738&t=m&z=14&iwloc=A).
 - Treffen ohne Vortrag, mit sinnieren und plauschen über Web- und
   Softwaresicherheit, Webservices, AppSecEU 2013 etc.
@@ -579,8 +597,10 @@ allerdings den Dezember)
 #### 6\. Treffen am 13.8.2012
 
 - Uhrzeit: 19h
-- Ort: [Hamburg City Beach
-  Club](http://www.hamburgcitybeachclub.de/home.html) (oben auf [dem
+- Ort:
+  [Hamburg City Beach
+  Club](http://www.hamburgcitybeachclub.de/home.html) (oben auf
+  [dem
   Parkdeck](http://maps.google.com/maps?q=53.5461,9.9650&hl=en&ll=53.546096,9.965007&spn=0.01238,0.019162&sll=53.545961,9.965&sspn=0.01238,0.019162&t=m&z=16)
   neben den Landungsbrücken, NICHT Strandpauli)
 
