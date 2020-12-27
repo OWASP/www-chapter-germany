@@ -5,9 +5,17 @@ title: OWASP Germany > Stammtische > Frankfurt
 
 ---
 
-![OWASP_Frankfurt_Logo.jpg](assets/OWASP_Frankfurt_Logo.jpg width="100" "OWASP_Frankfurt_Logo.jpg")
+<img align="center" src="assets/OWASP_Frankfurt_Logo.png">
 
-## Current Events
+## Introduction
+
+Welcome to OWASP Frankfurt Stammtisch, regional Stammtisch within the [OWASP Germany Chapter](https://owasp.org/www-chapter-germany/) with a focus on Rhine-Main area to discuss and share topics around IT and application security. 
+
+Anyone with an interested and enthusiastic about IT and application security is welcome. All meetings are free and open. You do not have to be an OWASP member. 
+
+Referrals to this website or to individual meetings to colleagues or acquaintances are welcome.
+
+## Upcoming Events
 
 {% include chapter_events.html group=page.meetup-group %}
 
@@ -32,69 +40,35 @@ title: OWASP Germany > Stammtische > Frankfurt
   });
 </script>
 
-## Upcoming Events
-
-Please join our [OWASP Frankfurt Stammtisch Meetup Group](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/) for timely updates on our OWASP Stammtisch Frankfurt Meetup:
-
-Feel free to join our Meetup group for timely updates on meetings. The Meetup page is also usually a bit more up to date.
+Please join our [OWASP Frankfurt Stammtisch Meetup Group](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/) and follow us on [Twitter](https://twitter.com/owasp_frankfurt) for timely updates on our OWASP Stammtisch Frankfurt Meetup.
 
 Anyone with an interest in our topics is welcome. All meetings are free and open. You do not have to be an OWASP member to attend. Referrals to this website or to individual meetings to colleagues or acquaintances are welcome.
 
-<span style="font-size:120%;">
-
-  * When? TBA
-  * Where? Hotel Capri, Europa-Allee 42, 60327 Frankfurt am Main ([Google Maps](https://goo.gl/maps/jWuMLxsFCyp))
-  * What? TBA
-
-Please RSVP noncommittal so we can plan ahead:
-
-Thanks!
-</span>
 
 ## Information about Frankfurt Stammtisch Events
 
 ### When?
-
-The last Wednesday of every second month @ 7:30pm
+For 2021 most likely virtual - more details soon!
 
 ### Where?
-
-Usually @ Hotel Capri - Announced on Meetup:
-[Meetup](http://www.meetup.com/de/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/).
+Announced on Meetup: [Meetup](http://www.meetup.com/de/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/) and [Twitter](https://twitter.com/owasp_frankfurt)
 
 ### What?
+We usually have one or two talks about a related topic to IT or application security and then finish the evening socializing.
 
-We usually have one or two talks about a related topic to application
-security and then finish the evening socializing at the local bar.
-
-### Etiquette:
-
-Well it's OWASP so please adhere to our [| Speaker
-Agreement](https://www.owasp.org/index.php?title=Speaker_Agreement) and
-avoid marketing stunts.
 
 ## Organization
 
 ### Call for Speakers and Volunteers
 
-If you'd like to give a talk or volunteer for us, contact (Johannes dot
-schoenborn aet owasp dot org). Thanks!
-Call for speakers is open - please review and agree with the [OWASP
-Speaker Agreement](Speaker_Agreement "wikilink").
+**We are looking for presentations for the next virtual Stammtische in 2021!** If you'd like to give a presentation, conduct a training workshop or volunteer for us, contact us the OWASP Frankfurt Stammtisch organisation.
 
-As OWASP has also moved to Meetup, you'll now find us there:
-[Meetup](http://www.meetup.com/de/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/).
+### Etiquette
+Please note that vendor pitches are not allowed, so please adhere to the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and avoid marketing stunts.
 
-Please note that vendor pitches are not allowed, so please adhere to
-using the OWASP presentation template:
-[Presentation Template
-Set](https://www.owasp.org/images/5/5d/PPT_2013_Toolbox.zip) and
-[Presentation Set
-Alternative](https://www.owasp.org/images/7/76/OWASP_Presentation_Template.zip)
+## Previous Events
 
-# Previous Events
-
-An overview of our past Frankfurt Stammtisch events since 2011.
+An overview of our past Frankfurt Stammtisch events from 2011 to 2020.
 
 ## 2019
 
@@ -210,82 +184,81 @@ HackTheBox.eu
 * Location: DZ BANK AG, Mainzer Landstraße 58, 60325 Frankfurt am Main
 
 ### **24. OWASP Stammtisch Frankfurt | 25.02.2016, 19:30h**
-* Talk: **Boban Krsic | "IT-Sicherheitsgesetz - und nun?"**
+* Talk: **Boban Krsic - IT-Sicherheitsgesetz - und nun?"**
 * Slides: [DOWNLOAD](https://wiki.owasp.org/images/6/68/OWASP_Stammtisch_Frankfurt-IT-SiG-und-nun-2016.02.25.pdf)
 * Location: Tower 185, Friedrich-Ebert-Anlage 35-37, 60327 Frankfurt am Main
 
 ## 2015
 
 ### **23. OWASP Stammtisch Frankfurt | 28.01.2015, 19:30h**
-* Talk: **Christoph | "Social Engineering"**
+* Talk: **Christoph - Social Engineering**
 * Slides: [DOWNLOAD](https://wiki.owasp.org/images/9/94/OWASP_Stammtisch_Frankfurt-Social_Engineering-2016.01.28.pdf)
 * Location: Tower 185, Friedrich-Ebert-Anlage 35-37, 60327 Frankfurt am
 Main
 
 ### **22. OWASP Stammtisch Frankfurt | 26.11.2015, 19:30h**
-* Talk: **Johannes Schönborn | "Faraday: Pentesting goes Multiplayer"**
+* Talk: **Johannes Schönborn - "Faraday: Pentesting goes Multiplayer"**
 * Location: Tower 185, Friedrich-Ebert-Anlage 35-37, 60327 Frankfurt am
 Main
 
 ### **21. OWASP Stammtisch Frankfurt | 29.10.2015, 19:30h**
-* Talk: **Khalil Bijjou | "Web Application Firewall Bypassing - how to defeat the
-blue team"** 
+* Talk: **Khalil Bijjou - Web Application Firewall Bypassing - how to defeat the blue team** 
 [DOWNLOAD](https://wiki.owasp.org/images/6/66/OWASP_Stammtisch_Frankfurt_-_Web_Application_Firewall_Bypassing_-_how_to_defeat_the_blue_team_-_2015.10.29.pdf)
 * Location: Tower 185, Friedrich-Ebert-Anlage 35-37, 60327 Frankfurt am Main
 
 ### **20. OWASP Stammtisch Frankfurt | 24.09.2015, 19:30h** 
-* Talk: **Jan Philipp | "Security Challenges of Cloud Providers" ("Wie baue ich sichere Luftschlösser in den Wolken”)**
+* Talk: **Jan Philipp - "Security Challenges of Cloud Providers" -  "Wie baue ich sichere Luftschlösser in den Wolken”)**
 * Slides: [DOWNLOAD](https://wiki.owasp.org/images/4/40/OWASP_Stammtisch_Frankfurt_-_Cloud_Provider_Challenges_-_2015.09.24.pdf)
 * Location: Franklinstraße 50, 60486 Frankfurt am Main
 
 ### **19. OWASP Stammtisch Frankfurt | 27.08.2015, 19:30h** 
-* Talk: **Manuel Giesel und Johannes Schönborn | "Lust und Frust bei der Netzwerk-Anomalieerkennung**
+* Talk: **Manuel Giesel und Johannes Schönborn - "Lust und Frust bei der Netzwerk-Anomalieerkennung**
 * Location: Tower 185, Friedrich-Ebert-Anlage 35-37, 60327 Frankfurt am Main
 
 ### **18. OWASP Stammtisch Frankfurt | 30.07.2015, 19:30h**
-* Talk: **Katharine Brylski | Ein Best-of-Konzept für Sicherheitsanalysen von Webanwendungen**
+* Talk: **Katharine Brylski - Ein Best-of-Konzept für Sicherheitsanalysen von Webanwendungen**
 * Slides: [DOWNLOAD](https://wiki.owasp.org/images/8/8e/OWASP_Stammtisch_Frankfurt_BestOfKonzept_Sicherheitsanalysen_Webanwendungen_20150730.pdf)
 * Location: Tower 185, Friedrich-Ebert-Anlage 35-37, 60327 Frankfurt am Main
 
 ### **17. OWASP Stammtisch Frankfurt | 25.06.2015, 19:30h**
-* Talk: **Alexios Fakos | (Un)Sicherheit bei ihrer Applikation? Präventiv statt reaktiv**
+* Talk: **Alexios Fakos - (Un)Sicherheit bei ihrer Applikation? Präventiv statt reaktiv**
 * Slides: [DOWNLOAD](https://wiki.owasp.org/images/4/44/OWASP_Stammtisch_Frankfurt_%28Un%29Sicherheit.bei.ihrer.Applikation_20150628.pdf)
 * Location: Tower 185, Friedrich-Ebert-Anlage 35-37, 60327 Frankfurt am Main
 
 ### **16. OWASP Stammtisch Frankfurt | 28.05.2015, 19:30h**
-* Talk: **Marius Klimmek | Sowas wie Botnetze – Die dunkle Gefahr der Zombie Armee**
+* Talk: **Marius Klimmek - Sowas wie Botnetze – Die dunkle Gefahr der Zombie Armee**
 * Slides: [DOWNLOAD](https://wiki.owasp.org/images/0/0c/OWASP_Stammtisch_Frankfurt_Botnetze-Presentation_20150525.pdf)
 * Location: Tower 185, Friedrich-Ebert-Anlage 35-37, 60327 Frankfurt am Main
 
 ### **15. OWASP Stammtisch Frankfurt | 30.04.2015, 19:30h** 
-* Talk: **Daniel Zelle | Einführung und Überblick - Von Car2X- bis In-Vehicel-Security**
+* Talk: **Daniel Zelle - Einführung und Überblick - Von Car2X- bis In-Vehicel-Security**
 * Slides: [DOWNLOAD](https://wiki.owasp.org/images/1/12/OWASP_Stammtisch_Frankfurt_Von_Car2X-_bis_In-Vehicle-Security_20150430.pdf)
 * Location: Tower 185, Friedrich-Ebert-Anlage 35-37, 60327 Frankfurt am
 Main
 
 ### **14. OWASP Stammtisch Frankfurt | 26.03.2015, 19:30h**
-* Talk: **Michael Ritter | Web Application Firewall Profiling**
+* Talk: **Michael Ritter - Web Application Firewall Profiling**
 * Slides: [DOWNLOAD](https://wiki.owasp.org/images/b/bf/OWASP_Stammtisch_Frankfurt_WAF_Profiling_and_Evasion.pdf)
 * Location: Franklinstraße 50, 60486 Frankfurt am Main
 
 ### **13. OWASP Stammtisch Frankfurt | 26.02.2015, 19:30h** 
-* Talk: **Alexios Fakos | Polyglotte Angriffsvektoren**
+* Talk: **Alexios Fakos - Polyglotte Angriffsvektoren**
 * Location: Tower 185, Friedrich-Ebert-Anlage 35-37, 60327 Frankfurt am
 Main
 
 ### **12. OWASP Stammtisch Frankfurt | 29.01.2015, 19:30h**
-* Talk: **Jan Philipp | SharePoint Sicherheit im 'schlüpfrigen' Griff**
+* Talk: **Jan Philipp - SharePoint Sicherheit im 'schlüpfrigen' Griff**
 * Slides: [DOWNLOAD](https://wiki.owasp.org/images/6/6c/OWASP_Frankfurt_Stammtisch-SharePoint.Sicherheit.im.Griff-20150129.pdf)
 * Location: Franklinstraße 50, 60486 Frankfurt am Main
 
 ## 2014
 
 ### **11. OWASP Stammtisch Frankfurt | 27.11.2014, 19:30h**
-* Talk: **Johannes Schönborn | APT – the Good – the Bad, the Ugly**
+* Talk: **Johannes Schönborn - APT – the Good, the Bad and the Ugly**
 * Location: Tower 185, Friedrich-Ebert-Anlage 35-37, 60327 Frankfurt am Main
 
 ### **10. OWASP Stammtisch Frankfurt | 30.10.2014, 19:30h**
-* Talk: **Alexander Klink | Denial of Service auf Applikationsebene**
+* Talk: **Alexander Klink - Denial of Service auf Applikationsebene**
 * Note: _Stammtisch Frankfurt feierte sein Comeback!_
 * Slides: [DOWNLOAD](https://wiki.owasp.org/images/7/73/OWASP_Frankfurt_Stammtisch-DoS.auf.Applikationsebene-20141030.pdf)
 * Location: Tower 185, Friedrich-Ebert-Anlage 35-37, 60327 Frankfurt am Main

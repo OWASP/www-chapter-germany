@@ -3,7 +3,7 @@
 * back to [Lokale Stammtische](/www-chapter-germany/stammtische/#lokale-stammtische)
 * [Stammtisch FAQ](/www-chapter-germany/stammtische/#stammtisch-faq)
 
-### Meetup and others
+### Meetup and Social Media
 
 * [OWASP Frankfurt Stammtisch Meetup](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/)
 * [Twitter](https://twitter.com/owasp_frankfurt)
