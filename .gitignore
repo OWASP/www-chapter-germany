@@ -1,6 +1,7 @@
 __pycache__
 env
-.vscode
+.vscode/
+*.DS_Store
 .idea/
 _site/
 Gemfile.lock

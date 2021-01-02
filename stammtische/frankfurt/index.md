@@ -54,8 +54,7 @@ For 2021 most likely virtual - more details soon!
 Announced on Meetup: [Meetup](http://www.meetup.com/de/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/) and [Twitter](https://twitter.com/owasp_frankfurt)
 
 ### What?
-We usually have one or two talks about a related topic to IT or application security and then finish the evening socializing.
-
+We usually have one or two talks about a related topic to IT or application security as well as a workshop and then finish the evening socializing.
 
 ## Organization
 
@@ -71,7 +70,6 @@ Please note that vendor pitches are not allowed, so please adhere to the [OWASP 
 An overview of our past Frankfurt Stammtisch events from 2011 to 2020.
 
 ## 2019
-
 ### **46. OWASP Stammtisch Frankfurt | 23.10.2019**
 * Talk: **Reversing a Cobalt Strike Beacon**
 * Location: Capri by Fraser (Europa-Allee 42, Frankfurt)
@@ -82,39 +80,39 @@ An overview of our past Frankfurt Stammtisch events from 2011 to 2020.
 
 ### **44. OWASP Stammtisch Frankfurt | 27.02.2019, 19:30h**
 * Talk: **My favourite BBQ: Kerberoasting**
-* Slides: [DOWNLOAD](https://www.owasp.org/images/4/4a/OWASP_Frankfurt_-44_Kerberoasting.pdf)
-* Recording: [YOUTUBE](https://www.youtube.com/watch?v=WoqXAi5iHF4))
+* Slides: [PRESENTATION DECK](assets/slides/44_OWASP_Frankfurt_Stammtisch.pdf)
+* Recording: [YOUTUBE](https://www.youtube.com/watch?v=WoqXAi5iHF4)
 * Location: Exploit Labs will host us as Hotel Capri by Fraser (Europa-Allee 42, Frankfurt)
 
 ## 2018
 
 ### **43. OWASP Stammtisch Frankfurt | 07.11.2018, 19:30h**
 * Keynote: **Jim Manico - Introduction to OWASP and Application Security Verification Standard 4.0**
-* Slides: [DOWNLOAD](https://www.owasp.org/images/f/f8/Jim_Manico_-_Introduction_to_ASVS.pdf)
+* Slides: [PRESENTATION DECK](assets/slides/43_OWASP_Frankfurt_Stammtisch_1.pdf)
 * Talk: **Daniel Gora - Gamification of Application Security with OWASP Cornucopia**
-* Slides: [DOWNLOAD](https://www.owasp.org/images/1/10/OWASP_Stammtisch_Frankfurt_-_43.pdf)
+* Slides: [PRESENTATION DECK](assets/slides/43_OWASP_Frankfurt_Stammtisch_2.pdf)
 * Talk: Cedric Klosa - My Ethical Hacking Success Story with
 HackTheBox.eu
 * Location: Exploit Labs will host us as Hotel Capri by Fraser (Europa-Allee 42, Frankfurt)
 
 ### **42. OWASP Stammtisch Frankfurt | 05.09.2018, 19:30h**
 * Talk: **Johannes Schönborn - Getting Started with Ethical Hacking w/a Mentor**
-* Slides: [DOWNLOAD](https://www.owasp.org/images/f/f5/OWASP_FFM_42_Getting_Started_with_Ethical_Hacking_wa_Mentor.pdf)
+* Slides: [PRESENTATION DECK](assets/slides/42_OWASP_Frankfurt_Stammtisch.pdf)
 * Location: Blue Frost Security will once more host us at Hotel Capri
 
 ### **41. OWASP Stammtisch Frankfurt | 30.05.2018, 19:30h**
 * Talk: **Michael Ritter - Active Directory Hacking**
-* Slides: [DOWNLOAD](https://www.owasp.org/images/a/a4/OWASP_FFM_41_OffensiveActiveDirectory_101_MichaelRitter.pdf)
+* Slides: [PRESENTATION DECK](assets/slides/41_OWASP_Frankfurt_Stammtisch.pdf)
 * Location: Blue Frost Security will once more host us at Hotel Capri
 
 ### **40. OWASP Stammtisch Frankfurt | 28.03.2018, 19:30h**
 * Talk: **Kevin Ott - GoLang for Pentesting/Red Teaming**
-* Slides: [DOWNLOAD](https://www.owasp.org/images/f/f3/OWASP_FFM_40_Offensive_Go_Kevin_Ott.pdf))
+* Slides: [PRESENTATION DECK](assets/slides/40_OWASP_Frankfurt_Stammtisch.pdf)
 * Location: Blue Frost Security will once more host us at Hotel Capri
 
 ### **39. OWASP Stammtisch Frankfurt | 30.01.2018, 19:30h**
 * Talk: **Sebastian Haas - Fun with Bashbunny**
-* Slides: [DOWNLOAD](https://www.owasp.org/images/0/0c/OWASP_FFM_39_Fun_with_Bashbunny_Sebastian_Haas.pdf)
+* Slides: [PRESENTATION DECK](assets/slides/39_OWASP_Frankfurt_Stammtisch.pdf)
 * Location: Blue Frost Security will once more host us at Hotel Capri
 
 ## 2017
@@ -126,13 +124,13 @@ HackTheBox.eu
 ### **37. OWASP Stammtisch Frankfurt | 20.9.2017, 19:30h**
 
 * Talk: **Johannes Schönborn - Introduction to OWASP**
-* Slides: ([DOWNLOAD](https://www.dropbox.com/s/7lw08ws7oinqeht/OWASP_Stammtisch%2337.pdf?dl=0))
+* Slides: [PRESENTATION DECK](assets/slides/37_OWASP_Frankfurt_Stammtisch.pdf)
 * Location: Blue Frost Security will once more host us at Hotel Capri!
 
 ### **36. OWASP Stammtisch Frankfurt | 26.7.2017, 19:30h**
 
 * Talk: **Christoph - A closer look at Bionic - a software quality assessment and security analysis of Android's foundation**
-* Slides: [DOWNLOAD](https://www.owasp.org/images/5/54/Bionic_SQ.pdf)
+* Slides: [PRESENTATION DECK](assets/slides/36_OWASP_Frankfurt_Stammtisch.pdf)
 * Location: Blue Frost Security will once more host us at Hotel Capri!
 
 ### **35. OWASP Stammtisch Frankfurt | 31.5.2017, 19:30h**
@@ -185,14 +183,14 @@ HackTheBox.eu
 
 ### **24. OWASP Stammtisch Frankfurt | 25.02.2016, 19:30h**
 * Talk: **Boban Krsic - IT-Sicherheitsgesetz - und nun?"**
-* Slides: [DOWNLOAD](https://wiki.owasp.org/images/6/68/OWASP_Stammtisch_Frankfurt-IT-SiG-und-nun-2016.02.25.pdf)
+* Slides: [PRESENTATION DECK](assets/slides/24_OWASP_Frankfurt_Stammtisch.pdf)
 * Location: Tower 185, Friedrich-Ebert-Anlage 35-37, 60327 Frankfurt am Main
 
 ## 2015
 
 ### **23. OWASP Stammtisch Frankfurt | 28.01.2015, 19:30h**
 * Talk: **Christoph - Social Engineering**
-* Slides: [DOWNLOAD](https://wiki.owasp.org/images/9/94/OWASP_Stammtisch_Frankfurt-Social_Engineering-2016.01.28.pdf)
+* Slides: [PRESENTATION DECK](assets/slides/23_OWASP_Frankfurt_Stammtisch.pdf)
 * Location: Tower 185, Friedrich-Ebert-Anlage 35-37, 60327 Frankfurt am
 Main
 
@@ -203,12 +201,12 @@ Main
 
 ### **21. OWASP Stammtisch Frankfurt | 29.10.2015, 19:30h**
 * Talk: **Khalil Bijjou - Web Application Firewall Bypassing - how to defeat the blue team** 
-[DOWNLOAD](https://wiki.owasp.org/images/6/66/OWASP_Stammtisch_Frankfurt_-_Web_Application_Firewall_Bypassing_-_how_to_defeat_the_blue_team_-_2015.10.29.pdf)
+* Slides: [PRESENTATION DECK](assets/slides/21_OWASP_Frankfurt_Stammtisch.pdf)
 * Location: Tower 185, Friedrich-Ebert-Anlage 35-37, 60327 Frankfurt am Main
 
 ### **20. OWASP Stammtisch Frankfurt | 24.09.2015, 19:30h** 
 * Talk: **Jan Philipp - "Security Challenges of Cloud Providers" -  "Wie baue ich sichere Luftschlösser in den Wolken”)**
-* Slides: [DOWNLOAD](https://wiki.owasp.org/images/4/40/OWASP_Stammtisch_Frankfurt_-_Cloud_Provider_Challenges_-_2015.09.24.pdf)
+* Slides: [PRESENTATION DECK](assets/slides/20_OWASP_Frankfurt_Stammtisch.pdf)
 * Location: Franklinstraße 50, 60486 Frankfurt am Main
 
 ### **19. OWASP Stammtisch Frankfurt | 27.08.2015, 19:30h** 
@@ -217,28 +215,28 @@ Main
 
 ### **18. OWASP Stammtisch Frankfurt | 30.07.2015, 19:30h**
 * Talk: **Katharine Brylski - Ein Best-of-Konzept für Sicherheitsanalysen von Webanwendungen**
-* Slides: [DOWNLOAD](https://wiki.owasp.org/images/8/8e/OWASP_Stammtisch_Frankfurt_BestOfKonzept_Sicherheitsanalysen_Webanwendungen_20150730.pdf)
+* Slides: [PRESENTATION DECK](assets/slides/18_OWASP_Frankfurt_Stammtisch.pdf)
 * Location: Tower 185, Friedrich-Ebert-Anlage 35-37, 60327 Frankfurt am Main
 
 ### **17. OWASP Stammtisch Frankfurt | 25.06.2015, 19:30h**
 * Talk: **Alexios Fakos - (Un)Sicherheit bei ihrer Applikation? Präventiv statt reaktiv**
-* Slides: [DOWNLOAD](https://wiki.owasp.org/images/4/44/OWASP_Stammtisch_Frankfurt_%28Un%29Sicherheit.bei.ihrer.Applikation_20150628.pdf)
+* Slides: [PRESENTATION DECK](assets/slides/17_OWASP_Frankfurt_Stammtisch.pdf)
 * Location: Tower 185, Friedrich-Ebert-Anlage 35-37, 60327 Frankfurt am Main
 
 ### **16. OWASP Stammtisch Frankfurt | 28.05.2015, 19:30h**
 * Talk: **Marius Klimmek - Sowas wie Botnetze – Die dunkle Gefahr der Zombie Armee**
-* Slides: [DOWNLOAD](https://wiki.owasp.org/images/0/0c/OWASP_Stammtisch_Frankfurt_Botnetze-Presentation_20150525.pdf)
+* Slides: [PRESENTATION DECK](assets/slides/16_OWASP_Frankfurt_Stammtisch.pdf)
 * Location: Tower 185, Friedrich-Ebert-Anlage 35-37, 60327 Frankfurt am Main
 
 ### **15. OWASP Stammtisch Frankfurt | 30.04.2015, 19:30h** 
 * Talk: **Daniel Zelle - Einführung und Überblick - Von Car2X- bis In-Vehicel-Security**
-* Slides: [DOWNLOAD](https://wiki.owasp.org/images/1/12/OWASP_Stammtisch_Frankfurt_Von_Car2X-_bis_In-Vehicle-Security_20150430.pdf)
+* Slides: [PRESENTATION DECK](assets/slides/15_OWASP_Frankfurt_Stammtisch.pdf)
 * Location: Tower 185, Friedrich-Ebert-Anlage 35-37, 60327 Frankfurt am
 Main
 
 ### **14. OWASP Stammtisch Frankfurt | 26.03.2015, 19:30h**
 * Talk: **Michael Ritter - Web Application Firewall Profiling**
-* Slides: [DOWNLOAD](https://wiki.owasp.org/images/b/bf/OWASP_Stammtisch_Frankfurt_WAF_Profiling_and_Evasion.pdf)
+* Slides: [PRESENTATION DECK](assets/slides/14_OWASP_Frankfurt_Stammtisch.pdf)
 * Location: Franklinstraße 50, 60486 Frankfurt am Main
 
 ### **13. OWASP Stammtisch Frankfurt | 26.02.2015, 19:30h** 
@@ -248,7 +246,7 @@ Main
 
 ### **12. OWASP Stammtisch Frankfurt | 29.01.2015, 19:30h**
 * Talk: **Jan Philipp - SharePoint Sicherheit im 'schlüpfrigen' Griff**
-* Slides: [DOWNLOAD](https://wiki.owasp.org/images/6/6c/OWASP_Frankfurt_Stammtisch-SharePoint.Sicherheit.im.Griff-20150129.pdf)
+* Slides: [PRESENTATION DECK](assets/slides/12_OWASP_Frankfurt_Stammtisch.pdf)
 * Location: Franklinstraße 50, 60486 Frankfurt am Main
 
 ## 2014
@@ -260,7 +258,7 @@ Main
 ### **10. OWASP Stammtisch Frankfurt | 30.10.2014, 19:30h**
 * Talk: **Alexander Klink - Denial of Service auf Applikationsebene**
 * Note: _Stammtisch Frankfurt feierte sein Comeback!_
-* Slides: [DOWNLOAD](https://wiki.owasp.org/images/7/73/OWASP_Frankfurt_Stammtisch-DoS.auf.Applikationsebene-20141030.pdf)
+* Slides: [PRESENTATION DECK](assets/slides/10_OWASP_Frankfurt_Stammtisch.pdf)
 * Location: Tower 185, Friedrich-Ebert-Anlage 35-37, 60327 Frankfurt am Main
 
 ## 2013
