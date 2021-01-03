@@ -44,9 +44,12 @@ Das German Chapter engagiert(e) sich u.a. auch in den folgenden
 Initiativen der OWASP Foundation:
 
 * Vorsitz des
-  [Projects Committee](/www-committee-project/)
-* Review der
-  [Policies & Procedures](/www-policy/)
+  [Projects Committee](/www-committee-project/) seit 2020
+* Vertreter im Reviewteam der
+  [Policies & Procedures](/www-policy/) 2020/2021
+* Ausrichtung der
+  [OWASP AppSec Research 2013](https://2013.appsec.eu/) Konferenz in
+  Hamburg
 * [Best Practices: Web Application Firewalls](https://wiki.owasp.org/index.php/Category:OWASP_Best_Practices:_Use_of_Web_Application_Firewalls)
 
 
