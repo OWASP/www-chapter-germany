@@ -17,5 +17,6 @@
 * Jan Wolff
 * Martin Johns
 * Michael Schaefer
+* Timo Pagel
 * Tobias Glemser
 * Torsten Gigler
