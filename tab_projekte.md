@@ -27,10 +27,17 @@ lassen! Ein Ausschnitt:
 * <i class="fas fa-egg" style="color:#233e81;"></i>
   [OWASP DevSecOps Maturity Model](/www-project-devsecops-maturity-model/)
 * <i class="fas fa-egg" style="color:#233e81;"></i>
+  [OWASP secureCodeBox](/www-project-securecodebox/)
+* <i class="fas fa-egg" style="color:#233e81;"></i>
   [OWASP Top 10 für Entwickler](https://wiki.owasp.org/index.php/Category:OWASP_Top_10_fuer_Entwickler)
 
 ## Weitere Beteiligungen des German Chapter
 
+Das German Chapter engagiert(e) sich u.a. auch in den folgenden
+Initiativen der OWASP Foundation:
+
+* [Projects Committee](/www-committee-project/)
+* [Policy Reviews](/www-policy/)
 * [Best Practices: Web Application Firewalls](https://wiki.owasp.org/index.php/Category:OWASP_Best_Practices:_Use_of_Web_Application_Firewalls)
 
 
