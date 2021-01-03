@@ -16,7 +16,7 @@ lassen! Ein Ausschnitt:
   [OWASP Juice Shop](/www-project-juice-shop/)
   ![GitHub stars](https://img.shields.io/github/stars/bkimminich/juice-shop.svg?label=GitHub%20%E2%98%85&style=flat)
 * <i class="fas fa-flag" style="color:#2ADA08;"></i>
-  [OWASP Top 10 (Deutsche Übersetzung)](projekte/top_10/)
+  [OWASP Top 10](projekte/top_10/)
   ![GitHub stars](https://img.shields.io/github/stars/OWASP/Top10.svg?label=GitHub%20%E2%98%85&style=flat)
 * <i class="fas fa-flask" style="color:#FFA500;"></i>
   [OWASP SSL advanced forensic tool - O-Saft](/www-project-o-saft/)
