@@ -15,7 +15,13 @@ title: OWASP Germany > Stammtische > Hannover
 
 #### Aktuelle Treffen
 
-Zur Zeit stehen keine Termine an. Der für den 24. März 2020 geplante Stammtisch wurde abgesagt.
+##### 5\. Stammtisch: Mittwoch, 13.01.2021
+
+  - Jahresauftakt 2021
+  - Lokation: virtuell, Anmeldung via [Meetup](https://www.meetup.com/OWASP-Germany-Chapter-Stammtisch-Hannover/events/275591216/) oder Mail an benjamin.liebe@owasp.org. Einwahldaten werden dann im Vorfeld mitgeteilt.
+  - Start: 19:00 Uhr
+
+Nach ungeplanter Corona-Pause ist der Jahresanfang 2021 ein guter Anlass, um mit einer virtuellen Ausgabe unseres Stammtisches weiter zu machen. Bevor es wieder mit Vorträgen los geht, unterhalten wir uns an diesem Termin darüber, wie ein virtueller Stammtisch aussehen kann - und was uns sonst noch so einfällt.
 
 -----
 
