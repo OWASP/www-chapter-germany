@@ -15,6 +15,20 @@ title: OWASP Germany > Stammtische > Hannover
 
 #### Aktuelle Treffen
 
+##### 6\. Stammtisch: Mittwoch, 17.03.2021
+
+  - Vortrag von Johannes Späth: Sicherheitslücken in Serverless Applications
+  - Lokation: virtuell, Anmeldung via [Meetup](https://www.meetup.com/OWASP-Germany-Chapter-Stammtisch-Hannover/events/275985501/) oder Mail an benjamin.liebe@owasp.org. Einwahldaten werden dann im Vorfeld mitgeteilt.
+  - Start: 18:00 Uhr
+
+Abstract folgt.
+
+-----
+
+#### Vergangene Treffen
+
+-----
+
 ##### 5\. Stammtisch: Mittwoch, 13.01.2021
 
   - Jahresauftakt 2021
@@ -22,12 +36,6 @@ title: OWASP Germany > Stammtische > Hannover
   - Start: 19:00 Uhr
 
 Nach ungeplanter Corona-Pause ist der Jahresanfang 2021 ein guter Anlass, um mit einer virtuellen Ausgabe unseres Stammtisches weiter zu machen. Bevor es wieder mit Vorträgen los geht, unterhalten wir uns an diesem Termin darüber, wie ein virtueller Stammtisch aussehen kann - und was uns sonst noch so einfällt.
-
------
-
-#### Vergangene Treffen
-
------
 
 ##### 4\. Stammtisch: Mittwoch, 26.02.2020
 
