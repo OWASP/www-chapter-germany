@@ -15,7 +15,34 @@ Anyone with an interested and enthusiastic about IT and application security is 
 
 Referrals to this website or to individual meetings to colleagues or acquaintances are welcome.
 
-## Upcoming Events
+## Upcoming Events 
+
+### #47 OWASP FFM virtual Stammtisch virtual edition!
+
+OWASP Frankfurt Meetup #47 is going Virtual (24th Feb, 6pm CET)
+
+**[Sign up HERE for our OWASP Meetup Group Event](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/events/276117870/)**
+
+after trying to sit this out.... we're giving a virtual meetup a try!
+
+### What's going to happen?
+
+After a short overview of what's been happening with OWASP we'll present:
+- **[Kevin Ott](https://twitter.com/kevin0x90)** will talk about **Supply Chain Security** in response to the current SolarWind breach 
+- **Marius Klimmek** will talk about establishing **Purple Teaming** capabilities in your organization
+- We will conclude with **Artur Stöber** showing us how to do **CTF hacking** using VulnHub
+
+Then stay on for some socialising at our virtual bar afterwards.
+
+### When?
+24.02.2021, 18:00h
+
+### Where?
+To be announced via Meetup:
+https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/events/276117870/
+
+### And now?
+Spread the word, bring your friends / colleagues, please sign up via Meetup so we can plan accordingly
 
 {% include chapter_events.html group=page.meetup-group %}
 
