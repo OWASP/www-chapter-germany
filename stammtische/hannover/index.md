@@ -17,11 +17,18 @@ title: OWASP Germany > Stammtische > Hannover
 
 ##### 6\. Stammtisch: Mittwoch, 17.03.2021
 
-  - Vortrag von Johannes Späth: Sicherheitslücken in Serverless Applications
+  - Vortrag von Johannes Späth: Serverless - "No servers, everything secure?"
   - Lokation: virtuell, Anmeldung via [Meetup](https://www.meetup.com/OWASP-Germany-Chapter-Stammtisch-Hannover/events/275985501/) oder Mail an benjamin.liebe@owasp.org. Einwahldaten werden dann im Vorfeld mitgeteilt.
   - Start: 18:00 Uhr
 
-Abstract folgt.
+Inhalt:
+Der Trend zur Cloud ist überall spürbar. Immer mehr Unternehmen migrieren Software in die Cloud oder entwickeln neue Software direkt "Cloud-Native". Moderne Technologien (Infrastructure-as-Code), speziell für Cloud-Anwendung, erleichtern Development, Deployment bis hin zur Wartung der Cloud-Anwendung, Serverless ist eine dieser Technologien. Mit den neuen Cloud-Technologien haben sich allerdings auch die Verantwortlichkeiten für Security verändert.
+
+Dieser Vortrag gibt zunächst einen kurzen Überblick über Serverless-Anwendungen und deren Entwicklungsmethoden. Anschließend wird das Thema Security im Cloud-Kontext näher beleuchtet und mögliche Sicherheitslücken an einer Live-Demo veranschaulicht.
+
+Referent:
+Johannes Späth hat mehr als 5 Jahre das Thema Security und Programanalyse in Industrie- und Forschungsprojekten an Fraunhofer-Instituten in Darmstadt und Paderborn vorangetrieben, unter anderem durch Vorträge auf Konferenzen (EclipseCon France, 17. deutscher IT-Sicherheitskongress BSI, heise devSec 2019,...)
+2019 hat er seine Promotion im Bereich statische Codeanalyse abgeschlossen, die Dissertation wurde mehrfach ausgezeichnet. Seit 2020 ist Johannes Co-Founder des Startups CodeShield.
 
 -----
 
