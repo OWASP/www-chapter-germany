@@ -25,7 +25,7 @@ funktioniert und welche Formen und Ausprägungen verwendet werden,
 besprechen wir Challenge-Response Verfahren und wie diese in moderner
 starker Authentifizierung eingesetzt werden. Das Ganze betrachten wir
 anhand von FIDO2 und verbinden damit die Theorie mit der Praxis anhand
-echter Beispiele.<br>Bio:<br>Prof. Dr. Peter Trapp wurde zum 01.10.2017 auf das Lehrgebiet "Sichere IT-Systeme" an die
+echter Beispiele.<br><br>**Bio:**<br>Prof. Dr. Peter Trapp wurde zum 01.10.2017 auf das Lehrgebiet "Sichere IT-Systeme" an die
 Hochschule München berufen. Er ist dort für den Masterstudiengang IT-Sicherheit verantwortlich: "Ich freue mich immer über leuchtende Augen
 wenn das neue Wissen in die Köpfe sinkt (vor allem auch bei mir)."<br>
 
