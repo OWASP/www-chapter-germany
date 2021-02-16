@@ -11,19 +11,25 @@ meetup-group: OWASP_Muenchen_Stammtisch
 ### ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
 #### A K T U E L L E S :
-Einladung zum (**115.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 19.01.2021**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE! (Jitsi Meet)** \<\<\<
+Einladung zum (**116.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 23.02.2021**, um 19:00 Uhr (**4. Dienstag**).<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<
+
+\>\>\> **Wegen Faschingsdienstag eine Woche später, am 4. Dienstag!** \<\<\<<br>
 
 \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
 ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
-Hallo und alles Gute für 2021!<br>Wir sind schon 'mitten im Januar' und es wird wieder Zeit für den nächsten Münchner Online-OWASP-Stammtisch:<br>
-
 **Agenda**:
-* **Vortrag: Containers make the world go round (Dirk Wetter)**<br>Containerisierungen sind hip, aus gutem Grund -- aus Entwicklersicht zumindest. Es passt besser in agile Softwareentwicklung, der Weg vom Test zum Deployment in der Produktion ist mega-kurz, man kann vieles schön automatisieren und der Sysadmin kann einem nicht mehr im Weg rumstehen, da man ihm kein Deployment über den Zaun mehr werfen muss. Also vielleicht auch deswegen ein cooles Ding für Softwareentwickler.<br>Der Marketing-Hype ist zwar stiller geworden, aber ab und wann bekommt man immer noch suggeriert, wer nicht DevOps mit Containern und auf den letzten Schiet setzt, hat den Anschluss an unbedingt zu bedienende Trends und an die Welt verloren. Das Ganze geht dann so weit, dass auch in Umgebungen, wo es aus es aus Know-How-Gründen betrieblich gar nicht passt, es trotzdem gemacht wird.<br>Was kann da schon schiefgehen ??<br>Einer der Haken ist, dass der durchschnittliche Entwickler halt fern von Dingen ist wie System- und Netzwerk-Security oder -Architektur. Auch wenn heute mehr Mitarbeiter mit Kubernetes-/Rancher-/OKD-/younameit-Know-How zu finden sind, wachsen die a) nicht auf Bäumen b) bleibt das Ganze komplex in puncto Systeme und Netze und kommt nicht immer mit den besten Defaults.<br>Auch wenn man die Grundlagen halbwegs drauf hat, wird man nicht gleich zum Netz- und Systemsicherheitsarchitekten.<br>Dirk versucht sich mit Rants zurückzuhalten und in den knappen 45-60 min sich auf die wichtigsten Bedrohungen zu konzentrieren, auf die er bei Containerumgebungen gestoßen ist, in der Hoffnung, dass alles besser wird. Das Ganze ist Teil eines FLOSS-Projekts, den OWASP Docker/Container Top 10.<br>Bio<br>~ OWASP (Life time member, Deutsches Board, Hamburger Stammtisch, AppSec 2013, etc. pp.)<br>~ testssl.sh<br>~ Selbständiger Security-Berater seit ziemlich genau 11 Jahren<br>
+* **Vortrag: Moderne Starke Authentifizierung - Wie kann ich meine Accounts vor Zugriff schützen? (Peter Trapp)**<br>Wer kennt die Sätze nicht: "Ich habe nur 1 Passwort das ich mir merken kann." oder "Was soll es bedeuten, dass ich für jeden Service ein neues verwenden soll? Wie soll das gehen?"<br><br>**Also mal ehrlich: Wer mag denn schon Passwörter? Also weg damit!**<br><br>Nach einem kurzen anschaulichen Einblick wie unsere Verschlüsselung
+funktioniert und welche Formen und Ausprägungen verwendet werden,
+besprechen wir Challenge-Response Verfahren und wie diese in moderner
+starker Authentifizierung eingesetzt werden. Das Ganze betrachten wir
+anhand von FIDO2 und verbinden damit die Theorie mit der Praxis anhand
+echter Beispiele.<br>Bio:<br>Prof. Dr. Peter Trapp wurde zum 01.10.2017 auf das Lehrgebiet "Sichere IT-Systeme" an die
+Hochschule München berufen. Er ist dort für den Masterstudiengang IT-Sicherheit verantwortlich: "Ich freue mich immer über leuchtende Augen
+wenn das neue Wissen in die Köpfe sinkt (vor allem auch bei mir)."<br>
 
 Weitere Themen im Stammtisch:
-* Infos vom German-Chapter-Meeting am 16.12.2020
 * Freie Diskussion, bringt bitte Themen mit!
 * Wir suchen noch Vorträge für die kommenden Stammtische!
 
