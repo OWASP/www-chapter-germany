@@ -17,33 +17,6 @@ Referrals to this website or to individual meetings to colleagues or acquaintanc
 
 ## Upcoming Events 
 
-### #47 OWASP FFM virtual Stammtisch virtual edition!
-
-OWASP Frankfurt Meetup #47 is going Virtual (24th Feb, 6pm CET)
-
-**[Sign up HERE for our OWASP Meetup Group Event](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/events/276117870/)**
-
-after trying to sit this out.... we're giving a virtual meetup a try!
-
-### What's going to happen?
-
-After a short overview of what's been happening with OWASP we'll present:
-- **[Kevin Ott](https://twitter.com/kevin0x90)** will talk about **Supply Chain Security** in response to the current SolarWind breach 
-- **Marius Klimmek** will talk about establishing **Purple Teaming** capabilities in your organization
-- We will conclude with **Artur Stöber** showing us how to do **CTF hacking** using VulnHub
-
-Then stay on for some socialising at our virtual bar afterwards.
-
-### When?
-24.02.2021, 18:00h
-
-### Where?
-To be announced via Meetup:
-https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/events/276117870/
-
-### And now?
-Spread the word, bring your friends / colleagues, please sign up via Meetup so we can plan accordingly
-
 {% include chapter_events.html group=page.meetup-group %}
 
 <script type='text/javascript'>
@@ -71,17 +44,19 @@ Please join our [OWASP Frankfurt Stammtisch Meetup Group](https://www.meetup.com
 
 Anyone with an interest in our topics is welcome. All meetings are free and open. You do not have to be an OWASP member to attend. Referrals to this website or to individual meetings to colleagues or acquaintances are welcome.
 
-
 ## Information about Frankfurt Stammtisch Events
 
 ### When?
-For 2021 most likely virtual - more details soon!
+From 2021, we will be running a Meetup every 2-3 months with the option to have additional Meetups for hands-on workshops.  
 
 ### Where?
-Announced on Meetup: [Meetup](http://www.meetup.com/de/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/) and [Twitter](https://twitter.com/owasp_frankfurt)
+For 2021, we will be running fully virtual until further notice. 
+
+Upcoming events are aßnnounced on Meetup: [Meetup](http://www.meetup.com/de/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/) and [Twitter](https://twitter.com/owasp_frankfurt). 
+
 
 ### What?
-We usually have one or two talks about a related topic to IT or application security as well as a workshop and then finish the evening socializing.
+We usually have one or two talks about a related topic to information security with the option of a hands-on workshop in parallel.
 
 ## Organization
 
@@ -94,7 +69,17 @@ Please note that vendor pitches are not allowed, so please adhere to the [OWASP 
 
 ## Previous Events
 
-An overview of our past Frankfurt Stammtisch events from 2011 to 2020.
+An overview of our past Frankfurt Stammtisch events from 2011 to 2021.
+
+## 2021
+
+### **47. OWASP Stammtisch Frankfurt (Virtual) | 24.02.2021, 18:00h**
+* Keynote: **Kevin Ott - Emulating Supply Chain Attacks with Open Source Tools**
+* Talk: **Marius Klimmek - My Journey from Red to Purple Teaming**
+* Slides: [PRESENTATION DECK](assets/slides/47_OWASP_Frankfurt_Stammtisch_2.pdf)
+* Workshop: with Artur Stöber - Hands-On Hacking with VulnHub
+* Recording: [YOUTUBE](https://www.youtube.com/watch?v=Jk0-X6CK4Ys)
+* Location: Virtual - GoToMeeting
 
 ## 2019
 ### **46. OWASP Stammtisch Frankfurt | 23.10.2019**
