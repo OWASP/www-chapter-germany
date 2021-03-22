@@ -2,6 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Germany > Stammtische > Hamburg
+altfooter: true
 meetup-group: OWASP-Hamburg-Stammtisch
 
 ---
@@ -10,25 +11,25 @@ meetup-group: OWASP-Hamburg-Stammtisch
 
 ## Generelles
 
-Wer und Interesse hat mitzuwirken oder hosten möchte, bitte bei Dirk
-Wetter melden (dirk aet owasp puhunkt org). Bitte beachten, OWASP ist
-vendorneutral.
-
 ### Hamburg ist einen Vortrag Wert
 
-<b>Wir suchen Vorträge für die Stammtische in 2020</b>. Möchtest du
+<b>Wir suchen Vorträge für die Stammtische in 2021</b>. Möchtest du
 einen Vortrag halten? Prima\! Bitte um kurze Info an die Organisatoren,
 wenn du (für uns relevante) Themen parat hast, die du uns näher bringen
 möchtest. Wie bei OWASP üblich: Wir sind an Sicherheit im Internet --
 Technik, Organisation, Entwicklung, Datenschutz -- interessiert. Nicht
-an Marketing. Nicht an Buzzwords.
+an Marketing. Nicht an Buzzwords. OWASP ist vendorunabhängig.
+
+Wer und Interesse hat mitzuwirken oder hosten möchte, bitte bei Dirk
+Wetter oder Björn Kimminich melden (vorname.nachname@owasp.org).
 
 ### Wie bekomme ich Treffen mit?
 
-Tretet gerne unserer
+Tritt unserer
 [Meetup-Gruppe](http://www.meetup.com/OWASP-Hamburg-Stammtisch/) bei, um
 zeitnah über Treffen auf dem Laufenden zu bleiben. Die Meetup-Seite ist
-zudem meistens etwas aktueller.
+zudem meistens etwas aktueller. Alternativ werden Treffen über die OWASP-Deutschland
+[Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/) angekündigt.
 
 Jeder mit Interesse an unseren Themen ist willkommen. Alle Treffen sind
 frei und offen. Man muss dafür kein OWASP-Mitglied sein. Hinweise auf
@@ -38,6 +39,7 @@ gern gesehen.
 
 ### Aktuelle Treffen
 
+<!--
 {% include chapter_events.html group=page.meetup-group %}
 
 <script type='text/javascript'>
@@ -60,15 +62,48 @@ gern gesehen.
     });
   });
 </script>
+-->
+
+#### 55\. Stammtisch: 16.03.2021
+
+- Sprecher: Christian Folini
+- Titel (TBC): "ModSecurity CRS"
+- Lokation: Online
+- Presentation Language: English
+- [Meetup](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch/events/276707163/)
+<!--
+- [Slides](),[Video FHD](), [Video WQHD]()
+-->
 
 ### Vergangene Treffen
+
+#### 54\. Stammtisch: 16.03.2021
+
+- Sprecher: Ben Stock / Marius Steffens
+- Titel: "Content Security Policy - The Past, The Present, The Future?"
+- Lokation: Online
+- Presentation Language: English
+- [Meetup](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch/events/276707139/)
+- [Slides](assets/slides/2021-03-16%20Content%20Security%20Policy%20-%20Past,%20Present,%20Future.pdf), [Video](https://drive.google.com/file/d/1H1XgHi-QxmNLiaOL0vPqa0tSTp4RGzUP/view)
+
+#### 53\. Stammtisch: 29.01.2021
+
+- Sprecher: Sven Schleier / Carlos Holguera
+- Titel: "Building Secure Mobile Apps - (You don’t have to learn it the hard way!)"
+- Presentation Language: English
+- Lokation: Online
+- [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/275720948/)
+- [Slides](assets/slides/2021-01-29_Building%20Secure%20Mobile%20Apps.pdf), [Video](https://drive.google.com/file/d/1aIJcVB88xg2kx0j59hIDPNIJUzSr2sj7/view)
+
 
 #### 52\. Stammtisch: 09.12.2020
 
 - Sprecher: Jens Müller
 - Titel: "Portable Document Flaws 101"
-- Lokation: Google Meet
+- Presentation Language: English
+- Lokation: Online
 - [Meetup](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch/events/274668074/)
+- [Slides](assets/slides/2020-12-09_Portable%20Document%20Flaws%20101.pdf), [Video](https://drive.google.com/file/d/17CdQbvU8-8OvH-0Xbs7jRxwaPiQDTYy0/view)
 
 #### 51\. Stammtisch: 24.11.2020
 
@@ -76,7 +111,7 @@ gern gesehen.
 - Titel: "Juice Shop 12: Novelties by the litre (Online)"
 - Lokation: Google Meet
 - [Meetup](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch/events/272842835/)
-- [Youtube](https://www.youtube.com/watch?v=AUhDItHHLiY)
+- [Video](https://www.youtube.com/watch?v=AUhDItHHLiY)
 
 #### 50\. Stammtisch: 27.10.2020
 
