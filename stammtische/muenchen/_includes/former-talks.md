@@ -1,5 +1,6 @@
 ### Bereits gehaltene Stammtisch-Vorträge
 <!--- Alter Direkt-Link: https://wiki.owasp.org/index.php?title=OWASP_German_Chapter_Stammtisch_Initiative/M%C3%BCnchen#Bereits_gehaltene_Stammtisch-Vortr.C3.A4ge --->
+* Februar 2021: Moderne Starke Authentifizierung - Wie kann ich meine Accounts vor Zugriff schützen? (Peter Trapp)
 * Januar 2021: Containers make the world go round (Dirk Wetter) [OWASP-Projekt 'Docker Top 10'](https://owasp.org/www-project-docker-top-10/)
 * November 2020: Cyber-Angriffe auf KI-Algorithmen [Cyberattacks against AI] (Nurullah Demir)
 * Oktober 2020: The Web Cryptography API: Do not Trust Anybody! (Michael Fuchs)
