@@ -11,23 +11,16 @@ meetup-group: OWASP_Muenchen_Stammtisch
 ### ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
 #### A K T U E L L E S :
-Einladung zum (**116.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 23.02.2021**, um 19:00 Uhr (**4. Dienstag**).<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<
+Einladung zum (**117.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 30.03.2021**, um 19:00 Uhr (**letzter Dienstag**).<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<
 
-\>\>\> **Wegen Faschingsdienstag eine Woche später, am 4. Dienstag!** \<\<\<<br>
+\>\>\> **Dieses Mal am letzten Dienstag im März!** \<\<\<<br>
 
 \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
 ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
 **Agenda**:
-* **Vortrag: Moderne Starke Authentifizierung - Wie kann ich meine Accounts vor Zugriff schützen? (Peter Trapp)**<br>Wer kennt die Sätze nicht: "Ich habe nur 1 Passwort das ich mir merken kann." oder "Was soll es bedeuten, dass ich für jeden Service ein neues verwenden soll? Wie soll das gehen?"<br><br>**Also mal ehrlich: Wer mag denn schon Passwörter? Also weg damit!**<br><br>Nach einem kurzen anschaulichen Einblick wie unsere Verschlüsselung
-funktioniert und welche Formen und Ausprägungen verwendet werden,
-besprechen wir Challenge-Response Verfahren und wie diese in moderner
-starker Authentifizierung eingesetzt werden. Das Ganze betrachten wir
-anhand von FIDO2 und verbinden damit die Theorie mit der Praxis anhand
-echter Beispiele.<br><br>**Bio:**<br>Prof. Dr. Peter Trapp wurde zum 01.10.2017 auf das Lehrgebiet "Sichere IT-Systeme" an die
-Hochschule München berufen. Er ist dort für den Masterstudiengang IT-Sicherheit verantwortlich: "Ich freue mich immer über leuchtende Augen
-wenn das neue Wissen in die Köpfe sinkt (vor allem auch bei mir)."<br>
+* **Vortrag: Ransom Angriff, was tun? – Im Morgengrauen des „Day after“ (Ralf Reinhardt, Dr. Hermann Gumpp)**<br>Lösegeldforderungen haben sich schon seit langem als eines der lukrativsten Geschäftsmodelle für Cyberkriminelle erwiesen. Doch wer denkt, ein gutes Backup würde vor Ransomware schützen, muss eines Besseren belehrt werden, denn es mehren sich in letzter Zeit sogenannte “double extorsion attacks”, bei denen die Angreifer damit drohen, erbeutete Daten im Internet zu veröffentlichen und Firmen durch weitere Angriffe zu schädigen, wenn den Lösegeldforderungen nicht nachgegangen würde.<br>Die Vortragenden berichten aus der Praxis über typische Muster und Abläufe von Ransomware-Angriffen und zeigen best Practices zur Schadensbegrenzung, Forensik, Wiederherstellung der betroffenen Daten für die neu aufzusetzenden IT-Systeme und für das Krisenmanagement auf.<br>Während es im ersten Teil um die technischen Aspekte von Ransonware-Angriffen geht, werden im zweiten Teil Melde- und Dokumentationspflichten nach DSGVO behandelt. Denn oft dringen bei den durch die Ransomware verursachten Datenlecks zahlreiche personenbezogene Daten von Mitarbeitern, Kunden oder Geschäftspartnern nach außen, weshalb datenschutzrechtliche Aspekte, insbesondere die 72-stündige Meldepflicht zu berücksichtigen sind.<br><br>**Bios:**<br>Ralf Reinhardt ist ein IT-Sicherheitsexperte mit den Schwerpunkten Penetrationstests, Incident Response ("Vorfallsbewältigung") und IT-Forensik. Er ist seit vielen Jahren Lehrbeauftragter an aktuell drei deutschen Hochschulen u.a. für "Application Security" und "Ethical Hacking". Ralf ist ein "OWASP-Urgestein",  gründete unseren Münchner OWASP-Stammtisch und war lange Jahre Organisator. Bei Projekten und Übersetzungen des German OWASP Chapters ist Ralf Reinhard seit Jahren aktiv (z.B. Übersetzung der "OWASP Top 10", OWASP-Review des Entwurfs des "IT-Grundschutzbausteins Webanwendungen" des BSI). Er ist Geschäftsführer und Principal Consultant der CYBEReinhardt GmbH in Gröbenzell bei München.<br><br>Dr. Hermann Gumpp ist Special Advisor Cybersecurity & Data Protection beim Deutsch-Japanischen Wirtschaftskreis (DJW) und wissenschaftlicher Mitarbeiter am National Institute  for  Informatics (NII), Tokyo. Das Physikstudium und die Promotion hat der an der LMU München absolviert. Dr. Hermann Gumpp ist seit jeher Verfechter von freier und quelloffener Software, Mitbegründer der Linux Usergroup Rosenheim und ehemaliger Co-Organisator der OpenSolaris Usergroup München. Er ist seit 2018 Geschäftsführer der Enobyte GmbH in München.
 
 Weitere Themen im Stammtisch:
 * Freie Diskussion, bringt bitte Themen mit!
