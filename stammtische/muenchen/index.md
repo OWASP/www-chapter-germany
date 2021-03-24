@@ -13,7 +13,7 @@ meetup-group: OWASP_Muenchen_Stammtisch
 #### A K T U E L L E S :
 Einladung zum (**117.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 30.03.2021**, um 19:00 Uhr (**letzter Dienstag**).<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<
 
-\>\>\> **Dieses Mal am letzten Dienstag im März!** \<\<\<<br>
+\>\>\> **Dieses Mal am letzten Dienstag im März!** \<\<\< <br>
 
 \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
