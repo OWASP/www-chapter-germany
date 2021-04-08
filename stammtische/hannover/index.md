@@ -9,11 +9,33 @@ title: OWASP Germany > Stammtische > Hannover
 
   - Meetup:
     <https://www.meetup.com/OWASP-Germany-Chapter-Stammtisch-Hannover/>
-  - Ansprechpartner: Benjamin Liebe, <benjamin.liebe@owasp.org>
+  - Ansprechpartner: Benjamin Liebe <benjamin.liebe@owasp.org>, Richard Stephanus <richard.stephanus@owasp.org>
 
 ### Alle Treffen
 
 #### Aktuelle Treffen
+
+##### 7\. Stammtisch: Donnerstag, 22.04.2021
+
+  - Vortrag von Jan Hoff: Angriffsgraphen für Threat Modeling und Adversary Emulation
+  - Lokation: virtuell, Anmeldung via [Meetup](https://www.meetup.com/OWASP-Germany-Chapter-Stammtisch-Hannover/events/277157298/) oder Mail an benjamin.liebe@owasp.org. Einwahldaten werden dann im Vorfeld mitgeteilt.
+  - Start: 18:00 Uhr
+
+Inhalt:
+Infrastrukturen und Applikationen werden immer komplexer. Viele Angriffe sind im Nachgang „überraschend“ für Betroffene gewesen. Häufig hätten einzelne Angriffsphasen oder Schwachstellen bereits in der Entwicklung oder während des Betriebs durch ein angemessenes Threat Modeling und Gegenmaßnahmen unterbunden werden können. In der Softwareentwicklung haben STRIDE und ähnliche Ansätze bereits das Threat Modeling formalisieren können. Für die Emulation bzw. Simulation von ganzen Angriffsketten (Cyber Kill Chain) sind derartige Ansätze noch wenig etabliert. Häufig werden Purple oder Red Teams mit bekannten Szenarien oder Verhalten von Angreifergruppen realisiert. Ein „Build your own APT“-Ansatz kann Playbooks bzw. Angriffsketten entwickeln, gegen die Schutzmaßnahmen validiert werden können.
+
+Dieser Vortrag gibt einen Einblick in Threat Modeling, Adversary Emulation, Angriffsgraphen und wie diese dann im Rahmen von Purple Teaming für die Emulation von Angreifern zum Einsatz kommen können. Praktisch werden Angriffsgraphen in industriellen Steuerungssystemen anhand eines Prototyps demonstriert, der aus dem MITRE ATT&CK for ICS Framework entsprechende Tactics, Techniques und Procedures zu Angriffsketten kombiniert.
+
+Referent:
+Jan Hoff ist seit mehr als 10 Jahren in Kritischen Infrastrukturen im defensiven und offensiven Security-Umfeld aktiv und hat sowohl als Berater wie auch als Forensiker und Red Teamer zahlreiche Organisationen dabei unterstützt Sicherheitsmaßnahmen zu verbessern – sowohl im IT- als auch im OT-Bereich.
+
+Kürzlich hat er sein Studium mit einer Master Thesis über „Attack Graphs for Adversary Emulation, Simulation and Purple Teaming in Industrial Control System (ICS) Environments” abgeschlossen (https://www.pull-the-plug.net/thesis/).
+
+-----
+
+#### Vergangene Treffen
+
+-----
 
 ##### 6\. Stammtisch: Mittwoch, 17.03.2021
 
@@ -30,11 +52,6 @@ Referent:
 Johannes Späth hat mehr als 5 Jahre das Thema Security und Programanalyse in Industrie- und Forschungsprojekten an Fraunhofer-Instituten in Darmstadt und Paderborn vorangetrieben, unter anderem durch Vorträge auf Konferenzen (EclipseCon France, 17. deutscher IT-Sicherheitskongress BSI, heise devSec 2019,...)
 2019 hat er seine Promotion im Bereich statische Codeanalyse abgeschlossen, die Dissertation wurde mehrfach ausgezeichnet. Seit 2020 ist Johannes Co-Founder des Startups CodeShield.
 
------
-
-#### Vergangene Treffen
-
------
 
 ##### 5\. Stammtisch: Mittwoch, 13.01.2021
 
