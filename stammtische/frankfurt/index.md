@@ -17,6 +17,7 @@ Referrals to this website or to individual meetings to colleagues or acquaintanc
 
 ## Upcoming Events 
 
+
 {% include chapter_events.html group=page.meetup-group %}
 
 <script type='text/javascript'>
@@ -40,9 +41,30 @@ Referrals to this website or to individual meetings to colleagues or acquaintanc
   });
 </script>
 
+Hi everybody, we're looking forward for virtually meeting you again for our #48th OWASP Meetup!
+
+## What's going to happen?
+OWASP Made in Germany? Our focus is this time to spotlight some OWASP projects that were incubated or have been influenced by contribution of the German OWASP community. 
+Our spotlight will include the famous OWASP Juice Shop as well as  OWASP Security Pins, OWASP SAMM, OWASP SecureCodeBox, OWASP DefectDojo and much more! There will also be a hands-on session to get your hands dirty with application security.
+
+We are happy to announce that Timo Pagel will give us an overview of his active project contributions to various OWASP projects and share his experience of using them in the real world. Timo Pagel is a Freelancing DevSecOps Consultant (https://pagel.pro/) and a key contributor to both the German and international OWASP community.
+
+Dan Gora will then give a hands-on introduction session of OWASP JuiceShop and show you how to solve some funky challenges around code injection and XSS. 
+
+There will also be a lightning talk for Offensive Security Enthusiasts on Physical Red Teaming in Practice presented Mihael Stanojevic. Mihael is the founder of sixthdimension.io and specializes in physical aspects of red teaming.
+We will conclude the evening with the option to socialize afterwards in the meeting.
+
+## When?
+28.04.2021, 18:00h - 20.00h (ca. 2 hours)
+
+## Where?
+GoTo Meeting (https://www.gotomeet.me/owasp_ffm/48) - access details to be announced!
+
+## Further Notes
 Please join our [OWASP Frankfurt Stammtisch Meetup Group](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/) and follow us on [Twitter](https://twitter.com/owasp_frankfurt) for timely updates on our OWASP Stammtisch Frankfurt Meetup.
 
 Anyone with an interest in our topics is welcome. All meetings are free and open. You do not have to be an OWASP member to attend. Referrals to this website or to individual meetings to colleagues or acquaintances are welcome.
+
 
 ## Information about Frankfurt Stammtisch Events
 
