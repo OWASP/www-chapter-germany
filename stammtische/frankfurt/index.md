@@ -88,10 +88,9 @@ An overview of our past Frankfurt Stammtisch events from 2011 to 2021.
 ## 2021
 
 ### **48. OWASP Stammtisch Frankfurt (Virtual) | 28.04.2021, 18:00h**
-* Keynote: **Timo Pagel - Overview of OWASP (DevSecOps) project**
+* Keynote: **Timo Pagel - Overview of OWASP (DevSecOps) project** | [KEYNOTE SLIDES](assets/slides/48_OWASP_Frankfurt_Stammtisch_1.pdf)
 * Workshop: **Daniel Gora - Hands-On Introduction to OWASP Juice Shop**
-* Lightinig Talk: **Mihael Stanojevic - Physical Red Teaming**
-* Slides: [PRESENTATION DECK](assets/slides/48_OWASP_Frankfurt_Stammtisch.pdf)
+* Lightnig Talk: **Mihael Stanojevic - Physical Red Teaming** | [LIGHNTING TALK SLIDES](assets/slides/48_OWASP_Frankfurt_Stammtisch_2.pdf)
 * Recording: [YOUTUBE](https://youtu.be/8webiYnF56A)
 * Location: Virtual - OWASP Zoom
 
