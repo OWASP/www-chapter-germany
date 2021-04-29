@@ -41,24 +41,16 @@ Referrals to this website or to individual meetings to colleagues or acquaintanc
   });
 </script>
 
-Hi everybody, we're looking forward for virtually meeting you again for our #48th OWASP Meetup!
+Hi everybody, we're looking forward for virtually meeting you again for our #49th OWASP Meetup!
 
 ## What's going to happen?
-OWASP Made in Germany? Our focus is this time to spotlight some OWASP projects that were incubated or have been influenced by contribution of the German OWASP community. 
-Our spotlight will include the famous OWASP Juice Shop as well as  OWASP Security Pins, OWASP SAMM, OWASP SecureCodeBox, OWASP DefectDojo and much more! There will also be a hands-on session to get your hands dirty with application security.
-
-We are happy to announce that Timo Pagel will give us an overview of his active project contributions to various OWASP projects and share his experience of using them in the real world. Timo Pagel is a Freelancing DevSecOps Consultant (https://pagel.pro/) and a key contributor to both the German and international OWASP community.
-
-Dan Gora will then give a hands-on introduction session of OWASP JuiceShop and show you how to solve some funky challenges around code injection and XSS. 
-
-There will also be a lightning talk for Offensive Security Enthusiasts on Physical Red Teaming in Practice presented Mihael Stanojevic. Mihael is the founder of sixthdimension.io and specializes in physical aspects of red teaming.
-We will conclude the evening with the option to socialize afterwards in the meeting.
+To be announced - likely an exciting around offensive security, blue teaming or application security! 
 
 ## When?
-28.04.2021, 18:00h - 20.00h (ca. 2 hours)
+30.06.2021, 19:00h - 21.00h (ca. 2 hours)
 
 ## Where?
-GoTo Meeting (https://www.gotomeet.me/owasp_ffm/48) - access details to be announced!
+GoTo Meeting or Zoom - access details to be announced via Meetup!
 
 ## Further Notes
 Please join our [OWASP Frankfurt Stammtisch Meetup Group](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/) and follow us on [Twitter](https://twitter.com/owasp_frankfurt) for timely updates on our OWASP Stammtisch Frankfurt Meetup.
@@ -94,6 +86,14 @@ Please note that vendor pitches are not allowed, so please adhere to the [OWASP 
 An overview of our past Frankfurt Stammtisch events from 2011 to 2021.
 
 ## 2021
+
+### **48. OWASP Stammtisch Frankfurt (Virtual) | 28.04.2021, 18:00h**
+* Keynote: **Timo Pagel - Overview of OWASP (DevSecOps) project**
+* Workshop: **Daniel Gora - Hands-On Introduction to OWASP Juice Shop**
+* Lightinig Talk: **Mihael Stanojevic - Physical Red Teaming**
+* Slides: [PRESENTATION DECK](assets/slides/48_OWASP_Frankfurt_Stammtisch.pdf)
+* Recording: [YOUTUBE](https://youtu.be/8webiYnF56A)
+* Location: Virtual - OWASP Zoom
 
 ### **47. OWASP Stammtisch Frankfurt (Virtual) | 24.02.2021, 18:00h**
 * Keynote: **Kevin Ott - Emulating Supply Chain Attacks with Open Source Tools**
