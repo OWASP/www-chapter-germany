@@ -15,7 +15,17 @@ title: OWASP Germany > Stammtische > Hannover
 
 #### Aktuelle Treffen
 
+Aktuell steht noch kein neuer Termin fest.
+
+-----
+
+#### Vergangene Treffen
+
+-----
+
 ##### 7\. Stammtisch: Donnerstag, 22.04.2021
+
+[Folien als PDF](https://raw.githubusercontent.com/mehgrmlhmpf/MasterThesis/main/Attackgraphs_OWASP_Stammtisch_Handout_Jan_Hoff.pdf)
 
   - Vortrag von Jan Hoff: Angriffsgraphen für Threat Modeling und Adversary Emulation
   - Lokation: virtuell, Anmeldung via [Meetup](https://www.meetup.com/OWASP-Germany-Chapter-Stammtisch-Hannover/events/277157298/) oder Mail an benjamin.liebe@owasp.org. Einwahldaten werden dann im Vorfeld mitgeteilt.
@@ -30,12 +40,6 @@ Referent:
 Jan Hoff ist seit mehr als 10 Jahren in Kritischen Infrastrukturen im defensiven und offensiven Security-Umfeld aktiv und hat sowohl als Berater wie auch als Forensiker und Red Teamer zahlreiche Organisationen dabei unterstützt Sicherheitsmaßnahmen zu verbessern – sowohl im IT- als auch im OT-Bereich.
 
 Kürzlich hat er sein Studium mit einer Master Thesis über „Attack Graphs for Adversary Emulation, Simulation and Purple Teaming in Industrial Control System (ICS) Environments” abgeschlossen (https://www.pull-the-plug.net/thesis/).
-
------
-
-#### Vergangene Treffen
-
------
 
 ##### 6\. Stammtisch: Mittwoch, 17.03.2021
 
