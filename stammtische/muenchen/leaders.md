@@ -1,7 +1,5 @@
 ### Organisatoren
 
-* Torsten Gigler
-* Thomas Herzog
-* Christoph Kemetmüller 
-
-[Email vgl bisheriges Wiki](https://wiki.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/M%C3%BCnchen)
+* [Torsten Gigler](mailto:torsten.gigler@owasp.org)
+* [Thomas Herzog](mailto:thomas.herzog@owasp.org)
+* [Christoph Kemetmüller](mailto:christoph.kemetmueller@owasp.org)
