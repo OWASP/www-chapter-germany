@@ -15,7 +15,14 @@ title: OWASP Germany > Stammtische > Hannover
 
 #### Aktuelle Treffen
 
-Aktuell steht noch kein neuer Termin fest.
+##### 8\. Stammtisch: Dienstag, 20.07.2021
+
+ - Vortrag von Richard Stephanus und Benjamin Liebe zum Thema Organisation von Pentests
+ - Lokation: virtuell, Anmeldung via [Meetup](https://www.meetup.com/OWASP-Germany-Chapter-Stammtisch-Hannover/events/279085590/) oder Mail an benjamin.liebe@owasp.org. Einwahldaten werden dann im Vorfeld mitgeteilt.
+ - Start: 18:00 Uhr
+
+Inhalt:
+Finaler Titel und Abstract folgen noch.
 
 -----
 
