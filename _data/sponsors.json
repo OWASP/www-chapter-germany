@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Schutzwerk GmbH",
+    "image": "assets/images/sponsors/logos/logo_schutzwerk.png",
+    "url": "https://www.schutzwerk.com"
+  },
+  {
+    "name": "bitinspect GmbH",
+    "image": "assets/images/sponsors/logos/logo_bitinspect.png",
+    "url" : "https://bitinspect.de/"
+  },
+  {
+    "name": "secuvera GmbH",
+    "image": "assets/images/sponsors/logos/logo_secuvera.png",
+    "url": "https://www.secuvera.de"
+  },
+  {
+    "name": "sic[!]sec GmbH",
+    "image": "assets/images/sponsors/logos/logo_sicsec.png",
+    "url": "https://www.sicsec.de"
+  },
+  {
+    "name": "Xing",
+    "image": "assets/images/sponsors/logos/logo_xing.png",
+    "url": "https://corporate.xing.com/english/company/security-at-xing/"
+  }
+]
+
