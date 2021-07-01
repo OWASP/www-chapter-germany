@@ -8,23 +8,7 @@ tags: germany
 
 ## Sponsoren des German OWASP Chapters 
 
-[![Logo Schutzwerk](assets/images/sponsors/logos/logo_schutzwerk.png)](https://www.schutzwerk.com/)
-
----
-
-[![Logo Bitinspect](assets/images/sponsors/logos/logo_bitinspect.png)](https://bitinspect.de/)
-
----
-
-[![Logo Secuvera](assets/images/sponsors/logos/logo_secuvera.png)](https://www.secuvera.de/)
-
----
-
-[![Logo Sicsec](assets/images/sponsors/logos/logo_sicsec.png)](https://www.sicsec.de/)
-
----
-
-[![Logo Xing](assets/images/sponsors/logos/logo_xing.png)](https://corporate.xing.com/english/company/security-at-xing/)
+{% include sponsors.md data=site.data.sponsors %}
 
 ---
 
