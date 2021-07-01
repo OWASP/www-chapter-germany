@@ -5,14 +5,20 @@ tab: true
 order: 4
 tags: germany
 ---
+Entsprechend der [OWASP Donations Policy](https://owasp.org/www-policy/operational/donations) weisen wir auf folgendes hin:
+* (Englisch) The OWASP Foundation is very grateful for the support by the individuals and organizations listed. However please note, the OWASP Foundation is strictly vendor neutral and does not endorse any of its supporters.
+* (Deutsch) OWASP ist sehr dankbar für die Unterstützung durch die gelisteten Personen und Organisationen. Bitte beachten Sie trotzem, dass die OWASP Foundation strikt Herstellerneutral ist, und ihre Unterstützer nicht bewirbt oder befürwortet.
 
 ## Sponsoren des German OWASP Chapters 
 
 {% include sponsors.md data=site.data.sponsors %}
 
+## Unterstützer des German OWASP Chapters 
+{% include supporters.md data=site.data.ow_attributions %}
+
 ---
 
-## Germany/Chaptersponsor
+## Wie kann man Sponsor werden?
 
 OWASP ist ein gemeinnütziger Verein (in Europa mit Sitz in Belgien), der
 viele Projekte, Dokumente und Tools auf die Beine gestellt hat und so
@@ -26,45 +32,13 @@ wollen auch bezahlt sein.
 
 OWASP finanziert die Projekte und seine Organisation durch Sponsoren
 sowie Eintrittserlöse aus Veranstaltungen. Ein Sponsor unterstützt die
-Arbeit von OWASP nachhaltig. Für Firmen gibt es in Deutschland ein
-spezielles Angebot.
+Arbeit von OWASP nachhaltig.
 
-### Unser Angebot
+Sie haben künftig zwei Möglichkeiten - die Sie auch beide parallel
+nutzen können - auch in Zukunft OWASP zu unterstützen. Wir würden uns
+sehr darüber freuen: 
+* Werden Sie ein [OWASP "Corporate Supporter"](https://owasp.org/supporters/)
+* Unterstützen Sie das Chapter als [OWASP German Chapter Supporter](https://owasp.org/donate/?reponame=www-chapter-germany&title=OWASP+Germany)
 
-Für einen Jahresbeitrag von EUR 500,00 netto erhalten Sie:
-
-- Firmenbanner (PNG oder SVG, 320x100px) inkl. Link zu Ihrer Homepage
-  auf
-  [www.owasp.org/index.php/Germany](https://www.owasp.org/index.php/Germany)
-  (auch erreichbar über
-  [www.owasp.de](https://www.owasp.de/))
-- Berechtigung, sich „OWASP Germany Chapter Supporter“ in Texten zu
-  nennen und das Supporter Banner auf Ihrer Webseite zu platzieren
-- Ein Konferenzteilnehmer (inkl. Networking-Abend) Ihres Unternehmens
-  oder aus Ihrem Kundenkreis an der bislang jährlich stattfindenden
-  Konferenz des OWASP German Chapter
-
-### Interesse
-
-Schreiben Sie bitte an unseren Verantwortlichen für alle
-Sponsoringfragen
-[Alexios Fakos](mailto:alexios.fakos@owasp.org). Wir freuen uns auf Ihre
-Nachricht.
-
-### Supporter Banner
-
-Das Supporter Banner gibt es in zwei Varianten, in Farbe und
-transparent.
-
-#### Transparent
-
-![Supporter Banner Transparent](assets/images/sponsors/OWASP_Chapter_Sponsor_transparent.png)
-
----
-
-#### Farbe
-
-![Supporter Banner](assets/images/sponsors/OWASP_Chapter_Sponsor.png)
-
----
+Bitte nehmen Sie insbesondere Kenntnis von der [OWASP Donations Policy](https://owasp.org/www-policy/operational/donations).
 
