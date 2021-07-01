@@ -10,6 +10,7 @@ Entsprechend der [OWASP Donations Policy](https://owasp.org/www-policy/operation
 * (Deutsch) OWASP ist sehr dankbar für die Unterstützung durch die gelisteten Personen und Organisationen. Bitte beachten Sie trotzem, dass die OWASP Foundation strikt Herstellerneutral ist, und ihre Unterstützer nicht bewirbt oder befürwortet.
 
 ## Sponsoren des German OWASP Chapters 
+Wir danken unseren treuen Sponsoren des alten Sponsorenmodells, die wir noch bis Ende des Jahres 2021 führen werden.
 
 {% include sponsors.md data=site.data.sponsors %}
 
@@ -34,9 +35,7 @@ OWASP finanziert die Projekte und seine Organisation durch Sponsoren
 sowie Eintrittserlöse aus Veranstaltungen. Ein Sponsor unterstützt die
 Arbeit von OWASP nachhaltig.
 
-Sie haben künftig zwei Möglichkeiten - die Sie auch beide parallel
-nutzen können - auch in Zukunft OWASP zu unterstützen. Wir würden uns
-sehr darüber freuen: 
+Sie haben zwei Möglichkeiten - die Sie auch beide parallel nutzen können - OWASP zu unterstützen. Wir würden uns sehr darüber freuen: 
 * Werden Sie ein [OWASP "Corporate Supporter"](https://owasp.org/supporters/)
 * Unterstützen Sie das Chapter als [OWASP German Chapter Supporter](https://owasp.org/donate/?reponame=www-chapter-germany&title=OWASP+Germany)
 
