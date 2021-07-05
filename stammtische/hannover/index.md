@@ -17,12 +17,17 @@ title: OWASP Germany > Stammtische > Hannover
 
 ##### 8\. Stammtisch: Dienstag, 20.07.2021
 
- - Vortrag von Richard Stephanus und Benjamin Liebe zum Thema Organisation von Pentests
+ - Diskussionsabend: Organisation von Pentests
  - Lokation: virtuell, Anmeldung via [Meetup](https://www.meetup.com/OWASP-Germany-Chapter-Stammtisch-Hannover/events/279085590/) oder Mail an benjamin.liebe@owasp.org. Einwahldaten werden dann im Vorfeld mitgeteilt.
  - Start: 18:00 Uhr
+ - Moderation: Richard Stephanus, Benjamin Liebe
 
 Inhalt:
-Finaler Titel und Abstract folgen noch.
+Penetrationstests sind eine verbreitete Maßnahme, um die Sicherheit einer Anwendung zu prüfen. Wir wollen uns über die organisatorischen Aspekte solcher Projekte unterhalten: was ein Pentest ist (und was nicht), wie man ihn vorbereitet, durchführt - und was man mit den Ergebnissen anstellt.
+
+Egal, ob jemand vor der Aufgabe steht, einen solchen Test zu beauftragen und sich einfach orientieren möchte oder, ob jemand schon etliche Tests selbst koordiniert oder durchgeführt hat und die eigene Sicht beitragen möchte - wir wollen an diesem Abend die Plattform für eine interessante Diskusssion zu diesem Thema schaffen.
+
+Die Moderatoren Richard und Benjamin verfügen zusammen über mehrjährige Erfahrung in der Koordination solcher Tests und sind auf eure Fragen, Meinungen und Tipps gespannt!
 
 -----
 
