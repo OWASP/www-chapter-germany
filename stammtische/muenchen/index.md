@@ -11,7 +11,7 @@ meetup-group: OWASP_Muenchen_Stammtisch
 ### ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
 #### A K T U E L L E S :
-Einladung zum (**118.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 15.06.2021**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<
+Einladung zum (**119.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 20.07.2021**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<
 
 \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
@@ -34,9 +34,9 @@ Schönen Gruß,
 Orga-Team für den Münchner OWASP Stammtisch (Christoph, Thomas und [Torsten](https://wiki.owasp.org/index.php/User:T.Gigler)) 
 
 ## Geplante Stammtisch-Vorträge und -Diskussionen
-<!--- * Juli 2020,  21.07.2020 
-* August 2020: Sommerferien - KEIN OWASP-Stammtisch
-* Dezember 2020: Weihnachtsferien - KEIN OWASP-Stammtisch -->
+<!--- * Juli 2020,  21.07.2020 -->
+* August 2021: Sommerferien - KEIN OWASP-Stammtisch
+<!--- * Dezember 2020: Weihnachtsferien - KEIN OWASP-Stammtisch -->
 
 * <b>Wir suchen Vorträge für die nächsten Stammtische in 2021!</b><br>Möchte jemand einen Vortrag oder einen Lightning-Talk halten? Prima! Sobald wir eine konkrete Zusage haben, werden diese bei der Ankündigung des jeweiligen Termins mit bekannt geben.<br>Also, wie immer: Ich bitte um kurze Info an mich, ob jemand noch weitere (für uns relevante) Themen parat hat, die er uns näher bringen möchte. ''Verkaufsveranstalter werden alle 20 Minuten ausgebuht und müssen dann eine (neue) Runde Bier bezahlen.''
 
