@@ -1,5 +1,3 @@
-[![OWASP 20th Anniversary](assets/images/OWASP 20th Anniversary.jpeg)](https://20thanniversary.owasp.org/)
-
 ### Navigation ([🔙](/www-chapter-germany/))
 
 * zurück zu [OWASP Germany](/www-chapter-germany/)

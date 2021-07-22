@@ -1,3 +1,5 @@
+[![OWASP 20th Anniversary](assets/images/OWASP 20th Anniversary.jpeg)](https://20thanniversary.owasp.org/)
+
 ### Kontakt
 
 * [Google Group](https://groups.google.com/a/owasp.org/group/germany-chapter/) ([📧](mailto:germany-chapter@owasp.org))
