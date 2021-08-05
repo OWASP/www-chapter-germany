@@ -41,13 +41,13 @@ Referrals to this website or to individual meetings to colleagues or acquaintanc
   });
 </script>
 
-Hi everybody, we're looking forward for virtually meeting you again for our #49th OWASP Meetup!
+Hi everybody, we're looking forward for virtually meeting you again for our #50th OWASP Meetup!
 
 ## What's going to happen?
-To be announced - likely an exciting around offensive security, blue teaming or application security! 
+To be announced - usually exciting talks around offensive security, blue teaming or application security!
 
 ## When?
-30.06.2021, 19:00h - 21.00h (ca. 2 hours)
+25.08.2021, 18:30h - 20.30h (ca. 2 hours)
 
 ## Where?
 GoTo Meeting or Zoom - access details to be announced via Meetup!
@@ -86,6 +86,13 @@ Please note that vendor pitches are not allowed, so please adhere to the [OWASP 
 An overview of our past Frankfurt Stammtisch events from 2011 to 2021.
 
 ## 2021
+
+### **49. [OWASP Stammtisch Frankfurt](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/events/277885046/) (Virtual) | 28.07.2021, 18:30h**
+* Keynote: **Rory McCune - Container Orchestration Security** | [KEYNOTE SLIDES](assets/slides/49_OWASP_Frankfurt_Stammtisch_1.pdf)
+* Keynote Recording (Part 1): [YOUTUBE](https://youtu.be/DNmd_2vxVo0)
+* Talk: **Kyle Cucci - Malware Analysis to Drive Threat Hunting & Detection Engineering.** | [TALK SLIDES](assets/slides/49_OWASP_Frankfurt_Stammtisch_2.pdf)
+* Talk Recording (Part 2): [YOUTUBE](https://youtu.be/a3ETHloJDGo)
+* Location: Virtual - OWASP Zoom
 
 ### **48. OWASP Stammtisch Frankfurt (Virtual) | 28.04.2021, 18:00h**
 * Keynote: **Timo Pagel - Overview of OWASP (DevSecOps) project** | [KEYNOTE SLIDES](assets/slides/48_OWASP_Frankfurt_Stammtisch_1.pdf)
