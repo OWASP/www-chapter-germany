@@ -64,10 +64,26 @@ gern gesehen.
 </script>
 -->
 
+#### 57\. Stammtisch: September 2021
+
+TBA shortly
+
+### Vergangene Treffen
+
+#### 56\. Stammtisch: 05.08.2021
+
+- Sprecher: Florian Stahl
+- Titel: "OWASP Top 10 Privacy Risks"
+- Lokation: Online
+- Presentation Language: German
+- [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/279025024/)
+- [Slides](assets/slides/2021-08-05_OWASP%20Top%2010%20Privacy%20Risks%20v2.0.pdf)
+
+
 #### 55\. Stammtisch: 16.03.2021
 
 - Sprecher: Christian Folini
-- Titel (TBC): "ModSecurity CRS"
+- Titel: "ModSecurity CRS"
 - Lokation: Online
 - Presentation Language: English
 - [Meetup](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch/events/276707163/)
@@ -75,7 +91,7 @@ gern gesehen.
 - [Slides](),[Video FHD](), [Video WQHD]()
 -->
 
-### Vergangene Treffen
+
 
 #### 54\. Stammtisch: 16.03.2021
 
