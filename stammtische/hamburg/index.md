@@ -64,9 +64,12 @@ gern gesehen.
 </script>
 -->
 
-#### 57\. Stammtisch: September 2021
+#### 57\. Stammtisch: 02.09.2021
 
-TBA shortly
+- Sprecher: Christian Schneider
+- Titel: "Agiles Threat Modelling"
+- Lokation: Online
+- Mehr in Kürze
 
 ### Vergangene Treffen
 
