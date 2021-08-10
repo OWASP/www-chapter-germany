@@ -39,35 +39,11 @@ gern gesehen.
 
 ### Aktuelle Treffen
 
-<!--
-{% include chapter_events.html group=page.meetup-group %}
-
-<script type='text/javascript'>
-  $(function(){
-    $(".timeclass").hover(function() {
-      utc_str = $(this).text();
-      ndx = utc_str.indexOf(':');
-      st_hour_str = utc_str.substring(0, ndx);
-      st_min_str = utc_str.substring(ndx + 1, ndx + 3);
-      utc_dt = luxon.DateTime.utc(2020, 06, 06, parseInt(st_hour_str), parseInt(st_min_str), 0);
-      start_dt = utc_dt.setZone(luxon.DateTime.local().zoneName);
-
-      ndx = utc_str.lastIndexOf(':');
-      end_hour_str = utc_str.substring(ndx - 2, ndx - 1);
-      end_min_str = utc_str.substring(ndx + 1, ndx + 3);
-      utc_dt = luxon.DateTime.utc(2020, 06, 06, parseInt(end_hour_str), parseInt(end_min_str), 0);
-      end_dt = utc_dt.setZone(luxon.DateTime.local().zoneName);
-      popstr = start_dt.toLocaleString(luxon.DateTime.TIME_WITH_SECONDS) + ' to ' + end_dt.toLocaleString(luxon.DateTime.TIME_WITH_SHORT_OFFSET);
-      $(this).prop('title', popstr);
-    });
-  });
-</script>
--->
 
 #### 57\. Stammtisch: 02.09.2021
 
 - Sprecher: Christian Schneider
-- Titel: "Agiles Threat Modelling"
+- Titel: "Agile Threat Modeling"
 - Lokation: Online
 - Mehr in Kürze
 
@@ -83,7 +59,7 @@ gern gesehen.
 - [Slides](assets/slides/2021-08-05_OWASP%20Top%2010%20Privacy%20Risks%20v2.0.pdf)
 
 
-#### 55\. Stammtisch: 16.03.2021
+#### 55\. Stammtisch: 14.04.2021
 
 - Sprecher: Christian Folini
 - Titel: "ModSecurity CRS"
@@ -93,8 +69,6 @@ gern gesehen.
 <!--
 - [Slides](),[Video FHD](), [Video WQHD]()
 -->
-
-
 
 #### 54\. Stammtisch: 16.03.2021
 
