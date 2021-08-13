@@ -88,7 +88,7 @@ An overview of our past Frankfurt Stammtisch events from 2011 to 2021.
 ## 2021
 
 ### **49. [OWASP Stammtisch Frankfurt](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/events/277885046/) (Virtual) | 28.07.2021, 18:30h**
-* Keynote: **Rory McCune - Container Orchestration Security** | [KEYNOTE SLIDES](assets/slides/49_OWASP_Frankfurt_Stammtisch_1.pdf)
+* Keynote: **Rory McCune - Container Orchestration Security**
 * Keynote Recording (Part 1): [YOUTUBE](https://youtu.be/DNmd_2vxVo0)
 * Talk: **Kyle Cucci - Malware Analysis to Drive Threat Hunting & Detection Engineering.** | [TALK SLIDES](assets/slides/49_OWASP_Frankfurt_Stammtisch_2.pdf)
 * Talk Recording (Part 2): [YOUTUBE](https://youtu.be/a3ETHloJDGo)
