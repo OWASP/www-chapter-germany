@@ -44,7 +44,7 @@ aktuelle Hinweise, Stellenangebote oder Projektgesuche. Es gibt auch ein
 Mailarchiv der *alten* Liste, die nicht mehr genutzt wird.
 
 Wenn Sie nicht an den Meetings teilnehmen können, kontaktieren Sie
-einfach einen der German Chapter Board Member oder schreiben Sie eine
+einfach einen der German Chapter Leader oder schreiben Sie eine
 E-Mail an unsere Mailingliste
 [germany-chapter@owasp.org](mailto:germany-chapter@owasp.org).
 
