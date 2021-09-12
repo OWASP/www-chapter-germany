@@ -2,4 +2,5 @@
 
 * 
 
-Nachfolger gesucht!
+Ibrahim Akkulak (Organizer)
+Reza Asif (Co Organizer)
