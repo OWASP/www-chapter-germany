@@ -11,14 +11,14 @@ meetup-group: OWASP_Muenchen_Stammtisch
 ### ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
 #### A K T U E L L E S :
-Einladung zum (**119.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 20.07.2021**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<
+Einladung zum (**120.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 19.10.2021**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<
 
 \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
 ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
 **Agenda**:
-* **Vortrag (in Englisch): Discount Phish – Burn Better (Magnus Klaaborg Stubman)**<br>Do you wonder how life is as an attacker seeking to conduct a successful (spear) phishing campaign? "Discount Phish Burn Better" is a talk about how an attacker can improve his odds of successfully phishing a victim by reducing the cost of payload/malware development.<br><br>**Bio:**<br>Magnus started his career as a software developer and later turned his attention to Cyber Security, specifically attack and penetration testing, both digital and physical. Today Magnus specialize in Red Teaming.
+* **Vortrag (in Englisch): The making of the OWASP Top 10:2021 and beyond (Brian Glas)**<br>Ever wonder how the bread is made? We'll take you back into the kitchen so you can see how the [Top 10:2021](https://owasp.org/Top10) was made. We'll walk through the process of which decisions were made and why. Covering data collection, survey, data analysis, categorization, drafts, reviews, and the released product. This talk is not about what's in the Top 10, this talk is about what went into making the Top 10:2021.<br>**Bio:**<br>Brian Glas: Co-lead OWASP Top 10; Union University, Assistant Professor Of Computer Science<br>Brian has over 20 years of experience in various roles in IT and over a decade and a half of that in application development and security. His day job is serving as an Assistant Professor teaching a full load of Computer Science and Cybersecurity classes at Union University. He helped build FedEx's AppSec team, worked on the Trustworthy Computing team at Microsoft, consulted on software security for years, and served as a project lead and active contributor for SAMM v1.1-2.0+ and OWASP Top 10:2017 and 2021. Brian is a contributor to the RABET-V Pilot Program. He holds several Cybersecurity and IT certifications and is currently working on his Doctor of Computer Science in Cybersecurity and Information Assurance.  
 
 Weitere Themen im Stammtisch:
 * Freie Diskussion, bringt bitte Themen mit!
@@ -34,7 +34,7 @@ Schönen Gruß,
 Orga-Team für den Münchner OWASP Stammtisch (Christoph, Thomas und [Torsten](https://wiki.owasp.org/index.php/User:T.Gigler)) 
 
 ## Geplante Stammtisch-Vorträge und -Diskussionen
-<!--- * Juli 2020,  21.07.2020 -->
+<!--- * Juli 2020,  21.07.2020
 * August 2021: Sommerferien - KEIN OWASP-Stammtisch
 <!--- * Dezember 2020: Weihnachtsferien - KEIN OWASP-Stammtisch -->
 
