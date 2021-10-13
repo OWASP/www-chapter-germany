@@ -1,5 +1,7 @@
 ### Bereits gehaltene Stammtisch-Vorträge
 <!--- Alter Direkt-Link: https://wiki.owasp.org/index.php?title=OWASP_German_Chapter_Stammtisch_Initiative/M%C3%BCnchen#Bereits_gehaltene_Stammtisch-Vortr.C3.A4ge --->
+* Juli 2021: Discount Phish – Burn Better (Magnus Klaaborg Stubman)
+* Juni 2021: * Lightning-Talks/Diskussionen:<br>~ Open Security Information Base (OSIB) powered by OWASP [1st DRAFT] (Torsten Gigler),<br>~ Eindrücke vom NIST-Kick-Off: Software Supply Chain (2./3. 6. 2021) (Thomas Herzog, Torsten Gigler)
 * März 2021: Ransom Angriff, was tun? – Im Morgengrauen des „Day after“ (Ralf Reinhardt, Dr. Hermann Gumpp)
 * Februar 2021: Moderne Starke Authentifizierung - Wie kann ich meine Accounts vor Zugriff schützen? (Peter Trapp)
 * Januar 2021: Containers make the world go round (Dirk Wetter) [OWASP-Projekt 'Docker Top 10'](https://owasp.org/www-project-docker-top-10/)
