@@ -47,7 +47,7 @@ Hi everybody, we're looking forward for virtually meeting you again for our #50t
 To be announced - usually exciting talks around offensive security, blue teaming or application security!
 
 ## When?
-Upcoming soon, stay tuned!
+Announced via our [OWASP Frankfurt Stammtisch Meetup Group](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/).
 
 ## Where?
 GoTo Meeting or Zoom - access details to be announced via Meetup!
@@ -61,10 +61,10 @@ Anyone with an interest in our topics is welcome. All meetings are free and open
 ## Information about Frankfurt Stammtisch Events
 
 ### When?
-From 2021, we will be running a Meetup every 2-3 months with the option to have additional Meetups for hands-on workshops.  
+We will be running a Meetup every 2-3 months with the option to have additional Meetups for hands-on workshops.  
 
 ### Where?
-For 2021, we will be running fully virtual until further notice. 
+For the reminder of 2021, we will be running virtual. If you would like to host our Meetup in-person (event venue suitable for +50 people), please reach out to us.
 
 Upcoming events are aßnnounced on Meetup: [Meetup](http://www.meetup.com/de/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/) and [Twitter](https://twitter.com/owasp_frankfurt). 
 
@@ -86,6 +86,14 @@ Please note that vendor pitches are not allowed, so please adhere to the [OWASP 
 An overview of our past Frankfurt Stammtisch events from 2011 to 2021.
 
 ## 2021
+### **51. [OWASP Stammtisch Frankfurt](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/events/280950081/) (Virtual) | 27.10.2021, 19:00h**
+* Keynote: **Christian Schneider - Agile Threat Modeling using Open Source Tools** [KEYNOTE SLIDES](assets/slides/51_OWASP_Frankfurt_Stammtisch_1.pdf)
+* Talk: **Johannes Schönborn - Counterintelligence in Red Teaming using MITRE ENGAGE** | [TALK SLIDES](assets/slides/51_OWASP_Frankfurt_Stammtisch_2.pdf)
+* Talk: **Aaron Rinehart - A Primer on Security Chaos Engineering by Aaron Rinehart** | [TALK SLIDES]()
+* Recording (Full): [YOUTUBE]()
+* Location: Virtual - OWASP Zoom
+
+
 ### **50. [OWASP Stammtisch Frankfurt](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/events/280033268/) (Virtual) | 25.08.2021, 18:30h**
 * Keynote: **Felix Kosterhon - Vulnerability Research of Linux Audit Framework (auditd) and CVE-2020-35501** [KEYNOTE SLIDES](assets/slides/50_OWASP_Frankfurt_Stammtisch_1.pdf)
 * Talk: **Matthias Altmann - Malicious Code Injection via DOM Clobbering Technique** | [TALK SLIDES](assets/slides/50_OWASP_Frankfurt_Stammtisch_2.pdf)
