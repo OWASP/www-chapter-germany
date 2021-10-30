@@ -64,7 +64,7 @@ Anyone with an interest in our topics is welcome. All meetings are free and open
 We will be running a Meetup every 2-3 months with the option to have additional Meetups for hands-on workshops.  
 
 ### Where?
-For the reminder of 2021, we will be running virtual. If you would like to host our Meetup in-person (event venue suitable for +50 people), please reach out to us.
+For the remainder of 2021, we will be running virtual. If you would like to host our Meetup in-person (event venue suitable for +50 people), please reach out to us.
 
 Upcoming events are aßnnounced on Meetup: [Meetup](http://www.meetup.com/de/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/) and [Twitter](https://twitter.com/owasp_frankfurt). 
 
