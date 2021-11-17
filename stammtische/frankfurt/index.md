@@ -89,8 +89,8 @@ An overview of our past Frankfurt Stammtisch events from 2011 to 2021.
 ### **51. [OWASP Stammtisch Frankfurt](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/events/280950081/) (Virtual) | 27.10.2021, 19:00h**
 * Keynote: **Christian Schneider - Agile Threat Modeling using Open Source Tools** [KEYNOTE SLIDES](assets/slides/51_OWASP_Frankfurt_Stammtisch_1.pdf)
 * Talk: **Johannes Schönborn - Counterintelligence in Red Teaming using MITRE ENGAGE** | [TALK SLIDES](assets/slides/51_OWASP_Frankfurt_Stammtisch_2.pdf)
-* Talk: **Aaron Rinehart - A Primer on Security Chaos Engineering by Aaron Rinehart** | [TALK SLIDES]()
-* Recording (Full): [YOUTUBE]()
+* Talk: **Aaron Rinehart - A Primer on Security Chaos Engineering by Aaron Rinehart**
+* Recording (Full): [YOUTUBE](https://www.youtube.com/watch?v=_rntDrc3gHc)
 * Location: Virtual - OWASP Zoom
 
 
