@@ -21,6 +21,7 @@ Agenda:
  * Aus den Stammtischen (alle, 30 Minuten)
  * German OWASP Day: Stand der Dinge 
  * it-sa 21 und 22, IT Security Talk 2022 (Tobias, 15 Minuten)
+ * Deutsche Version der Top 10:2021 (Torsten, 10 Min)
  * Protokolle der alten Meetings (Tobias, 10 Minuten)
  * Sonstiges
 
