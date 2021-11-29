@@ -28,4 +28,10 @@ Agenda:
 Erweiterungen vorab an Tobias (tobias.glemser@owasp.org)
 
 ## Vergangene Chapter Meetings
+
+ * [2021-11-29](protocols/2021-11-29.pdf)
+ * [2020-12-16](protocols/2020-12-16.pdf)
+ * [2020-11-16](protocols/2020-11-16.pdf)
+ * [2019-12-09](protocols/2019-12-09.pdf)
+
 Die Chapter Meeting aus 2019 und früher sind im [alten Wiki](https://wiki.owasp.org/index.php/Germany/Chapter_Meetings) zu finden 
