@@ -132,3 +132,4 @@ richtige Stelle der OWASP Foundation weiterleiten.
 
 ### Online Stammtische
 OpenSource Software für Konferenzsysteme sind beispielsweise [Jitsi](https://jitsi.org/) und [BigBlueButton](https://bigbluebutton.org/).
+An option for a hosted instance of BigBlueButton is [senfcall](https://senfcall.de/).
