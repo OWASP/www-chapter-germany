@@ -130,3 +130,5 @@ OWASP-Foundation bei Meetup einfacher das OWASP-Meetup finden.
 Am Besten schickt ihr Tobias Glemser eine Mail mit eurem Vorhaben. Der wird das an die
 richtige Stelle der OWASP Foundation weiterleiten.
 
+### Online Stammtische
+OpenSource Software für Konferenzsysteme sind beispielsweise [Jitsi](https://jitsi.org/) und [BigBlueButton](https://bigbluebutton.org/).
