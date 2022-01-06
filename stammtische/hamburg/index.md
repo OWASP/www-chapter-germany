@@ -39,15 +39,23 @@ gern gesehen.
 
 ### Aktuelle Treffen
 
+#### 58\. Stammtisch: 13.01.2022
+
+- Kurzvorträge zu
+  - Thomas Patzke: "Honeypotting Log4Shell Exploitation Attempts"
+  - Nurullah Demir: "Our (in)Secure Web: Understanding Update Behavior of Websites and Its Impact on Security"
+  - Björn Kimminich: "Juice Shop 13: Now with Coding Challenges!"
+- Lokation: Online
+- [Meetup](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch/events/282692845/)
+
+### Vergangene Treffen
 
 #### 57\. Stammtisch: 02.09.2021
 
 - Sprecher: Christian Schneider
 - Titel: "Agile Threat Modeling"
 - Lokation: Online
-- Mehr in Kürze
-
-### Vergangene Treffen
+- [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/280027874/)
 
 #### 56\. Stammtisch: 05.08.2021
 
