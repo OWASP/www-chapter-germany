@@ -11,14 +11,16 @@ meetup-group: OWASP_Muenchen_Stammtisch
 ### ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
 #### A K T U E L L E S :
-Einladung zum (**121.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 16.11.2021**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<
+Einladung zum (**122.**) Münchner OWASP-Stammtisch als **ONLINE-Version** am **Di, 18.01.2022**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<
 
 \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
 ... wir freuen uns über neue Teilnehmer und 'Stammgäste' ...
 
-**Agenda**:
-* **Vortrag: Lessons from the trenches: Cyber Defense@work (Jens Bitter)**<br>- Aufgaben eines Cyber Defense Centers<br>- Einbettung in Unternehmensstrukturen<br>- Incident Response (Phasenmodell)<br>- Kritische Erfolgsfaktoren (auch anhand von Fallbeispielen)<br>**Bio:**<br>Jens Bitter ist seit >35 Jahren in der IT-Sicherheit unterwegs. Vom Hacker professionalisiert ins IT-Sicherheits- und Risikomanagement sowie Compliance/ Audit. Er unterstützt und berät Unternehmen im Enterprise-Bereich als Interims-Manager in den Rollen CISO, IT-Governance/ -Risk/ -Compliance/ -Security Manager oder Cyber Security Architekt/ Advisor
+**Agenda**: 
+* **Vortrag: Cyber Incident-Simulation mit Backdoors & Breaches (Klaus-E. Klingner)**<br>Is your team ready to act, when a hacker attacks? Does everybody know what to do and where the processes are documented? The only way to mak sure everybody is ready for the crisis is training, training, training. But doing Cyber Security Incident Training has its special challenges. Which scenario to choose? how to set the scene? It can be either a chore or it can be a lot of fun!<br><br>Practice over the last months has shown that using a gamified approach has the best chances of making such a training session successful for all involved. To facilitate this approach a card game called "Backdoors & Breaches" was developed and created by Blackhills Information Security and adapted to an online version by Klaus (https://bnb.silverday.de). In this talk he would like to introduce the audience to the "game" and show the participants how they can use this free tool in their own environment.<br><br>Klaus-E. Klingler stellt uns das Spiel vor und wir reisen mit ihm im Rahmen einer interaktiven Demo in die Simulationswelt ...<br>
+<br>*"Ein Hacker behauptet Zugriff auf sensitive Informationen Deines Unternehmens zu haben und droht diese zu veröffentlichen, falls ihm nicht eine erhebliche Summe in Bitcoins gezahlt wird. Es liegt an Dir und Deinem Team herauszufinden, wie (und ob ...) der Hacker in Euer System eingedrungen ist, wie er sich im Netz bewegt, seinen Zugriff persistiert und letztendlich wie er die Daten heruntergeladen hat." (https://bnb.silverday.de/game/index.php?gamekey=392f15ab-6c67-4688-9e2d-50c2495c936f)*<br>
+<br>Looking forward to see you in the game!<br><br>**Bio:**<br>Klaus-E. Klingner arbeitet als Divisional Information Security Officer bei Allianz Technology SE im Bereich Business Applications. Eines seiner Arbeitsgebiete ist Security Awareness für Entwickler und das Training von Cyber Security Professionals.
 
 Weitere Themen im Stammtisch:
 * Freie Diskussion, bringt bitte Themen mit!
@@ -35,8 +37,8 @@ Orga-Team für den Münchner OWASP Stammtisch (Christoph, Thomas und [Torsten](h
 
 ## Geplante Stammtisch-Vorträge und -Diskussionen
 <!--- * Juli 2020,  21.07.2020
-* August 2021: Sommerferien - KEIN OWASP-Stammtisch --->
-* Dezember 2021: Weihnachtsferien - KEIN OWASP-Stammtisch
+* August 2021: Sommerferien - KEIN OWASP-Stammtisch 
+* Dezember 2021: Weihnachtsferien - KEIN OWASP-Stammtisch --->
 
 * <b>Wir suchen Vorträge für die nächsten Stammtische in 2022!</b><br>Möchte jemand einen Vortrag oder einen Lightning-Talk halten? Prima! Sobald wir eine konkrete Zusage haben, werden diese bei der Ankündigung des jeweiligen Termins mit bekannt geben.<br>Also, wie immer: Ich bitte um kurze Info an mich, ob jemand noch weitere (für uns relevante) Themen parat hat, die er uns näher bringen möchte. ''Verkaufsveranstalter werden alle 20 Minuten ausgebuht und müssen dann eine (neue) Runde Bier bezahlen.''
 
