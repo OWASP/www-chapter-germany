@@ -39,6 +39,16 @@ gern gesehen.
 
 ### Aktuelle Treffen
 
+#### 59\. Stammtisch: 10.02.2022
+
+- Sprecher: Lukas Knittel
+- Titel (TBC) ~ "Cross-Site Leaks"
+- Lokation: Online
+- Presentation Language: German
+- URL und mehr: TBA
+
+### Vergangene Treffen
+
 #### 58\. Stammtisch: 13.01.2022
 
 - Kurzvorträge zu
@@ -47,8 +57,6 @@ gern gesehen.
   - Björn Kimminich: "Juice Shop 13: Now with Coding Challenges!"
 - Lokation: Online
 - [Meetup](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch/events/282692845/)
-
-### Vergangene Treffen
 
 #### 57\. Stammtisch: 02.09.2021
 
