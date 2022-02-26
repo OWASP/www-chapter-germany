@@ -57,7 +57,7 @@ gern gesehen.
 - Kurzvorträge zu
   - Thomas Patzke: "Honeypotting Log4Shell Exploitation Attempts"
   - Nurullah Demir: "Our (in)Secure Web: Understanding Update Behavior of Websites and Its Impact on Security"
-  - Björn Kimminich: "Juice Shop 13: Now with Coding Challenges!"
+  - Björn Kimminich: "Juice Shop 13: Now with Coding Challenges!" [Slides](https://juice-shop.github.io/juice-shop/stammtisch_hh_2022)
 - Lokation: Online
 - [Meetup](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch/events/282692845/)
 
