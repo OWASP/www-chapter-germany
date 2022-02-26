@@ -13,7 +13,7 @@ meetup-group: OWASP-Hamburg-Stammtisch
 
 ### Hamburg ist einen Vortrag Wert
 
-<b>Wir suchen Vorträge für die Stammtische in 2021</b>. Möchtest du
+<b>Wir suchen Vorträge für die Stammtische in 2022</b>. Möchtest du
 einen Vortrag halten? Prima\! Bitte um kurze Info an die Organisatoren,
 wenn du (für uns relevante) Themen parat hast, die du uns näher bringen
 möchtest. Wie bei OWASP üblich: Wir sind an Sicherheit im Internet --
@@ -39,15 +39,18 @@ gern gesehen.
 
 ### Aktuelle Treffen
 
-#### 59\. Stammtisch: 10.02.2022
-
-- Sprecher: Lukas Knittel
-- Titel (TBC) ~ "Cross-Site Leaks"
-- Lokation: Online
-- Presentation Language: German
-- URL und mehr: TBA
+#### 60\. Stammtisch: TBA
 
 ### Vergangene Treffen
+
+#### 59\. Stammtisch: 24.02.2022
+
+- Sprecher: Lukas Knittel
+- Titel: "XS-Leak und XS-Search Angriffe"
+- Lokation: Online
+- Presentation Language: German
+- [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/283818715/)
+- Slides: (assets/slides/2022-02-24_XS-Leak%20und%20XS-Search-Angriffe.pdf)
 
 #### 58\. Stammtisch: 13.01.2022
 
