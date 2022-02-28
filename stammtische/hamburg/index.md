@@ -50,7 +50,7 @@ gern gesehen.
 - Lokation: Online
 - Presentation Language: German
 - [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/283818715/)
-- Slides: (assets/slides/2022-02-24_XS-Leak%20und%20XS-Search-Angriffe.pdf)
+- [Slides](assets/slides/2022-02-24_XS-Leak%20und%20XS-Search-Angriffe.pdf)
 
 #### 58\. Stammtisch: 13.01.2022
 
