@@ -55,7 +55,7 @@ gern gesehen.
 #### 58\. Stammtisch: 13.01.2022
 
 - Kurzvorträge zu
-  - Thomas Patzke: "Honeypotting Log4Shell Exploitation Attempts"
+  - Thomas Patzke: "Honeypotting Log4Shell Exploitation Attempts" [Slides](assets/slides/2022-01-13_Log4Pot.pdf)
   - Nurullah Demir: "Our (in)Secure Web: Understanding Update Behavior of Websites and Its Impact on Security"
   - Björn Kimminich: "Juice Shop 13: Now with Coding Challenges!" [Slides](https://juice-shop.github.io/juice-shop/stammtisch_hh_2022)
 - Lokation: Online
