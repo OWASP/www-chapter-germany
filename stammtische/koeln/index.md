@@ -5,7 +5,7 @@ title: OWASP Germany > Stammtische > Köln
 
 ---
 
-## Willkommen beim OWASP Stammtisch zo Kölle am Ring
+## Willkommen beim OWASP Stammtisch zo Kölle am Rhing
 
 Am Fuße des Kölner Doms finden sich regelmäßig Interessierte aus dem Bereich IT- und Informations-Sicherheit zusammen. 
 Zwischen geplanten Vorträgen und offenen Diskussionen wird alterniert und damit der Spaß nicht zu kurz kommt, organisieren wir den Besuch 
