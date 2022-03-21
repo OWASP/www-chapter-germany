@@ -14,7 +14,7 @@ lokaler kölscher Kulturstätten.
 Jeder ist herzlich willkommen und kann gerne noch Freunde, Kollegen, Interessierte mitbringen. 
 
 ### ANKÜNDIGUNG -- 35. Stammtisch am 12. Mai 2022
-Nach langer Pause, wird wieder ein OWASP Stammtisch in Köln stattfinden. Bitte meldet euch bei ????? an, damit entsprechende 
+Nach langer Pause, wird wieder ein OWASP Stammtisch in Köln stattfinden. Bitte meldet euch beim [Getogether Event](https://gettogether.community/events/17957/owasp-stammtisch-cologne/) an, damit entsprechende 
 Räumlichkeiten durch das Organisationsteam vorgesehen werden können.
 
 #### Datum: 12. Mai 2022
