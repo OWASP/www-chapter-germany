@@ -15,6 +15,22 @@ title: OWASP Germany > Stammtische > Hannover
 
 #### Aktuelle Treffen
 
+##### 9\. Stammtisch: Donnerstag, 28.04.2022
+
+ - Netzwerken nach Ostern
+ - Lokation: virtuell, Anmeldung via [Meetup](https://www.meetup.com/OWASP-Germany-Chapter-Stammtisch-Hannover/events/284956234/) oder Mail an benjamin.liebe@owasp.org. Einwahldaten werden dann im Vorfeld mitgeteilt.
+ - Start: 19:00 Uhr
+
+Nach wieder etwas längerer Pause kommt der OWASP-Stammtisch Hannover nach Ostern im Jahr 2022 an.
+
+Wir starten erst mal etwas langsamer und treffen uns zum lockeren Austausch über AppSec-Themen, bevor es dann danach wieder mit Vorträgen los geht.
+
+-----
+
+#### Vergangene Treffen
+
+-----
+
 ##### 8\. Stammtisch: Dienstag, 20.07.2021
 
  - Diskussionsabend: Organisation von Pentests
@@ -29,11 +45,7 @@ Egal, ob jemand vor der Aufgabe steht, einen solchen Test zu beauftragen und sic
 
 Die Moderatoren Richard und Benjamin verfügen zusammen über mehrjährige Erfahrung in der Koordination solcher Tests und sind auf eure Fragen, Meinungen und Tipps gespannt!
 
------
 
-#### Vergangene Treffen
-
------
 
 ##### 7\. Stammtisch: Donnerstag, 22.04.2021
 
