@@ -39,7 +39,14 @@ gern gesehen.
 
 ### Aktuelle Treffen
 
-#### 60\. Stammtisch: TBA
+#### 60\. Stammtisch: 9.5.2022
+
+- Sprecher: Christian Folini
+- Titel: "What's new with the ModSecurity Core Rule Set 4.0"
+- Lokation: Online
+- Presentation Language: English
+- [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/285386836/)
+<!-- [Slides](),[Video FHD](), [Video WQHD]() -->
 
 ### Vergangene Treffen
 
@@ -85,7 +92,7 @@ gern gesehen.
 - Lokation: Online
 - Presentation Language: English
 - [Meetup](https://www.meetup.com/de-DE/OWASP-Hamburg-Stammtisch/events/276707163/)
-<!-- [Slides](),[Video FHD](), [Video WQHD]() -->
+- [Slides](assets/slides/2021-04-14_OWASP_ModSec-CRS-Intro.pdf)
 
 #### 54\. Stammtisch: 16.03.2021
 
