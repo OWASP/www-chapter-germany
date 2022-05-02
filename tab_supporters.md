@@ -1,5 +1,5 @@
 ---
-title: Sponsoren
+title: Supporters
 layout:  null
 tab: true
 order: 4
@@ -9,12 +9,10 @@ Entsprechend der [OWASP Donations Policy](https://owasp.org/www-policy/operation
 * (Englisch) The OWASP Foundation is very grateful for the support by the individuals and organizations listed. However please note, the OWASP Foundation is strictly vendor neutral and does not endorse any of its supporters.
 * (Deutsch) OWASP ist sehr dankbar für die Unterstützung durch die gelisteten Personen und Organisationen. Bitte beachten Sie trotzem, dass die OWASP Foundation strikt Herstellerneutral ist, und ihre Unterstützer nicht bewirbt oder befürwortet.
 
-## Sponsoren des German OWASP Chapters 
-Wir danken unseren treuen Sponsoren des alten Sponsorenmodells, die wir noch bis Ende des Jahres 2021 führen werden.
-
-{% include sponsors.md data=site.data.sponsors %}
 
 ## Unterstützer des German OWASP Chapters 
+<img src=https://owasp.org/assets/images/corp-member-logo/Guardsquare.png width=200>
+
 {% include supporters.md data=site.data.ow_attributions %}
 
 ---
