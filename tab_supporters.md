@@ -11,7 +11,7 @@ Entsprechend der [OWASP Donations Policy](https://owasp.org/www-policy/operation
 
 
 ## Unterstützer des German OWASP Chapters 
-![Supporter Logo of Guardsquare](assets/images/corp-member-logo/Guardsquare.png)
+![Supporter Logo of Guardsquare](https://owasp.org/assets/images/corp-member-logo/Guardsquare.png)
 
 {% include supporters.md data=site.data.ow_attributions %}
 
