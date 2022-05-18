@@ -1,5 +1,5 @@
 ### Organisation
 
-* [Johannes Schönborn](mailto:johannes.schoenborn@owasp.org)
 * [Daniel Gora](mailto:danielgora@owasp.org)
-* Kevin Ott
+* [Jonas Becker](mailto:jonas.becker@owasp.org)
+* [Johannes Schönborn](mailto:johannes.schoenborn@owasp.org)
