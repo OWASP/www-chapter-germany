@@ -77,7 +77,8 @@ An overview of our past Frankfurt Stammtisch events from 2011 to 2022.
 
 ## 2022
 ### **54. [OWASP Stammtisch Frankfurt](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/events/282029020/) (Virtual) | 25.05.2022, 18:00h CET**
-* Keynote: **Thomas Naunheim - OWASP Top 10 2021 Release** [KEYNOTE INFO](https://www.owasptopten.org/)
+* Keynote: **Thomas Naunheim - Defending Azure Active Directory** [KEYNOTE SLIDES](assets/slides/54_OWASP_Frankfurt_Stammtisch.pdf)
+* Talk: **Matthias Altmann - Introduction to CSRF attacks**
 * Location: Virtual - OWASP Zoom
 
 ### **53. [OWASP Stammtisch Frankfurt](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/events/282029020/) (Virtual) | 27.04.2022, 18:00h CET**
@@ -92,8 +93,8 @@ An overview of our past Frankfurt Stammtisch events from 2011 to 2022.
 * Location: Virtual - OWASP Zoom
 
 ### **51. [OWASP Stammtisch Frankfurt](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/events/280950081/) (Virtual) | 27.10.2021, 19:00h CET**
-* Keynote: **Christian Schneider - Agile Threat Modeling using Open Source Tools** [KEYNOTE SLIDES](assets/slides/51_OWASP_Frankfurt_Stammtisch_1.pdf)
-* Talk: **Johannes Schönborn - Counterintelligence in Red Teaming using MITRE ENGAGE** | [TALK SLIDES](assets/slides/51_OWASP_Frankfurt_Stammtisch_2.pdf)
+* Keynote: **Christian Schneider - Agile Threat Modeling using Open Source Tools** - [KEYNOTE SLIDES](assets/slides/51_OWASP_Frankfurt_Stammtisch_1.pdf)
+* Talk: **Johannes Schönborn - Counterintelligence in Red Teaming using MITRE ENGAGE** - [TALK SLIDES](assets/slides/51_OWASP_Frankfurt_Stammtisch_2.pdf)
 * Talk: **Aaron Rinehart - A Primer on Security Chaos Engineering by Aaron Rinehart**
 * Recording (Full): [YOUTUBE](https://www.youtube.com/watch?v=_rntDrc3gHc)
 * Location: Virtual - OWASP Zoom
@@ -101,8 +102,8 @@ An overview of our past Frankfurt Stammtisch events from 2011 to 2022.
 
 ### **50. [OWASP Stammtisch Frankfurt](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/events/280033268/) (Virtual) | 25.08.2021, 18:30h CET**
 * Keynote: **Felix Kosterhon - Vulnerability Research of Linux Audit Framework (auditd) and CVE-2020-35501** [KEYNOTE SLIDES](assets/slides/50_OWASP_Frankfurt_Stammtisch_1.pdf)
-* Talk: **Matthias Altmann - Malicious Code Injection via DOM Clobbering Technique** | [TALK SLIDES](assets/slides/50_OWASP_Frankfurt_Stammtisch_2.pdf)
-* Talk: **Calvin Hansch - Comparing Windows Host Auditing Tools for Pentests by Calvin Hansch CET** | [TALK SLIDES](assets/slides/50_OWASP_Frankfurt_Stammtisch_3.pdf)
+* Talk: **Matthias Altmann - Malicious Code Injection via DOM Clobbering Technique** - [TALK SLIDES](assets/slides/50_OWASP_Frankfurt_Stammtisch_2.pdf)
+* Talk: **Calvin Hansch - Comparing Windows Host Auditing Tools for Pentests by Calvin Hansch CET** - [TALK SLIDES](assets/slides/50_OWASP_Frankfurt_Stammtisch_3.pdf)
 * Recording (Full): [YOUTUBE](https://www.youtube.com/channel/UCcSCpYuuGeEIn70KQCF-4gQ)
 * Location: Virtual - OWASP Zoom
 
@@ -117,7 +118,7 @@ An overview of our past Frankfurt Stammtisch events from 2011 to 2022.
 ### **48. OWASP Stammtisch Frankfurt (Virtual) | 28.04.2021, 18:00h CET**
 * Keynote: **Timo Pagel - Overview of OWASP (DevSecOps) project** | [KEYNOTE SLIDES](assets/slides/48_OWASP_Frankfurt_Stammtisch_1.pdf)
 * Workshop: **Daniel Gora - Hands-On Introduction to OWASP Juice Shop**
-* Lightnig Talk: **Mihael Stanojevic - Physical Red Teaming** | [LIGHNTING TALK SLIDES](assets/slides/48_OWASP_Frankfurt_Stammtisch_2.pdf)
+* Lightning Talk: **Mihael Stanojevic - Physical Red Teaming** | [LIGHNTING TALK SLIDES](assets/slides/48_OWASP_Frankfurt_Stammtisch_2.pdf)
 * Recording: [YOUTUBE](https://youtu.be/8webiYnF56A)
 * Location: Virtual - OWASP Zoom
 
