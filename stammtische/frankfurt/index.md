@@ -75,6 +75,7 @@ Please note that vendor pitches are not allowed, so please adhere to the [OWASP 
 
 An overview of our past Frankfurt Stammtisch events from 2011 to 2022.
 
+
 ## 2022
 ### **54. [OWASP Stammtisch Frankfurt](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/events/282029020/) (Virtual) | 25.05.2022, 18:00h CET**
 * Keynote: **Thomas Naunheim - Defending Azure Active Directory** [KEYNOTE SLIDES](assets/slides/54_OWASP_Frankfurt_Stammtisch.pdf)
