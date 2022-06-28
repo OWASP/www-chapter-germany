@@ -39,6 +39,15 @@ gern gesehen.
 
 ### Aktuelle Treffen
 
+#### 61\. Stammtisch: 5.7.2022
+
+- Netzwerken / "{B,P}eering für die Sicherheit"
+- Lokation: Doris Diner, Grindelhof 43, 20146 Hamburg
+- Zeit: ab 18:30
+- [Meetup](https://www.meetup.com/de-DE/owasp-hamburg-stammtisch/events/286771686/)
+
+### Vergangene Treffen
+
 #### 60\. Stammtisch: 9.5.2022
 
 - Sprecher: Christian Folini
@@ -48,7 +57,6 @@ gern gesehen.
 - [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/285386836/)
 <!-- [Slides](),[Video FHD](), [Video WQHD]() -->
 
-### Vergangene Treffen
 
 #### 59\. Stammtisch: 24.02.2022
 
