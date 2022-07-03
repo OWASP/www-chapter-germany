@@ -7,28 +7,27 @@ title: OWASP Germany > Stammtische > Dresden
 
 ### Allgemeines
 
-Der Dresdner Stammtisch soll regelmäßig alle 1 bis 2 Monate stattfinden:
+Der Dresdner Stammtisch sollte - abhängig von den aktuellen Covid19-Beschränkungen - regelmäßig alle 1 bis 2 Monate stattfinden:
 
   - Festlegung auf ein vorab angekündigtes Thema pro Treffen, möglichst
     mit einem passenden Vortrag
   - Konkrete Ankündigung min. 2 Wochen vor Termin hier und auf der
     [Germany-Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/)
 
-Planung und Organisation übernimmt
-[Ben](mailto:benjamin.kellermann@gmx.de) bis auf Weiteres. Ich freue
-mich aber über jede helfende Hand\!
+Die Planung und Organisation des Stammtischs übernehmen derzeit
+[Ben](mailto:benjamin.kellermann@gmx.de) und [Marko](mailto:mwinkler@omgwtfquak.de). Weitere Mitstreiter und Supporter 
+sind allerdings herzlich willkommen!
 
 ### Nächster Stammtisch
 
 #### Wann? Was? Wer?
 
-  - 26\. Stammtisch am 01.11.2019 19:30 Uhr: Diskussion über neue Burp
-    2.0 Features
+  - 29\. Stammtisch am 19.07.2022 19:30 Uhr: Building malicious code continuously using Jenkins (Marko Winkler)
 
 #### Wo?
 
   - im [HQ des CCC Dresden, Zentralwerk, Riesaer
-    Straße 32](http://c3d2.de/space.html)
+    Straße 32](https://c3d2.de/space.html)
 
 ### Geplante Stammtisch-Vorträge
 
@@ -41,18 +40,14 @@ mich aber über jede helfende Hand\!
 
 ### Bereits gehaltene Stammtisch-Vorträge
 
-  - 1\. Stammtisch am 20.06.2013: OWASP / OWASP Top 10 (Mirko Richter),
-    [OWASP_OWASP_Top_10_2013-06-20.pptx](https://www.owasp.org/images/b/ba/OWASP_OWASP_Top_10_2013-06-20.pptx)
+  - 1\. Stammtisch am 20.06.2013: OWASP / OWASP Top 10 (Mirko Richter)
   - 2\. Stammtisch am 04.09.2013: Advanced Penetration Testing in
-    secured Enviroments (Marko Winkler),
-    [OWASP_Advanced_Penetration_Testing_2013-08-04.pptx](https://www.owasp.org/images/3/33/OWASP_Advanced_Penetration_Testing_2013-08-04.pptx)
+    secured Enviroments (Marko Winkler)
   - 3\. Stammtisch am 17.10.2013: Einführung in die iOS Sicherheitswelt
-    (Johannes Greiner),
-    [1](https://www.owasp.org/images/3/3c/OWASP_Einfuehrung_in_die_iOS_Sicherheitswelt.pdf)
+    (Johannes Greiner)
   - 4\. Stammtisch am 05.12.2013: Homebrewn BufferOverflow Exploits -
     Ausnutzung eines Buffer-Overflows im Cossfire-Server Step-By-Step
     (Benjamin Kellermann).
-    [2](https://www.owasp.org/images/0/00/04_stammtisch_dd.zip)
   - 5\. Stammtisch am 06.03.2013: In einer lockeren Runde haben wir uns
     über SSL und deren Angriffe unterhalten. Benjamin Kellermann hat
     durch das Programm geführt und dabei
@@ -66,7 +61,7 @@ mich aber über jede helfende Hand\!
   - 8\. Stammtisch am 20.10.2014: Burp Suite vs. OWASP ZAP (Marko
     Winkler und Benjamin Kellermann)
   - 9\. Stammtisch am 17.11.2014: O-Saft, EnDe und andere Tools
-    ([Achim](User:Achim "wikilink"))
+    (Achim))
   - 10\. Stammtisch am 06.03.2015 19:00 Uhr: Social Hacking (Thomas
     Haase und Robert Vattig)
   - 11\. Stammtisch am 16.06.2015 19:00 Uhr: Capture the Web-App Flag
@@ -83,10 +78,8 @@ mich aber über jede helfende Hand\!
   - 16\. Stammtisch am 09.09.2016 19:30 Uhr: DARPA Cyber Grand Challenge
     (Maik Münch)
   - 17\. Stammtisch am 24.10.2016 19:30 Uhr: Vagrant (Thomas Engel)
-    [Presentation-2016-NOUNCE-Vagrant_-_Up_and_Running](https://www.owasp.org/images/a/a8/Presentation-2016-NOUNCE-Vagrant_-_Up_and_Running-v2.4.pdf)
   - 18\. Stammtisch am 08.02.2017 19:30 Uhr: Android App Security (Marko
     Winkler)
-    [Mobile_android_hacking.pdf](https://www.owasp.org/images/8/8f/Mobile_android_hacking.pdf)
   - 19\. Stammtisch am 27.02.2017 19:30 Uhr: Bot or Not? - Mitigating
     Automated Threats to Web Applications (Bastian Braun)
   - 20\. Stammtisch am 10.04.2017 19:30 Uhr: Same-Origin-Policy (SOP),
@@ -97,17 +90,20 @@ mich aber über jede helfende Hand\!
   - 22\. Stammtisch am 26.03.2018 19:30 Uhr: Smart Contract Hacking (Tim
     + Thomas)
   - 23\. Stammtisch am 13.08.2018 19:30 Uhr: Marshaller Deserialization
-    Attacks (Marko Winkler) [:<File:Marshaller> Deserialization
-    Attacks.pdf.pdf](:File:Marshaller_Deserialization_Attacks.pdf.pdf "wikilink")
+    Attacks (Marko Winkler)
   - 24\. Stammtisch am 04.10.2018 19:30 Uhr: Docker Security inkl. CTF
     (Thomas)
   - 25\. Stammtisch am 02.11.2018 19:30 Uhr: Common API security
     pitfalls (Philippe De Ryck)
+  - 26\. Stammtisch am 01.11.2019 19:30 Uhr: Diskussion über neue Burp
+    2.0 Features
+  - 27\. Stammtisch am 09.01.2020 19:30 Uhr: Dynamic code instrumentation mit Frida unter Android (Marko Winkler)
+  - 28\. Stammtisch am 10.02.2020 19:30 Uhr: Einführung in die ISO 27001 (Thomas Bachmann)
 
 ### In eigener Sache
 
 Jedwede Werbung für diesen (oder auch einen
-[anderen](Germany/Stammtisch_Initiative "wikilink")) Stammtisch ist
+anderen OWASP-Stammtisch ist
 willkommen\! Also, wenn ihr jemanden kennt, der jemanden kennt, der
 jemanden kennt \[...\] der mal erwähnt hat, sich für
 Anwendungssicherheit zu interessieren, dann bitte nachfragen, ob er
