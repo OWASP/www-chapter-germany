@@ -17,8 +17,8 @@ Einladung zum (**126.**) Münchner OWASP-Stammtisch **vor Ort** im **Biergarten 
 \>\>\> Bitte **meldet Euch** bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, dann können wir Euch zusenden, wo wir einen Tisch im Biergarten gefunden haben. \<\<\<
 <!---- \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
------>Nach vielen Online-Meetings ein persönliches Treffen und diskutieren im Biergarten :-).
-** Wir freuen uns, Euch bei super Biergarten-Wetter tu treffen **
+----->Nach vielen Online-Meetings ein persönliches Treffen und diskutieren im Biergarten :-).<br>
+**Wir freuen uns, Euch bei super Biergarten-Wetter tu treffen**
 
 <!--------
 **Agenda**: 
