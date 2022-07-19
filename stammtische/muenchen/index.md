@@ -15,8 +15,7 @@ Einladung zum (**126.**) Münchner OWASP-Stammtisch **vor Ort** im **Biergarten 
 <!---- als **ONLINE-Version** am **Di, 21.06.2022**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<  --->
 
 \>\>\> Bitte **meldet Euch** bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, dann können wir Euch zusenden, wo wir einen Tisch im Biergarten gefunden haben. \<\<\<
-<!---- 
-\>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
+<!---- \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
 ----->Nach vielen Online-Meetings ein persönliches Treffen und diskutieren im Biergarten :-).
 ** Wir freuen uns, Euch bei super Biergarten-Wetter tu treffen **
