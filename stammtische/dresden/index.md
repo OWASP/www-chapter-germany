@@ -22,7 +22,8 @@ sind allerdings herzlich willkommen!
 
 #### Wann? Was? Wer?
 
-  - 29\. Stammtisch am 19.07.2022 19:30 Uhr: Building malicious code continuously using Jenkins (Marko Winkler)
+  - 30\. Stammtisch am 24.08.2022 19:30 Uhr: Ben wird voraussichtlich einen Vortrag über eine (Neu-)
+    Kategorisierung von Schwachstellen präsentieren.
 
 #### Wo?
 
@@ -87,8 +88,8 @@ sind allerdings herzlich willkommen!
     (Falk + Ben)
   - 21\. Stammtisch am 15.06.2017 19:30 Uhr: Erweiterbarer Wordlist
     Generator in Python (Thomas)
-  - 22\. Stammtisch am 26.03.2018 19:30 Uhr: Smart Contract Hacking (Tim
-    + Thomas)
+  - 22\. Stammtisch am 26.03.2018 19:30 Uhr: Smart Contract Hacking(Tim
+    und Thomas)
   - 23\. Stammtisch am 13.08.2018 19:30 Uhr: Marshaller Deserialization
     Attacks (Marko Winkler)
   - 24\. Stammtisch am 04.10.2018 19:30 Uhr: Docker Security inkl. CTF
@@ -99,12 +100,13 @@ sind allerdings herzlich willkommen!
     2.0 Features
   - 27\. Stammtisch am 09.01.2020 19:30 Uhr: Dynamic code instrumentation mit Frida unter Android (Marko Winkler)
   - 28\. Stammtisch am 10.02.2020 19:30 Uhr: Einführung in die ISO 27001 (Thomas Bachmann)
+  - 29\. Stammtisch am 19.07.2022 19:30 Uhr: Building malicious code continuously using Jenkins (Marko Winkler) | [TALK SLIDES](assets/slides/2022-07-19_building-malicious-software.pdf)
 
 ### In eigener Sache
 
 Jedwede Werbung für diesen (oder auch einen
-anderen OWASP-Stammtisch ist
-willkommen\! Also, wenn ihr jemanden kennt, der jemanden kennt, der
+anderen OWASP-Stammtisch) ist willkommen\! Also, wenn ihr jemanden 
+kennt, der jemanden kennt, der
 jemanden kennt \[...\] der mal erwähnt hat, sich für
 Anwendungssicherheit zu interessieren, dann bitte nachfragen, ob er
 nicht vielleicht die Runde bereichern möchte\! ;)
