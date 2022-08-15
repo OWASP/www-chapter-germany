@@ -22,8 +22,7 @@ sind allerdings herzlich willkommen!
 
 #### Wann? Was? Wer?
 
-  - 30\. Stammtisch am 24.08.2022 19:30 Uhr: Ben wird voraussichtlich einen Vortrag über eine (Neu-)
-    Kategorisierung von Schwachstellen präsentieren.
+  - 30\. Stammtisch am 24.08.2022 19:30 Uhr: Besser als OWASP Top 10, CWE Top 25, ASVS, OTG, BSI-5-Level-Modell: Der Versuch einer entwicklerzentrierten Klassifizierung von AppSec-Schwachstellen
 
 #### Wo?
 
@@ -100,7 +99,7 @@ sind allerdings herzlich willkommen!
     2.0 Features
   - 27\. Stammtisch am 09.01.2020 19:30 Uhr: Dynamic code instrumentation mit Frida unter Android (Marko Winkler)
   - 28\. Stammtisch am 10.02.2020 19:30 Uhr: Einführung in die ISO 27001 (Thomas Bachmann)
-  - 29\. Stammtisch am 19.07.2022 19:30 Uhr: Building malicious code continuously using Jenkins (Marko Winkler) | [TALK SLIDES](assets/slides/2022-07-19_building-malicious-software.pdf)
+  - 29\. Stammtisch am 19.07.2022 19:30 Uhr: Building malicious code continuously using Jenkins (Marko Winkler) -- [TALK SLIDES](assets/slides/2022-07-19_building-malicious-software.pdf)
 
 ### In eigener Sache
 
