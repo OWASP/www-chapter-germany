@@ -4,10 +4,10 @@
 * [Stammtisch FAQ](/www-chapter-germany/stammtische/#stammtisch-faq)
 
 ### Meetup and Social Media
-* [OWASP Frankfurt Stammtisch Meetup](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/)
+* [OWASP Frankfurt Meetup](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/)
 * [Twitter](https://twitter.com/owasp_frankfurt)
 * [Slack - OWASP](https://owasp.slack.com)
-* [Slack - OWASP Stammtisch FFM Slack Channel](https://join.slack.com/share/zt-kioa9og3-BY5VPOQrSmrhvivTstRqWA)
+* [Slack - OWASP Frankfurt Slack Channel](https://join.slack.com/share/zt-kioa9og3-BY5VPOQrSmrhvivTstRqWA)
 
 ### Further Frankfurt Stammtisch Information
 * [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
