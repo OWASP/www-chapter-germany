@@ -87,7 +87,7 @@ An overview of our past Frankfurt Stammtisch events from 2011 to 2022.
 ### **55. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt-chapter/events/286925136) (Virtual) | 25.07.2022, 18:00h CET**
 * Keynote: **Dan Gora - Can't you keep a secret? Learn Secrets Management with OWASP WrongSecrets** [KEYNOTE SLIDES](assets/slides/55_OWASP_Frankfurt_Stammtisch_1.pdf)
 * Talk: **Nicole Rother - The Forensic Hunt for Malware Campaigns of Cyber Criminals**
-* Talk: **Jonas Becker - A pragmatic approach to threat modelling**
+* Talk: **Jonas Becker - A pragmatic approach to threat modelling** [TALK SLIDES](assets/slides/55_OWASP_Frankfurt_Stammtisch_3.pdf)
 * Location: BEEHIVE Frankfurt City, Mainzer Landstraße 33a · Frankfurt am Main
 
 ### **54. [OWASP Stammtisch Frankfurt](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/events/282029020/) (Virtual) | 25.05.2022, 18:00h CET**
