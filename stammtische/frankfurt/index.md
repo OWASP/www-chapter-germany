@@ -53,7 +53,7 @@ Please join our [OWASP Frankfurt Stammtisch Meetup Group](https://www.meetup.com
 Anyone with an interest in our topics is welcome. All meetings are free and open. You do not have to be an OWASP member to attend. Referrals to this website or to individual meetings to colleagues or acquaintances are welcome.
 
 
-## Information about Frankfurt Stammtisch Events
+## Information about OWASP Frankfurt Events
 
 ### When?
 We will be running a Meetup every 2-3 months with the option to have additional Meetups for hands-on workshops. 
@@ -66,7 +66,7 @@ We do run a mix of in-person and virtual meetups. All our upcoming events are an
 
 ### Call for Speakers and Volunteers
 
-**We are looking for presentations for the next OWASP Frankfurt Stammtische!** If you'd like to give a presentation, conduct a training workshop or volunteer for us, contact us the OWASP Frankfurt Stammtisch organisation .
+**We are looking for presentations for the next OWASP Frankfurt Meetups!** If you'd like to give a presentation, conduct a training workshop or volunteer for us, contact us the OWASP Frankfurt Stammtisch organisation .
 
 ### Etiquette
 Please note that vendor pitches are not allowed, so please adhere to the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and avoid marketing stunts. Also please ensure to remove your company logos from all but one "marketing" slide.
@@ -77,6 +77,19 @@ An overview of our past Frankfurt Stammtisch events from 2011 to 2022.
 
 
 ## 2022
+
+### **56. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt-chapter/events/286616807) (Virtual) | 24.08.2022, 18:00h CET**
+* Talk: **Prof. Nick Nikiforakis and Brian Kondracki - Catching Transparent Phish: Understanding and Detecting MITM Phishing Kits**  - [TALK SLIDES](assets/slides/56_OWASP_Frankfurt_Stammtisch_1.pdf)
+* Talk: **Dagmawi Mulugeta - Abusing cloud apps 101: Command and Control**  - [TALK SLIDES](assets/slides/56_OWASP_Frankfurt_Stammtisch_2.pdf)
+* Talk: **Niklas Düster - Operationalizing Software Bill of Materials (SBOM) with CycloneDX and Dependency-Track**  - [TALK SLIDES](assets/slides/56_OWASP_Frankfurt_Stammtisch_3.pdf)
+* Location: Virtual - Senfcall
+
+### **55. [OWASP Frankfurt](https://www.meetup.com/owasp-frankfurt-chapter/events/286925136) (Virtual) | 25.07.2022, 18:00h CET**
+* Keynote: **Dan Gora - Can't you keep a secret? Learn Secrets Management with OWASP WrongSecrets** [KEYNOTE SLIDES](assets/slides/55_OWASP_Frankfurt_Stammtisch_1.pdf)
+* Talk: **Nicole Rother - The Forensic Hunt for Malware Campaigns of Cyber Criminals**
+* Talk: **Jonas Becker - A pragmatic approach to threat modelling** [TALK SLIDES](assets/slides/55_OWASP_Frankfurt_Stammtisch_3.pdf)
+* Location: BEEHIVE Frankfurt City, Mainzer Landstraße 33a · Frankfurt am Main
+
 ### **54. [OWASP Stammtisch Frankfurt](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/events/282029020/) (Virtual) | 25.05.2022, 18:00h CET**
 * Keynote: **Thomas Naunheim - Defending Azure Active Directory** [KEYNOTE SLIDES](assets/slides/54_OWASP_Frankfurt_Stammtisch.pdf)
 * Talk: **Matthias Altmann - Introduction to CSRF attacks**
@@ -86,7 +99,7 @@ An overview of our past Frankfurt Stammtisch events from 2011 to 2022.
 * Talk: **Johannes Schönborn - OWASP Introduction and OWASP projects overview**
 * Talk: **Kevin Ott - Advanced Offensive Security**
 * Talk: **Mihael Stanojevic - Security Culture**
-* Location: BEEHIVE Frankfurt City, Mainzer Landstraße 33a · Frankfurt am Main, HE
+* Location: BEEHIVE Frankfurt City, Mainzer Landstraße 33a · Frankfurt am Main
 
 ## 2021
 ### **52. [OWASP Stammtisch Frankfurt](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/events/282029020/) (Virtual) | 24.11.2021, 19:00h CET**
