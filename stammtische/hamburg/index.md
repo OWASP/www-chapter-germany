@@ -39,14 +39,23 @@ gern gesehen.
 
 ### Aktuelle Treffen
 
+#### 62\. Stammtisch: 22.9.2022
+
+- Speaker: Jeroen Willemsen
+- Title: "Introducing OWASP WrongSecrets: How to not handle your secrets! "
+- Lokation: Online
+- Presentation Language: English
+- [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/288358438/)
+
+
+### Vergangene Treffen
+
 #### 61\. Stammtisch: 5.7.2022
 
 - Netzwerken / "{B,P}eering für die Sicherheit"
 - Lokation: Doris Diner, Grindelhof 43, 20146 Hamburg
 - Zeit: ab 18:30
 - [Meetup](https://www.meetup.com/de-DE/owasp-hamburg-stammtisch/events/286771686/)
-
-### Vergangene Treffen
 
 #### 60\. Stammtisch: 9.5.2022
 
