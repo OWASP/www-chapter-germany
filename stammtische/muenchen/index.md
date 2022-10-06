@@ -11,24 +11,38 @@ meetup-group: OWASP_Muenchen_Stammtisch
 ### ... wir freuen uns über neue Teilnehmer:innen und 'Stammgäste' ...
 
 #### A K T U E L L E S :
-Einladung zum (**126.**) Münchner OWASP-Stammtisch **vor Ort** im **Biergarten 'Augustiner-Keller'** am **Di, 19.07.2022**, um 19:00 Uhr.<br><br>
+<!--- Einladung zum (**127.**) Münchner OWASP-Stammtisch **vor Ort** im **Biergarten 'Augustiner-Keller'** am **Di, 19.07.2022**, um 19:00 Uhr.<br><br>
 <!---- als **ONLINE-Version** am **Di, 21.06.2022**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<  --->
 
-\>\>\> Bitte **meldet Euch** bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, dann können wir Euch zusenden, wo wir einen Tisch im Biergarten gefunden haben. \<\<\<
+Nach vielen Online-Meetings ein persönliches Treffen und Diskutieren :-)
+
+**Eine Woche früher** als sonst, findet der (**127.**) OWASP-Stammtisch in München **vor Ort**, in unserer Stamm-**Gaststätte 'Hackerhaus'**,<br>
+**am Dienstag , den 11.10.2022, um 19:00 Uhr**<br>
+statt. Je nach Anzahl der Teilnehmer:innen treffen wir uns an einem (großen) Tisch (im EG) oder fragen nach dem Klavierzimmer (im Keller).<br>
+
+\>\>\> Bitte **meldet Euch** bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, damit wir wissen, für wie viele Personen wir reservieren können.. \<\<\<
+
+**Agenda:**
+* Freie Diskussion, bringt bitte Themen mit!
+* Infos von der Diskussion der OWASP-Foundation mit OWASP Germany
+* Wir suchen noch Vorträge für die kommenden Stammtische ab November!
+
+**Ort:**<br>
+Hackerhaus, Sendlinger Straße 14, 80331 München (http://www.hackerhaus.de/)<br>(Bitte einfach am Tresen nach dem "OWASP-Stammtisch" fragen).
+
+**Zeit:**<br>
+Dienstag, 11.10.2022 um 19:00 Uhr
 
 <!---- \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
------> Nach vielen Online-Meetings ein persönliches Treffen und diskutieren im Biergarten :-).<br>
-**Wir freuen uns, Euch bei super Biergarten-Wetter tu treffen**
-
 <!--------
 **Agenda**: 
-* **Vortrag: OWASP MSTG: Curious exploits and how to protect mobile apps against them (André Carvalho and Daniel Schwendner)**<br>OWASP Mobile Application Security Verification Standard (MASVS) and Mobile Security Testing Guide (MSTG) provide guidelines on how to protect mobile applications.<br>In this presentation we will look at some of the most curious mobile app exploits, the many ways things can go wrong, and also how you can secure your mobile application correctly by applying the guidelines of MASVS and MSTG.<br>*The presentation is given in English.*<br><br>**Short-Bios:**<br>* **André Carvalho** is a software engineer at Guardsquare.<br>With a background in the consulting field, he is part of the AppSweep development team and he is currently focusing on OWASP and MAST.<br>* **Daniel Schwendner** is a software developer at Guardsquare and master's student at the TUM.<br>He is a cyber security enthusiast: with a background in software development and DevOps, his focus is on mobile application security in the AppSweep development team. --->
-**Ort:** [Biergarten 'Augustiner-Keller'](https://www.augustinerkeller.de/de/Biergarten), Arnulfstr. 52, 80335 München
+* **Vortrag: OWASP MSTG: Curious exploits and how to protect mobile apps against them (André Carvalho and Daniel Schwendner)**<br>OWASP Mobile Application Security Verification Standard (MASVS) and Mobile Security Testing Guide (MSTG) provide guidelines on how to protect mobile applications.<br>In this presentation we will look at some of the most curious mobile app exploits, the many ways things can go wrong, and also how you can secure your mobile application correctly by applying the guidelines of MASVS and MSTG.<br>*The presentation is given in English.*<br><br>**Short-Bios:**<br>* **André Carvalho** is a software engineer at Guardsquare.<br>With a background in the consulting field, he is part of the AppSweep development team and he is currently focusing on OWASP and MAST.<br>* **Daniel Schwendner** is a software developer at Guardsquare and master's student at the TUM.<br>He is a cyber security enthusiast: with a background in software development and DevOps, his focus is on mobile application security in the AppSweep development team.
+**Ort:** [Biergarten 'Augustiner-Keller'](https://www.augustinerkeller.de/de/Biergarten), Arnulfstr. 52, 80335 München  --->
 
 <!---- Weitere Themen im Stammtisch:
-* Freie Diskussion, bringt bitte Themen mit! ----->
-* Wir suchen noch Vorträge für die kommenden Stammtische (ab September)!
+* Freie Diskussion, bringt bitte Themen mit!
+* Wir suchen noch Vorträge für die kommenden Stammtische (ab September)!  ----->
 
 <!---- Ort: ONLINE, bitte vorher anmelden (s.o.). --->
 
@@ -41,10 +55,10 @@ Orga-Team für den Münchner OWASP Stammtisch (Christoph, Thomas und [Torsten](h
 
 ## Geplante Stammtisch-Vorträge und -Diskussionen
 <!--- * Juli 2020,  21.07.2020 --->
-* August 2022: Sommerferien - KEIN OWASP-Stammtisch 
-<!--- * Dezember 2021: Weihnachtsferien - KEIN OWASP-Stammtisch --->
+<!--- * August 2022: Sommerferien - KEIN OWASP-Stammtisch --->
+* Dezember 2022: Weihnachtsferien - KEIN OWASP-Stammtisch 
 
-* <b>Wir suchen Vorträge für die nächsten Stammtische in 2022!</b><br>Möchte jemand einen Vortrag oder einen Lightning-Talk halten? Prima! Sobald wir eine konkrete Zusage haben, werden diese bei der Ankündigung des jeweiligen Termins mit bekannt geben.<br>Also, wie immer: Ich bitte um kurze Info an mich, ob jemand noch weitere (für uns relevante) Themen parat hat, die er uns näher bringen möchte. ''Verkaufsveranstalter werden alle 20 Minuten ausgebuht und müssen dann eine (neue) Runde Bier bezahlen.''
+* <b>Wir suchen Vorträge für die nächsten Stammtische!</b><br>Möchte jemand einen Vortrag oder einen Lightning-Talk halten? Prima! Sobald wir eine konkrete Zusage haben, werden diese bei der Ankündigung des jeweiligen Termins mit bekannt geben.<br>Also, wie immer: Ich bitte um kurze Info an mich, ob jemand noch weitere (für uns relevante) Themen parat hat, die er uns näher bringen möchte. ''Verkaufsveranstalter werden alle 20 Minuten ausgebuht und müssen dann eine (neue) Runde Bier bezahlen.''
 
 Der Münchner Stammtisch findet (normalerweise) jeden <b>dritten Dienstag im Monat um 19:00 Uhr</b> statt (außer im August und Dezember).<br>
 * In <b>gut erreichbarer Lage</b> mit
