@@ -15,6 +15,18 @@ Anders als die meisten OWASP Chapter auf der Welt, haben wir daher bislang Chapt
 
 ## Nächstes Chapter Meeting
 
+OWASP German Chapter Meeting Montag, 22. September · 20:00 bis 22:00 Google Meet-Teilnahmeinformationen Link für Videoanruf: https://meet.google.com/pxk-dqxo-vdq
+
+Agenda:
+
+    Begrüßung und Vorstellung (Tobias, 10 Minuten)
+    Regional Chapter-Policy (Tobias, 30 Minuten)
+    Aus den Stammtischen (alle, 30 Minuten)
+    German OWASP Day: Stand der Dinge
+    Deutsche Version der Top 10:2021 (?)
+    Sonstiges
+
+Erweiterungen vorab an Tobias (tobias.glemser@owasp.org)
 Das nächste Chapter Meeting is noch nicht terminiert, jedoch für den Herbst/Winter angedacht. Subscribed euch am besten auf die [Mailing-Liste](https://groups.google.com/a/owasp.org/group/germany-chapter/), um nichts zu verpassen.
 
 ## Vergangene Chapter Meetings
