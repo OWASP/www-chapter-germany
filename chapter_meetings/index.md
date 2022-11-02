@@ -14,8 +14,20 @@ In Deutschland haben wir als organisatorisches Dach ein Chapter, im Rahmen desse
 Anders als die meisten OWASP Chapter auf der Welt, haben wir daher bislang Chapter Meetings für Treffen eher organisatorischer Natur gehabt, bei denen es am Rande auch Vorträge gab. Die Chapter-Meetings im globalen Sinne waren/sind unsere jährliche Konferenzen (German OWASP Day). 
 
 ## Nächstes Chapter Meeting
+OWASP German Chapter Meeting Dienstag, 29. November · 20:00 bis 22:00 Google Meet-Teilnahmeinformationen Link für Videoanruf: https://meet.google.com/pxk-dqxo-vdq
 
-Das nächste Chapter Meeting is noch nicht terminiert, jedoch für den Herbst/Winter angedacht. Subscribed euch am besten auf die [Mailing-Liste](https://groups.google.com/a/owasp.org/group/germany-chapter/), um nichts zu verpassen.
+Agenda:
+
+    Begrüßung und Vorstellung (Tobias, 10 Minuten)
+    Regional Chapter-Policy (Tobias, 30 Minuten)
+    Aus den Stammtischen (alle, 30 Minuten)
+    German OWASP Day: Stand der Dinge
+    Deutsche Version der Top 10:2021 (?)
+    Sonstiges
+
+Erweiterungen vorab an Tobias (tobias.glemser@owasp.org)
+
+Subscribed euch am besten auf die [Mailing-Liste](https://groups.google.com/a/owasp.org/group/germany-chapter/), um nichts zu verpassen.
 
 ## Vergangene Chapter Meetings
 
