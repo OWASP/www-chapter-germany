@@ -4,7 +4,5 @@
 
 * [Google Group](https://groups.google.com/a/owasp.org/group/germany-chapter/) ([📧](mailto:germany-chapter@owasp.org))
 * [Twitter](https://twitter.com/owasp_de)
-{% raw %}
-<li> <a rel="me" href="https://infosec.exchange/@owasp_de">Mastodon</a></li>
-{% endraw %}
+* {% echo '<a rel="me" href="https://infosec.exchange/@owasp_de">Mastodon</a>' %}
 * [YouTube](https://www.youtube.com/channel/UCO7VtjaFHkfsDNZEFg9OssQ)
