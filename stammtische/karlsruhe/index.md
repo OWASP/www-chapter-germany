@@ -7,7 +7,7 @@ title: OWASP Germany > Stammtische > Karlsruhe
 
 ## Generell
 
-Der OWASP Stammtisch in Karlsruhe bemüht sich, ein Treffen an jedem ersten Montag eines Monats um 19:00 Uhr zu organisieren. Falls der Tag auf einen Feiertag fällt, so verschiebt sich der Termin um eine Woche. Wir wollen üblicherweise mit einem Vortrag bei einem Gastgeber (Unternehmen, öffentliche Einrichtungen, etc.) starten und danach zum gemütlichen Teil übergehen. Vortragsthema und Ort werden vor dem Stammtisch über die [Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/), sowie über [Meetup](https://www.meetup.com/owasp-karlsruhe/) und [Twitter](https://twitter.com/owasp_ka) bekannt gegeben. Dort können auch gerne im Vorfeld Themenvorschläge diskutiert werden!
+Der OWASP Stammtisch in Karlsruhe bemüht sich, ein Treffen an jedem ersten Montag eines Monats um 19:00 Uhr zu organisieren. Falls der Tag auf einen Feiertag fällt, so verschiebt sich der Termin um eine Woche. Wir wollen üblicherweise mit einem Vortrag bei einem Gastgeber (Unternehmen, öffentliche Einrichtungen, etc.) starten und danach zum gemütlichen Teil übergehen. Vortragsthema und Ort werden vor dem Stammtisch über die [Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/), sowie über [Meetup](https://www.meetup.com/owasp-karlsruhe/), [Twitter](https://twitter.com/owasp_ka) und [Mastodo](https://chaos.social/@owasp_ka) bekannt gegeben. Dort können auch gerne im Vorfeld Themenvorschläge diskutiert werden!
 
 Wir sind immer auf der Suche nach spannenden Vortragsthemen und schönen Veranstaltungsorten. Meldet euch dazu gerne über einen der gelisteten Kanäle!
 
