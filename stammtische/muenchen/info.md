@@ -7,6 +7,7 @@
 
 ### Kontakt
 
+* {::nomarkdown}<a rel="me" href="https://infosec.exchange/@owasp_muc">Mastodon: &commat;owasp_muc&commat;infosec.exchange</a>{:/nomarkdown}
 * [MeetUp](https://www.meetup.com/de-DE/OWASP_Muenchen_Stammtisch/)<br>
 {% include chapter_events.html group=page.meetup-group %}
 
