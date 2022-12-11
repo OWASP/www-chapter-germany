@@ -23,7 +23,7 @@ sind allerdings herzlich willkommen!
 
 #### Wann? Was? Wer?
 
-- 32\. Stammtisch am 15.12.2022 19:30 Uhr: tbd
+- 32\. Stammtisch am 15.12.2022 19:30 Uhr: Nico & Marko erzählen etwas über den Einsatz von SAST (Static Application Security Testing) und stellen das Werkzeug semgrep vor
 
 #### Wo?
 
