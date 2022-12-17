@@ -23,7 +23,7 @@ sind allerdings herzlich willkommen!
 
 #### Wann? Was? Wer?
 
-- 31\. Stammtisch am 11.10.2022 19:30 Uhr: Nico hält einen Vortrag über *Practical Shell for Pentesting* - Wie kann die Linux-Shell (und Scripting am Beispiel der Bash) effektiv in Pentests eingesetzt werden und Testaktivitäten unterstützen
+- 32\. Stammtisch am 15.12.2022 19:30 Uhr: Nico & Marko erzählen etwas über den Einsatz von SAST (Static Application Security Testing) und stellen das Werkzeug semgrep vor
 
 #### Wo?
 
@@ -51,7 +51,7 @@ sind allerdings herzlich willkommen!
 - 6\. Stammtisch am 05.04.2014: Homebrewn BufferOverflow Exploits OpenSource Edition (John)
 - 7\. Stammtisch am 11.06.2014: Reverse Engineering von Router-Firmware (Sebastian)
 - 8\. Stammtisch am 20.10.2014: Burp Suite vs. OWASP ZAP (Marko Winkler und Benjamin Kellermann)
-- 9\. Stammtisch am 17.11.2014: O-Saft, EnDe und andere Tools (Achim))
+- 9\. Stammtisch am 17.11.2014: O-Saft, EnDe und andere Tools (Achim)
 - 10\. Stammtisch am 06.03.2015 19:00 Uhr: Social Hacking (Thomas Haase und Robert Vattig)
 - 11\. Stammtisch am 16.06.2015 19:00 Uhr: Capture the Web-App Flag (Marko Winkler)
 - 12\. Stammtisch am 02.10.2015 19:00 Uhr: Pentest Google Web Toolkit Applications (Marko Winkler)
@@ -67,7 +67,7 @@ sind allerdings herzlich willkommen!
 - 20\. Stammtisch am 10.04.2017 19:30 Uhr: Same-Origin-Policy (SOP), Cross-Origin Resource Sharing (CORS) und JSON mit
   Padding (JSONP) (Falk + Ben)
 - 21\. Stammtisch am 15.06.2017 19:30 Uhr: Erweiterbarer Wordlist Generator in Python (Thomas)
-- 22\. Stammtisch am 26.03.2018 19:30 Uhr: Smart Contract Hacking(Tim und Thomas)
+- 22\. Stammtisch am 26.03.2018 19:30 Uhr: Smart Contract Hacking (Tim und Thomas)
 - 23\. Stammtisch am 13.08.2018 19:30 Uhr: Marshaller Deserialization Attacks (Marko Winkler)
 - 24\. Stammtisch am 04.10.2018 19:30 Uhr: Docker Security inkl. CTF (Thomas)
 - 25\. Stammtisch am 02.11.2018 19:30 Uhr: Common API security pitfalls (Philippe De Ryck)
@@ -78,6 +78,7 @@ sind allerdings herzlich willkommen!
   -- [TALK SLIDES](assets/slides/2022-07-19_building-malicious-software.pdf)
 - 30\. Stammtisch am 24.08.2022 19:30 Uhr: Besser als OWASP Top 10, CWE Top 25, ASVS, OTG, BSI-5-Level-Modell: Der
   Versuch einer entwickler zentrierten Klassifizierung von AppSec-Schwachstellen (Benjamin Kellermann)
+- 31\. Stammtisch am 11.10.2022 19:30 Uhr: Nico hält einen Vortrag über *Practical Shell for Pentesting* - Wie kann die Linux-Shell (und Scripting am Beispiel der Bash) effektiv in Pentests eingesetzt werden und Testaktivitäten unterstützen
 
 ### In eigener Sache
 
