@@ -12,26 +12,29 @@ meetup-group: OWASP_Muenchen_Stammtisch
 
 #### A K T U E L L E S :
 <!--- Einladung zum (**127.**) Münchner OWASP-Stammtisch **vor Ort** im **Biergarten 'Augustiner-Keller'** am **Di, 19.07.2022**, um 19:00 Uhr.<br><br>
-<!---- als **ONLINE-Version** am **Di, 21.06.2022**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\<  --->
+<!---- als **ONLINE-Version** am **Di, 21.06.2022**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\< ---> 
 
-Nach vielen Online-Meetings ein persönliches Treffen und Diskutieren :-)
+<!---- Nach vielen Online-Meetings ein persönliches Treffen und Diskutieren :-) --->
+**Vortrag gesucht &mdash; Vor-Ort-Treffen an einem neuen Ort!** 
 
-**Eine Woche früher** als sonst, findet der (**127.**) OWASP-Stammtisch in München **vor Ort**, in unserer Stamm-**Gaststätte 'Hackerhaus'**,<br>
-**am Dienstag , den 11.10.2022, um 19:00 Uhr**<br>
-statt. Je nach Anzahl der Teilnehmer:innen treffen wir uns an einem (großen) Tisch (im EG) oder fragen nach dem Klavierzimmer (im Keller).<br>
+**Eine Woche später** als sonst, findet der (**128.**) OWASP-Stammtisch in München **an einem neuen Ort**, dem **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 24.01.2023 um 19:00 Uhr** statt.<br>
+Das Klavierzimmer in unserer bisherigen Stamm-Gaststätte 'Hackerhaus' gibt es leider nicht mehr. Wir sind froh, einen neuen Treffpunkt gefunden zu haben, an dem wir Vorträge halten dürfen und hoffen, Ihr kommt gut zum Josephsplatz. Die U2 kreuzt die S-Bahn-Stammstrecke am Hauptbahnhof und das Café ist direkt südlich der U-Bahn-Haltestelle 'Josephsplatz', Ausgang F<br>
 
-\>\>\> Bitte **meldet Euch** bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, damit wir wissen, für wie viele Personen wir reservieren können.. \<\<\<
+\>\>\> **Wir suchen noch einen Vortrag für den Stammtisch!** Bitte melde Dich bei uns, wenn Du ein Thema aus dem Bereich IT-Sicherheit oder Informationssicherheit für uns hast. \<\<\< <br>
+\>\>\> Bitte **meldet Euch** bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, damit wir wissen, für wie viele Personen wir reservieren können. \<\<\<
 
+<!---- 
 **Agenda:**
 * Freie Diskussion, bringt bitte Themen mit!
 * Infos von der Diskussion der OWASP-Foundation mit OWASP Germany
 * Wir suchen noch Vorträge für die kommenden Stammtische ab November!
-
+--->
 **Ort:**<br>
-Hackerhaus, Sendlinger Straße 14, 80331 München (http://www.hackerhaus.de/)<br>(Bitte einfach am Tresen nach dem "OWASP-Stammtisch" fragen).
+Café am Josephsplatz, Augustenstraße 112, 80798 München (https://www.cafe-am-josephsplatz.de/)  
+[U2 Josephsplatz, Ausgang F im Süden](https://www.mvg.de/aushangfahrplan/P8_H_JO_0.pdf)
 
 **Zeit:**<br>
-Dienstag, 11.10.2022 um 19:00 Uhr
+Dienstag, 24.01.2023 um 19:00 Uhr
 
 <!---- \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
@@ -55,9 +58,8 @@ Orga-Team für den Münchner OWASP Stammtisch (Christoph, Thomas und [Torsten](h
 
 ## Geplante Stammtisch-Vorträge und -Diskussionen
 <!--- * Juli 2020,  21.07.2020 --->
-<!--- * August 2022: Sommerferien - KEIN OWASP-Stammtisch --->
-* Dezember 2022: Weihnachtsferien - KEIN OWASP-Stammtisch 
-
+<!--- * August 2022: Sommerferien - KEIN OWASP-Stammtisch
+* Dezember 2022: Weihnachtsferien - KEIN OWASP-Stammtisch --->
 * <b>Wir suchen Vorträge für die nächsten Stammtische!</b><br>Möchte jemand einen Vortrag oder einen Lightning-Talk halten? Prima! Sobald wir eine konkrete Zusage haben, werden diese bei der Ankündigung des jeweiligen Termins mit bekannt geben.<br>Also, wie immer: Ich bitte um kurze Info an mich, ob jemand noch weitere (für uns relevante) Themen parat hat, die er uns näher bringen möchte. ''Verkaufsveranstalter werden alle 20 Minuten ausgebuht und müssen dann eine (neue) Runde Bier bezahlen.''
 
 Der Münchner Stammtisch findet (normalerweise) jeden <b>dritten Dienstag im Monat um 19:00 Uhr</b> statt (außer im August und Dezember).<br>
