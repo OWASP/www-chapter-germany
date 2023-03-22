@@ -39,16 +39,25 @@ gern gesehen.
 
 ### Aktuelle Treffen
 
+#### 63\. Stammtisch: 24.3.2023
+
+- Speaker: Juan Pablo Tosso, Felipe Zipitria
+- Title: "The way to WAF in 2023"
+- Location: Online
+- Presentation Language: English
+- [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/292033499/)
+
+
+### Vergangene Treffen
+
 #### 62\. Stammtisch: 22.9.2022
 
 - Speaker: Jeroen Willemsen
 - Title: "Introducing OWASP WrongSecrets: How to not handle your secrets! "
-- Lokation: Online
+- Location: Online
 - Presentation Language: English
 - [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/288358438/)
 
-
-### Vergangene Treffen
 
 #### 61\. Stammtisch: 5.7.2022
 
