@@ -49,7 +49,11 @@ E-Mail an unsere Mailingliste
 [germany-chapter@owasp.org](mailto:germany-chapter@owasp.org). Vorab müssen
 Sie hierzu der [Google Group beitreten](https://groups.google.com/a/owasp.org/g/germany-chapter).
 
-## Presse
 
-Informationen für die Presse finden sich
-[hier (🔧 TODO)]().
+## Aktuelles
+
+Am 31.5. (Konferenztag) findet der [German OWASP Day](https://god.owasp.de) in Frankfurt statt. Am Vortrag werden
+zwei Trainings angeboten. Das Programm wird in Kürze veröffentlicht.
+
+
+
