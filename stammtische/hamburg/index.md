@@ -46,6 +46,8 @@ TBA
 
 ### Vergangene Treffen
 
+#### 63\. Stammtisch: 24.3.2023
+
 - Speaker: Juan Pablo Tosso, Felipe Zipitria
 - Title: "The way to WAF in 2023"
 - Location: Online
