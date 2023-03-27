@@ -39,16 +39,20 @@ gern gesehen.
 
 ### Aktuelle Treffen
 
-#### 63\. Stammtisch: 24.3.2023
+#### 64\. Stammtisch: April 2023
+
+TBA
+
+
+### Vergangene Treffen
 
 - Speaker: Juan Pablo Tosso, Felipe Zipitria
 - Title: "The way to WAF in 2023"
 - Location: Online
 - Presentation Language: English
 - [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/292033499/)
+- [Slides](assets/slides/2023-03-24_The_way_to_WAF_in_2023.pdf)
 
-
-### Vergangene Treffen
 
 #### 62\. Stammtisch: 22.9.2022
 
