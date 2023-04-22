@@ -39,12 +39,23 @@ gern gesehen.
 
 ### Aktuelle Treffen
 
-#### 64\. Stammtisch: April 2023
+#### 65\. Stammtisch: Mai 2023
 
-TBA
-
+- Speaker: Damian Poddebniak
+- Thema: Was Spannendes zu Rust
+- More: TBA
 
 ### Vergangene Treffen
+
+#### 64\. Stammtisch: 18.4.2023
+
+- Speaker: Daniel Neagaru
+- Title: "OWASP Raider: a novel framework for manipulating HTTP processes of persistent sessions"
+- Location: online & on-prem: [Kühne & Nagel, Großer Grasbrook 11-13](https://her.is/1Ws8uP8)
+- Presentation Language: English
+- [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/292754451/)
+- [Slides](assets/slides/2023-04-18_OWASP_Raider.pdf)
+
 
 #### 63\. Stammtisch: 24.3.2023
 
