@@ -15,7 +15,21 @@ Anders als die meisten OWASP Chapter auf der Welt, haben wir daher bislang Chapt
 
 ## Nächstes Chapter Meeting
 
-Das nächste Meeting ist derzeit noch nicht terminiert. Subscribed euch am besten auf die [Mailing-Liste](https://groups.google.com/a/owasp.org/group/germany-chapter/), um nichts zu verpassen.
+OWASP German Chapter Meeting Dienstag, 30. Mai 2023 um 14:00 (Vortrag German OWASP Day) in der Frankfurt School of Finance and Management in Frankfurt am Main s
+
+Agenda:
+
+    Begrüßung und Vorstellung (Tobias, 10 Minuten)
+    Regional Chapter-Policy/City Chapter  (Tobias, 30 Minuten)
+    Aus den Stammtischen (alle, 30 Minuten)
+    German OWASP Day 2024
+    Deutsche Version der Top 10:2021 
+    "M$s Copilot auf github" und "source von github für KI (chatGPT)" (Achim)
+    Sonstiges
+
+Erweiterungen vorab an Tobias (tobias.glemser@owasp.org)
+
+Subscribed euch am Besten auf die [Mailing-Liste](https://groups.google.com/a/owasp.org/group/germany-chapter/), um nichts zu verpassen.
 
 ## Vergangene Chapter Meetings
 
