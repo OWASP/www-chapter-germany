@@ -18,8 +18,8 @@ meetup-group: OWASP_Muenchen_Stammtisch
 <!---- Nach vielen Online-Meetings ein persönliches Treffen und Diskutieren :-) --->
 <!--- **Vortrag gesucht &mdash; Vor-Ort-Treffen an einem neuen Ort!** --->
 
-**- Save the Date:** Der (**130.**) OWASP-Stammtisch in München findet im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 20.06.2023 um 18:xx(*) Uhr** statt.<br>
-(*) Da wir für April und Mai den Raum nicht reservieren konnten und auch keine gute Alternative gefunden haben, haben wir nochmal mit dem Wirt gesprochen. Ihm würde es sehr entgegen kommen, wenn wir früher anfangen und bei schlechtem Wetter in Absprache ab 20:00 Uhr aufhören. Wir haben eine **Umfrage** erstellt, ob Ihr um **18:00 oder/und um 18:30 Uhr anfangen** wollt **https://dud-poll.inf.tu-dresden.de/owasp-muc_anfangszeit_ab_202306__2efUYICPZ/. Bitte stimmt bis 31.5. ab**. Wir hoffen, das ist für Euch OK.<br>
+**- Save the Date:** Der (**130.**) OWASP-Stammtisch in München findet im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 20.06.2023 um 18:xx Uhr** statt.<br>
+**18:xx**: Da wir für April und Mai den Raum nicht reservieren konnten und auch keine gute Alternative gefunden haben, haben wir nochmal mit dem Wirt gesprochen. Ihm würde es sehr entgegen kommen, wenn wir früher anfangen und bei schlechtem Wetter in Absprache ab 20:00 Uhr aufhören. Wir haben eine **Umfrage** erstellt, ob Ihr um **18:00 oder/und um 18:30 Uhr anfangen** wollt **https://dud-poll.inf.tu-dresden.de/owasp-muc_anfangszeit_ab_202306__2efUYICPZ/. Bitte stimmt bis 31.5. ab**. Wir hoffen, das ist für Euch OK.<br>
 
 <!--- \>\>\> **Wir suchen noch einen Vortrag für den Stammtisch!** Bitte melde Dich bei uns, wenn Du ein Thema aus dem Bereich IT-Sicherheit oder Informationssicherheit für uns hast. \<\<\< <br> --->
 \>\>\> Bitte **meldet Euch** bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, damit wir wissen, für wie viele Personen wir reservieren können. \<\<\<
