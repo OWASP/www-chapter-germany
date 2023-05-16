@@ -13,28 +13,27 @@ meetup-group: OWASP_Muenchen_Stammtisch
 #### A K T U E L L E S :
 <!--- Einladung zum (**127.**) Münchner OWASP-Stammtisch **vor Ort** im **Biergarten 'Augustiner-Keller'** am **Di, 19.07.2022**, um 19:00 Uhr.<br><br>
 <!---- als **ONLINE-Version** am **Di, 21.06.2022**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\< ---> 
+**- Am 30./31. Mai ist der [German OWASP Day 2023 in Frankfurt](https://god.owasp.de/2023/), wir würden uns freuen, Euch dort zu treffen**<br> 
 
 <!---- Nach vielen Online-Meetings ein persönliches Treffen und Diskutieren :-) --->
-**Vortrag gesucht &mdash; Vor-Ort-Treffen an einem neuen Ort!** 
+<!--- **Vortrag gesucht &mdash; Vor-Ort-Treffen an einem neuen Ort!** --->
 
-**Eine Woche später** als sonst, findet der (**128.**) OWASP-Stammtisch in München **an einem neuen Ort**, dem **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 24.01.2023 um 19:00 Uhr** statt.<br>
-Das Klavierzimmer in unserer bisherigen Stamm-Gaststätte 'Hackerhaus' gibt es leider nicht mehr. Wir sind froh, einen neuen Treffpunkt gefunden zu haben, an dem wir Vorträge halten dürfen und hoffen, Ihr kommt gut zum Josephsplatz. Die U2 kreuzt die S-Bahn-Stammstrecke am Hauptbahnhof und das Café ist direkt südlich der U-Bahn-Haltestelle 'Josephsplatz', Ausgang F<br>
+**- Save the Date:** Der (**130.**) OWASP-Stammtisch in München findet im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 20.06.2023 um 18:xx(*) Uhr** statt.<br>
+(*) Da wir für April und Mai den Raum nicht reservieren konnten und auch keine gute Alternative gefunden haben, haben wir nochmal mit dem Wirt gesprochen. Ihm würde es sehr entgegen kommen, wenn wir früher anfangen und bei schlechtem Wetter in Absprache ab 20:00 Uhr aufhören. Wir haben eine **Umfrage** erstellt, ob Ihr um **18:00 oder/und um 18:30 Uhr anfangen** wollt **https://dud-poll.inf.tu-dresden.de/owasp-muc_anfangszeit_ab_202306__2efUYICPZ/. Bitte stimmt bis 31.5. ab**. Wir hoffen, das ist für Euch OK.<br>
 
-\>\>\> **Wir suchen noch einen Vortrag für den Stammtisch!** Bitte melde Dich bei uns, wenn Du ein Thema aus dem Bereich IT-Sicherheit oder Informationssicherheit für uns hast. \<\<\< <br>
+<!--- \>\>\> **Wir suchen noch einen Vortrag für den Stammtisch!** Bitte melde Dich bei uns, wenn Du ein Thema aus dem Bereich IT-Sicherheit oder Informationssicherheit für uns hast. \<\<\< <br> --->
 \>\>\> Bitte **meldet Euch** bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, damit wir wissen, für wie viele Personen wir reservieren können. \<\<\<
 
-<!---- 
 **Agenda:**
 * Freie Diskussion, bringt bitte Themen mit!
-* Infos von der Diskussion der OWASP-Foundation mit OWASP Germany
-* Wir suchen noch Vorträge für die kommenden Stammtische ab November!
---->
+* Wir suchen noch Vorträge für die kommenden Stammtische
+
 **Ort:**<br>
 Café am Josephsplatz, Augustenstraße 112, 80798 München (https://www.cafe-am-josephsplatz.de/)  
 [U2 Josephsplatz, Ausgang F im Süden](https://www.mvg.de/aushangfahrplan/P8_H_JO_0.pdf)
 
 **Zeit:**<br>
-Dienstag, 24.01.2023 um 19:00 Uhr
+Dienstag, 20.06.2023 um 18:xx Uhr
 
 <!---- \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
