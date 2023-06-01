@@ -1,3 +1,3 @@
 ### Leaders
-* [Ibrahim Akkulak](mailto:ibrahim.akkulak@owasp.org) (Organizer)
-* [Reza Asif](mailto:reza.asif@owasp.org) (Co Organizer)
+* [Christian Becker](mailto:christian.becker@owasp.org)
+* [Sven Schlüter](mailto:sven.schlueter@owasp.org)
