@@ -32,7 +32,7 @@ Damit hat 18:30 Uhr eindeutig gewonnen.<br>
     - Wie grenzt sich BSides von anderen Veranstaltungen ab?<br>
     - Was steckt denn hinter so einer Veranstaltung<br>
     - Wie kann man sich beteiligen<br><br>
-2. Vortrag **Gemeinsamer Rückblick auf den [German OWASP Day 2023 in Frankfurt](https://god.owasp.de/2023/) mit Torsten Gigler & allen, die dort waren**<br>
+2. Vortrag: **Gemeinsamer Rückblick auf den [German OWASP Day 2023 in Frankfurt](https://god.owasp.de/2023/) mit Torsten Gigler & allen, die dort waren**<br>
     Wir wollen gemeinsam den German OWASP Day inkl. Chapter-Meeting Revue passieren lassen, dazu sind alle Teilnehmer:innen eingeladen, ihre persönlichen Highlights vorzustellen.
 
 <!--- \>\>\> **Wir suchen noch einen Vortrag für den Stammtisch!** Bitte melde Dich bei uns, wenn Du ein Thema aus dem Bereich IT-Sicherheit oder Informationssicherheit für uns hast. \<\<\< <br> --->
