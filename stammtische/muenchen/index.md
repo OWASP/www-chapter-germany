@@ -13,13 +13,27 @@ meetup-group: OWASP_Muenchen_Stammtisch
 #### A K T U E L L E S :
 <!--- Einladung zum (**127.**) Münchner OWASP-Stammtisch **vor Ort** im **Biergarten 'Augustiner-Keller'** am **Di, 19.07.2022**, um 19:00 Uhr.<br><br>
 <!---- als **ONLINE-Version** am **Di, 21.06.2022**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\< ---> 
-**- Am 30./31. Mai ist der [German OWASP Day 2023 in Frankfurt](https://god.owasp.de/2023/), wir würden uns freuen, Euch dort zu treffen**<br> 
-
 <!---- Nach vielen Online-Meetings ein persönliches Treffen und Diskutieren :-) --->
 <!--- **Vortrag gesucht &mdash; Vor-Ort-Treffen an einem neuen Ort!** --->
 
-**- Save the Date:** Der (**130.**) OWASP-Stammtisch in München findet im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 20.06.2023 um 18:xx Uhr** statt.<br>
-**18:xx**: Da wir für April und Mai den Raum nicht reservieren konnten und auch keine gute Alternative gefunden haben, haben wir nochmal mit dem Wirt gesprochen. Ihm würde es sehr entgegen kommen, wenn wir früher anfangen und bei schlechtem Wetter in Absprache ab 20:00 Uhr aufhören. Wir haben eine **Umfrage** erstellt, ob Ihr um **18:00 oder/und um 18:30 Uhr anfangen** wollt **https://dud-poll.inf.tu-dresden.de/owasp-muc_anfangszeit_ab_202306__2efUYICPZ/. Bitte stimmt bis 31.5. ab**. Wir hoffen, das ist für Euch OK.<br>
+Einladung zum (130.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 20.06.2023 um 18:30 Uhr**.<br><br>
+Vielen Dank an alle, die sich bei der [Umfrage](https://dud-poll.inf.tu-dresden.de/owasp-muc_anfangszeit_ab_202306__2efUYICPZ/) zur neuen Anfangszeit beteiligt haben.
+8 von 9 Stimmen mit Namen bevorzugen einen Anfang ab 18:30 Uhr, für 18:00 Uhr waren es nur 4 (+ 2 Anonymous innerhalb von 8 Sekunden) bei 1 Gegenstimme.
+Damit hat 18:30 Uhr eindeutig gewonnen.<br>
+=> Wir laden Euch recht herzlich zum Stammtisch am  20.06.2023, ab 18:30 Uhr im Café am Josephsplatz ein.<br>
+**Agenda:**
+1. Vortrag: **Aus dem Nähkästchen der BSides Munich mit Christoph Kemetmüller**<br>
+    BSides Munich ist eine unabhängig organisierte Security Veranstaltung im Raum München, die lokale und internationale Experten zusammenbringt.
+    Bei der BSides Munich steht der Austausch von Ideen und Erfahrungen ebenso wie das Knüpfen von professionellen Kontakten im Mittelpunkt.
+    Die Veranstaltung ist als Ableger der MUC:SEC Meetup-Gruppe entstanden und für die Teilnehmer kostenlos.<br>
+    Wir werden folgende Fragen gemeinsam beantworten<br>
+    - Was ist denn eigentlich BSides, was ist die Idee?<br>
+    - Was ist die Zielgruppe?<br>
+    - Wie grenzt sich BSides von anderen Veranstaltungen ab?<br>
+    - Was steckt denn hinter so einer Veranstaltung<br>
+    - Wie kann man sich beteiligen<br><br>
+2. Vortrag **Gemeinsamer Rückblick auf den [German OWASP Day 2023 in Frankfurt](https://god.owasp.de/2023/) mit Torsten Gigler & allen, die dort waren**<br>
+    Wir wollen gemeinsam den German OWASP Day inkl. Chapter-Meeting Revue passieren lassen, dazu sind alle Teilnehmer:innen eingeladen, ihre persönlichen Highlights vorzustellen.
 
 <!--- \>\>\> **Wir suchen noch einen Vortrag für den Stammtisch!** Bitte melde Dich bei uns, wenn Du ein Thema aus dem Bereich IT-Sicherheit oder Informationssicherheit für uns hast. \<\<\< <br> --->
 \>\>\> Bitte **meldet Euch** bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, damit wir wissen, für wie viele Personen wir reservieren können. \<\<\<
@@ -33,7 +47,7 @@ Café am Josephsplatz, Augustenstraße 112, 80798 München (https://www.cafe-am-
 [U2 Josephsplatz, Ausgang F im Süden](https://www.mvg.de/aushangfahrplan/P8_H_JO_0.pdf)
 
 **Zeit:**<br>
-Dienstag, 20.06.2023 um 18:xx Uhr
+Dienstag, 20.06.2023 um 18:30 Uhr
 
 <!---- \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
@@ -61,7 +75,7 @@ Orga-Team für den Münchner OWASP Stammtisch (Christoph, Thomas und [Torsten](h
 * Dezember 2022: Weihnachtsferien - KEIN OWASP-Stammtisch --->
 * <b>Wir suchen Vorträge für die nächsten Stammtische!</b><br>Möchte jemand einen Vortrag oder einen Lightning-Talk halten? Prima! Sobald wir eine konkrete Zusage haben, werden diese bei der Ankündigung des jeweiligen Termins mit bekannt geben.<br>Also, wie immer: Ich bitte um kurze Info an mich, ob jemand noch weitere (für uns relevante) Themen parat hat, die er uns näher bringen möchte. ''Verkaufsveranstalter werden alle 20 Minuten ausgebuht und müssen dann eine (neue) Runde Bier bezahlen.''
 
-Der Münchner Stammtisch findet (normalerweise) jeden <b>dritten Dienstag im Monat um 19:00 Uhr</b> statt (außer im August und Dezember).<br>
+Der Münchner Stammtisch findet (normalerweise) jeden <b>dritten Dienstag im Monat um 18:30 Uhr (neu)</b> statt (außer im August und Dezember).<br>
 * In <b>gut erreichbarer Lage</b> mit
 * einem vorab angekündigten, dedizierten <b>Thema</b>
 * mittels <b>Vortrag, wenn's geht</b> oder ersatzweise
