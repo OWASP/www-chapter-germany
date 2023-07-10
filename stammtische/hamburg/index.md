@@ -13,7 +13,7 @@ meetup-group: OWASP-Hamburg-Stammtisch
 
 ### Hamburg ist einen Vortrag Wert
 
-<b>Wir suchen Vorträge für die Stammtische in 2022</b>. Möchtest du
+<b>Wir suchen Vorträge für die Stammtische in 2023/24</b>. Möchtest du
 einen Vortrag halten? Prima\! Bitte um kurze Info an die Organisatoren,
 wenn du (für uns relevante) Themen parat hast, die du uns näher bringen
 möchtest. Wie bei OWASP üblich: Wir sind an Sicherheit im Internet --
@@ -39,13 +39,19 @@ gern gesehen.
 
 ### Aktuelle Treffen
 
-#### 65\. Stammtisch: Mai 2023
-
-- Speaker: Damian Poddebniak
-- Thema: Was Spannendes zu Rust
-- More: TBA
+### 66\. Stammtisch September 2023
 
 ### Vergangene Treffen
+
+#### 65\. Stammtisch: Juli 2023
+
+- Speaker: Damian Poddebniak
+- Titel: "Rust: Eine moderne Alternative zu C und C++"
+- Lokation: online & on-prem: [Check24, An der Alster 64](https://osm.org/go/0HoG514R?way=41573175)
+- Presentationssprache: Deutsch
+- [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/294347212/)
+- [Slides](assets/slides/2023-07-06_Rust%20-%20Eine%20moderne%20Alternative%20zu%20C%20und%20C++.pdf)
+
 
 #### 64\. Stammtisch: 18.4.2023
 
