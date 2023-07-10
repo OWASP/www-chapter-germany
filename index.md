@@ -52,8 +52,7 @@ Sie hierzu der [Google Group beitreten](https://groups.google.com/a/owasp.org/g/
 
 ## Aktuelles
 
-Am 31.5. (Konferenztag) findet der [German OWASP Day](https://god.owasp.de) in Frankfurt statt. Am Vortrag werden
-zwei Trainings angeboten. Das [Rumpfprogramm ist veröffentlicht](https://god.owasp.de/2023/schedule/) und die [Anmeldung ist freigeschaltet](https://www.eventbrite.com/e/2023-german-owasp-day-god-tickets-515112875477).
+Am 31.5. (Konferenztag) fand nach längerer Corona-Pause der [German OWASP Day](https://god.owasp.de) in Frankfurt statt. Es waren zirka 190 Besucher anwende. Am Vortrag wurden zwei Trainings angeboten. An dem Abend gab es wie üblich eine Gelegenheit zum Fachsimpeln, zum Austausch und zum Wiedersehen. Das [Programm ist hier zu finden](https://god.owasp.de/2023/schedule/). 
 
 
 
