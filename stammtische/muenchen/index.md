@@ -18,7 +18,7 @@ meetup-group: OWASP_Muenchen_Stammtisch
 
 Einladung zum (131.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 18.07.2023 um 18:30 Uhr**.<br><br>
 **Agenda:**
-1. Vortrag: **Titel: BadUSB - Invasion der Gummientchen mit Klaus-E. Klingner**<br>
+1. Vortrag: **BadUSB - Invasion der Gummientchen mit Klaus-E. Klingner**<br>
 Unsere Clients sind mittlerweile mit Antviren-Programmen, EDR und XDR gut abgesichert. Denken wir jedenfalls. Und wenn wir damit Software und Netzwerk meinen mag das auch stimmen.<br>Sobald aber jemand direkten Zugriff auf unseren Laptop oder PC hat sieht das ganze anders aus. Sie haben die USBports gesperrt? Aber nur für Massenspeicher. Tastaturen, Netzwerk-Karten und Maus sind immer noch erlaubt. Es reichen 20 Sekunen um einen Rechner komplett zu kompromittieren. Und genau das machen sich BadUSB Devices zunutze. In diesem Vortrag stelle ich diverse BadUSB Devices vom original RubberDucky bis zum DoItYourself custom device vor.<br><br>
 2. Lightning-Talk: **git ist kein Repository - git is terrible! mit Achim Hoffmann**<br> 
 <!--- \>\>\> **Wir suchen noch einen Vortrag für den Stammtisch!** Bitte melde Dich bei uns, wenn Du ein Thema aus dem Bereich IT-Sicherheit oder Informationssicherheit für uns hast. \<\<\< <br> --->
@@ -26,7 +26,6 @@ Unsere Clients sind mittlerweile mit Antviren-Programmen, EDR und XDR gut abgesi
 * Wir suchen noch Vorträge für die kommenden Stammtische
 
 \>\>\> Bitte **meldet Euch** bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, damit wir wissen, für wie viele Personen wir reservieren können. \<\<\<
-
 
 **Ort:**<br>
 Café am Josephsplatz, Augustenstraße 112, 80798 München (https://www.cafe-am-josephsplatz.de/)  
