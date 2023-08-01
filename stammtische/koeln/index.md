@@ -13,20 +13,22 @@ lokaler kölscher Kulturstätten.
 
 Jeder ist herzlich willkommen und kann gerne noch Freunde, Kollegen, Interessierte mitbringen. 
 
-### ANKÜNDIGUNG -- 35. Stammtisch am 12. Mai 2022
-Nach langer Pause, wird wieder ein OWASP Stammtisch in Köln stattfinden. Bitte meldet euch beim [Getogether Event](https://gettogether.community/events/17957/owasp-stammtisch-cologne/) an, damit entsprechende 
-Räumlichkeiten durch das Organisationsteam vorgesehen werden können.
+### ANKÜNDIGUNG -- 36. Stammtisch am 28. August 2023
 
-#### Datum: 12. Mai 2022
-#### Uhrzeit: 18:30 Treffen, 19:00 Beginn
+Endlich ist es wieder soweit! Der OWASP Köln Stammtisch ist zurück. Wir treffen uns im Raum "Rom" im Startplatz.  Bitte meldet euch beim [GetTogether Event](https://gettogether.community/events/37460/owasp-stammtisch-cologne/) an.
+
+#### Datum: 28. August 2023
+#### Uhrzeit: 19:00 Beginn
 #### Agenda:
-- **"Agile Thread Modelling"** - [Chrisitan Schneider](https://christian-schneider.net/) stellt zu diesem Thema das Tool [Threagile](https://threagile.io/) vor.
-- Offene Diskussionsrunde
-- Im Anschluss werden wir ein lokales Brauhaus aufsuchen.
+- **"Wie bekomme API so sicher wie möglich?"** - Axel Grosse 
+- Wie binde ich Sicherheit in den API Lebenszyklus ein und welche tools helfen mir dabei.  Ein Blick aus Sicht der API Entwickler und der Security Teams
 
 ___
 
 ### Vergangene Stammtische
+
+###### 35\. Kölner OWASP Stammtisch am 12. Mai 2022
+Nach langer Pause, wird wieder ein OWASP Stammtisch in Köln stattfinden. 
 
 ###### 34\. Kölner OWASP Stammtisch am 06.11.2018
 
