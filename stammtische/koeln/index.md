@@ -13,11 +13,11 @@ lokaler kölscher Kulturstätten.
 
 Jeder ist herzlich willkommen und kann gerne noch Freunde, Kollegen, Interessierte mitbringen. 
 
-### ANKÜNDIGUNG -- 36. Stammtisch am 28. August 2023
+### ANKÜNDIGUNG -- 36. Stammtisch am 24. August 2023
 
 Endlich ist es wieder soweit! Der OWASP Köln Stammtisch ist zurück. Wir treffen uns im Raum "Rom" im Startplatz.  Bitte meldet euch beim [GetTogether Event](https://gettogether.community/events/37460/owasp-stammtisch-cologne/) an.
 
-#### Datum: 28. August 2023
+#### Datum: 24. August 2023
 #### Uhrzeit: 19:00 Beginn
 #### Agenda:
 - **"Wie bekomme API so sicher wie möglich?"** - Axel Grosse 
