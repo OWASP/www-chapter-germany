@@ -13,21 +13,28 @@ lokaler kölscher Kulturstätten.
 
 Jeder ist herzlich willkommen und kann gerne noch Freunde, Kollegen, Interessierte mitbringen. 
 
-### ANKÜNDIGUNG -- 36. Stammtisch am 24. August 2023
 
-Endlich ist es wieder soweit! Der OWASP Köln Stammtisch ist zurück. Wir treffen uns im Raum "Rom" im Startplatz.  Bitte meldet euch beim [GetTogether Event](https://gettogether.community/events/37460/owasp-stammtisch-cologne/) an.
+### ANKÜNDIGUNG -- 37. Stammtisch am 26.10.2023
 
-#### Datum: 24. August 2023
+Unser nächstes Treffen wird wieder im Startplatz stattfinden, Raum Rom auf die ersten etage. Hier ist die Gettogether-Veranstaltung, bitte lassen Sie uns wissen, ob Sie teilnehmen werden. [GetTogether Event](https://gettogether.community/events/39509/owasp-stammtisch-cologne/)
+
+
+#### Datum: 26. Oktober 2023
 #### Uhrzeit: 19:00 Beginn
-#### Agenda:
-- **"Wie bekomme API so sicher wie möglich?"** - Axel Grosse 
-- Wie binde ich Sicherheit in den API Lebenszyklus ein und welche tools helfen mir dabei.  Ein Blick aus Sicht der API Entwickler und der Security Teams
+#### Agenda: Diesmal wird Pablo Endres einen Vortrag über die OWASP IoT Top Ten halten.
 
 ___
 
 ### Vergangene Stammtische
 
-###### 35\. Kölner OWASP Stammtisch am 12. Mai 2022
+###### 36\. Kölner OWASP Stammtisch am 26.10.2023
+
+Endlich ist es wieder soweit! Der OWASP Köln Stammtisch ist zurück. 
+- "Wie bekomme API so sicher wie möglich?" - Axel Grosse 
+- Wie binde ich Sicherheit in den API Lebenszyklus ein und welche tools helfen mir dabei.  Ein Blick aus Sicht der API Entwickler und der Security Teams
+
+###### 35\. Kölner OWASP Stammtisch am 12.05.2022
+
 Nach langer Pause, wird wieder ein OWASP Stammtisch in Köln stattfinden. 
 
 ###### 34\. Kölner OWASP Stammtisch am 06.11.2018
@@ -62,7 +69,7 @@ Nach langer Pause, wird wieder ein OWASP Stammtisch in Köln stattfinden.
 ###### 28\. Kölner OWASP Stammtisch am 5.1.2017
 
 - Wir treffen uns am Donnerstag, den 5.1.2017 ab 18Uhr im [Dombrauhaus](http://dombrauhaus.de/) in Leverkusen. 
-- Thema wird der Juice Shop von Björn. [https://bkimminich.github.io/juice-shop/#/](https://bkimminich.github.io/juice-shop/#/)
+- Thema wird der Juice Shop von Björn. [https://github.com/juice-shop/juice-shop](https://github.com/juice-shop/juice-shop)
 
 ###### 27\. Kölner OWASP Stammtisch am 22.08.2016
 
