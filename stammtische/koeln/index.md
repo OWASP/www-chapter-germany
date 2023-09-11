@@ -16,12 +16,15 @@ Jeder ist herzlich willkommen und kann gerne noch Freunde, Kollegen, Interessier
 
 ### ANKÜNDIGUNG -- 37. Stammtisch am 26.10.2023
 
-Unser nächstes Treffen wird wieder im Startplatz stattfinden, Raum Rom auf die ersten etage. Hier ist die Gettogether-Veranstaltung, bitte lassen Sie uns wissen, ob Sie teilnehmen werden. [GetTogether Event](https://gettogether.community/events/39509/owasp-stammtisch-cologne/)
+Unser nächstes Treffen wird wieder im Startplatz stattfinden, Raum Rom auf die ersten etage. Hier ist die Gettogether-Veranstaltung, bitte lassen Sie uns wissen, ob Sie teilnehmen werden. [GetTogether Event](https://gettogether.community/events/39509/owasp-stammtisch-cologne/) [Linkedin Event](https://www.linkedin.com/events/owaspcologne-37-stammtisch7106936672377782273/)
+
+Wir haben jetzt eine [LinkedIn-Gruppe](https://www.linkedin.com/groups/12891031/)
 
 
 #### Datum: 26. Oktober 2023
 #### Uhrzeit: 19:00 Beginn
-#### Agenda: Diesmal wird Pablo Endres einen Vortrag über die OWASP IoT Top Ten halten.
+#### Agenda: How to shield an IoT product from the OWASP IoT top 10 by Pablo Endres
+#### Location: [Startplatz](https://www.startplatz.de/)
 
 ___
 
