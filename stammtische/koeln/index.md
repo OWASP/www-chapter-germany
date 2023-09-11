@@ -23,10 +23,12 @@ Unser nächstes Treffen wird wieder im Startplatz stattfinden, Raum Rom auf die 
 Wir haben jetzt eine [LinkedIn-Gruppe](https://www.linkedin.com/groups/12891031/)
 
 
-#### Datum: 26. Oktober 2023
-#### Uhrzeit: 19:00 Beginn
-#### Agenda: How to shield an IoT product from the OWASP IoT top 10 by Pablo Endres
-#### Location: [Startplatz](https://www.startplatz.de/)
+#### Datum:     26. Oktober 2023
+#### Uhrzeit:   19:00 Beginn
+#### Agenda:    
+  - How to shield an IoT product from the OWASP IoT top 10 by Pablo Endres
+  - Anschließend gehen wir in ein lokales Brauhaus für unsere Diskussionsrunde.
+#### Location:  [Startplatz](https://www.startplatz.de/)
 
 ___
 
