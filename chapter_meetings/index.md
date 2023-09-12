@@ -33,6 +33,7 @@ Subscribed euch am Besten auf die [Mailing-Liste](https://groups.google.com/a/ow
 
 ## Vergangene Chapter Meetings
 
+ * [2023-05-30](protocols/2023-05-30.pdf)
  * [2022-11-29](protocols/2022-11-29.pdf)
  * [2022-08-08](protocols/2022-08-08.pdf)
  * [2021-11-29](protocols/2021-11-29.pdf)
