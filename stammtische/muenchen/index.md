@@ -16,12 +16,10 @@ meetup-group: OWASP_Muenchen_Stammtisch
 <!---- Nach vielen Online-Meetings ein persönliches Treffen und Diskutieren :-) --->
 <!--- **Vortrag gesucht &mdash; Vor-Ort-Treffen an einem neuen Ort!** --->
 
-Einladung zum (131.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 18.07.2023 um 18:30 Uhr**.<br><br>
+Einladung zum (132.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 19.09.2023 um 18:30 Uhr**.<br><br>
 **Agenda:**
-1. Vortrag: **BadUSB - Invasion der Gummientchen mit Klaus-E. Klingner**<br>
-Unsere Clients sind mittlerweile mit Antviren-Programmen, EDR und XDR gut abgesichert. Denken wir jedenfalls. Und wenn wir damit Software und Netzwerk meinen mag das auch stimmen.<br>Sobald aber jemand direkten Zugriff auf unseren Laptop oder PC hat sieht das ganze anders aus. Sie haben die USBports gesperrt? Aber nur für Massenspeicher. Tastaturen, Netzwerk-Karten und Maus sind immer noch erlaubt. Es reichen 20 Sekunen um einen Rechner komplett zu kompromittieren. Und genau das machen sich BadUSB Devices zunutze. In diesem Vortrag stelle ich diverse BadUSB Devices vom original RubberDucky bis zum DoItYourself custom device vor.<br><br>
-2. Lightning-Talk: **git ist kein Repository - git is terrible! mit Achim Hoffmann**<br> 
-<!--- \>\>\> **Wir suchen noch einen Vortrag für den Stammtisch!** Bitte melde Dich bei uns, wenn Du ein Thema aus dem Bereich IT-Sicherheit oder Informationssicherheit für uns hast. \<\<\< <br> --->
+1. Vortrag: **Threat Modeling DevOps with OWASP Cumulus mit Christoph Niehoff**<br>Abstract: Modern DevOps engineers are responsible for their product's security throughout each and every step of the delivery cycle. Framing this as "DevSecOps" can be intimidating as it introduces security as "yet another player" in the game and leaves the fact aside that every DevOps should be secure. In this talk we will discuss threat modeling as a lightweight approach to integrate security into DevOps processes and introduce OWASP Cumulus as a serious game for threat modeling the clouds (i.e. for threat modeling the "Ops" of DevOps).<br>Der findet je nach Wunsch in Deutsch oder Englisch statt.<br><br>
+2. Lightning-Talk: **git, warum nicht?!? mit Achim Hoffmann**<br>
 * Freie Diskussion, bringt bitte Themen mit!
 * Wir suchen noch Vorträge für die kommenden Stammtische
 
@@ -32,7 +30,7 @@ Café am Josephsplatz, Augustenstraße 112, 80798 München (https://www.cafe-am-
 [U2 Josephsplatz, Ausgang F im Süden](https://www.mvg.de/aushangfahrplan/P8_H_JO_0.pdf)
 
 **Zeit:**<br>
-Dienstag, 18.07.2023 um 18:30 Uhr
+Dienstag, 19.09.2023 um 18:30 Uhr
 
 <!---- \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
