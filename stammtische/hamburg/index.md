@@ -28,18 +28,25 @@ Wetter oder Björn Kimminich melden (vorname.nachname@owasp.org).
 Tritt unserer
 [Meetup-Gruppe](http://www.meetup.com/OWASP-Hamburg-Stammtisch/) bei, um
 zeitnah über Treffen auf dem Laufenden zu bleiben. Die Meetup-Seite ist
-zudem meistens etwas aktueller. Alternativ werden Treffen über die OWASP-Deutschland
+meistens etwas aktueller. Alternativ werden Treffen über die OWASP-Deutschland
 [Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/) angekündigt.
 
-Jeder mit Interesse an unseren Themen ist willkommen. Alle Treffen sind
-frei und offen. Man muss dafür kein OWASP-Mitglied sein. Hinweise auf
-diese Webseite oder auf einzelne Treffen an Kollegen oder Bekannte sind
-gern gesehen.
+Jeder mit Interesse an unseren Themen ist willkommen. Alle Treffen sind frei und
+offen. Man muss dafür kein OWASP-Mitglied sein. Wir verkaufen nichts und sind lediglich
+am Erfahrungsaustausch interessiert. Hinweise auf diese Webseite oder auf einzelne
+Treffen an Kollegen oder Bekannte sind gern gesehen.
 
 
 ### Aktuelle Treffen
 
 ### 66\. Stammtisch September 2023
+
+- Speaker: Max Maaß
+- Titel: "Responsible Disclosure at Scale: ein Erfahrungsbericht"
+- Lokation: online & on-prem: [Check24, An der Alster 64](https://osm.org/go/0HoG514R?way=41573175)
+- Uhrzeit: Start 18:30, Einlass ab 18 Uhr.
+- Presentationssprache: Deutsch
+- [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/296182090/)
 
 ### Vergangene Treffen
 
@@ -48,6 +55,7 @@ gern gesehen.
 - Speaker: Damian Poddebniak
 - Titel: "Rust: Eine moderne Alternative zu C und C++"
 - Lokation: online & on-prem: [Check24, An der Alster 64](https://osm.org/go/0HoG514R?way=41573175)
+- Uhrzeit: Start 18:30, Einlass ab 18 Uhr.
 - Presentationssprache: Deutsch
 - [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/294347212/)
 - [Slides](assets/slides/2023-07-06_Rust%20-%20Eine%20moderne%20Alternative%20zu%20C%20und%20C++.pdf)
@@ -58,6 +66,7 @@ gern gesehen.
 - Speaker: Daniel Neagaru
 - Title: "OWASP Raider: a novel framework for manipulating HTTP processes of persistent sessions"
 - Location: online & on-prem: [Kühne & Nagel, Großer Grasbrook 11-13](https://her.is/1Ws8uP8)
+- Time to start 6:00pm
 - Presentation Language: English
 - [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/292754451/)
 - [Slides](assets/slides/2023-04-18_OWASP_Raider.pdf)
@@ -68,6 +77,7 @@ gern gesehen.
 - Speaker: Juan Pablo Tosso, Felipe Zipitria
 - Title: "The way to WAF in 2023"
 - Location: Online
+- Time to start 3:00pm
 - Presentation Language: English
 - [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/292033499/)
 - [Slides](assets/slides/2023-03-24_The_way_to_WAF_in_2023.pdf)
