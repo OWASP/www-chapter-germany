@@ -16,10 +16,9 @@ meetup-group: OWASP_Muenchen_Stammtisch
 <!---- Nach vielen Online-Meetings ein persönliches Treffen und Diskutieren :-) --->
 <!--- **Vortrag gesucht &mdash; Vor-Ort-Treffen an einem neuen Ort!** --->
 
-Einladung zum (133.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 17.10.2023 um 18:30 Uhr**.<br><br>
+Einladung zum (134.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 21.11.2023 um 18:30 Uhr**.<br><br>
 **Agenda:**<br>
-* Vortrag: **Quo vadis passwordless? Die Zukunft der Authentifizierung (Clemens Hübner)**<br>Clemens wiederholt für uns seinen Vortrag auf dem German OWASP Day 2023:<br>
-Mit der Veröffentlichung der WebAuthn-Spezifikation im März 2019 wurde eine vielversprechende Option für passwortlose Authentifizierung in Webbrowsern vorgestellt. Bis zum letzten Jahr wuchs die Adaption in Websites und Anwendungen jedoch nur langsam. 2022 haben sowohl Google als auch Apple die Integration von Passkeys in ihre Ökosysteme angekündigt, was auf weiteren Fortschritt hoffen lässt. Dieser Vortrag erläutert die Grundlagen von passwortloser Authentifizierung mit WebAuthn und erklärt den Stand der Adaption sowohl auf Client- als auch auf Serverseite. Er wird sich dann auf die neuesten Entwicklungen mit Passkeys konzentrieren: Wohin entwickeln sich die Bemühungen um die Ablösung des Passworts? Welche Neuerungen gibt es für Entwickler:innen und Architekt:innen von Web-Anwendungen? Welche Funktionen erleichtern oder erschweren die Verwendung in Web-Anwendungen?<br>Während des Talks werden die Teilnehmer die Prinzipien von WebAuthn verstehen. Sie lernen die Möglichkeiten und Anwendungsfälle von Passkeys kennen und erfahren, wie diese Funktionen in neue oder bestehende Anwendungen integriert werden können. Der Vortrag gibt außerdem Impulse zur Diskussion über die Zukunft der Technologie.<br><br>Clemens Hübner studierte Mathematik und Informatik und schloss mit einer Masterarbeit zur Sicherheit in agilen Entwicklungsmodellen ab. Nach Tätigkeiten als Software Developer sowie im Penetration Testing ist er seit 2018 als Security Engineer bei inovex. Dort begleitet er heute Entwicklungsprojekte auf Konzeptions- und Implementierungsebene, schult Kolleg:innen und berät zu DevSecOps.<br>
+* Vortrag: **IT-Risiken für große KI-Sprachmodelle, wie z.B. ChatGPT (Van Nguyen)**<br>Sprachmodelle wie z.B ChatGPT spielen eine zunehmende Rolle in unserem Alltag. In dem Vortrag werden Sprachmodelle vorgestellt. Anschließend werden einige Angrifftechniken insbesondere Autopoison und dessen Gegenmaßnahmen diskutiert.<br>Van Nguyen studiert Informatik und arbeitet im Bereich IT-Sicherheit.<br>
 * Freie Diskussion, bringt bitte Themen mit!
 * Wir suchen noch Vorträge für die kommenden Stammtische
 
@@ -30,7 +29,7 @@ Café am Josephsplatz, Augustenstraße 112, 80798 München (https://www.cafe-am-
 [U2 Josephsplatz, Ausgang F im Süden](https://www.mvg.de/aushangfahrplan/P8_H_JO_0.pdf)
 
 **Zeit:**<br>
-Dienstag, 17.10.2023 um 18:30 Uhr
+Dienstag, 21.11.2023 um 18:30 Uhr
 
 <!---- \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
@@ -54,8 +53,8 @@ Orga-Team für den Münchner OWASP Stammtisch (Christoph, Thomas und [Torsten](h
 
 ## Geplante Stammtisch-Vorträge und -Diskussionen
 <!--- * Juli 2020,  21.07.2020 --->
-<!--- * August 2022: Sommerferien - KEIN OWASP-Stammtisch
-* Dezember 2022: Weihnachtsferien - KEIN OWASP-Stammtisch --->
+<!--- * August 2022: Sommerferien - KEIN OWASP-Stammtisch --->
+* Dezember 2023: Weihnachtsferien - KEIN OWASP-Stammtisch
 * <b>Wir suchen Vorträge für die nächsten Stammtische!</b><br>Möchte jemand einen Vortrag oder einen Lightning-Talk halten? Prima! Sobald wir eine konkrete Zusage haben, werden diese bei der Ankündigung des jeweiligen Termins mit bekannt geben.<br>Also, wie immer: Ich bitte um kurze Info an mich, ob jemand noch weitere (für uns relevante) Themen parat hat, die er uns näher bringen möchte. ''Verkaufsveranstalter werden alle 20 Minuten ausgebuht und müssen dann eine (neue) Runde Bier bezahlen.''
 
 Der Münchner Stammtisch findet (normalerweise) jeden <b>dritten Dienstag im Monat um 18:30 Uhr (neu)</b> statt (außer im August und Dezember).<br>
