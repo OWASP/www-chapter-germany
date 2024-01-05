@@ -25,7 +25,8 @@ Aktive Stammtische gibt es (Stand Oktober 2019) in:
 [Karlsruhe](/www-chapter-germany/stammtische/karlsruhe/),
 [Dresden](/www-chapter-germany/stammtische/dresden/),
 [Ruhrpott](/www-chapter-germany/stammtische/ruhrpott/),
-[Heilbronn-Franken](/www-chapter-germany/stammtische/heilbronn_franken/).
+[Heilbronn-Franken](/www-chapter-germany/stammtische/heilbronn_franken/),
+[Berlin](/www-chapter-germany/stammtische/berlin/).
 
 ## Chapter Meetings
 
