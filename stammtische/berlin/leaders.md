@@ -1,4 +1,5 @@
 Organisatoren
 
-* <Organisator 1>
-* <Organisator 2>
+* Andreas Heppner
+* Michael Hohensee
+* Sebastian Mack
