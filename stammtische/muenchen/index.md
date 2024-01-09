@@ -16,9 +16,9 @@ meetup-group: OWASP_Muenchen_Stammtisch
 <!---- Nach vielen Online-Meetings ein persönliches Treffen und Diskutieren :-) --->
 <!--- **Vortrag gesucht &mdash; Vor-Ort-Treffen an einem neuen Ort!** --->
 
-Einladung zum (134.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 21.11.2023 um 18:30 Uhr**.<br><br>
+Einladung zum (135.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 16.01.2024 um 18:30 Uhr**.<br><br>
 **Agenda:**<br>
-* Vortrag: **IT-Risiken für große KI-Sprachmodelle, wie z.B. ChatGPT (Van Nguyen)**<br>Sprachmodelle wie z.B ChatGPT spielen eine zunehmende Rolle in unserem Alltag. In dem Vortrag werden Sprachmodelle vorgestellt. Anschließend werden einige Angriffstechniken, insbesondere Autopoison und dessen Gegenmaßnahmen diskutiert.<br>Van Nguyen studiert Informatik und arbeitet im Bereich IT-Sicherheit.<br>
+* \>\>\> **Wir suchen noch einen Vortrag für den Stammtisch!** Bitte melde Dich bei uns, wenn Du ein Thema aus dem Bereich IT-Sicherheit oder Informationssicherheit für uns hast. \<\<\< <br>
 * Freie Diskussion, bringt bitte Themen mit!
 * Wir suchen noch Vorträge für die kommenden Stammtische
 
@@ -29,7 +29,7 @@ Café am Josephsplatz, Augustenstraße 112, 80798 München (https://www.cafe-am-
 [U2 Josephsplatz, Ausgang F im Süden](https://www.mvg.de/aushangfahrplan/P8_H_JO_0.pdf)
 
 **Zeit:**<br>
-Dienstag, 21.11.2023 um 18:30 Uhr
+Dienstag, 16.01.2024 um 18:30 Uhr
 
 <!---- \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
