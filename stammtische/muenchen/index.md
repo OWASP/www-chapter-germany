@@ -16,9 +16,12 @@ meetup-group: OWASP_Muenchen_Stammtisch
 <!---- Nach vielen Online-Meetings ein persönliches Treffen und Diskutieren :-) --->
 <!--- **Vortrag gesucht &mdash; Vor-Ort-Treffen an einem neuen Ort!** --->
 
+Vielen herzlichen Dank, es haben sich gleich 2 Vortragende gemeldet, Jens und Emin. In der Reihenfolge der Meldungen, beginnt Jens und wir freuen uns auf Emins Vortrag an einem der nächsten Stammtische.
+
 Einladung zum (135.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 16.01.2024 um 18:30 Uhr**.<br><br>
 **Agenda:**<br>
-* \>\>\> **Wir suchen noch einen Vortrag für den Stammtisch!** Bitte melde Dich bei uns, wenn Du ein Thema aus dem Bereich IT-Sicherheit oder Informationssicherheit für uns hast. \<\<\< <br>
+* Vortrag: **SOC-Outsourcing - Lessons Learned (Jens Bitter)**<br>Erfahrungen beim SOC-Outsourcing und der Dienstleistersteuerung (Retained-Organisation).<br>
+   Zur Person: Jens Bitter, seit mehr als 20 Jahren selbstständig als Interim-Manager / CISO, CyberSecurity Advisor im Bereich IT Governance, Risk & Security Management.<br>
 * Freie Diskussion, bringt bitte Themen mit!
 * Wir suchen noch Vorträge für die kommenden Stammtische
 
@@ -53,8 +56,8 @@ Orga-Team für den Münchner OWASP Stammtisch (Christoph, Thomas und [Torsten](h
 
 ## Geplante Stammtisch-Vorträge und -Diskussionen
 <!--- * Juli 2020,  21.07.2020 --->
-<!--- * August 2022: Sommerferien - KEIN OWASP-Stammtisch --->
-* Dezember 2023: Weihnachtsferien - KEIN OWASP-Stammtisch
+<!--- * August 2022: Sommerferien - KEIN OWASP-Stammtisch 
+* Dezember 2023: Weihnachtsferien - KEIN OWASP-Stammtisch --->
 * <b>Wir suchen Vorträge für die nächsten Stammtische!</b><br>Möchte jemand einen Vortrag oder einen Lightning-Talk halten? Prima! Sobald wir eine konkrete Zusage haben, werden diese bei der Ankündigung des jeweiligen Termins mit bekannt geben.<br>Also, wie immer: Ich bitte um kurze Info an mich, ob jemand noch weitere (für uns relevante) Themen parat hat, die er uns näher bringen möchte. ''Verkaufsveranstalter werden alle 20 Minuten ausgebuht und müssen dann eine (neue) Runde Bier bezahlen.''
 
 Der Münchner Stammtisch findet (normalerweise) jeden <b>dritten Dienstag im Monat um 18:30 Uhr (neu)</b> statt (außer im August und Dezember).<br>
