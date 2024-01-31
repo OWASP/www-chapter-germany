@@ -26,21 +26,31 @@ Wetter oder Björn Kimminich melden (vorname.nachname@owasp.org).
 ### Wie bekomme ich Treffen mit?
 
 Tritt unserer [Meetup-Gruppe](http://www.meetup.com/OWASP-Hamburg-Stammtisch/) bei, um
-zeitnah über Treffen informiert zu bleiben. Die Meetup-Seite ist meistens etwas aktueller.
+zeitnah über Treffen informiert zu bleiben. Die Meetup-Seite ist immer etwas aktueller.
 Alternativ werden Treffen über die OWASP-Deutschland
 [Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/) angekündigt.
 
 Jeder mit Interesse an unseren Themen ist willkommen. Alle Treffen sind frei und
 offen, man muss kein OWASP-Mitglied sein. Wir verkaufen auch nichts und sind lediglich
-am Erfahrungsaustausch interessiert. Hinweise auf diese Webseite oder auf einzelne
+am Erfahrungsaustausch interessiert. Hinweise auf diese Webseite bzw. Meetup oder auf einzelne
 Treffen an Kollegen oder Bekannte sind gern gesehen.
 
 
 ### Aktuelle Treffen
 
-### 67\. Stammtisch November 2023
+### 67\. Stammtisch Februarr 2024
 
-TBD
+- Speaker: Adina Bogert-O'Brien | Matthias Marx
+- Titel: "A beginner's guide to SSO (mis)configuration" | "Omnipresent Biometric Surveillance"
+- Lokation: <!-- online & --> on-prem: [New Work](https://www.openstreetmap.org/#map=19/53.53912/9.99306)
+- Uhrzeit: Start 18:30, Einlass ab 18 Uhr.
+- Presentation Language: English
+- [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/298504203/)
+<!--
+- [Slides](assets/slides/2023-09-26_Responsible_Disclosure_at_Scale.pdf)
+-->
+
+
 
 
 ### Vergangene Treffen
