@@ -38,7 +38,7 @@ Treffen an Kollegen oder Bekannte sind gern gesehen.
 
 ### Aktuelle Treffen
 
-### 67\. Stammtisch Februarr 2024
+### 67\. Stammtisch Februar 2024
 
 - Speaker: Adina Bogert-O'Brien + Matthias Marx
 - Titel: "A beginner's guide to SSO (mis)configuration" + "Omnipresent Biometric Surveillance"
