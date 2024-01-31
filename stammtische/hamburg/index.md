@@ -46,10 +46,6 @@ Treffen an Kollegen oder Bekannte sind gern gesehen.
 - Uhrzeit: Start 18:30, Einlass ab 18 Uhr.
 - Presentation Language: English
 - [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/298504203/)
-<!--
-- [Slides](assets/slides/2023-09-26_Responsible_Disclosure_at_Scale.pdf)
--->
-
 
 
 
