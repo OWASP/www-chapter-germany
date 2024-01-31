@@ -40,9 +40,9 @@ Treffen an Kollegen oder Bekannte sind gern gesehen.
 
 ### 67\. Stammtisch Februarr 2024
 
-- Speaker: Adina Bogert-O'Brien | Matthias Marx
-- Titel: "A beginner's guide to SSO (mis)configuration" | "Omnipresent Biometric Surveillance"
-- Lokation: <!-- online & --> on-prem: [New Work](https://www.openstreetmap.org/#map=19/53.53912/9.99306)
+- Speaker: Adina Bogert-O'Brien + Matthias Marx
+- Titel: "A beginner's guide to SSO (mis)configuration" + "Omnipresent Biometric Surveillance"
+- Lokation: [New Work](https://www.openstreetmap.org/#map=19/53.53912/9.99306)
 - Uhrzeit: Start 18:30, Einlass ab 18 Uhr.
 - Presentation Language: English
 - [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/298504203/)
