@@ -38,7 +38,17 @@ Treffen an Kollegen oder Bekannte sind gern gesehen.
 
 ### Aktuelle Treffen
 
-### 67\. Stammtisch Februar 2024
+### 67\. Stammtisch März 2024
+
+- Speaker: TBA
+- Titel: TBA
+- Lokation: [Check24, An der Alster 64](https://osm.org/go/0HoG514R?way=41573175)
+- Zeit: 13.3.2024
+
+
+### Vergangene Treffen
+
+### 67\. Stammtisch 7.2.2024
 
 - Speaker: Adina Bogert-O'Brien + Matthias Marx
 - Titel: "A beginner's guide to SSO (mis)configuration" + "Omnipresent Biometric Surveillance"
@@ -46,12 +56,10 @@ Treffen an Kollegen oder Bekannte sind gern gesehen.
 - Uhrzeit: Start 18:30, Einlass ab 18 Uhr.
 - Presentation Language: English
 - [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/298504203/)
+- [Slides](assets/slides/2024-02-07_SSO_beginners_guide_to_misconfiguration.pdf)
 
 
-
-### Vergangene Treffen
-
-### 66\. Stammtisch September 2023
+### 66\. Stammtisch 26.9.2023
 
 - Speaker: Max Maaß
 - Titel: "Responsible Disclosure at Scale: ein Erfahrungsbericht"
@@ -61,7 +69,7 @@ Treffen an Kollegen oder Bekannte sind gern gesehen.
 - [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/296182090/)
 - [Slides](assets/slides/2023-09-26_Responsible_Disclosure_at_Scale.pdf)
 
-#### 65\. Stammtisch: Juli 2023
+#### 65\. Stammtisch: 6.7.2023
 
 - Speaker: Damian Poddebniak
 - Titel: "Rust: Eine moderne Alternative zu C und C++"
