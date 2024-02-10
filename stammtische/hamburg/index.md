@@ -56,7 +56,8 @@ Treffen an Kollegen oder Bekannte sind gern gesehen.
 - Uhrzeit: Start 18:30, Einlass ab 18 Uhr.
 - Presentation Language: English
 - [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/298504203/)
-- [Slides](assets/slides/2024-02-07_SSO_beginners_guide_to_misconfiguration.pdf)
+- [Adina's Slides](assets/slides/2024-02-07_SSO_beginners_guide_to_misconfiguration.pdf)
+- [Matthias's Slides](assets/slides/2024-02-07_Omnipresent_Biometric_Surveillance_publish.pdf)
 
 
 ### 66\. Stammtisch 26.9.2023
