@@ -70,6 +70,6 @@ Der Münchner Stammtisch findet (normalerweise) jeden <b>dritten Dienstag im Mon
 
 #### Weitere Informationen
 * [Vgl auch alte Wiki-Seite](https://wiki.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/M%C3%BCnchen)
-* [(unvollständige) Liste mit bereits gehaltenen Stammtisch-Vorträgen](_includes/former-talks.md) 
 
-<!--- {% include_relative /_includes/former-talks.md %} --->
+#### Auswahl an bereits gehaltenen Stammtisch-Vorträgen 
+{% include_relative /_includes/former-talks.md %}
