@@ -15,13 +15,11 @@ meetup-group: OWASP_Muenchen_Stammtisch
 <!---- als **ONLINE-Version** am **Di, 21.06.2022**, um 19:00 Uhr.<br><br> \>\>\> **ACHTUNG:** Dieses Mal auch wieder **ONLINE!** \<\<\< ---> 
 <!---- Nach vielen Online-Meetings ein persönliches Treffen und Diskutieren :-) --->
 <!--- **Vortrag gesucht &mdash; Vor-Ort-Treffen an einem neuen Ort!** --->
+**\>\>\> Wir suchen noch einen Vortrag für den Stammtisch! Bitte melde Dich bei uns, wenn Du ein Thema aus dem Bereich IT-Sicherheit oder Informationssicherheit für uns hast. \<\<\<**
 
-Vielen herzlichen Dank, es haben sich gleich 2 Vortragende gemeldet, Jens und Emin. In der Reihenfolge der Meldungen, beginnt Jens und wir freuen uns auf Emins Vortrag an einem der nächsten Stammtische.
-
-Einladung zum (135.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 16.01.2024 um 18:30 Uhr**.<br><br>
+Einladung zum (136.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 27.02.2024 um 18:30 Uhr**.<br><br>
 **Agenda:**<br>
-* Vortrag: **SOC-Outsourcing - Lessons Learned (Jens Bitter)**<br>Erfahrungen beim SOC-Outsourcing und der Dienstleistersteuerung (Retained-Organisation).<br>
-   Zur Person: Jens Bitter, seit mehr als 20 Jahren selbstständig als Interim-Manager / CISO, CyberSecurity Advisor im Bereich IT Governance, Risk & Security Management.<br>
+* Hier könnte Dein Vortrag stehen
 * Freie Diskussion, bringt bitte Themen mit!
 * Wir suchen noch Vorträge für die kommenden Stammtische
 
@@ -32,7 +30,7 @@ Café am Josephsplatz, Augustenstraße 112, 80798 München (https://www.cafe-am-
 [U2 Josephsplatz, Ausgang F im Süden](https://www.mvg.de/aushangfahrplan/P8_H_JO_0.pdf)
 
 **Zeit:**<br>
-Dienstag, 16.01.2024 um 18:30 Uhr
+Dienstag, 17.02.2024 um 18:30 Uhr
 
 <!---- \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
@@ -71,8 +69,7 @@ Der Münchner Stammtisch findet (normalerweise) jeden <b>dritten Dienstag im Mon
 * weitere Informationen zu [<b>OWASP Deutschland</b>](/www-chapter-germany/) und zu unseren [<b>Projekten</b>](/www-chapter-germany/#div-projekte)
 
 #### Weitere Informationen
-[Vgl bisherige Wiki-Seite](https://wiki.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/M%C3%BCnchen)
+* [Vgl auch alte Wiki-Seite](https://wiki.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/M%C3%BCnchen)
+* [(unvollständige) Liste mit bereits gehaltenen Stammtisch-Vorträgen](_includes/former-talks.md) 
 
-
-{% include_relative /_includes/former-talks.md %}
-
+<!--- {% include_relative /_includes/former-talks.md %} --->
