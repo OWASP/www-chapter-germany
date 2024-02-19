@@ -14,27 +14,23 @@ lokaler kölscher Kulturstätten.
 Jeder ist herzlich willkommen und kann gerne noch Freunde, Kollegen, Interessierte mitbringen. 
 
 
-### ANKÜNDIGUNG -- 37. Stammtisch am 26.10.2023
+### ANKÜNDIGUNG -- 38. Stammtisch am 14.03.2024
 
-Unser nächstes Treffen wird wieder im Startplatz stattfinden, Raum Rom auf die ersten etage. Hier ist die Gettogether-Veranstaltung, bitte lassen Sie uns wissen, ob Sie teilnehmen werden.  
-[GetTogether Event](https://gettogether.community/events/39509/owasp-stammtisch-cologne/)  
-[Linkedin Event](https://www.linkedin.com/events/owaspcologne-37-stammtisch7106936672377782273/)  
-
-Wir haben jetzt eine [LinkedIn-Gruppe](https://www.linkedin.com/groups/12891031/)
-
-
-#### Datum:     26. Oktober 2023
-#### Uhrzeit:   19:00 Beginn
-#### Agenda:    
-  - How to shield an IoT product from the OWASP IoT top 10 by Pablo Endres
-  - Anschließend gehen wir in ein lokales Brauhaus für unsere Diskussionsrunde.
-#### Location:  [Startplatz](https://www.startplatz.de/)
+Unser erster Stammtisch des Jahres 2024 wird am Startplatz stattfinden.  
+- 14.03.2024, 19uhr, Mediapark 5, erste Etage, Raum Rom
+- "LangSec for AppSec folks" - Lars (bob5sec)
+Nach dem Vortrag gehen wir in ein lokales Brauhaus für Diskussionen und Erfrischungen
 
 ___
 
 ### Vergangene Stammtische
 
-###### 36\. Kölner OWASP Stammtisch am 26.10.2023
+###### 37\. Kölner OWASP Stammtisch am 26.10.2023
+   
+  - How to shield an IoT product from the OWASP IoT top 10 by Pablo Endres
+  - Anschließend gehen wir in ein lokales Brauhaus für unsere Diskussionsrunde.
+
+###### 36\. Kölner OWASP Stammtisch am 24.08.2023
 
 Endlich ist es wieder soweit! Der OWASP Köln Stammtisch ist zurück. 
 - "Wie bekomme API so sicher wie möglich?" - Axel Grosse 
