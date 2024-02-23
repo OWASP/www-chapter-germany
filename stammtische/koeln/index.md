@@ -17,9 +17,17 @@ Jeder ist herzlich willkommen und kann gerne noch Freunde, Kollegen, Interessier
 ### ANKÜNDIGUNG -- 38. Stammtisch am 14.03.2024
 
 Unser erster Stammtisch des Jahres 2024 wird am Startplatz stattfinden.  
-- 14.03.2024, 19uhr, Mediapark 5, erste Etage, Raum Rom
+
+14.03.2024, 19uhr, Mediapark 5, erste Etage, Raum Rom
+
 - "LangSec for AppSec folks" - Lars (bob5sec)
-Nach dem Vortrag gehen wir in ein lokales Brauhaus für Diskussionen und Erfrischungen
+
+
+The fundamental security principles described by LangSec explain the root cause of many security vulnerabilities and how to fix it.
+LangSec regards the Internet insecurity epidemic as a consequence of ad hoc programming of input handling. LangSec posits that the only path to trustworthy software that takes untrusted inputs is treating all valid or expected inputs and outputs as a formal language, and the respective input-handling routines as a parser respectively unparser for that language.
+
+
+- Nach dem Vortrag gehen wir in ein lokales Brauhaus für Diskussionen und Erfrischungen
 
 ___
 
