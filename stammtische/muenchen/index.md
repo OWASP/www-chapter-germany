@@ -19,7 +19,7 @@ meetup-group: OWASP_Muenchen_Stammtisch
 
 Einladung zum (136.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 27.02.2024 um 18:30 Uhr**.<br><br>
 **Agenda:**<br>
-* Hier könnte Dein Vortrag stehen
+* Da wir keinen Vortragenden haben, schlagen wir vor, uns gemeinsam die **'OWASP Top 10 for LLM Applications'** anzusehen:<br>https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-v1_1.pdf<br>bzw. https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/tree/main/1_1_vulns<br>Wäre toll, wenn Ihr Euch eine oder mehrere Schwachstellen genauer anschauen könnt.
 * Freie Diskussion, bringt bitte Themen mit!
 * Wir suchen noch Vorträge für die kommenden Stammtische
 
