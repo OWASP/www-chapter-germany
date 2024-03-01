@@ -38,7 +38,7 @@ Treffen an Kollegen oder Bekannte sind gern gesehen.
 
 ### Aktuelle Treffen
 
-### 67\. Stammtisch 19, März 2024
+### 67\. Stammtisch 19.3.2024
 
 - Speaker: Stephan Kaps
 - Titel: "Software-Supply-Chain Security in Practice"
