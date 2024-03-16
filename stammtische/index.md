@@ -46,14 +46,14 @@ Lokale Stammtische gibt es in einer Reihe von Städten:
 * [Karlsruhe](karlsruhe/)
 * [Dresden](dresden/)
 * [Köln](koeln/)
-* [Heilbronn-Franken](heilbronn_franken/)
 * [Hannover](hannover/)
-* [Leipzig](leipzig/)
+* [Heilbronn-Franken](heilbronn_franken/)
 * [Berlin](berlin/)
 
 Es gab aktive Stammtische in
 
 * Nürnberg
+* [Leipzig](leipzig/)
 * [Ruhrpott](ruhrpott/)
 
 die wiederbelebt werden sollen. Hier lohnt es sich ab und wann mal nach dem
@@ -64,7 +64,7 @@ hat das in 2020 geklappt.
 
 ### Wie funktioniert ein Stammtisch?
 
-Zunächst braucht es jemanden, der den Stammtisch ehrenamtlich organisiert.
+Zunächst braucht es jemanden (offziell: zwei), der den Stammtisch ehrenamtlich organisiert.
 Dieser sollte idealerweise eine private oder eine owasp.org-Mailadresse nutzen
 und nicht die seiner Firma, um die Neutralität zu wahren. Wir möchten damit
 auch vermeiden, dass die OWASP-Germany-Liste, auf der unsere Treffen ankündigt
@@ -96,9 +96,9 @@ Ein Vortrag muss herstellerneutral erfolgen, siehe den entprechenden Abschnitt
 im [OWASP Speaker Agreement](/www-policy/legal/speaker-agreement.html).
 Was bedeutet, dass kein Company Slide Deck und kein Marketing geht. Auch "Namedropping" sollte
 möglichst vermieden werden. Der Stammtischorganisator muss die Sprecher auf die
-Vereinbarung hinweisen. Natürlich kann jeder auf einer Seite auf seinen
-Hintergrund hinweisen inkl. Nennung des Arbeitsgebers. Eine
-Verkaufspräsentation ist jedoch nicht im Sinne der OWASP-Mission. Natürlich
+Vereinbarung hinweisen. Natürlich kann jeder auf einer Seite auf einer Folie 
+inkl. Firmen-Logo seinen auf Hintergrund hinweisen .
+Eine Verkaufspräsentation ist jedoch nicht im Sinne der OWASP-Mission. Natürlich
 kann das einen Zusatzaufwand für einen kostenneutral auftretenden Sprecher
 verursachen, ist jedoch notwendig, um die Herstellerneutralität von OWASP zu
 gewährleisten.
@@ -115,9 +115,10 @@ Reichweite, Reichweite, Reichweite. Auf jeden Fall auf der jeweiligen
 Stammtisch-Webseite plus einer E-Mail an die OWASP-German-Chapter-Mailingliste sind
 "obligatorisch".
 
-Sehr gut, um Entwickler und andere Menschen außerhalb unserer Filterblase zu erreichen ist
-die Plattform Meetup. Zusätzlich kann man noch sein Netzwerk per Xing, LinkedIn,
-$FanceNeuesNetzwerk ankündigen. Meetup hat aller Erfahrung nach jedoch die größte
+Viele Stammtische verwenden einen Meetup-Account unter dem Dach der OWASP Foundation, 
+was besonders geolokal hilft, mehr Zuhörer außerhalb der eigenen Filterblase zu gewinnen. 
+
+Zusätzlich kann man noch sein Netzwerk per Xing, LinkedIn,$FanceNeuesNetzwerk ankündigen. Meetup hat aller Erfahrung nach jedoch die größte
 Reichweite.
 
 ### Wie bekomme ich einen Meetup-Account?
@@ -132,4 +133,4 @@ richtige Stelle der OWASP Foundation weiterleiten.
 
 ### Welche Videokonferenz-Software empfiehlt sich für Online Stammtische?
 
-Je freier und einfacher zugänglich, desto besser. Gleiches gilt für DSGVO-Compliance. OpenSource Software für Konferenzsysteme sind beispielsweise [Jitsi](https://jitsi.org/) und [BigBlueButton](https://bigbluebutton.org/). Eine gehostete Variante von BigBlueButton ist [senfcall](https://senfcall.de/).
+Je freier und einfacher zugänglich, desto besser. Gleiches gilt für DSGVO-Compliance. OpenSource Software für Konferenzsysteme sind beispielsweise [Jitsi](https://jitsi.org/) und [BigBlueButton](https://bigbluebutton.org/). Eine gehostete Variante von BigBlueButton ist [senfcall](https://senfcall.de/). 
