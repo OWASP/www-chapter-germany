@@ -49,6 +49,7 @@ Lokale Stammtische gibt es in einer Reihe von Städten:
 * [Hannover](hannover/)
 * [Heilbronn-Franken](heilbronn_franken/)
 * [Berlin](berlin/)
+* [Augsburg](augsburg/)
 
 Es gab aktive Stammtische in
 
