@@ -26,19 +26,26 @@ Wetter oder Björn Kimminich melden (vorname.nachname@owasp.org).
 ### Wie bekomme ich Treffen mit?
 
 Tritt unserer [Meetup-Gruppe](http://www.meetup.com/OWASP-Hamburg-Stammtisch/) bei, um
-zeitnah über Treffen informiert zu bleiben. Die Meetup-Seite ist immer etwas aktueller. 
-Links zu Meetup unten enthalten auch den Abstract. Alternativ werden Treffen über die OWASP-Deutschland
+zeitnah über Treffen informiert zu bleiben. Die Meetup-Seite ist immer etwas aktueller, zudem
+findet man auf Meetup mmer den den Abstract. Alternativ werden Treffen über die OWASP-Deutschland
 [Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/) angekündigt.
 
 Jeder mit Interesse an unseren Themen ist willkommen. Alle Treffen sind frei und
-offen, man muss kein OWASP-Mitglied sein. Wir verkaufen auch nichts und sind lediglich
+offen, man muss kein OWASP-Mitglied sein. Niemand verkauft etwas und sind lediglich
 am Erfahrungsaustausch interessiert. Hinweise auf diese Webseite bzw. Meetup oder auf einzelne
 Treffen an Kollegen oder Bekannte sind gern gesehen.
 
 
 ### Aktuelle Treffen
 
-### 67\. Stammtisch 19.3.2024
+### 69\. Stammtisch April/Mai 2024
+
+- TBA
+
+
+### Vergangene Treffen
+
+### 68\. Stammtisch 19.3.2024
 
 - Speaker: Stephan Kaps
 - Titel: "Software-Supply-Chain Security in Practice"
@@ -46,9 +53,7 @@ Treffen an Kollegen oder Bekannte sind gern gesehen.
 - Presentation Language: German
 - Uhrzeit: Start 19:00, Einlass ab 18:30 Uhr
 - Lokation: [Check24, An der Alster 64](https://osm.org/go/0HoG514R?way=41573175)
-
-
-### Vergangene Treffen
+- [Folien](assets/slides/2024_03_19_Software-Supply-Chain-Security_in_Practice.pdf)
 
 ### 67\. Stammtisch 7.2.2024
 
