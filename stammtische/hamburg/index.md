@@ -38,7 +38,7 @@ Treffen an Kollegen oder Bekannte sind gern gesehen.
 
 ### Aktuelle Treffen
 
-### 69\. Stammtisch April/Mai
+### 69\. Stammtisch April/Mai 2024
 
 - TBA
 
