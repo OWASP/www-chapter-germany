@@ -1,4 +1,4 @@
 ### Organisatoren
 
-* `<Organisator 1>`
-* `<Organisator 2>`
+* [Johannes Merkert](mailto:johannes.merkert@owasp.org)
+* [Sven Strittmatter (aka. Weltraumschaf)](mailto:sven.strittmatter@owasp.org)
