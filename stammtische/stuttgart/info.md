@@ -1,14 +1,14 @@
 ### Navigation ([🔙](/www-chapter-germany/stammtische/#lokale-stammtische))
 
-* zurück zu [OWASP Germany](/www-chapter-germany/)
-* zurück zu [Lokale Stammtische](/www-chapter-germany/stammtische/#lokale-stammtische)
+* back to [OWASP Germany](/www-chapter-germany/)
+* back to [Lokale Stammtische](/www-chapter-germany/stammtische/#lokale-stammtische)
 * [Stammtisch FAQ](/www-chapter-germany/stammtische/#stammtisch-faq)
 
-### Kontakt
+### Social Links
 
-* TODO
+* [Meetup.com](https://www.meetup.com/OWASP-Stuttgart/)
 
-### Weitere Stammtisch Informationen
+### Further Stuttgart Stammtisch Information
 
 * [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
 * [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
