@@ -35,7 +35,7 @@ Ankündigungen wann & wo ein Stammtisch stattfinden wird, findet ihr hier, auf [
 
 #### Agenda: tbd
 
-#### Ort: tbd
+#### Ort: [Thing](https://www.mein-thing.de/), Vorderer Lech 45, 86150 Augsburg
 
 #### Zeit: 19:00
 
