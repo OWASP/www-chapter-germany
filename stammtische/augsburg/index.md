@@ -33,7 +33,14 @@ Ankündigungen wann & wo ein Stammtisch stattfinden wird, findet ihr hier, auf [
 
 ### Ankündigung - 01. Stammtisch voraussichtlich am 17.04.2024
 
-#### Agenda: tbd
+#### Agenda: 
+* **Vortrag:** Vorstellung von OWASP inkl. Live-Demo einiger (Flagship) Projects, wie z.B.
+    * Juice Shop
+    * ~~OWASP~~ ZAP
+    * OWASP DSOMM / SAMM
+    * ...
+* Austausch von Erwartungen an den Stammtisch
+* Networking 
 
 #### Ort: [Thing](https://www.mein-thing.de/), Vorderer Lech 45, 86150 Augsburg
 
