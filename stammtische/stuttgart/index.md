@@ -6,13 +6,6 @@ altfooter: true
 
 ---
 
-## OWASP Stammtisch Stuttgart
+## Welcome to OWASP Stammtisch Stuttgart
 
-🔧 TODO
-
-### **T E R M I N E:**
-
-<span style="font-size:130%;">Termine werden über die Mailing-Liste von OWASP Germany angekündigt
-([germany-chapter@owasp.org](mailto:germany-chapter@owasp.org)),
-[Mailarchiv](https://groups.google.com/a/owasp.org/forum/#!forum/germany-chapter)</span>
-
+_Stammtisch_ is a special thing in Germany and does not really fit into the organizational structure of OWASP. Thus, new _Stammtische_ need to be a chapter. So, all further information can be found at the [OWASP Chapter Stuttgart](https://owasp.org/www-chapter-stuttgart/) site.  
