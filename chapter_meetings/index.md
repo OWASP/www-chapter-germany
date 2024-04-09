@@ -15,18 +15,15 @@ Anders als die meisten OWASP Chapter auf der Welt, haben wir daher bislang Chapt
 
 ## Nächstes Chapter Meeting
 
-OWASP German Chapter Meeting Dienstag, 28. November 2023 um 20:00 in einem Google Meet.
+OWASP German Chapter Meeting Dienstag, 16. April · 20:00 bis 22:00 in einem Google Meet.
 
 Agenda:
 
     Begrüßung und Vorstellung (Tobias, 10 Minuten)
-    Aus den Stammtischen (alle, 30 Minuten)
     German OWASP Day 2024
-    OWASP AppSec Europe in Deutschland?
-    Deutsche Version der Top 10:2021 
     Sonstiges
 
-Einwahl: https://meet.google.com/sfv-fwbh-aww
+Einwahl: https://meet.google.com/pon-ppcg-fqv
 
 Erweiterungen vorab an Tobias (tobias.glemser@owasp.org)
 
