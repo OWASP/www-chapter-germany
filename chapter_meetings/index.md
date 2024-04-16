@@ -30,10 +30,11 @@ Erweiterungen vorab an Tobias (tobias.glemser@owasp.org)
 Subscribed euch am Besten auf die [Mailing-Liste](https://groups.google.com/a/owasp.org/group/germany-chapter/), um nichts zu verpassen.
 
 ## Regelmäßige Aufgaben
-Im ersten Chaptermeeting eines Jahres pflegen wir die Board Member Liste. Wer unentschuldigt in diesem Treffen fehlt, wird von der Liste genommen (Beschluss 23-11-28). Ebenso prüfen wir die Positionen der Chapter Leads.
+Im ersten Chaptermeeting eines Jahres pflegen wir die Board Member Liste. Wer unentschuldigt in diesem Treffen fehlt, wird von der Liste genommen (Beschluss 2023-11-28). Ebenso prüfen wir die Positionen der Chapter Leads.
 
 ## Vergangene Chapter Meetings
 
+ * [2024-04-16](protocols/2024-04-16.pdf)
  * [2023-11-28](protocols/2023-11-28.pdf)
  * [2023-05-30](protocols/2023-05-30.pdf)
  * [2022-11-29](protocols/2022-11-29.pdf)
