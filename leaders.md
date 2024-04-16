@@ -7,14 +7,11 @@
 
 ### Board Members ([📧](mailto:germany-chapter-leaders@owasp.org))
 * Achim Hoffmann
-* Alexios Fakos
-* Benjamin Liebe
+* Boris Hemkemeier
 * Christian Dresen
-* Christof Lessmann 
 * Henrik Willert
 * Ingo Hanke
 * Ives Laaf
 * Martin Johns
 * Michael Schaefer
-* Timo Pagel
 * Torsten Gigler

@@ -17,9 +17,9 @@ meetup-group: OWASP_Muenchen_Stammtisch
 <!--- **Vortrag gesucht &mdash; Vor-Ort-Treffen an einem neuen Ort!** --->
 **\>\>\> Wir suchen noch einen Vortrag für den Stammtisch! Bitte melde Dich bei uns, wenn Du ein Thema aus dem Bereich IT-Sicherheit oder Informationssicherheit für uns hast. \<\<\<**
 
-Einladung zum (136.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 27.02.2024 um 18:30 Uhr**.<br><br>
+Einladung zum (137.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 23.04.2024 um 18:30 Uhr**.<br><br>
 **Agenda:**<br>
-* Da wir keinen Vortragenden haben, schlagen wir vor, uns gemeinsam die **'OWASP Top 10 for LLM Applications'** anzusehen:<br>https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-v1_1.pdf<br>bzw. https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/tree/main/1_1_vulns<br>Wäre toll, wenn Ihr Euch eine oder mehrere Schwachstellen genauer anschauen könnt.
+* **Vortrag: OWASP &ndash; What a Sensational Project (Christian Kölbl)**<br>Natürlich steht 'OWASP' nicht wirklich für "OWASP &ndash; What a Sensational Project", sondern für "Open Worldwide Application Security Project", wobei die erste Langversion des Namens auch gut passen würde.<br>In diesem Talk stellt Christian die weltweite Non-Profit-Organisation, die sich der Anwendungssicherheit verschrieben hat, vor und geht auf ein paar der 'Flagship Projekte' ein und stellt sie kurz vor. Auch wenn der Sitz von OWASP in den USA ist, gibt es in Deutschland durchaus Möglichkeiten mitzuwirken &ndash; in Projekten und Stammtischen wie hier &ndash; Spoiler: Jetzt sogar in Augsburg! :-).<br><br>Christian Kölbl ist IT-Security-Architekt in einer KdöR und trägt dazu bei, dass sich Gesundheitsdaten nicht in fremde Hände verirren. Seine Haupttätigkeiten umfassen hierbei DevSecOps, Supply Chain Risk Minimization, Awareness Schulungen und Beratung zu IT-Security. 
 * Freie Diskussion, bringt bitte Themen mit!
 * Wir suchen noch Vorträge für die kommenden Stammtische
 
@@ -30,7 +30,7 @@ Café am Josephsplatz, Augustenstraße 112, 80798 München (https://www.cafe-am-
 [U2 Josephsplatz, Ausgang F im Süden](https://www.mvg.de/aushangfahrplan/P8_H_JO_0.pdf)
 
 **Zeit:**<br>
-Dienstag, 17.02.2024 um 18:30 Uhr
+Dienstag, 23.04.2024 um 18:30 Uhr
 
 <!---- \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
@@ -68,8 +68,8 @@ Der Münchner Stammtisch findet (normalerweise) jeden <b>dritten Dienstag im Mon
 * weitere Informationen zur [<b>Stammtisch-Initiative des OWASP German Chapters</b>](/www-chapter-germany/stammtische/) (Hintergrund, weitere Städte,...)
 * weitere Informationen zu [<b>OWASP Deutschland</b>](/www-chapter-germany/) und zu unseren [<b>Projekten</b>](/www-chapter-germany/#div-projekte)
 
-#### Weitere Informationen
-* [Vgl auch alte Wiki-Seite](https://wiki.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/M%C3%BCnchen)
+### Historisches
+* [alte Wiki-Seite (bis 2020)](https://wiki.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/M%C3%BCnchen)
 
-#### Auswahl an bereits gehaltenen Stammtisch-Vorträgen 
+#### Auswahl an alten Stammtisch-Vorträgen 
 {% include_relative /_includes/former-talks.md %}

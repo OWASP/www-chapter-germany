@@ -9,31 +9,32 @@ title: OWASP Germany > Chapter Meetings
 
 ## Was sind Chapter Meetings?
 
-In Deutschland haben wir als organisatorisches Dach ein Chapter, im Rahmen dessen alle Aktivitäten wie Konferenzen etc. stattfinden. Die Stammtische sind keine eigenständigen Chapter.
+In Deutschland haben wir als organisatorisches Dach ein Chapter, im Rahmen dessen wie versuchen alle Aktiven in Deutschland zu vernetzen und unsere Deutschlandkonferenzen - den German OWASP Day zu organisieren. Lokale Treffen gibt es historisch bedingt in einigen Städten als "Stammtische", in anderen Städten als sogenannte City-Chapter.
 
-Anders als die meisten OWASP Chapter auf der Welt, haben wir daher bislang Chapter Meetings für Treffen eher organisatorischer Natur gehabt, bei denen es am Rande auch Vorträge gab. Die Chapter-Meetings im globalen Sinne waren/sind unsere jährliche Konferenzen (German OWASP Day). 
+Bei den Chapter-Meeting des OWASP German Chapter treffen wir uns also in erster Linie zu organisatorischen Fragen. Fachlicher Austausch und Vorträge finden bei den Stammtischen/City Chapter Meeting und natürlich beim German OWASP Day statt.
 
 ## Nächstes Chapter Meeting
 
-OWASP German Chapter Meeting Dienstag, 28. November 2023 um 20:00 in einem Google Meet.
+OWASP German Chapter Meeting Dienstag, 16. April · 20:00 bis 22:00 in einem Google Meet.
 
 Agenda:
 
     Begrüßung und Vorstellung (Tobias, 10 Minuten)
-    Aus den Stammtischen (alle, 30 Minuten)
     German OWASP Day 2024
-    OWASP AppSec Europe in Deutschland?
-    Deutsche Version der Top 10:2021 
     Sonstiges
 
-Einwahl: https://meet.google.com/sfv-fwbh-aww
+Einwahl: https://meet.google.com/pon-ppcg-fqv
 
 Erweiterungen vorab an Tobias (tobias.glemser@owasp.org)
 
 Subscribed euch am Besten auf die [Mailing-Liste](https://groups.google.com/a/owasp.org/group/germany-chapter/), um nichts zu verpassen.
 
+## Regelmäßige Aufgaben
+Im ersten Chaptermeeting eines Jahres pflegen wir die Board Member Liste. Wer unentschuldigt in diesem Treffen fehlt, wird von der Liste genommen (Beschluss 2023-11-28). Ebenso prüfen wir die Positionen der Chapter Leads.
+
 ## Vergangene Chapter Meetings
 
+ * [2024-04-16](protocols/2024-04-16.pdf)
  * [2023-11-28](protocols/2023-11-28.pdf)
  * [2023-05-30](protocols/2023-05-30.pdf)
  * [2022-11-29](protocols/2022-11-29.pdf)
