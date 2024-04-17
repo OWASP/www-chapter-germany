@@ -37,7 +37,7 @@ LangSec regards the Internet insecurity epidemic as a consequence of ad hoc prog
   - Anschließend gehen wir in ein lokales Brauhaus für unsere Diskussionsrunde.
 
 Slides:
-[How to shield an IoT product form the OWASP IoT Top 10](https://github.com/katalyst666/OWASP-Koeln-Stammtisch-Presentations/blob/7abb80c882b0b747ea3a4e6c5ff7a82ecc2f1a12/Secure-IoT_with_OWASP_Top_10-v0.4.2-owasp-meetup-cologne.pdf)
+[How to shield an IoT product form the OWASP IoT Top 10](slides/Secure-IoT_with_OWASP_Top_10-v0.4.2-owasp-meetup-cologne.pdf)
 
 
 ###### 36\. Kölner OWASP Stammtisch am 24.08.2023
@@ -47,7 +47,7 @@ Endlich ist es wieder soweit! Der OWASP Köln Stammtisch ist zurück.
 - Wie binde ich Sicherheit in den API Lebenszyklus ein und welche tools helfen mir dabei.  Ein Blick aus Sicht der API Entwickler und der Security Teams
 
 Slides:
-[Wie bekomme API so sicher wie möglich.pdf](https://github.com/katalyst666/OWASP-Koeln-Stammtisch-Presentations/blob/d4d7439d1dcad593a25a0bc7c6907beb2ad798ed/Wie%20bekomme%20API%20so%20sicher%20wie%20m%C3%B6glich.pdf)
+[Wie bekomme API so sicher wie möglich.pdf](slides/Wie%20bekomme%20API%20so%20sicher%20wie%20m%C3%B6glich.pdf)
 
 ###### 35\. Kölner OWASP Stammtisch am 12.05.2022
 
