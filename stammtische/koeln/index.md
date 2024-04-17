@@ -14,35 +14,40 @@ lokaler kölscher Kulturstätten.
 Jeder ist herzlich willkommen und kann gerne noch Freunde, Kollegen, Interessierte mitbringen. 
 
 
-### ANKÜNDIGUNG -- 38. Stammtisch am 14.03.2024
+### ANKÜNDIGUNG -- 
 
-Unser erster Stammtisch des Jahres 2024 wird am Startplatz stattfinden.  
-
-14.03.2024, 19uhr, Mediapark 5, erste Etage, Raum Rom
-
-- "LangSec for AppSec folks" - Lars (bob5sec)
-
-
-The fundamental security principles described by LangSec explain the root cause of many security vulnerabilities and how to fix it.
-LangSec regards the Internet insecurity epidemic as a consequence of ad hoc programming of input handling. LangSec posits that the only path to trustworthy software that takes untrusted inputs is treating all valid or expected inputs and outputs as a formal language, and the respective input-handling routines as a parser respectively unparser for that language.
-
-
-- Nach dem Vortrag gehen wir in ein lokales Brauhaus für Diskussionen und Erfrischungen
+---
 
 ___
 
 ### Vergangene Stammtische
+
+###### 38\. Kölner OWASP Stammtisch am 14.03.2024
+
+- "LangSec for AppSec folks" - Lars (bob5sec)
+
+The fundamental security principles described by LangSec explain the root cause of many security vulnerabilities and how to fix it.
+LangSec regards the Internet insecurity epidemic as a consequence of ad hoc programming of input handling. LangSec posits that the only path to trustworthy software that takes untrusted inputs is treating all valid or expected inputs and outputs as a formal language, and the respective input-handling routines as a parser respectively unparser for that language.
+
+- Nach dem Vortrag gehen wir in ein lokales Brauhaus für Diskussionen und Erfrischungen
 
 ###### 37\. Kölner OWASP Stammtisch am 26.10.2023
    
   - How to shield an IoT product from the OWASP IoT top 10 by Pablo Endres
   - Anschließend gehen wir in ein lokales Brauhaus für unsere Diskussionsrunde.
 
+Slides:
+[How to shield an IoT product form the OWASP IoT Top 10](slides/Secure-IoT_with_OWASP_Top_10-v0.4.2-owasp-meetup-cologne.pdf)
+
+
 ###### 36\. Kölner OWASP Stammtisch am 24.08.2023
 
 Endlich ist es wieder soweit! Der OWASP Köln Stammtisch ist zurück. 
 - "Wie bekomme API so sicher wie möglich?" - Axel Grosse 
 - Wie binde ich Sicherheit in den API Lebenszyklus ein und welche tools helfen mir dabei.  Ein Blick aus Sicht der API Entwickler und der Security Teams
+
+Slides:
+[Wie bekomme API so sicher wie möglich.pdf](slides/Wie%20bekomme%20API%20so%20sicher%20wie%20m%C3%B6glich.pdf)
 
 ###### 35\. Kölner OWASP Stammtisch am 12.05.2022
 
