@@ -12,7 +12,7 @@ meetup-group:
 ## !WANTED! --> Women in IT Security <-- !WANTED! ##
 
 ## Willkommen beim OWASP-Stammtisch Augsburg!
-n der Fuggerstadt wird IT-SECURITY groß geschrieben. Egal ob IT-Security-Interessent*in, CISO, Hacker/Haeckse, Pentester*in, Entwickler*in, Netzi, Endanwender*in oder whatever - jeder, wirklich jeder, ist willkommen. Eine OWASP-Mitgliedschaft ist (natürlich wünschenswert, aber) nicht notwendig!
+In der Fuggerstadt wird IT-SECURITY groß geschrieben. Egal ob IT-Security-Interessent*in, CISO, Hacker/Haeckse, Pentester*in, Entwickler*in, Netzi, Endanwender*in oder whatever - jeder, wirklich jeder, ist willkommen. Eine OWASP-Mitgliedschaft ist (natürlich wünschenswert, aber) nicht notwendig!
 
 Wir wechseln zwischen 
 * Vorträgen,
