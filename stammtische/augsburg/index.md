@@ -8,11 +8,10 @@ country: Germany
 meetup-group:
 
 ---
-
 ## !WANTED! --> Women in IT Security <-- !WANTED! ##
 
 ## Willkommen beim OWASP-Stammtisch Augsburg!
-In der Fuggerstadt wird IT-SECURITY groß geschrieben. Egal ob IT-Security-Interessent*in, CISO, Hacker/Haeckse, Pentester*in, Entwickler*in, Netzi, Endanwender*in oder whatever - jeder, wirklich jeder, ist willkommen. Eine OWASP-Mitgliedschaft ist (natürlich wünschenswert, aber) nicht notwendig!
+In der Fuggerstadt wird IT-SECURITY groß geschrieben. Egal ob IT-Security-Interessent\*in, CISO, Hacker/Haeckse, Pentester\*in, Entwickler\*in, Netzi, Endanwender\*in oder whatever - jeder, wirklich jeder, ist willkommen. Eine OWASP-Mitgliedschaft ist (natürlich wünschenswert, aber) nicht notwendig!
 
 Wir wechseln zwischen 
 * Vorträgen,
@@ -52,7 +51,7 @@ Ankündigungen wann & wo ein Stammtisch stattfinden wird, findet ihr hier, auf [
 
 Bitte meldet Euch bei [christian.kolbl@owasp.org](mailto:christian.kolbl@owasp.org) oder unter [meetup](https://www.meetup.com/de-DE/owasp-augsburg-chapter/) an, damit wir wissen für wie viele Personen wir reservieren dürfen. 
 
-### Wir suchen (immer) Speaker*innen! 
+### Wir suchen (immer) Speaker\*innen! 
 Du hast ein Thema aus dem Bereich IT-Sicherheit oder Informationssicherheit, das du gerne teilen möchstest? Sehr gut! Melde dich bei [christian.kolbl@owasp.org](mailto:christian.kolbl@owasp.org) und wir planen deinen Talk ein!
 
 Wichtiges für Talks in aller Kürze:
