@@ -25,6 +25,10 @@ Aktuelle Webanwendung und Webservices stehen nicht allein im Internet. Ihre Dien
 Der Vortrag beschreibt Funktionsweise von Semantic Gap-Angriffen wie Request Smuggling, Response Splitting und Cache-Poisoned Denial of Service (CPDoS). Dabei wird die Relevanz beleuchtet und gezeigt, warum weitere Angriffe dieser Klasse in Zukunft auftauchen werden. Zudem werden Gegenmaßnahmen diskutiert.
 
 - Nach der Präsentation ziehen wir uns in ein nahegelegenes Brauhaus zurück, um dort zu diskutieren und uns mit Erfrischungen zu stärken.
+
+[Get-together link](https://gettogether.community/events/54752/owasp-stammtisch-cologne/#)
+
+[Linked-In Event](https://www.linkedin.com/events/39-owaspstammtischk-ln7193518725466083329/comments/)
 ______________________________________________
 
 ### Vergangene Stammtische
