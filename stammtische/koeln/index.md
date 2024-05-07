@@ -14,11 +14,22 @@ lokaler kölscher Kulturstätten.
 Jeder ist herzlich willkommen und kann gerne noch Freunde, Kollegen, Interessierte mitbringen. 
 
 
-### ANKÜNDIGUNG -- 
+### ANKÜNDIGUNG
 
----
+###### 39\. Kölner OWASP Stammtisch am 23.05.2024
 
-___
+- "Mind the Semantic Gap – Nutzung von Proxy, Cache & WAF für Angriffe auf Webanwendungen & Webservices" - Hoai Viet Nguyen
+
+Aktuelle Webanwendung und Webservices stehen nicht allein im Internet. Ihre Dienste liefern sie gemeinsam mit intermediären Systemen wie Proxy, Caches und Web Application Firewalls (WAFs) aus. HTTP-Requests durchlaufen dabei eine Vielzahl von Engines. Trotz RFC-Standards können HTTP-Nachrichten unterschiedlich von den jeweiligen intermediären Systemen interpretiert werden. Dabei verhält es sich wie bei Menschen, 6 Ohrenpaare verstehen die gleiche Aussage völlig unterschiedlich. RFC-Standards werden bei Apache, Nginx und Co. unterschiedlich ausgelegt, was neu entdeckte Angriffe auf Webanwendungen und Webservices ermöglicht. Diese bekommen durch die Nutzung von Cloud-Services eine besondere Relevanz, die bei der Software-Entwicklung und dem Software-Deployment zu beachten ist.
+
+Der Vortrag beschreibt Funktionsweise von Semantic Gap-Angriffen wie Request Smuggling, Response Splitting und Cache-Poisoned Denial of Service (CPDoS). Dabei wird die Relevanz beleuchtet und gezeigt, warum weitere Angriffe dieser Klasse in Zukunft auftauchen werden. Zudem werden Gegenmaßnahmen diskutiert.
+
+- Nach der Präsentation ziehen wir uns in ein nahegelegenes Brauhaus zurück, um dort zu diskutieren und uns mit Erfrischungen zu stärken.
+
+[Get-together link](https://gettogether.community/events/54752/owasp-stammtisch-cologne/#)
+
+[Linked-In Event](https://www.linkedin.com/events/39-owaspstammtischk-ln7193518725466083329/comments/)
+______________________________________________
 
 ### Vergangene Stammtische
 
