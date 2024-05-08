@@ -29,7 +29,7 @@ Der Vortrag beschreibt Funktionsweise von Semantic Gap-Angriffen wie Request Smu
 [Get-together link](https://gettogether.community/events/54752/owasp-stammtisch-cologne/#)
 
 [Linked-In Event](https://www.linkedin.com/events/39-owaspstammtischk-ln7193518725466083329/comments/)
-______________________________________________
+
 
 ### Vergangene Stammtische
 
