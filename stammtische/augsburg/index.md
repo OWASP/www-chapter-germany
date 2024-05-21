@@ -35,9 +35,14 @@ Ankündigungen wann & wo ein Stammtisch stattfinden wird, findet ihr hier, auf [
 ### Ankündigung - 02. Stammtisch am 29.05.2024
 
 #### Agenda:
-* Vortrag: **<- Wir suchen noch Vortragende!!**
-* Austausch & Networking 
-
+* Barcamp / Diskussion zum Thema "Supply Chain Risiken"
+    * Teaser
+    * Wie manage ich Supply Chain Risiken?
+    * Supply Chain Risiken im Kontext des EU Cyber Resilience Acts
+    * Welche Maßnahmen gibt es gegen Supply Chain Risiken?
+    * Supply Chain Risiken & Secure Device Provisioning
+    * ...
+* Networking im Allgemeinen & Austausch zu beliebigen Themen
 
 #### Ort: [Thing](https://www.mein-thing.de/), Vorderer Lech 45, 86150 Augsburg
 
