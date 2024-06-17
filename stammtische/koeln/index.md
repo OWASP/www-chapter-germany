@@ -16,6 +16,23 @@ Jeder ist herzlich willkommen und kann gerne noch Freunde, Kollegen, Interessier
 
 ### ANKÜNDIGUNG
 
+###### 40\. Köner OWASP Stammtisch am 18.07.2024
+
+- "Die macht zu veränderung: Security-Kompetenz im Team Etablieren" - Lars (bob5sec)
+
+Nach dem Security-Training ist man oft voller Elan, mit seinem Team sichere Software zu entwickeln. Doch eine Schulung allein führt selten zu einem Team, das selbstständig Security-Aktivitäten übernimmt. Der Vortrag zeigt, wie mithilfe der Samman-Technical-Coaching-Methode und den Capabilities der Security Belts diese Herausforderungen gemeistert werden können. Es werden Methoden vorgestellt, um Security-Aktivitäten im Team zu etablieren und persönliche Weiterentwicklungsmöglichkeiten zum Agile Technical Security Coach aufgezeigt.
+
+Nach der Präsentation ziehen wir uns in ein nahegelegenes Brauhaus zurück, um dort zu diskutieren und uns mit Erfrischungen zu stärken
+
+[GetTogether Link](https://gettogether.community/events/57502/40te-k%C3%B6lner-owasp-stammtisch-am-18072024/)
+
+[LinkedIn Event](https://www.linkedin.com/events/40-owaspstammtischk-ln7208446697570512897/)
+
+
+
+
+### Vergangene Stammtische
+
 ###### 39\. Kölner OWASP Stammtisch am 23.05.2024
 
 - "Mind the Semantic Gap – Nutzung von Proxy, Cache & WAF für Angriffe auf Webanwendungen & Webservices" - Hoai Viet Nguyen
@@ -25,13 +42,8 @@ Aktuelle Webanwendung und Webservices stehen nicht allein im Internet. Ihre Dien
 Der Vortrag beschreibt Funktionsweise von Semantic Gap-Angriffen wie Request Smuggling, Response Splitting und Cache-Poisoned Denial of Service (CPDoS). Dabei wird die Relevanz beleuchtet und gezeigt, warum weitere Angriffe dieser Klasse in Zukunft auftauchen werden. Zudem werden Gegenmaßnahmen diskutiert.
 
 - Nach der Präsentation ziehen wir uns in ein nahegelegenes Brauhaus zurück, um dort zu diskutieren und uns mit Erfrischungen zu stärken.
-
-[Get-together link](https://gettogether.community/events/54752/owasp-stammtisch-cologne/#)
-
-[Linked-In Event](https://www.linkedin.com/events/39-owaspstammtischk-ln7193518725466083329/comments/)
-
-
-### Vergangene Stammtische
+  
+Slides:[Mind the Semantic Gap](slides/Mind_the_semantic_gap.pdf)
 
 ###### 38\. Kölner OWASP Stammtisch am 14.03.2024
 
