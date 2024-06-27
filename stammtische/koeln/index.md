@@ -16,11 +16,11 @@ Jeder ist herzlich willkommen und kann gerne noch Freunde, Kollegen, Interessier
 
 ### ANKÜNDIGUNG
 
-###### 40\. Köner OWASP Stammtisch am 18.07.2024
+###### 40\. Kölner OWASP Stammtisch am 18.07.2024
 
 - "Die macht zu veränderung: Security-Kompetenz im Team Etablieren" - Lars (bob5sec)
 
-Nach dem Security-Training ist man oft voller Elan, mit seinem Team sichere Software zu entwickeln. Doch eine Schulung allein führt selten zu einem Team, das selbstständig Security-Aktivitäten übernimmt. Der Vortrag zeigt, wie mithilfe der Samman-Technical-Coaching-Methode und den Capabilities der Security Belts diese Herausforderungen gemeistert werden können. Es werden Methoden vorgestellt, um Security-Aktivitäten im Team zu etablieren und persönliche Weiterentwicklungsmöglichkeiten zum Agile Technical Security Coach aufgezeigt.
+Nach dem Security-Training ist man oft voller Elan, mit seinem Team sichere Software zu entwickeln. Doch eine Schulung allein führt selten zu einem Team, das selbstständig Security-Aktivitäten übernimmt. Der Vortrag zeigt, wie mithilfe der Samman-Technical-Coaching-Methode und den Capabilities der Security Belts diese Herausforderungen gemeistert werden können. Es werden Methoden vorgestellt, um Security-Aktivitäten im Team zu etablieren; und persönliche Weiterentwicklungsmöglichkeiten zum Agile Technical Security Coach aufgezeigt.
 
 Nach der Präsentation ziehen wir uns in ein nahegelegenes Brauhaus zurück, um dort zu diskutieren und uns mit Erfrischungen zu stärken
 
