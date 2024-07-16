@@ -13,10 +13,9 @@ meetup-group: OWASP-Hamburg-Stammtisch
 
 ### Hamburg ist einen Vortrag Wert
 
-<b>Wir suchen Vorträge für die Stammtische in 2023/24</b>. Möchtest du
-einen Vortrag halten? Prima\! Bitte um kurze Info an die Organisatoren,
-wenn du (für uns relevante) Themen parat hast, die du uns näher bringen
-möchtest. Wie bei OWASP üblich: Wir sind an Sicherheit im Internet --
+<b>Wir suchen immer Vorträge für unsere Treffen</b>. Denkst du, du hast
+ein interessantes Thema, über dass du sprechen möchtest? Dann sprich uns an (s.u.).
+Wie bei OWASP üblich: Wir sind an Sicherheit im Internet --
 Technik, Organisation, Entwicklung, Datenschutz -- interessiert. Nicht
 an Marketing. Nicht an Buzzwords. OWASP ist vendorunabhängig.
 
@@ -27,20 +26,26 @@ Wetter oder Björn Kimminich melden (vorname.nachname@owasp.org).
 
 Tritt unserer [Meetup-Gruppe](http://www.meetup.com/OWASP-Hamburg-Stammtisch/) bei, um
 zeitnah über Treffen informiert zu bleiben. Die Meetup-Seite ist immer etwas aktueller, zudem
-findet man auf Meetup mmer den den Abstract. Alternativ werden Treffen über die OWASP-Deutschland
+findet man auf Meetup immer den Abstract. Alternativ werden Treffen über die OWASP-Deutschland
 [Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/) angekündigt.
 
 Jeder mit Interesse an unseren Themen ist willkommen. Alle Treffen sind frei und
-offen, man muss kein OWASP-Mitglied sein. Niemand verkauft etwas und sind lediglich
-am Erfahrungsaustausch interessiert. Hinweise auf diese Webseite bzw. Meetup oder auf einzelne
+offen, man muss auch kein OWASP-Mitglied sein. Niemand verkauft etwas. Wir sind
+an Erfahrungsaustausch und Technikschnack interessiert. Kommt gerne vorbei!
+Hinweise auf diese Webseite bzw. Meetup oder auf einzelne
 Treffen an Kollegen oder Bekannte sind gern gesehen.
 
 
 ### Aktuelle Treffen
 
-### 69\. Stammtisch April/Mai 2024
+### 69\. Stammtisch 23.7.2024
 
-- TBA
+- Speakers: Björn Kimminich + Jannik Hollenbach, Timo Pagel, Matthias Marx
+- Titel und Abstracts siehe Meetup
+- [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/302138351/)
+- Presentation Language: German
+- Uhrzeit: Start 18:30, Einlass ab 18:00 Uhr
+- Lokation: [Check24, An der Alster 64](https://osm.org/go/0HoG514R?way=41573175)
 
 
 ### Vergangene Treffen
