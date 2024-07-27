@@ -65,7 +65,7 @@ TBA
 - Presentation Language: German
 - Uhrzeit: Start 19:00, Einlass ab 18:30 Uhr
 - Lokation: [Check24, An der Alster 64](https://osm.org/go/0HoG514R?way=41573175)
-- [Folien](assets/slides/2024_03_19_Software-Supply-Chain-Security_in_Practice.pdf)
+- [Folien](assets/slides/2024-03-19_Software-Supply-Chain-Security_in_Practice.pdf)
 
 ### 67\. Stammtisch 7.2.2024
 
