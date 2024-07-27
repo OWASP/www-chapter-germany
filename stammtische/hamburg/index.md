@@ -17,7 +17,7 @@ meetup-group: OWASP-Hamburg-Stammtisch
 ein interessantes Thema, über dass du sprechen möchtest? Dann sprich uns an (s.u.).
 Wie bei OWASP üblich: Wir sind an Sicherheit im Internet --
 Technik, Organisation, Entwicklung, Datenschutz -- interessiert. Nicht
-an Marketing. Nicht an Buzzwords. OWASP ist vendorunabhängig.
+an Marketing, OWASP ist vendorunabhängig.
 
 Wer und Interesse hat mitzuwirken oder hosten möchte, bitte bei Dirk
 Wetter oder Björn Kimminich melden (vorname.nachname@owasp.org).
@@ -38,17 +38,24 @@ Treffen an Kollegen oder Bekannte sind gern gesehen.
 
 ### Aktuelle Treffen
 
+### 70\. Stammtisch September 2024
+
+TBA
+
+### Vergangene Treffen
+
 ### 69\. Stammtisch 23.7.2024
 
-- Speakers: Björn Kimminich + Jannik Hollenbach, Timo Pagel, Matthias Marx
+- Speakers: Björn Kimminich + Jannik Hollenbach, Timo Pagel, Tim Philipp Schäfers,  Matthias Marx
 - Titel und Abstracts siehe Meetup
 - [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/302138351/)
 - Presentation Language: German
-- Uhrzeit: Start 18:30, Einlass ab 18:00 Uhr
+- Uhrzeit: Start 18:00, Einlass ab 17:30 Uhr
 - Lokation: [Check24, An der Alster 64](https://osm.org/go/0HoG514R?way=41573175)
+- [Folien Timo Pagel](assets/slides/2024-07-23_Relevante_AppSec_Metriken_erfassen_und_analysieren.pdf)
+- [Folien Tim Philipp Schäfers](assets/slides/2024-07-23_Privacy_und_Security_der_Bezahlkarten_für_Geflüchtete.pdf)
+- [Folien Matthias Marx](assets/slides/2024-07-23_Hide_and_Seek_-_über_Biometrie-Geräte_des_US-Militärs.pdf)
 
-
-### Vergangene Treffen
 
 ### 68\. Stammtisch 19.3.2024
 
