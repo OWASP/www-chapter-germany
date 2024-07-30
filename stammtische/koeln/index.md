@@ -16,6 +16,21 @@ Jeder ist herzlich willkommen und kann gerne noch Freunde, Kollegen, Interessier
 
 ### ANKÜNDIGUNG
 
+#### 41./ Kölner OWASP Stammtisch am 26.09.2024
+
+- Dissecting the Client Hello with Pyshark - Katherine Leese
+ 
+This talk covers using Pyshark for network capture files, focusing on accessing nested elements in network packets, particularly within Client Hello packets, including encryption suites and TLS versions. It provides a guide on effectively using Pyshark, addressing the gaps in current documentation and offering practical insights. The session will cover the basics of loading pcap files, inspecting packet types and layers, and using commands to list packet layers and extract details. It includes a practical example of extracting offered encryption suites from Client Hello packets to ensure secure encryption methods. By applying Wireshark display filters in Pyshark, packets can be identified efficiently. Key issues and solutions when using JSON and Python objects will be highlighted, helping avoid errors and process data smoothly. 
+
+[GetTogether Link](https://gettogether.community/events/60658/41-k%C3%B6lner-owasp-stammtisch/)
+
+[LinkedIn Event](https://www.linkedin.com/events/41-owaspstammtischk-ln7224014296832225280)
+
+
+
+
+### Vergangene Stammtische
+
 ###### 40\. Kölner OWASP Stammtisch am 18.07.2024
 
 - "Die macht zu veränderung: Security-Kompetenz im Team Etablieren" - Lars (bob5sec)
@@ -23,15 +38,6 @@ Jeder ist herzlich willkommen und kann gerne noch Freunde, Kollegen, Interessier
 Nach dem Security-Training ist man oft voller Elan, mit seinem Team sichere Software zu entwickeln. Doch eine Schulung allein führt selten zu einem Team, das selbstständig Security-Aktivitäten übernimmt. Der Vortrag zeigt, wie mithilfe der Samman-Technical-Coaching-Methode und den Capabilities der Security Belts diese Herausforderungen gemeistert werden können. Es werden Methoden vorgestellt, um Security-Aktivitäten im Team zu etablieren; und persönliche Weiterentwicklungsmöglichkeiten zum Agile Technical Security Coach aufgezeigt.
 
 Nach der Präsentation ziehen wir uns in ein nahegelegenes Brauhaus zurück, um dort zu diskutieren und uns mit Erfrischungen zu stärken
-
-[GetTogether Link](https://gettogether.community/events/57502/40te-k%C3%B6lner-owasp-stammtisch-am-18072024/)
-
-[LinkedIn Event](https://www.linkedin.com/events/40-owaspstammtischk-ln7208446697570512897/)
-
-
-
-
-### Vergangene Stammtische
 
 ###### 39\. Kölner OWASP Stammtisch am 23.05.2024
 
