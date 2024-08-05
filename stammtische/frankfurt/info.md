@@ -4,9 +4,9 @@
 * [Stammtisch FAQ](/www-chapter-germany/stammtische/#stammtisch-faq)
 
 ### Meetup and Social Media
-* [OWASP Frankfurt Meetup](https://www.meetup.com/IT-Security-Stammtisch-Frankfurt-OWASP-u-w/)
+* [OWASP Frankfurt Meetup](https://www.meetup.com/owasp-frankfurt/)
 * [OWASP Frankfurt Chapter](https://github.com/OWASP/www-chapter-frankfurt)
-* [Twitter](https://twitter.com/owasp_frankfurt)
+* [LinkedIn](https://www.linkedin.com/company/owasp-frankfurt/)
 
 ### Further Frankfurt Stammtisch Information
 * [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)

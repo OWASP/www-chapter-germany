@@ -5,7 +5,7 @@ title: OWASP Germany > Stammtische > Frankfurt
 
 ---
 
-<img align="center" src="assets/OWASP_Frankfurt_Logo.png">
+<img align="center" src="assets/OWASPFrankfurtBanner.png" width="900">
 
 ## Introduction
 
@@ -18,7 +18,7 @@ Referrals to this website or to individual meetings to colleagues or acquaintanc
 ## Upcoming Events 
 Any events are going to be announced via our [OWASP Frankfurt Meetup Group](https://www.meetup.com/owasp-frankfurt/). We usually have a key note and 1-2 (lightning) talks that related to information and application security.
 
-Refer to our [Upcoming Events Page](https://owasp.org/www-chapter-frankfurt/#div-nextevent) for further information.
+Refer to our [Upcoming Events Page](https://owasp.org/www-chapter-frankfurt/#div-nextevent) or [LinkedIn](https://www.linkedin.com/company/owasp-frankfurt/) for further information.
 
 {% include chapter_events.html group=page.meetup-group %}
 
