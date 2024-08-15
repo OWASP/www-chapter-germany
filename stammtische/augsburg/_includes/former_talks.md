@@ -2,7 +2,6 @@
 
 Chillig im Biergarten abhängen :-) - muss auch mal sein!
 
-
 ***03. Stammtisch am 26.06.2024***
 
 * Vortrag: SSL/TLS-Test, braucht man das noch? (Achim Hoffmann)
