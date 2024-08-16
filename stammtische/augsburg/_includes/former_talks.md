@@ -1,3 +1,8 @@
+***04. Stammtisch am 24.07.2024***
+
+Chillig im Biergarten abhängen :-) - muss auch mal sein!
+
+(ja, ich könnt auch "fachsimpeln in gehobener Atmosphäre" schreiben)
 
 ***03. Stammtisch am 26.06.2024***
 
