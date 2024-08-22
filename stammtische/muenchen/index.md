@@ -6,8 +6,6 @@ altfooter: true
 meetup-group: OWASP_Muenchen_Stammtisch
 
 ---
-# >\>\> Heute: G e ä n d e r t e r &nbsp;&nbsp;  O r t  \<\<\<
-
 ## Willkommen beim OWASP-Stammtisch München
 ### ... wir freuen uns über neue Teilnehmer:innen und 'Stammgäste' ...
 
@@ -17,25 +15,20 @@ meetup-group: OWASP_Muenchen_Stammtisch
 <!---- Nach vielen Online-Meetings ein persönliches Treffen und Diskutieren :-) --->
 <!--- **Vortrag gesucht &mdash; Vor-Ort-Treffen an einem neuen Ort!** --->
 <!--- **\>\>\> Wir suchen noch einen Vortrag für den Stammtisch! Bitte melde Dich bei uns, wenn Du ein Thema aus dem Bereich IT-Sicherheit oder Informationssicherheit für uns hast. \<\<\<** --->
-
-Einladung zum (138.) **OWASP-Stammtisch in München** im **Biergarten im Alten Botanischen Garten/Parkcafe** am **Dienstag, den 18.06.2024 um 18:30 Uhr**.<br><br>
-Hallo zusammen,
-Das Café am Josephsplatz ist heute leider wegen Erkrankung des Wirts geschlossen.
-Damit müssen wir leider Achims Vortrag verschieben.
-
-Hat jemand Zeit und Lust, dass wir uns um 18:30 Uhr spontan im Biergarten im alten Botanischen Garten (Parkcafé, Nähe Stachus) treffen.
-Bitte einfach mit persönlicher Nachricht antworten.
-
-Danke und Ciao 
+Einladung zum (139.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 10.09.2024 um 18:30 Uhr**.<br><br>
+**Agenda:**<br>
+* **Vortrag: SSL/TLS-Test, braucht man das noch? (Achim Hoffmann)**<br>Die Verschlüsselung der Übertragung von Daten (Data in Transit) mithilfe von TLS hat sich inzwischen als 'Best Practice' etabliert. Sobald ein Zertifikat erworben oder automatisch eingerichtet wurde, kann die Verschlüsselung inzwischen auch auf Servern meist relativ einfach 'eingeschaltet' werden.<br>Reicht das? Lohnt es sich nachzuprüfen, was da aktiviert wurde? Wie geht das?<br>Achim zeigt uns am Beispiel des, von ihm als OWASP-Projekt entwickelten SSL/TLS-Test-Tools 'O-Saft', wie wir diese Tests einfach für verschiedene Protokolle durchführen können. Die Interpretation der Ergebnisse und worauf es dabei ankommt, wird anhand von Beispielen aus der Praxis gezeigt und mit den Teilnehmern des Stammtischs diskutiert.<br><br>Achim Hoffmann ist als 'OWASP-Urgestein' ein langjähriger (>25 Jahre), auf Web Application Security spezialisierter Berater, (Pen-)Tester, Trainer und Sprecher; Er ist Board Member von OWASP-Germany und OWASP-Project-Leader u.a. für O-Saft.
+* Freie Diskussion, bringt bitte Themen mit!
 * Wir suchen noch Vorträge für die kommenden Stammtische
 
 \>\>\> Bitte **meldet Euch** bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, damit wir wissen, für wie viele Personen wir reservieren können. \<\<\<
 
 **Ort:**<br>
-Münchner Stammtisch heute: im Alten Botanischen Garten/Parkcafe (Nähe Stachus)
+Café am Josephsplatz, Augustenstraße 112, 80798 München (https://www.cafe-am-josephsplatz.de/)  
+[U2 Josephsplatz, Ausgang F im Süden](https://www.mvg.de/aushangfahrplan/P8_H_JO_0.pdf)
 
 **Zeit:**<br>
-Dienstag, 18.06.2024 um 18:30 Uhr
+Dienstag, 10.09.2024 um 18:30 Uhr
 
 <!---- \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
