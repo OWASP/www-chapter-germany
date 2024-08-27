@@ -4,7 +4,7 @@ title: OWASP Germany
 tags: germany
 level: 4
 region: Europe
-meetup-group: OWASP-Hamburg-Stammtisch
+meetup-group: 
 country: Germany
 postal-code: 
 
@@ -52,7 +52,9 @@ Sie hierzu der [Google Group beitreten](https://groups.google.com/a/owasp.org/g/
 
 ## Aktuelles
 
-Nach längerer Corona-Pause fand am 31.5.2023 fand der [German OWASP Day](https://god.owasp.de) in Frankfurt statt, zu dem es zirka 190 Besucher hinzog. Am Vortrag wurden zwei Trainings angeboten. An dem Abend gab es wie üblich unser Social Event und schöne eine Gelegenheit zum Fachsimpeln, zum Austausch und zum Wiedersehen. Das [Programm ist hier zu finden](https://god.owasp.de/2023/schedule/) und die [Videos auf YouToube](https://www.youtube.com/playlist?list=PLCUxWIPmliVm9Z-JLCsgeQx1nAq63lbAT).
+Am 13.11.2024 wird der German OWASP Day in Leipzip stattfinden! Der CfP sowie der Ticketverkauf starten in Kürze.
+
+2023 fand nach längerer Corona-Pause fand am 31.5. der [German OWASP Day](https://god.owasp.de) in Frankfurt statt, zu dem es zirka 190 Besucher hinzog. Am Vortrag wurden zwei Trainings angeboten. An dem Abend gab es wie üblich unser Social Event und schöne eine Gelegenheit zum Fachsimpeln, zum Austausch und zum Wiedersehen. Das [Programm ist hier zu finden](https://god.owasp.de/2023/schedule/) und die [Videos auf YouToube](https://www.youtube.com/playlist?list=PLCUxWIPmliVm9Z-JLCsgeQx1nAq63lbAT).
 
 
 
