@@ -14,7 +14,7 @@ lokaler kölscher Kulturstätten.
 Jeder ist herzlich willkommen und kann gerne noch Freunde, Kollegen, Interessierte mitbringen. 
 
 
-### ANKÜNDIGUNG
+### ANKÜNDIGUNGEN
 
 #### 41./ Kölner OWASP Stammtisch am 26.09.2024
 
@@ -27,6 +27,17 @@ This talk covers using Pyshark for network capture files, focusing on accessing 
 [LinkedIn Event](https://www.linkedin.com/events/41-owaspstammtischk-ln7224014296832225280)
 
 
+#### 42./ Sonderveranstaltunge des OWASP Köln Stammtisch – Jeff Williams in Köln am 09.10.2024
+
+Wir freuen uns, eine ganz besondere Ausgabe des OWASP Köln Stammtisch ankündigen zu können! Jeff Williams, Gründer von OWASP, ist zu Besuch in Deutschland und wird am 9. Oktober 2024 in Köln einen Vortrag halten. Der Stammtisch beginnt um 18:30 Uhr und findet dieses Mal nicht wie gewohnt im Mediapark statt, sondern in den Räumlichkeiten der Gothaer Allgemeine Versicherung AG, Gothaer Allee 1, 50969 Köln.
+
+Jeff wird über die Geschichte von OWASP und den aktuellen Stand der Anwendungssicherheit sprechen. Nach dem Vortrag gibt es Zeit für Fragen, Diskussionen und gemeinsames Networking – begleitet von Bier und Pizza.
+
+Verpasst nicht die Gelegenheit, diesen spannenden Abend mit uns zu verbringen!
+
+[GetTogether Link](https://gettogether.community/events/63860/42-sonderveranstaltunge-des-owasp-k%C3%B6ln-stammtisch-jeff-williams-in-k%C3%B6ln/)
+
+[LinkedIn Event](https://www.linkedin.com/events/sonderveranstaltungedesowaspk-l7239914639575191553)
 
 
 ### Vergangene Stammtische
