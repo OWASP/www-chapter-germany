@@ -15,20 +15,21 @@ meetup-group: OWASP_Muenchen_Stammtisch
 <!---- Nach vielen Online-Meetings ein persönliches Treffen und Diskutieren :-) --->
 <!--- **Vortrag gesucht &mdash; Vor-Ort-Treffen an einem neuen Ort!** --->
 <!--- **\>\>\> Wir suchen noch einen Vortrag für den Stammtisch! Bitte melde Dich bei uns, wenn Du ein Thema aus dem Bereich IT-Sicherheit oder Informationssicherheit für uns hast. \<\<\<** --->
-Einladung zum (139.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 10.09.2024 um 18:30 Uhr**.<br><br>
+<!--- Einladung zum (140.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 10.09.2024 um 18:30 Uhr**.<br><br>  -->
+ Einladung zum (140.) **OWASP-Stammtisch in München** bei der **iteratec GmbH**, St.-Martin-Straße 114, 81669 München am **Montag, den 07.10.2024 um 18:30 Uhr** (**anderer Ort, anderer Tag!**).<br><br> 
 **Agenda:**<br>
-* **Vortrag: SSL/TLS-Test, braucht man das noch? (Achim Hoffmann)**<br>Die Verschlüsselung der Übertragung von Daten (Data in Transit) mithilfe von TLS hat sich inzwischen als 'Best Practice' etabliert. Sobald ein Zertifikat erworben oder automatisch eingerichtet wurde, kann die Verschlüsselung inzwischen auch auf Servern meist relativ einfach 'eingeschaltet' werden.<br>Reicht das? Lohnt es sich nachzuprüfen, was da aktiviert wurde? Wie geht das?<br>Achim zeigt uns am Beispiel des, von ihm als OWASP-Projekt entwickelten [**SSL/TLS-Test-Tools 'O-Saft'**](https://owasp.org/www-project-o-saft/) (GPL-2.0 license), wie wir diese Tests einfach für verschiedene Protokolle durchführen können. Die Interpretation der Ergebnisse und worauf es dabei ankommt, wird anhand von Beispielen aus der Praxis gezeigt und mit den Teilnehmern des Stammtischs diskutiert.<br><br>Achim Hoffmann ist als 'OWASP-Urgestein' ein langjähriger (>25 Jahre), auf Web Application Security spezialisierter Berater, (Pen-)Tester, Trainer und Sprecher; Er ist Board Member von OWASP-Germany und OWASP-Project-Leader u.a. für O-Saft.
-* Freie Diskussion, bringt bitte Themen mit!
+* **Vortrag (Englisch): OWASP and the Evolution of AppSec (Jeff Williams)**<br>Jeff will dive into 25+ years of insights in AppSec, the most exciting time in its history. Not only are apps/APIs more complex, connected, and critical than ever before, we haven't made much progress against vulnerabilities, the attackers have ramped up their activity dramatically, and the governments of the world are scrambling to figure out what to do.  It's a mess. In this talk, Jeff will share some stories and insights from over 2 decades in appsec.  We'll look at some of the bigger movements in appsec like "build security in", "devsecops", "shift left", "SBOMs", and "secure by design" and talk about why they have largely failed to change the trajectory of appsec.  We'll also spend some time on the different technologies organizations use to automate appsec in development and operations.  Jeff will share his thoughts about the market failures that make improvements in appsec so difficult and what we can do to fix them.  **This will be a highly interactive session, so bring your questions and ideas.** <br><br>Jeff is the founder and CTO at Contrast Security, the leader in runtime application security for application security testing (AST) and application detection and response (ADR). Jeff is a veteran application security expert who also founded and led OWASP and Aspect Security.  Jeff created several highly successful open-source projects, including jbom, jot, OWASP Top Ten, WebGoat, ESAPI, ASVS, and more. Jeff has a BA from Virginia, an MA from George Mason, and a JD from Georgetown. He's also a two-time master’s basketball national champion.
+
 * Wir suchen noch Vorträge für die kommenden Stammtische
 
 \>\>\> Bitte **meldet Euch** bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, damit wir wissen, für wie viele Personen wir reservieren können. \<\<\<
 
-**Ort:**<br>
-Café am Josephsplatz, Augustenstraße 112, 80798 München (https://www.cafe-am-josephsplatz.de/)  
-[U2 Josephsplatz, Ausgang F im Süden](https://www.mvg.de/aushangfahrplan/P8_H_JO_0.pdf)
+**Ort:**<br>iteratec GmbH, St.-Martin-Straße 114, 81669 München
+<!--- Café am Josephsplatz, Augustenstraße 112, 80798 München (https://www.cafe-am-josephsplatz.de/)  
+[U2 Josephsplatz, Ausgang F im Süden](https://www.mvg.de/aushangfahrplan/P8_H_JO_0.pdf) --->
 
 **Zeit:**<br>
-Dienstag, 10.09.2024 um 18:30 Uhr
+Montag, 07.10.2024 um 18:30 Uhr
 
 <!---- \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist. \<\<\<
 
