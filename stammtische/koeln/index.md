@@ -16,17 +16,6 @@ Jeder ist herzlich willkommen und kann gerne noch Freunde, Kollegen, Interessier
 
 ### ANKÜNDIGUNGEN
 
-#### 41./ Kölner OWASP Stammtisch am 26.09.2024
-
-- Dissecting the Client Hello with Pyshark - Katherine Leese
- 
-This talk covers using Pyshark for network capture files, focusing on accessing nested elements in network packets, particularly within Client Hello packets, including encryption suites and TLS versions. It provides a guide on effectively using Pyshark, addressing the gaps in current documentation and offering practical insights. The session will cover the basics of loading pcap files, inspecting packet types and layers, and using commands to list packet layers and extract details. It includes a practical example of extracting offered encryption suites from Client Hello packets to ensure secure encryption methods. By applying Wireshark display filters in Pyshark, packets can be identified efficiently. Key issues and solutions when using JSON and Python objects will be highlighted, helping avoid errors and process data smoothly. 
-
-[GetTogether Link](https://gettogether.community/events/60658/41-k%C3%B6lner-owasp-stammtisch/)
-
-[LinkedIn Event](https://www.linkedin.com/events/41-owaspstammtischk-ln7224014296832225280)
-
-
 #### 42./ Sonderveranstaltunge des OWASP Köln Stammtisch – Jeff Williams in Köln am 09.10.2024
 
 Wir freuen uns, eine ganz besondere Ausgabe des OWASP Köln Stammtisch ankündigen zu können! Jeff Williams, Gründer von OWASP, ist zu Besuch in Deutschland und wird am 9. Oktober 2024 in Köln einen Vortrag halten. Der Stammtisch beginnt um 18:30 Uhr und findet dieses Mal nicht wie gewohnt im Mediapark statt, sondern in den Räumlichkeiten der Gothaer Allgemeine Versicherung AG, Gothaer Allee 1, 50969 Köln.
@@ -35,12 +24,26 @@ Jeff wird über die Geschichte von OWASP und den aktuellen Stand der Anwendungss
 
 Verpasst nicht die Gelegenheit, diesen spannenden Abend mit uns zu verbringen!
 
+Jeff is the founder and CTO at Contrast Security, the leader in runtime application security for application security testing (AST) and application detection and response (ADR). Jeff is a veteran application security expert who also founded and led OWASP and Aspect Security.  Jeff created several highly successful open-source projects, including jbom, jot, OWASP Top Ten, WebGoat, ESAPI, ASVS, and more. Jeff has a BA from Virginia, an MA from George Mason, and a JD from Georgetown. He's also a two-time master’s basketball national champion who would love to connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/planetlevel/)
+
+##### OWASP and the Evolution of AppSec
+
+This is the most exciting time in the history of appsec.  Not only are apps/APIs more complex, connected, and critical than ever before, we haven't made much progress against vulnerabilities, the attackers have ramped up their activity dramatically, and the governments of the world are scrambling to figure out what to do.  It's a mess. In this talk, Jeff will share some stories and insights from over 25 years in appsec.  We'll look at some of the bigger movements in appsec like "build security in", "devsecops", "shift left", "SBOMs", and "secure by design" and talk about why they have largely failed to change the trajectory of appsec.  We'll also spend some time on the different technologies organizations use to automate appsec in development and operations.  Jeff will share his thoughts about the market failures that make improvements in appsec so difficult and what we can do to fix them.  This will be a highly interactive session, so bring your questions and ideas.
+
 [GetTogether Link](https://gettogether.community/events/63860/42-sonderveranstaltunge-des-owasp-k%C3%B6ln-stammtisch-jeff-williams-in-k%C3%B6ln/)
 
 [LinkedIn Event](https://www.linkedin.com/events/sonderveranstaltungedesowaspk-l7239914639575191553)
 
 
 ### Vergangene Stammtische
+
+#### 41./ Kölner OWASP Stammtisch am 26.09.2024
+
+- Dissecting the Client Hello with Pyshark - Katherine Leese
+ 
+This talk covers using Pyshark for network capture files, focusing on accessing nested elements in network packets, particularly within Client Hello packets, including encryption suites and TLS versions. It provides a guide on effectively using Pyshark, addressing the gaps in current documentation and offering practical insights. The session will cover the basics of loading pcap files, inspecting packet types and layers, and using commands to list packet layers and extract details. It includes a practical example of extracting offered encryption suites from Client Hello packets to ensure secure encryption methods. By applying Wireshark display filters in Pyshark, packets can be identified efficiently. Key issues and solutions when using JSON and Python objects will be highlighted, helping avoid errors and process data smoothly. 
+
+Folien verfügbar ab Mitte November
 
 ###### 40\. Kölner OWASP Stammtisch am 18.07.2024
 
@@ -49,6 +52,8 @@ Verpasst nicht die Gelegenheit, diesen spannenden Abend mit uns zu verbringen!
 Nach dem Security-Training ist man oft voller Elan, mit seinem Team sichere Software zu entwickeln. Doch eine Schulung allein führt selten zu einem Team, das selbstständig Security-Aktivitäten übernimmt. Der Vortrag zeigt, wie mithilfe der Samman-Technical-Coaching-Methode und den Capabilities der Security Belts diese Herausforderungen gemeistert werden können. Es werden Methoden vorgestellt, um Security-Aktivitäten im Team zu etablieren; und persönliche Weiterentwicklungsmöglichkeiten zum Agile Technical Security Coach aufgezeigt.
 
 Nach der Präsentation ziehen wir uns in ein nahegelegenes Brauhaus zurück, um dort zu diskutieren und uns mit Erfrischungen zu stärken
+
+Slides:[Die Macht zu Veränderung](slides/Die_Macht_zur_Veränderung.pdf)
 
 ###### 39\. Kölner OWASP Stammtisch am 23.05.2024
 
