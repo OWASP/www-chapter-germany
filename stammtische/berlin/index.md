@@ -23,5 +23,4 @@ Our Events are held in English.
 
 
 ## **T E R M I N E:**
-* **31. Januar 2024**: OWASP Berlin January Meeting, Presentations & Networking at Scoutbee. Please register via meetup.com 
-
+* **24. Oktober 2024**: OWASP Berlin Autumn Meeting - Presentations & Networking at SysEleven Berlin. Please register via [meetup.com](https://www.meetup.com/owasp-berlin/events/303636873/?notificationId=1421649887188836352&eventOrigin=notifications) 
