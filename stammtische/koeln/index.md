@@ -53,7 +53,6 @@ Nach dem Security-Training ist man oft voller Elan, mit seinem Team sichere Soft
 
 Nach der Präsentation ziehen wir uns in ein nahegelegenes Brauhaus zurück, um dort zu diskutieren und uns mit Erfrischungen zu stärken
 
-Slides:[Die Macht zu Veränderung](slides/Die_Macht_zur_Veränderung.pdf)
 
 ###### 39\. Kölner OWASP Stammtisch am 23.05.2024
 
