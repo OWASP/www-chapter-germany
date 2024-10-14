@@ -16,6 +16,21 @@ Jeder ist herzlich willkommen und kann gerne noch Freunde, Kollegen, Interessier
 
 ### ANKÜNDIGUNGEN
 
+#### 43./ Kölner OWASP Stammtisch am 21.11.2024
+
+- KI und API Sicherheit - Axel Grosse
+  
+Vortrag mit Live demo über die Gefahren, Möglichkeiten und Herausforderungen von Generativer KI im Umfeld von APIs.
+Mit ChatGPT hacken und mit Co-Pilot sichern
+
+[GetTogether Link](https://gettogether.community/events/66318/43-k%C3%B6lner-owasp-stammtisch)
+
+[LinkedIn Event](https://www.linkedin.com/events/43-k-lnerowaspstammtisch7251589640711733250)
+
+
+
+### Vergangene Stammtische
+
 #### 42./ Sonderveranstaltunge des OWASP Köln Stammtisch – Jeff Williams in Köln am 09.10.2024
 
 Wir freuen uns, eine ganz besondere Ausgabe des OWASP Köln Stammtisch ankündigen zu können! Jeff Williams, Gründer von OWASP, ist zu Besuch in Deutschland und wird am 9. Oktober 2024 in Köln einen Vortrag halten. Der Stammtisch beginnt um 18:30 Uhr und findet dieses Mal nicht wie gewohnt im Mediapark statt, sondern in den Räumlichkeiten der Gothaer Allgemeine Versicherung AG, Gothaer Allee 1, 50969 Köln.
@@ -30,12 +45,6 @@ Jeff is the founder and CTO at Contrast Security, the leader in runtime applicat
 
 This is the most exciting time in the history of appsec.  Not only are apps/APIs more complex, connected, and critical than ever before, we haven't made much progress against vulnerabilities, the attackers have ramped up their activity dramatically, and the governments of the world are scrambling to figure out what to do.  It's a mess. In this talk, Jeff will share some stories and insights from over 25 years in appsec.  We'll look at some of the bigger movements in appsec like "build security in", "devsecops", "shift left", "SBOMs", and "secure by design" and talk about why they have largely failed to change the trajectory of appsec.  We'll also spend some time on the different technologies organizations use to automate appsec in development and operations.  Jeff will share his thoughts about the market failures that make improvements in appsec so difficult and what we can do to fix them.  This will be a highly interactive session, so bring your questions and ideas.
 
-[GetTogether Link](https://gettogether.community/events/63860/42-sonderveranstaltunge-des-owasp-k%C3%B6ln-stammtisch-jeff-williams-in-k%C3%B6ln/)
-
-[LinkedIn Event](https://www.linkedin.com/events/sonderveranstaltungedesowaspk-l7239914639575191553)
-
-
-### Vergangene Stammtische
 
 #### 41./ Kölner OWASP Stammtisch am 26.09.2024
 
