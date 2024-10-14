@@ -32,12 +32,14 @@ Ankündigungen wann & wo ein Stammtisch stattfinden wird, findet ihr hier, auf [
 {% include chapter_events.html group=page.meetup-group %}
 {% endcomment %}
 
-**ACHTUNG:** Im **August** findet **KEIN** Stammtisch statt! - Erst wieder im **September**
+### Ankündigung - 05. Stammtisch (2. Versuch) am 23.10.2024
 
-### Ankündigung - 05. Stammtisch am 25.09.2024
+#### Agenda: 
+**Speaker Christoph Niehoff** wird uns etwas erzählen! Der genaue Plot folgt noch (Trommelwirbel ;))
 
-#### Agenda: tbd
-Du willst einen Vortrag halten? Gib Bescheid. Wir sind für den 4. Stammtisch noch auf der Suche!
+Über Christoph (Senior Consultant | TNG Technology Consulting):
+
+In seiner Rolle als Senior Consultant bei TNG Technology Consulting entwickelt Christoph Niehoff tagtäglich Softwareprodukte für seine Kunden. Als Fullstack-Entwickler l(i)ebt er DevOps und betreut alle Schritte des Entwicklungszyklus: angefangen bei Konzeptionierung und Architektur, über die konkrete Implementierung bis zum automatisierten Cloud-Deployment mittels CI/CD. Dabei ist ihm insbesondere die Sicherheit der Produkte eine Herzensangelegenheit. Er ist Project Lead des Threat Modeling Kartenspiels OWASP Cumulus.
 
 #### Ort: [Thing](https://www.mein-thing.de/), Vorderer Lech 45, 86150 Augsburg
 
