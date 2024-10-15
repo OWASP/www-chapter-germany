@@ -41,6 +41,16 @@ Ankündigungen wann & wo ein Stammtisch stattfinden wird, findet ihr hier, auf [
 
 In seiner Rolle als Senior Consultant bei TNG Technology Consulting entwickelt Christoph Niehoff tagtäglich Softwareprodukte für seine Kunden. Als Fullstack-Entwickler l(i)ebt er DevOps und betreut alle Schritte des Entwicklungszyklus: angefangen bei Konzeptionierung und Architektur, über die konkrete Implementierung bis zum automatisierten Cloud-Deployment mittels CI/CD. Dabei ist ihm insbesondere die Sicherheit der Produkte eine Herzensangelegenheit. Er ist Project Lead des Threat Modeling Kartenspiels OWASP Cumulus.
 
+**Vortrag: Threat Modeling the Clouds**
+
+In diesem Vortrag geben wir eine Einführung ins Threat Modeling als proaktive Security-Maßnahme:
+* Was ist es?
+* Wie macht man es?
+* Warum möchte man es machen?
+* Was sind Patterns und Antipatterns?
+
+Am Ende betrachten wir, wie man Threat Modeling speziell in agile DevOps Prozesse einbinden kann. Dabei zeigen wir einen Gamification-Ansatz, den wir am Beispiel von OWASP Cumulus erläutern.
+
 #### Ort: [Thing](https://www.mein-thing.de/), Vorderer Lech 45, 86150 Augsburg
 
 #### Zeit: 19:00
