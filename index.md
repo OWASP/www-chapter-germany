@@ -52,9 +52,9 @@ Sie hierzu der [Google Group beitreten](https://groups.google.com/a/owasp.org/g/
 
 ## Aktuelles
 
-Am 13.11.2024 wird der German OWASP Day in Leipzip stattfinden! Der CfP sowie der Ticketverkauf starten in Kürze.
+Am 13.11.2024 wird der [German OWASP Day](https://god.owasp.de/2024) in Leipzip stattfinden! Der CfP sowie der Ticketverkauf [ist gestartet](https://www.eventbrite.com/e/2024-german-owasp-day-god-tickets-993716401507). Das [Programm](https://god.owasp.de/2024/#program) kann sich wirklich blicken lassen. Am Vortrag gibt es drei Trainings und an dem Abend gibt es wie üblich unser Social Event und schöne eine Gelegenheit zum Fachsimpeln, zum Austausch und zum Wiedersehen. 
 
-2023 fand nach längerer Corona-Pause fand am 31.5. der [German OWASP Day](https://god.owasp.de) in Frankfurt statt, zu dem es zirka 190 Besucher hinzog. Am Vortrag wurden zwei Trainings angeboten. An dem Abend gab es wie üblich unser Social Event und schöne eine Gelegenheit zum Fachsimpeln, zum Austausch und zum Wiedersehen. Das [Programm ist hier zu finden](https://god.owasp.de/2023/schedule/) und die [Videos auf YouToube](https://www.youtube.com/playlist?list=PLCUxWIPmliVm9Z-JLCsgeQx1nAq63lbAT).
+2023 fand nach längerer Corona-Pause fand am 31.5. der [German OWASP Day](https://god.owasp.de) in Frankfurt statt, zu dem es zirka 190 Besucher hinzog. Am Vortrag wurden zwei Trainings angeboten. ADas [Programm ist hier zu finden](https://god.owasp.de/2023/schedule/) und die [Videos auf YouToube](https://www.youtube.com/playlist?list=PLCUxWIPmliVm9Z-JLCsgeQx1nAq63lbAT).
 
 
 
