@@ -1,7 +1,7 @@
 **05. Stammtisch am 23.10.2024**
 **Speaker Christoph Niehoff** 
 
-Über Christoph (Senior Consultant | TNG Technology Consulting):
+Über Christoph (Senior Consultant bei TNG Technology Consulting):
 
 In seiner Rolle als Senior Consultant bei TNG Technology Consulting entwickelt Christoph Niehoff tagtäglich Softwareprodukte für seine Kunden. Als Fullstack-Entwickler l(i)ebt er DevOps und betreut alle Schritte des Entwicklungszyklus: angefangen bei Konzeptionierung und Architektur, über die konkrete Implementierung bis zum automatisierten Cloud-Deployment mittels CI/CD. Dabei ist ihm insbesondere die Sicherheit der Produkte eine Herzensangelegenheit. Er ist Project Lead des Threat Modeling Kartenspiels OWASP Cumulus.
 
