@@ -18,16 +18,14 @@ Bei den Chapter-Meeting des OWASP German Chapter treffen wir uns also in erster 
 OWASP German Chapter Meeting Dienstag, 12. November  · 14:00 bis 17:00 im Rahmen des German OWASP Day.
 
 Agenda:
-    Checkin (bis 15 Uhr)
-    Begrüßung und Vorstellung (Tobias, 10 Minuten)
-    Review altes Protokoll  (Tobias, 15 Minuten)
-    Global AppSec 2025 & 2026 in DE. Gründe warum es 2025 nicht geklappt hat (Tobias, Dan, 15 Minuten)
-    Diversität in Chaptern (Dan, 15 Minuten)
-    OWASP Mentoring und Mentoring (Dan, 15 Minuten)
-    German OWASP Day 2025
-    Sonstiges
-
-Einwahl: https://meet.google.com/pon-ppcg-fqv
+* Checkin (bis 15 Uhr)
+* Begrüßung und Vorstellung (Tobias, 10 Minuten)
+* Review altes Protokoll  (Tobias, 15 Minuten)
+* Global AppSec 2025 & 2026 in DE. Gründe warum es 2025 nicht geklappt hat (Tobias, Dan, 15 Minuten)
+* Diversität in Chaptern (Dan, 15 Minuten)
+* OWASP Mentoring und Mentoring (Dan, 15 Minuten)
+* German OWASP Day 2025
+* Sonstiges
 
 Erweiterungen vorab an Tobias (tobias.glemser@owasp.org)
 
