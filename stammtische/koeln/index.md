@@ -25,7 +25,7 @@ Mit ChatGPT hacken und mit Co-Pilot sichern
 
 [GetTogether Link](https://gettogether.community/events/66318/43-k%C3%B6lner-owasp-stammtisch)
 
-[LinkedIn Event](https://www.linkedin.com/events/43-k-lnerowaspstammtisch7251589640711733250)
+[LinkedIn Event](https://www.linkedin.com/events/7261659437256396800/comments/)
 
 
 
@@ -52,8 +52,6 @@ This is the most exciting time in the history of appsec.  Not only are apps/APIs
  
 This talk covers using Pyshark for network capture files, focusing on accessing nested elements in network packets, particularly within Client Hello packets, including encryption suites and TLS versions. It provides a guide on effectively using Pyshark, addressing the gaps in current documentation and offering practical insights. The session will cover the basics of loading pcap files, inspecting packet types and layers, and using commands to list packet layers and extract details. It includes a practical example of extracting offered encryption suites from Client Hello packets to ensure secure encryption methods. By applying Wireshark display filters in Pyshark, packets can be identified efficiently. Key issues and solutions when using JSON and Python objects will be highlighted, helping avoid errors and process data smoothly. 
 
-Folien verfügbar ab Mitte November
-
 
 ###### 40\. Kölner OWASP Stammtisch am 18.07.2024
 
@@ -72,8 +70,7 @@ Aktuelle Webanwendung und Webservices stehen nicht allein im Internet. Ihre Dien
 Der Vortrag beschreibt Funktionsweise von Semantic Gap-Angriffen wie Request Smuggling, Response Splitting und Cache-Poisoned Denial of Service (CPDoS). Dabei wird die Relevanz beleuchtet und gezeigt, warum weitere Angriffe dieser Klasse in Zukunft auftauchen werden. Zudem werden Gegenmaßnahmen diskutiert.
 
 - Nach der Präsentation ziehen wir uns in ein nahegelegenes Brauhaus zurück, um dort zu diskutieren und uns mit Erfrischungen zu stärken.
-  
-Slides:[Mind the Semantic Gap](slides/Mind_the_semantic_gap.pdf)
+
 
 ###### 38\. Kölner OWASP Stammtisch am 14.03.2024
 
