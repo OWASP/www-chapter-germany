@@ -20,7 +20,7 @@ Organisation OWASP, herstellerneutral und ohne Marketingvorträge.
 **Alle Informationen zum aktuellen und vergangenen German OWASP Day's
 findest du unter <https://god.owasp.de>!**
 
-Der letzte German OWASP Day fand am 10.12.2019 in Karlsruhe statt.
+Der letzte German OWASP Day fand am 13.11.2024 in Leipzig statt.
 
 Folge uns auf Twitter oder abboniere die Mailingliste, um auf dem
 aktuellen Stand zu bleiben!
