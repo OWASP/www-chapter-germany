@@ -32,9 +32,23 @@ Ankündigungen wann & wo ein Stammtisch stattfinden wird, findet ihr hier, auf [
 {% include chapter_events.html group=page.meetup-group %}
 {% endcomment %}
 
-### Ankündigung - 06. Stammtisch am 27.11.2024
+**Ankündigung der nächsten ZWEI Stammtische**
+
+### Vorankündigung - 07. Stammtisch am 11.12.2024
 
 #### Agenda: tbd
+
+#### Ort: Meteocontrol, Pröllstraße 28, 86157 Augsburg (https://www.meteocontrol.com/)
+
+#### Zeit: 19:00
+
+### Ankündigung - 06. Stammtisch am 27.11.2024
+
+#### Agenda: GOD in a Nutshell
+
+Christian Kölbl wird einen kurzen Erfahrungsbericht über den German OWASP Day 2024 geben: Insights, Training, Chapter Meeting und Vorträge. 
+
+...es ist aber natürlich noch Platz für einen Vortrag :-)
 
 #### Ort: [Thing](https://www.mein-thing.de/), Vorderer Lech 45, 86150 Augsburg
 
