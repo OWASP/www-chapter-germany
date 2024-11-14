@@ -11,7 +11,7 @@ meetup-group:
 ## Willkommen beim OWASP-Stammtisch Augsburg!
 In der Fuggerstadt wird IT-SECURITY groß geschrieben. Egal ob IT-Security-Interessent*in, CISO, Hacker/Haeckse, Pentester*in, Entwickler*in, Netzi, Endanwender*in oder whatever - alle sind willkommen. Eine OWASP-Mitgliedschaft ist (natürlich wünschenswert, aber) nicht notwendig!
 
-**Wir freuen uns auf neue Gesichter, alte Hasen und sporadische Gäste. :-)**
+**Wir freuen uns auf neue Gesichter, Stammgäste und sporadische Teilnehmer*innen :-)**
 
 Wir wechseln zwischen 
 * Vorträgen,
@@ -46,7 +46,7 @@ Ankündigungen wann & wo ein Stammtisch stattfinden wird, findet ihr hier, auf [
 
 #### Agenda: GOD in a Nutshell
 
-Christian Kölbl wird einen kurzen Erfahrungsbericht über den German OWASP Day 2024 geben: Insights, Training, Chapter Meeting und Vorträge. 
+Christian Kölbl wird einen kurzen Erfahrungsbericht über den German OWASP Day 2024 (https://god.owasp.de/2024/) geben: Insights, Training, Chapter Meeting und Vorträge. 
 
 ...es ist aber natürlich noch Platz für einen Vortrag :-)
 
