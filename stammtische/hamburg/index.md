@@ -38,9 +38,14 @@ Treffen an Kollegen oder Bekannte sind gern gesehen.
 
 ### Aktuelle Treffen
 
-### 70\. Stammtisch September 2024
+### 70\. Stammtisch 12.12.2024
 
-TBA
+- Speakers: Stefan Bethke: "Pets, not Cattle", Dirk Wetter: "Hackerbremse"
+- [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/304810494/)
+- Ort: Zeiseweg 9, Hamburg (CCC Hamburg)
+- Treffen: 12.12.2024, Start: 18:30 Uhr
+- Einlass ab 18h, wichtige Details: https://wiki.hamburg.ccc.de/club:z9:start
+- Das Bier danach: TBD
 
 ### Vergangene Treffen
 
