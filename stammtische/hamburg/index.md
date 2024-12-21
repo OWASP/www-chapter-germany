@@ -13,14 +13,13 @@ meetup-group: OWASP-Hamburg-Stammtisch
 
 ### Hamburg ist einen Vortrag Wert
 
-<b>Wir suchen immer Vorträge für unsere Treffen</b>. Denkst du, du hast
-ein interessantes Thema, über dass du sprechen möchtest? Dann sprich uns an (s.u.).
-Wie bei OWASP üblich: Wir sind an Sicherheit im Internet --
-Technik, Organisation, Entwicklung, Datenschutz -- interessiert. Nicht
+<b>Wir suchen immer Vorträge für unsere Treffen</b>. Denkst du, du hast ein interessantes Thema,
+dass du bei uns vorstellen möchtest? Dann sprich uns an (s.u.).  Wie bei OWASP üblich: Wir sind
+an Sicherheit im Internet -- Technik, Organisation, Entwicklung, Datenschutz -- interessiert. Nicht
 an Marketing, OWASP ist vendorunabhängig.
 
-Wer und Interesse hat mitzuwirken oder hosten möchte, bitte bei Dirk
-Wetter oder Björn Kimminich melden (vorname.nachname@owasp.org).
+Wer und Interesse hat mitzuwirken oder hosten möchte, bitte bei Dirk Wetter oder Björn Kimminich
+melden (vorname.nachname@owasp.org).
 
 ### Wie bekomme ich Treffen mit?
 
@@ -29,14 +28,18 @@ zeitnah über Treffen informiert zu bleiben. Die Meetup-Seite ist immer etwas ak
 findet man auf Meetup immer den Abstract. Alternativ werden Treffen über die OWASP-Deutschland
 [Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/) angekündigt.
 
-Jeder mit Interesse an unseren Themen ist willkommen. Alle Treffen sind frei und
-offen, man muss auch kein OWASP-Mitglied sein. Niemand verkauft etwas. Wir sind
-an Erfahrungsaustausch und Technikschnack interessiert. Kommt gerne vorbei!
-Hinweise auf diese Webseite bzw. Meetup oder auf einzelne
-Treffen an Kollegen oder Bekannte sind gern gesehen.
+Jeder Mensch mit Interesse an unseren Themen ist willkommen. Alle Treffen sind frei und
+offen, auch eine OWASP-Mitgliedschaft ist nicht erforderlich. Niemand verkauft etwas. Wir sind
+an Erfahrungsaustausch und Technikschnack interessiert.  Hinweise auf diese Webseite bzw. die
+Meetup-Gruppe oder auf einzelne Treffen an Kollegen oder Bekannte sind gern gesehen. Kommt
+gerne vorbei!
 
 
 ### Aktuelle Treffen
+
+### 71\. Stammtisch Jan/Feb: TBA
+
+### Vergangene Treffen
 
 ### 70\. Stammtisch 12.12.2024
 
@@ -45,9 +48,8 @@ Treffen an Kollegen oder Bekannte sind gern gesehen.
 - Ort: Zeiseweg 9, Hamburg (CCC Hamburg)
 - Treffen: 12.12.2024, Start: 18:30 Uhr
 - Einlass ab 18h, wichtige Details: https://wiki.hamburg.ccc.de/club:z9:start
-- Das Bier danach: TBD
+- [Folien Dirk](assets/slides/2024-12-12_Hackerbremse.pdf)
 
-### Vergangene Treffen
 
 ### 69\. Stammtisch 23.7.2024
 
