@@ -5,7 +5,7 @@ title: OWASP Augsburg
 tags: example-tag
 region: Europe
 country: Germany
-meetup-group:
+meetup-group: owasp-augsburg-chapter
 
 ---
 ## Willkommen beim OWASP-Stammtisch Augsburg!
