@@ -31,28 +31,42 @@ Ankündigungen wann & wo ein Stammtisch stattfinden wird, findet ihr hier, auf [
 {% comment %}
 {% include chapter_events.html group=page.meetup-group %}
 {% endcomment %}
+### Ankündigung Stammtische 2025
+Hallo zusammen und ein frohes neues Jahr! 🍔 
+Anbei gibt's gleich mal die guten Vorsätze für's neue Jahr - die voraussichtlichen Stammtischtermine 2025 🗓️ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+👉 Es werden noch Speaker*innen gesucht!! 👈 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 
-### Ankündigung - 07. Stammtisch am 11.12.2024
+ℹ️ **Info**
+Nach unserem Piloten bei der meteocontrol GmbH im Dezember 2024 werden wir versuchen quartalsweise einmal in einer Firma oder einem Unternehmen einen Stammtisch abzuhalten. 
 
-#### Agenda:
+📢 Ihr seid ein Unternehmen und habt Interesse? Bewerbt euch, die Termine sind begehrt und Q1 ist bereits vergeben - an HSA Innos! 
 
-##### Moderierte offene Diskussion:
+🤙 Die Rahmenbedingungen sind simple: Die Firma / das Unternehmen bekommt als Host natürlich die Gelegenheit sich 5-10 Minuten vorzustellen, Stellenanzeigen zu präsentieren, whatever und ab dann sind wir wieder neutral. Das bedeutet auch, dass idealerweise an diesem Tag kein Speaker des Hosts einen Vortrag halten sollte...
 
-Haben Cookies eine Daseinsberechtigung in sicherheitsrelevanten Anwendungen? Sind Cookies noch sicher? Waren sie es jemals? Achim wird uns hierzu noch ein paar Argumente mitbringen. Klingt spannend? Ist es! :-)
+Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf spannende Vorträge und interessante Diskussionen!
 
-Zu Achim:
-**Achim Hoffmann** ist als 'OWASP-Urgestein' ein langjähriger (>25 Jahre), auf Web Application Security spezialisierter Berater, (Pen-)Tester, Trainer und Sprecher; Er ist Board Member von OWASP-Germany und OWASP-Project-Leader u.a. für O-Saft
+- Januar: 22.1. (Thing, Vorderer Lech 45, 86150 Augsburg)
+- Februar: 26.2. (Thing, Vorderer Lech 45, 86150 Augsburg)
+- März: 26.3. (HSA Innos)
+- April: 23.4. (tbd.)
+- Mai: 28.5. (tbd.)
+- Juni: 25.6 (tbd.)
+- Juli: 23.7. (tbd.)
+- August --- 🌞 -Pause
+- September: 24.9. (tbd.)
+- Oktober: 22.10. (tbd.)
+- November: 26.11. (tbd.)
+- Dezember: --- ❄️ -Pause
 
-##### Navigating the Security Maze: Ein interaktives Abenteuer
+### Ankündigung - 08. Stammtisch am 22.01.2025
+Agenda: tbd
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+👉 Es werden noch Speaker*innen gesucht!! 👈 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 
-Obwohl seit Jahren in aller Munde, ist DevSecOps noch lange kein gelöstes Problem.
-
-Diese interaktive Session macht die Herausforderungen von Sicherheit im Entwicklungsprozess erlebbar: Die Teilnehmenden werden mit mehreren Szenarien aus dem Projektalltag konfrontiert und gestalten mit ihren Entscheidungen den weiteren Verlauf des Vortrags mit. Sie müssen dabei Sicherheitsanforderungen mit Budget, Entwicklungsgeschwindigkeit und Benutzerfreundlichkeit in Einklang bringen und das Projekt sicher von der Idee zum Livegang bringen.
-
-Zu Clemens:
-**Clemens Hübner** studierte Mathematik und Informatik und schloss mit einer Masterarbeit zur Sicherheit in agilen Entwicklungsmodellen ab. Nach Tätigkeiten als Software Developer sowie im Penetration Testing ist er seit 2018 als Security Engineer bei inovex. Dort begleitet er heute Projekte auf Konzeptions- und Implementierungsebene, schult Kolleg:innen und berät zu DevSecOps.
-
-#### Ort: Meteocontrol, Pröllstraße 28, 86157 Augsburg (https://www.meteocontrol.com/)
+#### Ort: Thing (https://www.mein-thing.de/), Vorderer Lech 45, 86150 Augsburg
 
 #### Zeit: 19:00
 
