@@ -14,6 +14,18 @@ lokaler kölscher Kulturstätten.
 Jeder ist herzlich willkommen und kann gerne noch Freunde, Kollegen, Interessierte mitbringen. 
 
 
+### Termine für 2025
+
+Hier sind unsere Stammtischtermine für 2025.  Wenn Sie an einem dieser Abende einen Vortrag halten möchten, nehmen Sie bitte Kontakt auf.
+
+Februar 20
+März 27
+Mai 22
+Juli 24
+September 18
+November 27
+
+
 ### ANKÜNDIGUNGEN
 
 #### 43./ Kölner OWASP Stammtisch am 21.11.2024
