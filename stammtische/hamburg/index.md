@@ -46,7 +46,6 @@ gerne vorbei!
     * Tim Satttler (Jungheinreich)
     * Julia Hermann, (Infodas)
     * Ralf Kleinfeld (Otto)
-    * Katrin Theuerkauf (RTL)
     * Carsten Elshoff (Mabanaft)
     * Hendrik Janßen (Bauer Media)
 - Uhrzeit: Start 18:30, Einlass ab 18:00 Uhr
