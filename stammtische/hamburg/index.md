@@ -37,7 +37,21 @@ gerne vorbei!
 
 ### Aktuelle Treffen
 
-### 71\. Stammtisch Jan/Feb: TBA
+### 71\. Stammtisch 19.2.2025
+
+- Veranstaltung: CISO Roundtable "Was ich schon immer CISOs fragen wollte, aber bisher nicht zu fragen wagte"
+- [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/305772165/)
+- Presentation Language: German
+- Teilnehmer des Roundtables: 
+    * Tim Satttler (Jungheinreich)
+    * Julia Hermann, (Infodas)
+    * Ralf Kleinfeld (Otto)
+    * Katrin Theuerkauf (RTL)
+    * Carsten Elshoff (Mabanaft)
+    * Hendrik Janßen (Bauer Media)
+- Uhrzeit: Start 18:30, Einlass ab 18:00 Uhr
+- Lokation: [Check24, An der Alster 64](https://osm.org/go/0HoG514R?way=41573175)
+
 
 ### Vergangene Treffen
 
