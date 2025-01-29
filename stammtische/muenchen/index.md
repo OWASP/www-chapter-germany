@@ -15,10 +15,10 @@ meetup-group: OWASP_Muenchen_Stammtisch
 <!---- Nach vielen Online-Meetings ein persönliches Treffen und Diskutieren :-) --->
 <!--- **Vortrag gesucht &mdash; Vor-Ort-Treffen an einem neuen Ort!** --->
 <!--- **\>\>\> Wir suchen noch einen Vortrag für den Stammtisch! Bitte melde Dich bei uns, wenn Du ein Thema aus dem Bereich IT-Sicherheit oder Informationssicherheit für uns hast. \<\<\<** --->
-Einladung zum (142.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Montag, den 02.12.2024 um 18:30 Uhr** (**anderer Tag!**).<br><br> 
+Einladung zum (143.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 04.02.2025 um 18:30 Uhr**<br><br> 
 **Agenda:**<br>
----
-* **Vortrag: Security Champions: Die Schlüsselrolle für sichere Softwareentwicklung (Juliane Reimann)**<br>Der Begriff „Security Culture“ gewinnt zunehmend an Bedeutung für Unternehmen, da er direkten Einfluss auf deren Cyber-Resilienz hat. Im Vortrag zeigt Juliane, wie Security Champions dazu beitragen können, Sicherheitskultur in Entwicklungsteams zu stärken. Zusätzlich stellt sie uns das neue [OWASP Security Champions Projekt](https://owasp.org/www-project-security-champions-guidebook/) vor – eine praktische Anleitung zum Aufbau eines solchen Programms.<br><br>Juliane Reimann ist seit über 6 Jahren als Beraterin im Cyber-Security-Bereich tätig und hat sich auf den Aufbau von sicheren Softwareentwicklungsprozessen (SDLC) sowie Security-Champions-Programmen spezialisiert. Beim German OWASP Day hat sie eine Schulung zum selben Thema gehalten: "[Getting started for establishing your Security Champions Program](https://god.owasp.de/2024/program-detail.html?talk=trainingTwo)".
+* **Vortrag: Attack Surface von KI-Anwendungen (Clemens Hübner)**<br>Mit zunehmender Adaption von KI in der Praxis kommt der Sicherheit eine besondere Bedeutung zu. Die Komplexität von solchen Systemen, die Konzentration von relevanten Daten und die noch geringen praktischen Erfahrungen sorgen für hohe Anreize für potenzielle Angreifer. Ein sicheres Design bedarf deshalb eines systematischen Vorgehens, um alle Facetten des Themas abzudecken.<br>
+In diesem Vortrag beschäftigen wir uns mit der Angriffsoberfläche von KI-Anwendungen: Wir legen den Fokus dabei auf Systeme mit KI-Komponenten und betrachten ihre Besonderheiten und Bedrohungssituation. Natürlich geht es auch um Gegenmaßnahmen und deren Umsetzung im Entwicklungsprojekt. Worauf der Vortrag nicht im Detail eingeht (aber ggf. die Diskussion im Anschluss) sind LLM-Systeme wie Chatbots, RAGs und Agentensysteme.<br><br>Clemens beschäftigt sich seit über 15 Jahren mit der Schnittmenge von Softwareentwicklung und Security. Nach Tätigkeiten als Software Developer sowie im Penetration Testing ist er seit 2018 als Security Engineer bei inovex. Dort begleitet er heute Entwicklungsprojekte auf Konzeptions- und Implementierungsebene, schult Kolleg:innen und Kund:innen und berät zu DevSecOps. Als Speaker wird er auf Techkonferenzen im In- und Ausland zu praktischen Themen der Anwendungssicherheit eingeladen.
 
 * Wir suchen noch Vorträge für die kommenden Stammtische
 
@@ -28,7 +28,7 @@ Einladung zum (142.) **OWASP-Stammtisch in München** im **Café am Josephsplatz
 [U2 Josephsplatz, Ausgang F im Süden](https://www.mvg.de/aushangfahrplan/P8_H_JO_0.pdf).
 
 **Zeit:** <br>
-Montag, 02.12.2024 um 18:30 Uhr
+Dienstag, 04.02.2025 um 18:30 Uhr
 
 <!---- **Anmeldung:** <br>
 \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist.
@@ -49,7 +49,7 @@ Montag, 02.12.2024 um 18:30 Uhr
 Bitte diese Info an potentiell Interessierte weiterleiten. Unser Thema ist in erster Linie (Web-)Application Security. Man muss dazu überhaupt nichts von OWASP wissen, ein vorhergehender Blick auf die Website indes schadet sicher nicht.
 
 Schönen Gruß,
-Orga-Team für den Münchner OWASP Stammtisch (Christoph, Thomas und [Torsten](https://wiki.owasp.org/index.php/User:T.Gigler)) 
+Orga-Team für den Münchner OWASP Stammtisch (Juliane, Christoph, Thomas und [Torsten](https://wiki.owasp.org/index.php/User:T.Gigler)) 
 
 ## Geplante Stammtisch-Vorträge und -Diskussionen
 <!--- * Juli 2020,  21.07.2020 --->
