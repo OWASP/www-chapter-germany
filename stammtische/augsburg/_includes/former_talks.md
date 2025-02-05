@@ -1,3 +1,12 @@
+**08. Stammtisch am 22.01.2025**
+
+Neujahrswiedersehen mit freiem Austusch zu verschiedenen Themen. Grobe Agenda:
+* Lecker Essen
+* Was ist OWASP?
+* Projektvorstellung (5-10 min): [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
+* Vorstellungsrunde
+* Freie Diskussion
+
 **07. Stammtisch am 11.12.2024**
 
 **Host: meteocontrol GmbH**
