@@ -37,7 +37,7 @@ November 27
 
 Wir haben diesmal keinen Vortragenden, aber wir treffen uns für eine Diskussionsrunde! Unser Ausgangspunkt für die Diskussion wird dieser Artikel sein:
 
-🔗 Secure by Design – Google's Blueprint for a High-Assurance Web Framework
+[Secure by Design – Google's Blueprint for a High-Assurance Web Framework](https://bughunters.google.com/blog/6644316274294784/secure-by-design-google-s-blueprint-for-a-high-assurance-web-framework)
 
 Bringt gerne weitere Themen mit, über die ihr sprechen möchtet!
 
