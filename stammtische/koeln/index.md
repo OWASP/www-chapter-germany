@@ -33,20 +33,30 @@ November 27
 
 ### ANKÜNDIGUNGEN
 
+#### 44./ Kölner OWASP Stammtisch am 20.02.2025
+
+Wir haben diesmal keinen Vortragenden, aber wir treffen uns für eine Diskussionsrunde! Unser Ausgangspunkt für die Diskussion wird dieser Artikel sein:
+
+🔗 Secure by Design – Google's Blueprint for a High-Assurance Web Framework
+
+Bringt gerne weitere Themen mit, über die ihr sprechen möchtet!
+
+Wichtig: Dieses Mal treffen wir uns im Raum Hongkong, 4. Etage im Startplatz.
+
+[GetTogether Link](https://gettogether.community/events/75012/owasp-stammtisch-cologne/)
+
+[LinkedIn Event](https://www.linkedin.com/events/44-k-lnerowaspstammtisch7295794473073082369/about/)
+
+
+
+### Vergangene Stammtische
+
 #### 43./ Kölner OWASP Stammtisch am 21.11.2024
 
 - KI und API Sicherheit - Axel Grosse
   
 Vortrag mit Live demo über die Gefahren, Möglichkeiten und Herausforderungen von Generativer KI im Umfeld von APIs.
 Mit ChatGPT hacken und mit Co-Pilot sichern
-
-[GetTogether Link](https://gettogether.community/events/66318/43-k%C3%B6lner-owasp-stammtisch)
-
-[LinkedIn Event](https://www.linkedin.com/events/7261659437256396800/comments/)
-
-
-
-### Vergangene Stammtische
 
 #### 42./ Sonderveranstaltunge des OWASP Köln Stammtisch – Jeff Williams in Köln am 09.10.2024
 
