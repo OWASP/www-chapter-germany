@@ -44,8 +44,7 @@ aktuelle Hinweise, Stellenangebote oder Projektgesuche. Es gibt auch ein
 Mailarchiv der *alten* Liste, die nicht mehr genutzt wird.
 
 Wenn Sie nicht an den Meetings teilnehmen können, kontaktieren Sie
-einfach einen der German Chapter Leader oder schreiben Sie eine
-E-Mail an unsere Mailingliste
+einfach einen der German Chapter Leader oder schreiben Sie eine E-Mail an unsere Mailingliste
 [germany-chapter@owasp.org](mailto:germany-chapter@owasp.org). Vorab müssen
 Sie hierzu der [Google Group beitreten](https://groups.google.com/a/owasp.org/g/germany-chapter).
 
@@ -54,13 +53,16 @@ Sie hierzu der [Google Group beitreten](https://groups.google.com/a/owasp.org/g/
 
 Wir sind auf
 * [LinkedIn](https://www.linkedin.com/company/owasp-germany/)
-* [Mastodon](https://www.linkedin.com/company/owasp-germany/)
+* [Mastodon](https://infosec.exchange/@owasp_de)
+* [Blueskyy](https://bsky.app/profile/owasp-de.bsky.social)
 * [X](https://x.com/OWASP_de/)
   
 zu finden, in absteigender Interaktionsfrequenz.
 
 
 ## Aktuelles
+
+Ein German OWASP Day 2025 ist derzeit in Planung, vermutlich wird der nach den allgmeinen Sommerferien stattfinden.
 
 Am 13.11.2024 fand in Leizpig in einer [wunderschönen Lokation](https://www.michaelis-leipzig.de/de/wir-betreiben/da-capo-oldtimermuseum-eventhalle/) der [German OWASP Day](https://god.owasp.de/2024) statt. Das [Programm](https://god.owasp.de/2024/#program) konnte sich wirklich blicken lassen. Am Vortrag gibt es drei Trainings und an dem Abend gab es wie üblich unser Social Event und schöne eine Gelegenheit zum Fachsimpeln, zum Austausch und zum Wiedersehen. Dank dem C3VOC hatten wir kurzfristig sogar Live-Streaming und die [Videos der einzelnen Vorträge waren am selben Tag noch auf media.ccc.de](https://media.ccc.de/c/god2024).
 
