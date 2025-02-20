@@ -54,7 +54,7 @@ Sie hierzu der [Google Group beitreten](https://groups.google.com/a/owasp.org/g/
 Wir sind auf
 * [LinkedIn](https://www.linkedin.com/company/owasp-germany/)
 * [Mastodon](https://infosec.exchange/@owasp_de)
-* [Blueskyy](https://bsky.app/profile/owasp-de.bsky.social)
+* [Bluesky](https://bsky.app/profile/owasp-de.bsky.social)
 * [X](https://x.com/OWASP_de/)
   
 zu finden, in absteigender Interaktionsfrequenz.
