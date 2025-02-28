@@ -15,10 +15,13 @@ meetup-group: OWASP_Muenchen_Stammtisch
 <!---- Nach vielen Online-Meetings ein persönliches Treffen und Diskutieren :-) --->
 <!--- **Vortrag gesucht &mdash; Vor-Ort-Treffen an einem neuen Ort!** --->
 <!--- **\>\>\> Wir suchen noch einen Vortrag für den Stammtisch! Bitte melde Dich bei uns, wenn Du ein Thema aus dem Bereich IT-Sicherheit oder Informationssicherheit für uns hast. \<\<\<** --->
-Einladung zum (143.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Dienstag, den 04.02.2025 um 18:30 Uhr**<br><br> 
+Einladung zum (144.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Montag, den 10.03.2025 um 18:30 Uhr** (geänderter Tag)<br><br> 
 **Agenda:**<br>
-* **Vortrag: Attack Surface von KI-Anwendungen (Clemens Hübner)**<br>Mit zunehmender Adaption von KI in der Praxis kommt der Sicherheit eine besondere Bedeutung zu. Die Komplexität von solchen Systemen, die Konzentration von relevanten Daten und die noch geringen praktischen Erfahrungen sorgen für hohe Anreize für potenzielle Angreifer. Ein sicheres Design bedarf deshalb eines systematischen Vorgehens, um alle Facetten des Themas abzudecken.<br>
-In diesem Vortrag beschäftigen wir uns mit der Angriffsoberfläche von KI-Anwendungen: Wir legen den Fokus dabei auf Systeme mit KI-Komponenten und betrachten ihre Besonderheiten und Bedrohungssituation. Natürlich geht es auch um Gegenmaßnahmen und deren Umsetzung im Entwicklungsprojekt. Worauf der Vortrag nicht im Detail eingeht (aber ggf. die Diskussion im Anschluss) sind LLM-Systeme wie Chatbots, RAGs und Agentensysteme.<br><br>Clemens beschäftigt sich seit über 15 Jahren mit der Schnittmenge von Softwareentwicklung und Security. Nach Tätigkeiten als Software Developer sowie im Penetration Testing ist er seit 2018 als Security Engineer bei inovex. Dort begleitet er heute Entwicklungsprojekte auf Konzeptions- und Implementierungsebene, schult Kolleg:innen und Kund:innen und berät zu DevSecOps. Als Speaker wird er auf Techkonferenzen im In- und Ausland zu praktischen Themen der Anwendungssicherheit eingeladen.
+* **Vortrag: Threat Modeling Themenabend (Clemens Hübner und Christoph Niehoff)**<br>Threat Modeling ist eine bewährte Methode, um die Sicherheit eines Systems systematisch zu erfassen und zu beurteilen. Dabei wird aus Richtung der Bedrohungen gedacht: Was gilt es zu schützen? Welche Angriffe sind denkbar? Wie können passende Gegenmaßnahmen identifiziert werden?<br>
+Dieser OWASP-Stammtisch ist ganz dem Thema Threat Modeling und dem Austausch dazu gewidmet. In zwei Impulsvorträgen wird die grundsätzliche Vorgehensweise erklärt sowie unterschiedliche Methoden vorgestellt. Im anschließenden Austausch kann dann gemeinsam diskutiert und Erfahrungen geteilt werden. Außerdem gibt es die Möglichkeit, verschiedene Threat Modeling Card Games auszuprobieren.
+Ob Threat-Modeling-Newbie oder alter Hase: Jeder wird von diesem Austausch-Abend profitieren!<br>
+Gestaltet wird der Abend von Christoph Niehoff und Clemens Hübner.<br><br>Christoph Niehoff entwickelt in seiner Rolle als Senior Consultant bei TNG Technology Consulting tagtäglich Softwareprodukte für seine Kunden. Dabei ist ihm insbesondere die Sicherheit der Produkte eine Herzensangelegenheit. Er ist Project Lead des Threat Modeling Kartenspiels OWASP Cumulus.<br>
+Clemens Hübner ist Software Security Engineer bei inovex. Dort begleitet er heute Projekte auf Konzeptions- und Implementierungsebene, schult Kolleg:innen und berät intern und extern zu DevSecOps. Als Speaker teilt er sein Wissen auf nationalen wie internationalen Konferenzen.
 
 * Wir suchen noch Vorträge für die kommenden Stammtische
 
@@ -28,7 +31,7 @@ In diesem Vortrag beschäftigen wir uns mit der Angriffsoberfläche von KI-Anwen
 [U2 Josephsplatz, Ausgang F im Süden](https://www.mvg.de/aushangfahrplan/P8_H_JO_0.pdf).
 
 **Zeit:** <br>
-Dienstag, 04.02.2025 um 18:30 Uhr
+Dienstag, 10.03.2025 um 18:30 Uhr
 
 <!---- **Anmeldung:** <br>
 \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist.
