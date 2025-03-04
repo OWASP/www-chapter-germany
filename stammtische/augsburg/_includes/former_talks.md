@@ -1,3 +1,23 @@
+**09. Stammtisch am 26.02.2025**
+
+Vortrag von Nina: Webapps aus der Perspektive einer Pentesterin
+
+Pentesting wird oft als „legales“ oder „beauftragtes“ Hacken bezeichnet. Doch oft gibt es Rätselraten, was dabei eigentlich passiert. Spoiler: keine Magie.
+
+In diesem Vortrag gibt’s deshalb Einblicke hinter die Kulissen, um folgende Fragen zu beantworten:
+
+    Was ist eigentlich ein Pentest?
+    Wie ist das Vorgehen beim Pentesten (d)einer Webanwendung?
+    Welche typischen Schwachstellen gibt es in Webanwendungen?
+
+Über Nina:
+
+Schon als Kind löste ich gerne Rätsel. Diese Begeisterung begleitete mich über mein Mathe-Studium bis in die IT-Sicherheitsbranche. Dort fasziniert mich besonders das proaktive Aufdecken von Schwachstellen ("hacken").
+
+Inzwischen bin ich mit eigener Firma, den Mindbytes, in genau diesem Bereich tätig.
+
+Dabei machte es mir schon immer Freude, komplexe Themen verständlich aufzubereiten. Derzeit findest du Beiträge von mir auf LinkedIn, YouTube, als Blog, in Fachartikeln und bald als Buch.
+
 **08. Stammtisch am 22.01.2025**
 
 Neujahrswiedersehen mit freiem Austusch zu verschiedenen Themen. Grobe Agenda:

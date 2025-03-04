@@ -48,9 +48,8 @@ Nach unserem Piloten bei der meteocontrol GmbH im Dezember 2024 werden wir versu
 
 Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf spannende Vorträge und interessante Diskussionen!
 
-- Q1: Februar: 26.2.25 (Thing, Vorderer Lech 45, 86150 Augsburg)
 - Q1: März: 26.3.25 [THA_innos](https://www.tha.de/Informatik/THA-innos.html) - Am Technologiezentrum 8, 86159 Augsburg
-- Q2: April: 23.4.25 (tbd.)
+- Q2: April: 23.4.25 (Thing, Vorderer Lech 45, 86150 Augsburg)
 - Q2: Mai: 28.5.25 [Nuvotex](https://nuvotex.de/) - Südtiroler Str. 13/1/2, 86165 Augsburg
 - Q2: Juni: 25.6.25 (tbd.)
 - Q3: Juli: 23.7.25 (tbd.)
@@ -63,27 +62,23 @@ Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf
 **2026**
 
 - Q1: Januar: 28.1.26
+- Q1: Februar: 25.2.26
 
-### Ankündigung - 09. Stammtisch am 26.02.2025
+### Ankündigung - 10. Stammtisch am 26.03.2025 bei THA_innos (Am Technologiezentrum 8)
 #### Agenda:
-**Vortrag von Nina: Webapps aus der Perspektive einer Pentesterin**
+**Vortrag von Rico: "Open Source Norm" ISO/IEC 18974.**
 
-Pentesting wird oft als „legales“ oder „beauftragtes“ Hacken bezeichnet. Doch oft gibt es Rätselraten, was dabei eigentlich passiert. Spoiler: keine Magie.
+Open Source Software ist allgegenwärtig. Besonders moderne – oftmals auch komplexere – Projekte profitieren vom Einsatz entsprechender quelloffener Bibliotheken. Dabei wurden bestimmte Funktionen von einem 3rd Party Entwickler entwickelt und vorab (unentgeltlich) der Allgemeinheit zur Verfügung gestellt. Dies bringt jedoch ein großes Risiko mit sich: Was passiert, wenn eine Sicherheitslücke in genau einer solchen Bibliothek entdeckt wird? Je nach Einsatz und Tiefe der Integration kann dies schwerwiegende Auswirkungen haben und je nach Verbreitungsgrad der Open Source Komponente kann es eine Vielzahl von Anwendungen betreffen.
 
-In diesem Vortrag gibt’s deshalb Einblicke hinter die Kulissen, um folgende Fragen zu beantworten:
-* Was ist eigentlich ein Pentest?
-* Wie ist das Vorgehen beim Pentesten (d)einer Webanwendung?
-* Welche typischen Schwachstellen gibt es in Webanwendungen?
+Das OpenChain Projekt hat genau dieses Problem erkannt und ein ISO-Standard entwickelt, der sich dem Thema Informationssicherheit bei Open Source Projekten widmet. Dabei bekommen sowohl Entwickler von Open Source Komponenten, als auch Entwickler die diese einsetzen und sogar Firmen, die Open Source Software vertreiben die Möglichkeit den Umgang mit Informationssicherheitsvorfällen zu zertifizieren.
 
-**Über Nina:**
+Dieser Vortrag gibt ein Überblick über die Norm ISO/IEC 18974 und die damit verbunden Möglichkeiten seinen Kunden oder Anwendern ein sicheres Vorgehen nachzuweisen.
 
-Schon als Kind löste ich gerne Rätsel. Diese Begeisterung begleitete mich über mein Mathe-Studium bis in die IT-Sicherheitsbranche. Dort fasziniert mich besonders das proaktive Aufdecken von Schwachstellen ("hacken"). 
+**Über Rico:**
 
-Inzwischen bin ich mit eigener Firma, den Mindbytes, in genau diesem Bereich tätig.
+Rico Boese ist Geschäftsführer bei der Boese Security GmbH und spezialisiert auf die Zertifizierung von Management Systemen nach den Regelwerken ISO/IEC 27001 und TISAX. In seinem früheren Leben war er Software-Entwickler und IT-Architekt und hat somit Einblicke in die Welt der praktischen Software-Entwicklung erhalten. Ereignisse, wie Heartbleed und log4shell haben ihm aber immer wieder aufgezeigt, dass Informationssicherheitsvorfälle auch schwerwiegende Auswirkungen auf die eigenen Systeme haben können, auch wenn man nur Konsument ist. Aus diesem Grund setzt er sich für einen geregelten Umgang mit diesem Thema ein.
 
-Dabei machte es mir schon immer Freude, komplexe Themen verständlich aufzubereiten. Derzeit findest du Beiträge von mir auf [LinkedIn](https://www.linkedin.com/in/nina-wagner-mindbytes/), [YouTube](https://www.youtube.com/@MindBytesGmbH), als Blog, in Fachartikeln und bald als Buch.
-
-#### Ort: Thing (https://www.mein-thing.de/), Vorderer Lech 45, 86150 Augsburg
+#### Ort: THA_innos, Am Technologiezentrum 8, 86159 Augsburg
 
 #### Zeit: 19:00
 
