@@ -31,7 +31,7 @@ Clemens Hübner ist Software Security Engineer bei inovex. Dort begleitet er heu
 [U2 Josephsplatz, Ausgang F im Süden](https://www.mvg.de/aushangfahrplan/P8_H_JO_0.pdf).
 
 **Zeit:** <br>
-Dienstag, 10.03.2025 um 18:30 Uhr
+Montag, 10.03.2025 um 18:30 Uhr
 
 <!---- **Anmeldung:** <br>
 \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist.
@@ -65,7 +65,7 @@ Der Münchner Stammtisch findet (normalerweise) jeden <b>ersten(neu!) Dienstag i
 * einem vorab angekündigten, dedizierten <b>Thema</b>
 * mittels <b>Vortrag, wenn's geht</b> oder ersatzweise
 * <b>Lightning-Talk</b>, locker flockige 5 Minuten, keine Präsentation, kein Mikro.
-* Der Termin kann <b>in Einzelfällen</b> auf einen anderen Dienstag oder Donnerstag (i.d R. 1. oder 2.)(neu!) <b>verschoben</b> werden, z.B. bei Ferien, Messen oder wenn der Raum nicht verfügbar ist. 
+* Der Termin kann <b>in Einzelfällen</b> auf einen anderen Dienstag, Donnerstag oder Montag (i.d R. 1. oder 2.)(neu!) <b>verschoben</b> werden, z.B. bei Ferien, Messen oder wenn der Raum nicht verfügbar ist. 
 * <b>Ankündigungen</b> erfolgen hier und über die [<b>Mailing-Liste des German Chapters</b>](https://groups.google.com/a/owasp.org/group/germany-chapter/)
 * weitere Informationen zur [<b>Stammtisch-Initiative des OWASP German Chapters</b>](/www-chapter-germany/stammtische/) (Hintergrund, weitere Städte,...)
 * weitere Informationen zu [<b>OWASP Deutschland</b>](/www-chapter-germany/) und zu unseren [<b>Projekten</b>](/www-chapter-germany/#div-projekte)
