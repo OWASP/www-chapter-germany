@@ -23,4 +23,4 @@ Our Events are held in English.
 
 
 ## **T E R M I N E:**
-* **24. Oktober 2024**: OWASP Berlin Autumn Meeting - Presentations & Networking at SysEleven Berlin. Please register via [meetup.com](https://www.meetup.com/owasp-berlin/events/303636873/?notificationId=1421649887188836352&eventOrigin=notifications) 
+* **25. März 2025**: OWASP Berlin Spring Meetup - Presentations & Networking at 42 Coding School, Berlin. Please register via [meetup.com](https://www.meetup.com/owasp-berlin/events/306666235/) 
