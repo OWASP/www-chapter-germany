@@ -1,5 +1,5 @@
 Organisatoren
 
 * Andreas Heppner
-* Michael Hohensee
 * Sebastian Mack
+* Ali Yazdani
