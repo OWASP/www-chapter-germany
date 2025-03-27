@@ -15,23 +15,20 @@ meetup-group: OWASP_Muenchen_Stammtisch
 <!---- Nach vielen Online-Meetings ein persönliches Treffen und Diskutieren :-) --->
 <!--- **Vortrag gesucht &mdash; Vor-Ort-Treffen an einem neuen Ort!** --->
 <!--- **\>\>\> Wir suchen noch einen Vortrag für den Stammtisch! Bitte melde Dich bei uns, wenn Du ein Thema aus dem Bereich IT-Sicherheit oder Informationssicherheit für uns hast. \<\<\<** --->
-Einladung zum (144.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Montag, den 10.03.2025 um 18:30 Uhr** (geänderter Tag)<br><br> 
+Einladung zum (145.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Donnerstag, den 10.03.2025 um 19:00 Uhr** (geänderter Tag, 1/2 Stunde später als üblich)<br><br> 
 **Agenda:**<br>
-* **Vortrag: Threat Modeling Themenabend (Clemens Hübner und Christoph Niehoff)**<br>Threat Modeling ist eine bewährte Methode, um die Sicherheit eines Systems systematisch zu erfassen und zu beurteilen. Dabei wird aus Richtung der Bedrohungen gedacht: Was gilt es zu schützen? Welche Angriffe sind denkbar? Wie können passende Gegenmaßnahmen identifiziert werden?<br>
-Dieser OWASP-Stammtisch ist ganz dem Thema Threat Modeling und dem Austausch dazu gewidmet. In zwei Impulsvorträgen wird die grundsätzliche Vorgehensweise erklärt sowie unterschiedliche Methoden vorgestellt. Im anschließenden Austausch kann dann gemeinsam diskutiert und Erfahrungen geteilt werden. Außerdem gibt es die Möglichkeit, verschiedene Threat Modeling Card Games auszuprobieren.
-Ob Threat-Modeling-Newbie oder alter Hase: Jeder wird von diesem Austausch-Abend profitieren!<br>
-Gestaltet wird der Abend von Christoph Niehoff und Clemens Hübner.<br><br>Christoph Niehoff entwickelt in seiner Rolle als Senior Consultant bei TNG Technology Consulting tagtäglich Softwareprodukte für seine Kunden. Dabei ist ihm insbesondere die Sicherheit der Produkte eine Herzensangelegenheit. Er ist Project Lead des Threat Modeling Kartenspiels OWASP Cumulus.<br>
-Clemens Hübner ist Software Security Engineer bei inovex. Dort begleitet er heute Projekte auf Konzeptions- und Implementierungsebene, schult Kolleg:innen und berät intern und extern zu DevSecOps. Als Speaker teilt er sein Wissen auf nationalen wie internationalen Konferenzen.
+* **Vortrag: OWASP Mobile Application Security (MAS) - Grundlagen und aktuelle Infos (Sven Schleier)**<br>Sven Schleier, einer der OWASP Mobile Application Security (MAS) Projektleiter, stellt das Projekt vor und gibt einen praktischen Einblick in einige der neuesten OWASP MAS Entwicklungen, insbesondere in die neue MASWE (Mobile Application Security Weakness Enumeration). In diesem Vortrag werden die Konzepte von „Weaknesses“, „Atomic Tests“ und „Demos“ vorgestellt, die die Grundlage für den kommenden Mobile Application Security Testing Guide (MASTG) v2 bilden. Die Teilnehmer erhalten praktisches Wissen durch detaillierte Beispiele, die den Weg von der Definition bis zur Implementierung unter Verwendung der in MASTG verfügbaren statischen und dynamischen Analysetechniken aufzeigen. Darüber hinaus werden die neu entwickelten MAS-Testanwendungen vorgestellt, die die Forschung und Entwicklung robuster MAS-Tests verbessern sollen. Egal, ob du deine Abwehr verstärken oder lernen möchtest, wie du Schwachstellen aufdecken kannst, dieser Vortrag bietet dir die neuesten Ressourcen, die du brauchst, um im Bereich der mobilen Sicherheit an der Spitze zu bleiben!"<br>
+Sven ist Principal Security Consultant bei Crayon in Österreich und leitet die Consulting Abteilung für Cloud-Security. Er verfügt über umfangreiche Erfahrung in Penetrationstests und Application Security, insbesondere in der Unterstützung von Software-Entwicklungsteams bei der sicheren Entwicklung von Mobile Apps und Web-Applikationen während des Software Development Life Cycle (SDLC).<br>Neben seiner Arbeit engagiert sich Sven seit 2016 für das Open Worldwide Application Security Project (OWASP). Als Co-Projektleiter und Autor hat er maßgeblich zum OWASP Mobile Application Security Testing Guide (MASTG) und dem OWASP Mobile Application Security Verification Standard (MASVS) beigetragen, die beide als Industriestandard für die Sicherheit mobiler Anwendungen gelten, siehe https://mas.owasp.org.
 
 * Wir suchen noch Vorträge für die kommenden Stammtische
 
 \>\>\> Bitte **meldet Euch** bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, damit wir wissen, für wie viele Personen wir reservieren können. \<\<\<
 
-**Ort:** <br>Café am Josephsplatz, Augustenstraße 112, 80798 München (https://www.cafe-am-josephsplatz.de/)  
+**Ort:** <br>Café am Josephsplatz, Augustenstraße 112, 80798 München  
 [U2 Josephsplatz, Ausgang F im Süden](https://www.mvg.de/aushangfahrplan/P8_H_JO_0.pdf).
 
 **Zeit:** <br>
-Montag, 10.03.2025 um 18:30 Uhr
+Donnerstag, 03.04.2025 um 19:00 Uhr
 
 <!---- **Anmeldung:** <br>
 \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist.
