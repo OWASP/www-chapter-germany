@@ -1,4 +1,24 @@
+**10. Stammtisch am 26.02.2025**
+
+**Host: THA_innos**
+
+**Speaker: Rico Boese**
+
+Vortrag von Rico: "Open Source Norm" ISO/IEC 18974.
+
+Open Source Software ist allgegenwärtig. Besonders moderne – oftmals auch komplexere – Projekte profitieren vom Einsatz entsprechender quelloffener Bibliotheken. Dabei wurden bestimmte Funktionen von einem 3rd Party Entwickler entwickelt und vorab (unentgeltlich) der Allgemeinheit zur Verfügung gestellt. Dies bringt jedoch ein großes Risiko mit sich: Was passiert, wenn eine Sicherheitslücke in genau einer solchen Bibliothek entdeckt wird? Je nach Einsatz und Tiefe der Integration kann dies schwerwiegende Auswirkungen haben und je nach Verbreitungsgrad der Open Source Komponente kann es eine Vielzahl von Anwendungen betreffen.
+
+Das OpenChain Projekt hat genau dieses Problem erkannt und ein ISO-Standard entwickelt, der sich dem Thema Informationssicherheit bei Open Source Projekten widmet. Dabei bekommen sowohl Entwickler von Open Source Komponenten, als auch Entwickler die diese einsetzen und sogar Firmen, die Open Source Software vertreiben die Möglichkeit den Umgang mit Informationssicherheitsvorfällen zu zertifizieren.
+
+Dieser Vortrag gibt ein Überblick über die Norm ISO/IEC 18974 und die damit verbunden Möglichkeiten seinen Kunden oder Anwendern ein sicheres Vorgehen nachzuweisen.
+
+Über Rico:
+
+Rico Boese ist Geschäftsführer bei der Boese Security GmbH und spezialisiert auf die Zertifizierung von Management Systemen nach den Regelwerken ISO/IEC 27001 und TISAX. In seinem früheren Leben war er Software-Entwickler und IT-Architekt und hat somit Einblicke in die Welt der praktischen Software-Entwicklung erhalten. Ereignisse, wie Heartbleed und log4shell haben ihm aber immer wieder aufgezeigt, dass Informationssicherheitsvorfälle auch schwerwiegende Auswirkungen auf die eigenen Systeme haben können, auch wenn man nur Konsument ist. Aus diesem Grund setzt er sich für einen geregelten Umgang mit diesem Thema ein.
+
 **09. Stammtisch am 26.02.2025**
+
+**Speaker: Nina Wagner**
 
 Vortrag von Nina: Webapps aus der Perspektive einer Pentesterin
 
