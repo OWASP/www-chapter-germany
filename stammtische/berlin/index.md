@@ -23,4 +23,4 @@ Our Events are held in English.
 
 
 ## **T E R M I N E:**
-* **25. März 2025**: OWASP Berlin Spring Meetup - Presentations & Networking at 42 Coding School, Berlin. Please register via [meetup.com](https://www.meetup.com/owasp-berlin/events/306666235/) 
+* The **OWASP Berlin Spring Meetup** is planned for the end of June/early July
