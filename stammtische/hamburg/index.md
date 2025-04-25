@@ -37,11 +37,17 @@ gerne vorbei!
 
 ### Aktuelle Treffen
 
+### 73\. Stammtisch 9.7.2025 oder 16.7.2025
+
+TBA
+
+### Vergangene Treffen
+
 ### 72\. Stammtisch 24.4.2025
 
 - [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/307174646/)
 - Presentation Language: English
-- Speakers: Jannik Hollenback: ""OWASP secureCodeBox, Dirk Wetter: "testssl.sh What's new / What is a KEM?"
+- Speakers: Jannik Hollenback: ""OWASP secureCodeBox, Dirk Wetter: "testssl.sh: What's new / What is a KEM?"
 - Uhrzeit: Start 18:30, Einlass ab 18:00 Uhr
 - Lokation: [Check24, An der Alster 63](https://osm.org/go/0HoG514R?way=41573175)
 - [Folien Jannik](assets/slides/2025_04_25_OWASP_secureCodeBox.pdf)
@@ -62,8 +68,6 @@ gerne vorbei!
 - Uhrzeit: Start 18:30, Einlass ab 18:00 Uhr
 - Lokation: [Check24, An der Alster 64](https://osm.org/go/0HoG514R?way=41573175)
 
-
-### Vergangene Treffen
 
 ### 70\. Stammtisch 12.12.2024
 
