@@ -43,7 +43,7 @@ gerne vorbei!
 - Presentation Language: English
 - Speakers: Jannik Hollenback: ""OWASP secureCodeBox, Dirk Wetter: "testssl.sh What's new / What is a KEM?"
 - Uhrzeit: Start 18:30, Einlass ab 18:00 Uhr
-- Lokation: [Check24, An der Alster 64](https://osm.org/go/0HoG514R?way=41573175)
+- Lokation: [Check24, An der Alster 63](https://osm.org/go/0HoG514R?way=41573175)
 - [Folien Jannik](assets/slides/2025_04_25_OWASP_secureCodeBox.pdf)
 - [Folien Dirk](assets/slides/2025_04_25_testssl_whatsNew_whatIsAKEM.pdf)
 
