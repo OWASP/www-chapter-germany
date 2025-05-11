@@ -15,7 +15,7 @@ kennenzulernen oder ernsthafte Sicherheitsthemen zu diskutieren --
 meistens mit Vortrag. Dies sind offene Treffen. _Jeder_ ist herzlich
 eingeladen, vorbeizukommen, einfach zu lauschen oder mit zu diskutieren.
 
-Aktive Stammtische gibt es (Stand Oktober 2019) in:
+Aktive Stammtische gibt es (Stand Mai 2025) in:
 [München](/www-chapter-germany/stammtische/muenchen/),
 [Frankfurt](/www-chapter-germany/stammtische/frankfurt/),
 [Hamburg](/www-chapter-germany/stammtische/hamburg/),

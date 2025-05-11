@@ -15,16 +15,13 @@ Bei den Chapter-Meeting des OWASP German Chapter treffen wir uns also in erster 
 
 ## Nächstes Chapter Meeting
 
-OWASP German Chapter Meeting Dienstag, 12. November  · 14:00 bis 17:00 im Rahmen des German OWASP Day.
+OWASP German Chapter Meeting Montag, 12. Mai  · 20:00 bis 21:30 Uhr hier: https://meet.google.com/rwg-voac-cqe
 
 Agenda:
-* Checkin (bis 15 Uhr)
 * Begrüßung und Vorstellung (Tobias, 10 Minuten)
 * Review altes Protokoll  (Tobias, 15 Minuten)
-* Global AppSec 2025 & 2026 in DE. Gründe warum es 2025 nicht geklappt hat (Tobias, Dan, 15 Minuten)
-* Diversität in Chaptern (Dan, 15 Minuten)
-* OWASP Mentoring und Mentoring (Dan, 15 Minuten)
-* German OWASP Day 2025
+* City Chapter-Standard statt Stammtisch-Extrawurst (Björn, 15 Minuten)
+* German OWASP Day 2025 (Christian, 30 Minuten)
 * Sonstiges
 
 Erweiterungen vorab an Tobias (tobias.glemser@owasp.org)
@@ -36,6 +33,7 @@ Im ersten Chaptermeeting eines Jahres pflegen wir die Board Member Liste. Wer un
 
 ## Vergangene Chapter Meetings
 
+ * 2014-11-12 TBD
  * [2024-04-16](protocols/2024-04-16.pdf)
  * [2023-11-28](protocols/2023-11-28.pdf)
  * [2023-05-30](protocols/2023-05-30.pdf)
