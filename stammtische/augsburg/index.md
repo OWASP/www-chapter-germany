@@ -48,7 +48,6 @@ Nach unserem Piloten bei der meteocontrol GmbH im Dezember 2024 werden wir versu
 
 Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf spannende Vorträge und interessante Diskussionen!
 
-- Q2: April: 23.4.25 (Thing, Vorderer Lech 45, 86150 Augsburg)
 - Q2: Mai: 28.5.25 [Nuvotex](https://nuvotex.de/) - Südtiroler Str. 13/1/2, 86165 Augsburg
 - Q2: Juni: 25.6.25 (tbd.)
 - Q3: Juli: 23.7.25 (tbd.)
@@ -63,20 +62,29 @@ Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf
 - Q1: Januar: 28.1.26
 - Q1: Februar: 25.2.26
 - Q1: März: 25.3.26
+- Q2: April: 22.4.26
 
 
-### Ankündigung - 11. Stammtisch am 23.04.2025 im Thing (Vorderer Lech 45, 86150 Augsburg)
-#### Agenda:
 
-**Speaker: Benjamin Pfeifer**
+### Ankündigung - 12. Stammtisch am 28.05.2025 bei Nuvotex (Südtiroler Str. 13/1/2, 86165 Augsburg)
 
-**Vortrag "IAM Benn¡"**
+📢Save the date 🗓️ Mittwoch, 28.05.2025
 
-Als Team Lead Cyber Security bei der Firma meteocontrol GmbH bin ich für die Umsetzung der KRITIS-Anforderungen verantwortlich und koordiniere das Security-Team, welches Aufgaben in den Bereichen Web, Embedded und Infrastruktur abdeckt. Zuvor habe ich - nach meinem Studium - als Security Engineer und zum Teil als Platform Engineer gearbeitet. Die Einführung von Identity & Access Management (IAM) war eine meiner Aufgaben.
+Auch im Mai wird bei OWASP in Augsburg wieder gefachsimpelt, aber diesmal ❌nicht im Thing❌, sondern bei 👉 [Nuvotex](https://nuvotex.de/). 👈 
+🙏 Bereits jetzt schon ein herzliches Dankeschön an den Gastgeber. 🙏 
 
-In meinem Vortrag möchte ich erklären, was ein IAM ist und warum es sinnvoll ist, sich damit zu beschäftigen. Außerdem möchte ich meine Erfahrungen zu diesem Thema mit euch teilen und freue mich auf euer Wissen, eure Fragen und spannende Diskussionen.
+Derzeit haben sich noch **keine Vortragenden** gemeldet! 🧐 
+Ihr habt eine Idee und Lust einen Vortrag zu halten, wollt ein Thema zur Diskussion stellen oder von etwas berichten, dass euch gerade umtreibt? Auf geht's! Keine Scheu! Wir beißen nicht! 😁 
+Oder probieren wir's lieber so: Wenn sich keiner findet, halte vielleicht ich einen Vortrag (das sollte als Warnung UND Motivation ausreichen). 😈 
 
-#### Ort: Thing (Vorderer Lech 45, 86150 Augsburg)
+I'll keep you posted!
+
+
+#### Host: Nuvotex (https://nuvotex.de/)
+
+#### Agenda: tbd
+
+#### Ort: Nuvotex (Südtiroler Str. 13/1/2, 86165 Augsburg)
 
 #### Zeit: 19:00
 
