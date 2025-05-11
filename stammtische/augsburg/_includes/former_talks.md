@@ -1,3 +1,13 @@
+**11. Stammtisch am 23.04.2025**
+
+**Speaker: Benjamin Pfeifer**
+
+**Vortrag "IAM Benn¡"**
+
+Als Team Lead Cyber Security bei der Firma meteocontrol GmbH bin ich für die Umsetzung der KRITIS-Anforderungen verantwortlich und koordiniere das Security-Team, welches Aufgaben in den Bereichen Web, Embedded und Infrastruktur abdeckt. Zuvor habe ich - nach meinem Studium - als Security Engineer und zum Teil als Platform Engineer gearbeitet. Die Einführung von Identity & Access Management (IAM) war eine meiner Aufgaben.
+
+In meinem Vortrag möchte ich erklären, was ein IAM ist und warum es sinnvoll ist, sich damit zu beschäftigen. Außerdem möchte ich meine Erfahrungen zu diesem Thema mit euch teilen und freue mich auf euer Wissen, eure Fragen und spannende Diskussionen.
+
 **10. Stammtisch am 26.02.2025**
 
 **Host: THA_innos**
