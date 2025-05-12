@@ -33,7 +33,8 @@ Im ersten Chaptermeeting eines Jahres pflegen wir die Board Member Liste. Wer un
 
 ## Vergangene Chapter Meetings
 
- * 2014-11-12 TBD
+ * [2025-25-12](protocols/2025-05-12.pdf)
+ * [2024-11-12](protocols/2024-11-12.pdf)
  * [2024-04-16](protocols/2024-04-16.pdf)
  * [2023-11-28](protocols/2023-11-28.pdf)
  * [2023-05-30](protocols/2023-05-30.pdf)
