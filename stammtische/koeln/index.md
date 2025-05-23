@@ -5,33 +5,22 @@ title: OWASP Germany > Stammtische > Köln
 
 ---
 
-## Willkommen beim OWASP Stammtisch zo Kölle am Rhing
+## Introduction
 
-Am Fuße des Kölner Doms finden sich regelmäßig Interessierte aus dem Bereich IT- und Informations-Sicherheit zusammen. 
-Zwischen geplanten Vorträgen und offenen Diskussionen wird alterniert und damit der Spaß nicht zu kurz kommt, organisieren wir den Besuch 
-lokaler kölscher Kulturstätten.
+Welcome to OWASP Chapter Cologne. The Stammtisch was established in 2009, and as of February 2025 we are an official chapter. Please visit our Chapter page for the latest events, and you can also connect with us over LinkedIn and Meetup
 
-Jeder ist herzlich willkommen und kann gerne noch Freunde, Kollegen, Interessierte mitbringen. 
+[OWASP Chapter page](https://owasp.org/www-chapter-cologne/)
+[LinkedIn Group](https://www.linkedin.com/groups/12891031/)
+[Meetup Group](https://www.meetup.com/owasp-cologne-chapter/)
 
+Anyone with an interested and enthusiastic about application security is welcome. All meetings are free and open. You do not have to be an OWASP member.
 
-### Termine für 2025
+### Upcoming Events
 
-Hier sind unsere Stammtischtermine für 2025.  Wenn Sie an einem dieser Abende einen Vortrag halten möchten, nehmen Sie bitte Kontakt auf.
-
-Februar 20
-
-März 27
-
-Mai 22
-
-Juli 24
-
-September 18
-
-November 27
+All events will be announced on our [OWASP Cologne Meetup Group](https://www.meetup.com/owasp-cologne-chapter/)
 
 
-### ANKÜNDIGUNGEN
+### History
 
 #### 44./ Kölner OWASP Stammtisch am 20.02.2025
 
@@ -46,10 +35,6 @@ Wichtig: Dieses Mal treffen wir uns im Raum Hongkong, 4. Etage im Startplatz.
 [GetTogether Link](https://gettogether.community/events/75012/owasp-stammtisch-cologne/)
 
 [LinkedIn Event](https://www.linkedin.com/events/44-k-lnerowaspstammtisch7295794473073082369/about/)
-
-
-
-### Vergangene Stammtische
 
 #### 43./ Kölner OWASP Stammtisch am 21.11.2024
 
