@@ -75,6 +75,7 @@ Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf
 **Vortragender:** Christian Kölbl
 
 **Thema:** CSP? XSS -> LMAA
+
 Cross-Site-Scripting (XSS) ist mehr als nur das Anzeigen von lustigen alert()-Fenstern. Weit mehr und weit böser. Erstaunlicherweise gibt es diesen Angriff bereits seit Anfang der 1990er und selbst 2024 ist er noch immer aktuell. Aber kann man dagegen nichts machen? Input-Validation ist echt hart und es gibt soo viele Zeichen... :-/
 Eine mögliche Lösung ist die "Content-Security-Policy" und obwohl sie extrem mächtig ist, wird sie erstaunlicherweise wenig genutzt.
 Ich möchte euch in diesem Vortrag zeigen wie man sich mit der CSP gegen XSS-Attacken schützen kann und was es ggf. für Pitfalls gibt.
