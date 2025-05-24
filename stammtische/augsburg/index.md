@@ -31,7 +31,7 @@ Ankündigungen wann & wo ein Stammtisch stattfinden wird, findet ihr hier, auf [
 {% comment %}
 {% include chapter_events.html group=page.meetup-group %}
 {% endcomment %}
-### Ankündigung Stammtische 2025
+### Ankündigung Stammtische 2025/2026
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 👉 Es werden noch Speaker*innen gesucht!! 👈 
@@ -42,14 +42,12 @@ Erzähl uns was du Cooles gesehen hast, womit du dich gerade beschäftigst, welc
 ℹ️ **Info**
 Nach unserem Piloten bei der meteocontrol GmbH im Dezember 2024 werden wir versuchen quartalsweise einmal in einer Firma oder einem Unternehmen einen Stammtisch abzuhalten. 
 
-📢 Ihr seid ein Unternehmen und habt Interesse? Bewerbt euch, die Termine sind begehrt und **Q1 und Q2 sind bereits vergeben**!! 
+📢 Ihr seid ein Unternehmen und habt Interesse? Bewerbt euch, die Termine sind begehrt und **Q3 und Q4 sind noch verfügbar**!! 
 
 🤙 Die Rahmenbedingungen sind simple: Die Firma / das Unternehmen bekommt als Host natürlich die Gelegenheit sich 5-10 Minuten vorzustellen, Stellenanzeigen zu präsentieren, whatever und ab dann sind wir wieder neutral. Das bedeutet auch, dass idealerweise an diesem Tag kein Speaker des Hosts einen Vortrag halten "sollte"...
 
 Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf spannende Vorträge und interessante Diskussionen!
 
-- Q1: März: 26.3.25 [THA_innos](https://www.tha.de/Informatik/THA-innos.html) - Am Technologiezentrum 8, 86159 Augsburg
-- Q2: April: 23.4.25 (Thing, Vorderer Lech 45, 86150 Augsburg)
 - Q2: Mai: 28.5.25 [Nuvotex](https://nuvotex.de/) - Südtiroler Str. 13/1/2, 86165 Augsburg
 - Q2: Juni: 25.6.25 (tbd.)
 - Q3: Juli: 23.7.25 (tbd.)
@@ -63,22 +61,29 @@ Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf
 
 - Q1: Januar: 28.1.26
 - Q1: Februar: 25.2.26
+- Q1: März: 25.3.26
+- Q2: April: 22.4.26
 
-### Ankündigung - 10. Stammtisch am 26.03.2025 bei THA_innos (Am Technologiezentrum 8)
-#### Agenda:
-**Vortrag von Rico: "Open Source Norm" ISO/IEC 18974.**
 
-Open Source Software ist allgegenwärtig. Besonders moderne – oftmals auch komplexere – Projekte profitieren vom Einsatz entsprechender quelloffener Bibliotheken. Dabei wurden bestimmte Funktionen von einem 3rd Party Entwickler entwickelt und vorab (unentgeltlich) der Allgemeinheit zur Verfügung gestellt. Dies bringt jedoch ein großes Risiko mit sich: Was passiert, wenn eine Sicherheitslücke in genau einer solchen Bibliothek entdeckt wird? Je nach Einsatz und Tiefe der Integration kann dies schwerwiegende Auswirkungen haben und je nach Verbreitungsgrad der Open Source Komponente kann es eine Vielzahl von Anwendungen betreffen.
 
-Das OpenChain Projekt hat genau dieses Problem erkannt und ein ISO-Standard entwickelt, der sich dem Thema Informationssicherheit bei Open Source Projekten widmet. Dabei bekommen sowohl Entwickler von Open Source Komponenten, als auch Entwickler die diese einsetzen und sogar Firmen, die Open Source Software vertreiben die Möglichkeit den Umgang mit Informationssicherheitsvorfällen zu zertifizieren.
+### Ankündigung - 12. Stammtisch am 28.05.2025 bei Nuvotex (Südtiroler Str. 13/1/2, 86165 Augsburg)
 
-Dieser Vortrag gibt ein Überblick über die Norm ISO/IEC 18974 und die damit verbunden Möglichkeiten seinen Kunden oder Anwendern ein sicheres Vorgehen nachzuweisen.
+**Uhrzeit:** 19:00
+**Host:** 👉 Nuvotex 👈 (https://www.nuvotex.de/)
+**Vortragender:** Christian Kölbl
+**Thema:** CSP? XSS -> LMAA
+Cross-Site-Scripting (XSS) ist mehr als nur das Anzeigen von lustigen alert()-Fenstern. Weit mehr und weit böser. Erstaunlicherweise gibt es diesen Angriff bereits seit Anfang der 1990er und selbst 2024 ist er noch immer aktuell. Aber kann man dagegen nichts machen? Input-Validation ist echt hart und es gibt soo viele Zeichen... :-/
+Eine mögliche Lösung ist die "Content-Security-Policy" und obwohl sie extrem mächtig ist, wird sie erstaunlicherweise wenig genutzt.
+Ich möchte euch in diesem Vortrag zeigen wie man sich mit der CSP gegen XSS-Attacken schützen kann und was es ggf. für Pitfalls gibt.
 
-**Über Rico:**
+**Meetup:**
+https://www.meetup.com/de-DE/owasp-augsburg-chapter/events/307772680/
 
-Rico Boese ist Geschäftsführer bei der Boese Security GmbH und spezialisiert auf die Zertifizierung von Management Systemen nach den Regelwerken ISO/IEC 27001 und TISAX. In seinem früheren Leben war er Software-Entwickler und IT-Architekt und hat somit Einblicke in die Welt der praktischen Software-Entwicklung erhalten. Ereignisse, wie Heartbleed und log4shell haben ihm aber immer wieder aufgezeigt, dass Informationssicherheitsvorfälle auch schwerwiegende Auswirkungen auf die eigenen Systeme haben können, auch wenn man nur Konsument ist. Aus diesem Grund setzt er sich für einen geregelten Umgang mit diesem Thema ein.
+#### Host: Nuvotex (https://nuvotex.de/)
 
-#### Ort: THA_innos, Am Technologiezentrum 8, 86159 Augsburg
+#### Agenda: tbd
+
+#### Ort: Nuvotex (Südtiroler Str. 13/1/2, 86165 Augsburg)
 
 #### Zeit: 19:00
 
