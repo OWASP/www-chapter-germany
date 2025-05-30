@@ -1,4 +1,5 @@
 ### Organisatoren
 
-* [Rolf Haynberg](mailto:rolf.haynberg@owasp.org)
-* [Henrik Willert](mailto:henrik.willert@owasp.org)
+* [Matthias Schmidt](mailto:owasp@xosc.org)
+* Ives Laaf
+* Kadir Ates
