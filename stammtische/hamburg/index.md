@@ -37,9 +37,12 @@ gerne vorbei!
 
 ### Aktuelle Treffen
 
-### 73\. Stammtisch 9.7.2025 oder 16.7.2025
+### 73\. Stammtisch 16.7.2025
 
-TBA
+- Speakers: Niklas Bunzel
+- Lokation: [New Work](https://www.openstreetmap.org/#map=19/53.53912/9.99306)
+
+More TBA
 
 ### Vergangene Treffen
 
