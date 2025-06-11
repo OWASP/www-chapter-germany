@@ -7,35 +7,22 @@ title: OWASP Germany > Stammtische > Dresden
 
 ### Allgemeines
 
-Der Dresdner Stammtisch sollte - abhängig von den aktuellen Covid19-Beschränkungen - regelmäßig alle 1 bis 2 Monate
-stattfinden:
-
-- Festlegung auf ein vorab angekündigtes Thema pro Treffen, möglichst
-  mit einem passenden Vortrag
-- Konkrete Ankündigung min. 2 Wochen vor Termin hier und auf der
-  [Germany-Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/)
-
-Die Planung und Organisation des Stammtischs übernehmen derzeit
-[Ben](mailto:benjamin.kellermann@gmx.de) und [Marko](mailto:mwinkler@omgwtfquak.de). Weitere Mitstreiter und Supporter
-sind allerdings herzlich willkommen!
+Der Dresdner Stammtisch wurde bis 2022 unregelmäßig durchgeführt. Die Planung und Organisation des Stammtischs hatten 
+[Ben](mailto:benjamin.kellermann@gmx.de) und [Marko](mailto:mwinkler@omgwtfquak.de) übernommen.
+Da beide irgendwann in anderen Projekten zu viel eingebunden waren, ist die Stammtischorganisation eingeschlafen.
+Sollte jemand Interesse haben, die Stammtische in Dresden wieder aufleben zu lassen, so wäre es schön, wenn dieser bei den beiden meldet.
+Eine lokale Mailingliste für die Organisation besteht noch.
 
 ### Nächster Stammtisch
 
 #### Wann? Was? Wer?
 
-- 32\. Stammtisch am 15.12.2022 19:30 Uhr: Nico & Marko erzählen etwas über den Einsatz von SAST (Static Application Security Testing) und stellen das Werkzeug semgrep vor
+---
 
 #### Wo?
 
-- im [HQ des CCC Dresden, Zentralwerk, Riesaer
-  Straße 32](https://c3d2.de/space.html)
+- im [HQ des CCC Dresden, Zentralwerk, Riesaer Straße 32](https://c3d2.de/space.html)
 
-### Geplante Stammtisch-Vorträge
-
-- SourceCode Analyse (Mirko Richter)
-- Pentestdokumentation (Mirko Richter)
-- Burp Plugins (Marko Winkler)
-- Weitere Vorschläge?
 
 ### Bereits gehaltene Stammtisch-Vorträge
 
@@ -79,6 +66,7 @@ sind allerdings herzlich willkommen!
 - 30\. Stammtisch am 24.08.2022 19:30 Uhr: Besser als OWASP Top 10, CWE Top 25, ASVS, OTG, BSI-5-Level-Modell: Der
   Versuch einer entwickler zentrierten Klassifizierung von AppSec-Schwachstellen (Benjamin Kellermann)
 - 31\. Stammtisch am 11.10.2022 19:30 Uhr: Nico hält einen Vortrag über *Practical Shell for Pentesting* - Wie kann die Linux-Shell (und Scripting am Beispiel der Bash) effektiv in Pentests eingesetzt werden und Testaktivitäten unterstützen
+- 32\. Stammtisch am 15.12.2022 19:30 Uhr: Nico & Marko erzählen etwas über den Einsatz von SAST (Static Application Security Testing) und stellen das Werkzeug semgrep vor
 
 ### In eigener Sache
 
