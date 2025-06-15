@@ -1,4 +1,44 @@
+**12. Stammtisch am 28.05.2025 bei Nuvotex**
+
+**Host: Nuvotex (https://nuvotex.de/)**
+
+**Speaker: Christian Kölbl**
+
+**Vortrag: CSP? XSS -> LMAA**
+
+Cross-Site-Scripting (XSS) ist mehr als nur das Anzeigen von lustigen alert()-Fenstern. Weit mehr und weit böser. Erstaunlicherweise gibt es diesen Angriff bereits seit Anfang der 1990er und selbst 2024 ist er noch immer aktuell. Aber kann man dagegen nichts machen? Input-Validation ist echt hart und es gibt soo viele Zeichen... :-/ Eine mögliche Lösung ist die "Content-Security-Policy" und obwohl sie extrem mächtig ist, wird sie erstaunlicherweise wenig genutzt. Ich möchte euch in diesem Vortrag zeigen wie man sich mit der CSP gegen XSS-Attacken schützen kann und was es ggf. für Pitfalls gibt.
+
+**11. Stammtisch am 23.04.2025**
+
+**Speaker: Benjamin Pfeifer**
+
+**Vortrag "IAM Benn¡"**
+
+Als Team Lead Cyber Security bei der Firma meteocontrol GmbH bin ich für die Umsetzung der KRITIS-Anforderungen verantwortlich und koordiniere das Security-Team, welches Aufgaben in den Bereichen Web, Embedded und Infrastruktur abdeckt. Zuvor habe ich - nach meinem Studium - als Security Engineer und zum Teil als Platform Engineer gearbeitet. Die Einführung von Identity & Access Management (IAM) war eine meiner Aufgaben.
+
+In meinem Vortrag möchte ich erklären, was ein IAM ist und warum es sinnvoll ist, sich damit zu beschäftigen. Außerdem möchte ich meine Erfahrungen zu diesem Thema mit euch teilen und freue mich auf euer Wissen, eure Fragen und spannende Diskussionen.
+
+**10. Stammtisch am 26.02.2025**
+
+**Host: THA_innos**
+
+**Speaker: Rico Boese**
+
+Vortrag von Rico: "Open Source Norm" ISO/IEC 18974.
+
+Open Source Software ist allgegenwärtig. Besonders moderne – oftmals auch komplexere – Projekte profitieren vom Einsatz entsprechender quelloffener Bibliotheken. Dabei wurden bestimmte Funktionen von einem 3rd Party Entwickler entwickelt und vorab (unentgeltlich) der Allgemeinheit zur Verfügung gestellt. Dies bringt jedoch ein großes Risiko mit sich: Was passiert, wenn eine Sicherheitslücke in genau einer solchen Bibliothek entdeckt wird? Je nach Einsatz und Tiefe der Integration kann dies schwerwiegende Auswirkungen haben und je nach Verbreitungsgrad der Open Source Komponente kann es eine Vielzahl von Anwendungen betreffen.
+
+Das OpenChain Projekt hat genau dieses Problem erkannt und ein ISO-Standard entwickelt, der sich dem Thema Informationssicherheit bei Open Source Projekten widmet. Dabei bekommen sowohl Entwickler von Open Source Komponenten, als auch Entwickler die diese einsetzen und sogar Firmen, die Open Source Software vertreiben die Möglichkeit den Umgang mit Informationssicherheitsvorfällen zu zertifizieren.
+
+Dieser Vortrag gibt ein Überblick über die Norm ISO/IEC 18974 und die damit verbunden Möglichkeiten seinen Kunden oder Anwendern ein sicheres Vorgehen nachzuweisen.
+
+Über Rico:
+
+Rico Boese ist Geschäftsführer bei der Boese Security GmbH und spezialisiert auf die Zertifizierung von Management Systemen nach den Regelwerken ISO/IEC 27001 und TISAX. In seinem früheren Leben war er Software-Entwickler und IT-Architekt und hat somit Einblicke in die Welt der praktischen Software-Entwicklung erhalten. Ereignisse, wie Heartbleed und log4shell haben ihm aber immer wieder aufgezeigt, dass Informationssicherheitsvorfälle auch schwerwiegende Auswirkungen auf die eigenen Systeme haben können, auch wenn man nur Konsument ist. Aus diesem Grund setzt er sich für einen geregelten Umgang mit diesem Thema ein.
+
 **09. Stammtisch am 26.02.2025**
+
+**Speaker: Nina Wagner**
 
 Vortrag von Nina: Webapps aus der Perspektive einer Pentesterin
 
