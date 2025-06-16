@@ -15,9 +15,11 @@ meetup-group: OWASP_Muenchen_Stammtisch
 <!---- Nach vielen Online-Meetings ein persönliches Treffen und Diskutieren :-) --->
 <!--- **Vortrag gesucht &mdash; Vor-Ort-Treffen an einem neuen Ort!** --->
 <!--- **\>\>\> Wir suchen noch einen Vortrag für den Stammtisch! Bitte melde Dich bei uns, wenn Du ein Thema aus dem Bereich IT-Sicherheit oder Informationssicherheit für uns hast. \<\<\<** --->
-Einladung zum (146.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Montag, den 12.05.2025 um 18:30 Uhr** (geänderter Tag)<br><br> 
+Einladung zum (147.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Montag, den 23.06.2025 um 18:30 Uhr** (geänderter Tag)<br><br> 
 **Agenda:**<br>
-* **Spieleabend: "Threat Modeling mit [OWASP Cumulus](https://owasp.org/www-project-cumulus/)" (Christoph Niehoff)**<br>Bei diesem Stammtisch steigen wir tiefer in das Thema "Threat Modeling" ein und schauen, wie Kartenspiele dabei helfen können. Nach einem sehr kurzen Threat Modeling Reminder und einer Erklärung, wie Gamification dabei helfen kann, schauen wir uns konkret OWASP Cumulus an, ein Threat Modeling Kartenspiel für DevOps und Cloud. An einem Beispiel-Szenario werden wir ein paar Runden "Karten kloppen".<br><br>Christoph Niehoff entwickelt in seiner Rolle als Senior Consultant bei TNG Technology Consulting tagtäglich Softwareprodukte für seine Kunden. Dabei ist ihm insbesondere die Sicherheit der Produkte eine Herzensangelegenheit. Er ist Project Lead des Threat Modeling Kartenspiels [OWASP Cumulus](https://owasp.org/www-project-cumulus/).<br>
+* **Vortrag: "Human Buffer Overflow: How to Deal with Cognitive Load in High-Performing Teams" (Juliane Reimann)**<br>Beschreibung:
+High-performing teams thrive when focus, flow, and collaboration are supported – not interrupted. But what happens when security requirements unintentionally overload a team’s cognitive capacity? In this talk, we’ll explore how excessive cognitive load – what I call a Human Buffer Overflow – can reduce a team’s ability to deliver high-quality, creative solutions. Drawing from real-life examples, I’ll share practical strategies to reduce friction: from automating security tasks, to integrating security into agile workflows, to launching inclusive Security Champions programs that empower teams rather than burden them. Let’s shift security left - without burning teams out.<br><br>Juliane Reimann is a Founder & Security Community Expert @ FullCyrcle Security. She works as cyber security consultant for large companies since 2019 with focus on DevSecOps and Community Building. Her expertise includes building security communities of software developers and establishing developer centric communication about secure software development topics. Before going into the field of Cyber Security she founded different companies in the area of web development. Due to her background in web development she has extensive knowledge of the software development life cycle. Since 2024 she is a core member of the OWASP Security Champions Guide Community.<br>
+The main language for the presentation will be English.  // Der Vortrag wird auf Englisch gehalten, Fragen sind in English und Deutsch möglich.
 
 * Wir suchen noch Vorträge für die kommenden Stammtische
 
@@ -27,7 +29,7 @@ Einladung zum (146.) **OWASP-Stammtisch in München** im **Café am Josephsplatz
 [U2 Josephsplatz, Ausgang F im Süden](https://www.mvg.de/aushangfahrplan/P8_H_JO_0.pdf).
 
 **Zeit:** <br>
-Montag, 12.05.2025 um 18:30 Uhr
+Montag, 23.06.2025 um 18:30 Uhr
 
 <!---- **Anmeldung:** <br>
 \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist.
