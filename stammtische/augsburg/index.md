@@ -48,8 +48,7 @@ Nach unserem Piloten bei der meteocontrol GmbH im Dezember 2024 werden wir versu
 
 Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf spannende Vorträge und interessante Diskussionen!
 
-- Q2: Mai: 28.5.25 [Nuvotex](https://nuvotex.de/) - Südtiroler Str. 13/1/2, 86165 Augsburg
-- Q2: Juni: 25.6.25 (tbd.)
+- Q2: Juni: 25.6.25 (Gaststätte Thing, Vorderer Lech 45, 86150 Augsburg)
 - Q3: Juli: 23.7.25 (tbd.)
 - Q3: August --- 🌞 -Pause
 - Q3: September: 24.9.25 (tbd.)
@@ -63,25 +62,18 @@ Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf
 - Q1: Februar: 25.2.26
 - Q1: März: 25.3.26
 - Q2: April: 22.4.26
+- Q2: Mai: 27.05.26
 
 
 
-### Ankündigung - 12. Stammtisch am 28.05.2025 bei Nuvotex (Südtiroler Str. 13/1/2, 86165 Augsburg)
+### Ankündigung - 13. Stammtisch am 25.06.2025 im Thing (Vorderer Lech 45, 86150 Augsburg)
 
-#### Host: Nuvotex (https://nuvotex.de/)
+Am 🗓️ Mittwoch den 25.06. findet der 13. OWASP Stammtisch statt. Dieses Mal wieder im Thing! :-)
 
 #### Agenda:
+Es gibt bisher keine Vorträge - aber vielleicht wollen wir ja mal was neues probieren? Ein Workshop zum Thema IT-Security? Brainstormen was fehlt, was man machen muss? Ideen? Her damit! :-)
 
-**Vortragender:** Christian Kölbl
-
-**Thema:** CSP? XSS -> LMAA
-
-Cross-Site-Scripting (XSS) ist mehr als nur das Anzeigen von lustigen alert()-Fenstern. Weit mehr und weit böser. Erstaunlicherweise gibt es diesen Angriff bereits seit Anfang der 1990er und selbst 2024 ist er noch immer aktuell. Aber kann man dagegen nichts machen? Input-Validation ist echt hart und es gibt soo viele Zeichen... :-/
-Eine mögliche Lösung ist die "Content-Security-Policy" und obwohl sie extrem mächtig ist, wird sie erstaunlicherweise wenig genutzt.
-Ich möchte euch in diesem Vortrag zeigen wie man sich mit der CSP gegen XSS-Attacken schützen kann und was es ggf. für Pitfalls gibt.
-
-
-#### Ort: Nuvotex (Südtiroler Str. 13/1/2, 86165 Augsburg)
+#### Ort: Thing (Vorderer Lech 45, 86150 Augsburg)
 
 #### Zeit: 19:00
 
