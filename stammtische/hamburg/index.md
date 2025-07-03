@@ -47,6 +47,7 @@ This is our 15th year anniversary meeting!
 - Presentation Language: English
 - Start: 6:30pm, Doors open 6pm
 - Lokation: [New Work](https://www.openstreetmap.org/#map=19/53.53912/9.99306)
+- [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/308558262/)
 
 More TBA
 
