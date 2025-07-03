@@ -39,7 +39,13 @@ gerne vorbei!
 
 ### 73\. Stammtisch 16.7.2025
 
-- Speakers: Niklas Bunzel
+This is our 15th anniversay meeting!
+
+- Speakers:
+  - Susanna Cox (remotely)
+  - Niklas Bunzel (on site): *AI Security & Privacy: From Prompt Injection to Multimodal Evasion* 
+- Presentation Language: English
+- Start: 6:30pm, Doors open 6pm
 - Lokation: [New Work](https://www.openstreetmap.org/#map=19/53.53912/9.99306)
 
 More TBA
@@ -50,7 +56,7 @@ More TBA
 
 - [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/307174646/)
 - Presentation Language: English
-- Speakers: Jannik Hollenback: ""OWASP secureCodeBox, Dirk Wetter: "testssl.sh: What's new / What is a KEM?"
+- Speakers/Talks: Jannik Hollenback: "OWASP secureCodeBox", Dirk Wetter: "testssl.sh: What's new / What is a KEM?"
 - Uhrzeit: Start 18:30, Einlass ab 18:00 Uhr
 - Lokation: [Check24, An der Alster 63](https://osm.org/go/0HoG514R?way=41573175)
 - [Folien Jannik](assets/slides/2025_04_25_OWASP_secureCodeBox.pdf)
