@@ -39,11 +39,11 @@ gerne vorbei!
 
 ### 73\. Stammtisch 16.7.2025
 
-This is our 15th anniversary meeting!
+This is our 15th year anniversary meeting!
 
 - Speakers:
   - Susanna Cox (remotely)
-  - Niklas Bunzel (on site): *AI Security & Privacy: From Prompt Injection to Multimodal Evasion* 
+  - Niklas Bunzel (on site): *AI Security & Privacy: From Prompt Injection to Multimodal Evasion*
 - Presentation Language: English
 - Start: 6:30pm, Doors open 6pm
 - Lokation: [New Work](https://www.openstreetmap.org/#map=19/53.53912/9.99306)
