@@ -39,7 +39,7 @@ gerne vorbei!
 
 ### 73\. Stammtisch 16.7.2025
 
-This is our 15th anniversay meeting!
+This is our 15th anniversary meeting!
 
 - Speakers:
   - Susanna Cox (remotely)
