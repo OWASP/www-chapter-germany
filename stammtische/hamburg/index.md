@@ -42,7 +42,7 @@ gerne vorbei!
 This is our 15th year anniversary meeting!
 
 - Speakers:
-  - Susanna Cox (remotely)
+  - Susanna Cox (remotely): *Threat Modeling AI: Beyond the Hype and Theater to Proactive Security*
   - Niklas Bunzel (on site): *AI Security & Privacy: From Prompt Injection to Multimodal Evasion*
 - Presentation Language: English
 - Start: 6:30pm, Doors open 6pm
