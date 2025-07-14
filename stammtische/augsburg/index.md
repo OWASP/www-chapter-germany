@@ -48,7 +48,6 @@ Nach unserem Piloten bei der meteocontrol GmbH im Dezember 2024 werden wir versu
 
 Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf spannende Vorträge und interessante Diskussionen!
 
-- Q2: Juni: 25.6.25 (Gaststätte Thing, Vorderer Lech 45, 86150 Augsburg)
 - Q3: Juli: 23.7.25 (tbd.)
 - Q3: August --- 🌞 -Pause
 - Q3: September: 24.9.25 (tbd.)
@@ -63,15 +62,18 @@ Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf
 - Q1: März: 25.3.26
 - Q2: April: 22.4.26
 - Q2: Mai: 27.05.26
+- Q2: Juni: 24.06.26
 
 
 
-### Ankündigung - 13. Stammtisch am 25.06.2025 im Thing (Vorderer Lech 45, 86150 Augsburg)
+### Ankündigung - 14. Stammtisch am 23.07.2025 im Thing (Vorderer Lech 45, 86150 Augsburg)
 
-Am 🗓️ Mittwoch den 25.06. findet der 13. OWASP Stammtisch statt. Dieses Mal wieder im Thing! :-)
+Am 🗓️ Mittwoch den 23.07. findet im Thing der 14. OWASP Stammtisch statt. 
 
 #### Agenda:
-Es gibt bisher keine Vorträge - aber vielleicht wollen wir ja mal was neues probieren? Ein Workshop zum Thema IT-Security? Brainstormen was fehlt, was man machen muss? Ideen? Her damit! :-)
+**Vortrag:** 👉 Im Dschungel der SOC-Anbieter: Worauf es wirklich ankommt 👈 von Tobias Hellmann.
+
+Tobias beschäftigt sich seit 2016 mit verschiedenen Aspekten der Cybersicherheit. Er begann seine Karriere als IT-Security Officer und vertiefte sein Wissen durch einen Bachelor-Abschluss in IT-Sicherheit sowie ein Master-Abschluss in Sicherheitsmanagement. Aus seiner beruflichen Vergangenheit kennt er die Herausforderungen des Mittelstand beim Kampf gegen Windmühlen. Daher arbeitet er heute beim Berliner StartUp intcube an/mit skalierbaren Methoden und Maßnahmen mit nachhaltigem Mehrwert.
 
 #### Ort: Thing (Vorderer Lech 45, 86150 Augsburg)
 
