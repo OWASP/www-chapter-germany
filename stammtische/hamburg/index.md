@@ -37,21 +37,27 @@ gerne vorbei!
 
 ### Aktuelle Treffen
 
-### 73\. Stammtisch 16.7.2025
+### 74\. Meeting September 2025
 
-This is our 15th year anniversary meeting!
+TBA
+
+### Vergangene Treffen
+
+
+### 73\. Meeting 16.7.2025
+
+This was our 15th year anniversary meeting!
 
 - Speakers:
-  - Susanna Cox (remotely): *Threat Modeling AI: Beyond the Hype and Theater to Proactive Security*
   - Niklas Bunzel (on site): *AI Security & Privacy: From Prompt Injection to Multimodal Evasion*
+  - Susanna Cox (remote): *Threat Modeling AI: Beyond the Hype and Theater to Proactive Security*
 - Presentation Language: English
 - Start: 6:30pm, Doors open 6pm
 - Lokation: [New Work](https://www.openstreetmap.org/#map=19/53.53912/9.99306)
 - [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/308558262/)
+- [Slides Niklas](assets/slides/2025_07_16%Bunzel%-%AI%Security%and%Privacy.pdf)
+- [Slides Susanna](assets/slides/2025_07_16%Cox%-%Threat%Modeling%AI%Beyond%the%Hype%and%Theater%to%Proactive%Security.pdf)
 
-More TBA
-
-### Vergangene Treffen
 
 ### 72\. Stammtisch 24.4.2025
 
