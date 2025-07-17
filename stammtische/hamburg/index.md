@@ -55,8 +55,8 @@ This was our 15th year anniversary meeting!
 - Start: 6:30pm, Doors open 6pm
 - Lokation: [New Work](https://www.openstreetmap.org/#map=19/53.53912/9.99306)
 - [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/308558262/)
-- [Slides Niklas](assets/slides/2025_07_16%Bunzel%-%AI%Security%and%Privacy.pdf)
-- [Slides Susanna](assets/slides/2025_07_16%Cox%-%Threat%Modeling%AI%Beyond%the%Hype%and%Theater%to%Proactive%Security.pdf)
+- [Slides Niklas](assets/slides/2025_07_16%20Bunzel%20-%20AI%20Security%20and%20Privacy.pdf)
+- [Slides Susanna](assets/slides/2025_07_16%20Cox%20-%20Threat%20Modeling%20AI%20Beyond%20the%20Hype%20and%20Theater%20to%20Proactive%20Security.pdf)
 
 
 ### 72\. Stammtisch 24.4.2025
