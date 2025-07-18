@@ -15,11 +15,9 @@ meetup-group: OWASP_Muenchen_Stammtisch
 <!---- Nach vielen Online-Meetings ein persönliches Treffen und Diskutieren :-) --->
 <!--- **Vortrag gesucht &mdash; Vor-Ort-Treffen an einem neuen Ort!** --->
 <!--- **\>\>\> Wir suchen noch einen Vortrag für den Stammtisch! Bitte melde Dich bei uns, wenn Du ein Thema aus dem Bereich IT-Sicherheit oder Informationssicherheit für uns hast. \<\<\<** --->
-Einladung zum (147.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Montag, den 23.06.2025 um 18:30 Uhr** (geänderter Tag)<br><br> 
+Einladung zum (148.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Donnerstag, den 31.07.2025 um 18:30 Uhr** (geänderter Tag)<br><br> 
 **Agenda:**<br>
-* **Vortrag: "Human Buffer Overflow: How to Deal with Cognitive Load in High-Performing Teams" (Juliane Reimann)**<br>High-performing teams thrive when focus, flow, and collaboration are supported – not interrupted. But what happens when security requirements unintentionally overload a team’s cognitive capacity? In this talk, we’ll explore how excessive cognitive load – what I call a Human Buffer Overflow – can reduce a team’s ability to deliver high-quality, creative solutions. Drawing from real-life examples, I’ll share practical strategies to reduce friction: from automating security tasks, to integrating security into agile workflows, to launching inclusive Security Champions programs that empower teams rather than burden them. Let’s shift security left - without burning teams out.<br><br>Juliane Reimann is a Founder & Security Community Expert @ FullCyrcle Security. She works as cyber security consultant for large companies since 2019 with focus on DevSecOps and Community Building. Her expertise includes building security communities of software developers and establishing developer centric communication about secure software development topics. Before going into the field of Cyber Security she founded different companies in the area of web development. Due to her background in web development she has extensive knowledge of the software development life cycle. Since 2024 she is a core member of the OWASP Security Champions Guide Community.<br>
-The main language for the presentation will be English.  // Der Vortrag wird auf Englisch gehalten, Fragen sind in English und Deutsch möglich.
-
+* **Vortrag: Pentest-Ergebnisse leichter mit dem Open-Source-Tool 'ptrs' erstellen und weiterverarbeiten (Stephan Pinto Spindler)**<br>Stephan Pinto Spindler stellt ptrs (https://github.com/s-spindler/ptrs) vor. ptrs ist ein Open-Source-Schema für Pentest-Reports in YAML. Ziel ist es, sowohl das Erstellen, als auch das Abarbeiten von Pentest Reports zu automatisieren und zu vereinfachen.<br>Zusätzlich stellt Stephan einige nützliche Command-Line-Tools vor, die das Arbeiten mit YAML-Dateien vereinfachen - egal ob ptrs-Pentest-Reports, Sigma-Regeln, nuclei-Templates oder Kubernetes-Manifests.<br><br>Stephan hat mehr als 13 Jahre Erfahrung in IT-Security, Softwareentwicklung und Betrieb - als Spezialist und als Führungskraft. Neben vielen weiteren Themen, ist er dabei auch immer wieder damit konfrontiert, Pentest-Reports aufzubereiten.
 * Wir suchen noch Vorträge für die kommenden Stammtische
 
 \>\>\> Bitte **meldet Euch** bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, damit wir wissen, für wie viele Personen wir reservieren können. \<\<\<
@@ -28,7 +26,7 @@ The main language for the presentation will be English.  // Der Vortrag wird auf
 [U2 Josephsplatz, Ausgang F im Süden](https://www.mvg.de/aushangfahrplan/P8_H_JO_0.pdf).
 
 **Zeit:** <br>
-Montag, 23.06.2025 um 18:30 Uhr
+Donnerstag, 31.07.2025 um 18:30 Uhr
 
 <!---- **Anmeldung:** <br>
 \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist.
@@ -53,8 +51,8 @@ Orga-Team für den Münchner OWASP Stammtisch (Juliane, Christoph, Thomas und [T
 
 ## Geplante Stammtisch-Vorträge und -Diskussionen
 <!--- * Juli 2020,  21.07.2020 --->
-<!--- * August 2022: Sommerferien - KEIN OWASP-Stammtisch 
-* Dezember 2023: Weihnachtsferien - KEIN OWASP-Stammtisch --->
+* August 2025: Sommerferien - KEIN OWASP-Stammtisch 
+<!--- * Dezember 2023: Weihnachtsferien - KEIN OWASP-Stammtisch --->
 * <b>Wir suchen Vorträge für die nächsten Stammtische!</b><br>Möchte jemand einen Vortrag oder einen Lightning-Talk halten? Prima! Sobald wir eine konkrete Zusage haben, werden diese bei der Ankündigung des jeweiligen Termins mit bekannt geben.<br>Also, wie immer: Ich bitte um kurze Info an mich, ob jemand noch weitere (für uns relevante) Themen parat hat, die er uns näher bringen möchte. ''Verkaufsveranstalter werden alle 20 Minuten ausgebuht und müssen dann eine (neue) Runde Bier bezahlen.''
 
 Der Münchner Stammtisch findet (normalerweise) jeden <b>ersten(neu!) Dienstag im Monat um 18:30 Uhr</b> statt (außer im August und Januar).<br>
