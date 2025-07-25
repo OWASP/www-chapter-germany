@@ -62,7 +62,7 @@ zu finden, in absteigender Interaktionsfrequenz.
 
 ## Aktuelles
 
-Ein German OWASP Day 2025 ist derzeit in Planung, vermutlich wird der nach den allgmeinen Sommerferien stattfinden.
+Der German [OWASP Day 2025](https://god.owasp.de/2025/) findet am 26.11.2025 in Düsseldorf statt. Der Call for Presentations ist [eröffnet](https://god.owasp.de/2025/cfp.html). Wir werden diesmal zwei Tracks haben und sind tierisch gespannt auf ein weiteres bombastisches Event.
 
 Am 13.11.2024 fand in Leizpig in einer [wunderschönen Lokation](https://www.michaelis-leipzig.de/de/wir-betreiben/da-capo-oldtimermuseum-eventhalle/) der [German OWASP Day](https://god.owasp.de/2024) statt. Das [Programm](https://god.owasp.de/2024/#program) konnte sich wirklich blicken lassen. Am Vortrag gibt es drei Trainings und an dem Abend gab es wie üblich unser Social Event und schöne eine Gelegenheit zum Fachsimpeln, zum Austausch und zum Wiedersehen. Dank dem C3VOC hatten wir kurzfristig sogar Live-Streaming und die [Videos der einzelnen Vorträge waren am selben Tag noch auf media.ccc.de](https://media.ccc.de/c/god2024).
 
