@@ -8,7 +8,7 @@ altfooter: true
 
 <small>zurück zu [OWASP Germany](/www-chapter-germany/)</small>
 
-## Über unsere Stammtische
+## Über unsere City-Chapter Meetings/Stammtische
 
 Ein OWASP-Stammtisch ist ein regelmäßiges Treffen, meistens mit Vortrag, von
 OWASP-Interessierten in einem Restaurant oder einer anderen Lokation. Der
@@ -44,22 +44,20 @@ Lokale Stammtische gibt es in einer Reihe von Städten:
 * [Frankfurt](frankfurt/)
 * [Stuttgart](stuttgart/)
 * [Karlsruhe](karlsruhe/)
-* [Dresden](dresden/)
 * [Köln](koeln/)
-* [Hannover](hannover/)
 * [Heilbronn-Franken](heilbronn_franken/)
 * [Berlin](berlin/)
 * [Augsburg](augsburg/)
+* [Ruhrpott](https://owasp.org/www-chapter-ruhrpott/)
 
 Es gab aktive Stammtische in
 
 * Nürnberg
 * [Leipzig](leipzig/)
-* [Ruhrpott](ruhrpott/)
+* [Dresden](dresden/)
+* [Hannover](hannover/)
 
-die wiederbelebt werden sollen. Hier lohnt es sich ab und wann mal nach dem
-Status zu schauen -- oder seine Hilfe anzubieten. Beim Berliner Stammtisch
-hat das in 2020 geklappt.
+die wiederbelebt werden sollen. Hier lohnt es sich ab und wann mal nach dem Status zu schauen -- oder seine Hilfe anzubieten. Beim Berliner Stammtisch und dem Ruhrpott hat schon geklappt.
 
 ## Stammtisch FAQ
 
