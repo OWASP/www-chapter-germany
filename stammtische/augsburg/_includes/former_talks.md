@@ -1,3 +1,11 @@
+**14. Stammtisch am 23.07.2025 im Thing**
+
+**Speaker: Tobias Hellmann**
+
+**Vortrag: Im Dschungel der SOC-Anbieter: Worauf es wirklich ankommt**
+
+Tobias beschäftigt sich seit 2016 mit verschiedenen Aspekten der Cybersicherheit. Er begann seine Karriere als IT-Security Officer und vertiefte sein Wissen durch einen Bachelor-Abschluss in IT-Sicherheit sowie ein Master-Abschluss in Sicherheitsmanagement. Aus seiner beruflichen Vergangenheit kennt er die Herausforderungen des Mittelstand beim Kampf gegen Windmühlen. Daher arbeitet er heute beim Berliner StartUp intcube an/mit skalierbaren Methoden und Maßnahmen mit nachhaltigem Mehrwert.
+
 **12. Stammtisch am 28.05.2025 bei Nuvotex**
 
 **Host: Nuvotex (https://nuvotex.de/)**
