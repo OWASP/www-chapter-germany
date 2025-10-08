@@ -15,9 +15,9 @@ meetup-group: OWASP_Muenchen_Stammtisch
 <!---- Nach vielen Online-Meetings ein persönliches Treffen und Diskutieren :-) --->
 <!--- **Vortrag gesucht &mdash; Vor-Ort-Treffen an einem neuen Ort!** --->
 <!--- **\>\>\> Wir suchen noch einen Vortrag für den Stammtisch! Bitte melde Dich bei uns, wenn Du ein Thema aus dem Bereich IT-Sicherheit oder Informationssicherheit für uns hast. \<\<\<** --->
-Einladung zum (148.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Donnerstag, den 31.07.2025 um 18:30 Uhr** (geänderter Tag)<br><br> 
+Einladung zum (149.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Montag, den 13.10.2025 um 18:30 Uhr** (geänderter Tag)<br><br> 
 **Agenda:**<br>
-* **Vortrag: Pentest-Ergebnisse leichter mit dem Open-Source-Tool 'ptrs' erstellen und weiterverarbeiten (Stephan Pinto Spindler)**<br>Stephan Pinto Spindler stellt ptrs (https://github.com/s-spindler/ptrs) vor. ptrs ist ein Open-Source-Schema für Pentest-Reports in YAML. Ziel ist es, sowohl das Erstellen, als auch das Abarbeiten von Pentest Reports zu automatisieren und zu vereinfachen.<br>Zusätzlich stellt Stephan einige nützliche Command-Line-Tools vor, die das Arbeiten mit YAML-Dateien vereinfachen - egal ob ptrs-Pentest-Reports, Sigma-Regeln, nuclei-Templates oder Kubernetes-Manifests.<br><br>Stephan hat mehr als 13 Jahre Erfahrung in IT-Security, Softwareentwicklung und Betrieb - als Spezialist und als Führungskraft. Neben vielen weiteren Themen, ist er dabei auch immer wieder damit konfrontiert, Pentest-Reports aufzubereiten.
+* **Vortrag (Englisch): Secure Architecture Patterns: Security Technologists’ Blueprints for a Good Night’s Sleep (Onur Zengin, CISSP)**<br>This session dives into secure architecture patterns that help engineers and security professionals build systems that give them peace of mind at night. We explore classic design principles — like Defense-in-Depth, Least Privilege, Segmentation, and Logging & Monitoring — illustrated with “what went wrong” stories from the past. The session also covers modern topics, including AI, cloud, and quantum computing, showing how security patterns are evolving to meet new challenges. During the session, we hope to engage participants to hear about their experiences with these patterns and gather their thoughts on security architecture in general.<br><br> Onur Zengin (https://de.linkedin.com/in/onurzengin) is a security professional at Gemtek, where he serves as Director of Product Security / Chief Security Architect. He also enjoys contributing to open-source projects and standards bodies. Over the past twenty years, he’s had the chance to work with companies like Intel, Nokia, Kone, and Thales, learning a lot about system security along the way. Onur is thrilled to share his experiences with the OWASP community once again—and hopefully pick up a few new insights from fellow security enthusiasts as well! 
 * Wir suchen noch Vorträge für die kommenden Stammtische
 
 \>\>\> Bitte **meldet Euch** bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, damit wir wissen, für wie viele Personen wir reservieren können. \<\<\<
@@ -26,7 +26,7 @@ Einladung zum (148.) **OWASP-Stammtisch in München** im **Café am Josephsplatz
 [U2 Josephsplatz, Ausgang F im Süden](https://www.mvg.de/aushangfahrplan/P8_H_JO_0.pdf).
 
 **Zeit:** <br>
-Donnerstag, 31.07.2025 um 18:30 Uhr
+Montag, 13.10.2025 um 18:30 Uhr
 
 <!---- **Anmeldung:** <br>
 \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist.
@@ -50,8 +50,8 @@ Schönen Gruß,
 Orga-Team für den Münchner OWASP Stammtisch (Juliane, Christoph, Thomas und [Torsten](https://wiki.owasp.org/index.php/User:T.Gigler)) 
 
 ## Geplante Stammtisch-Vorträge und -Diskussionen
-<!--- * Juli 2020,  21.07.2020 --->
-* August 2025: Sommerferien - KEIN OWASP-Stammtisch 
+<!--- * Juli 2020,  21.07.2020 
+<!--- * August 2025: Sommerferien - KEIN OWASP-Stammtisch 
 <!--- * Dezember 2023: Weihnachtsferien - KEIN OWASP-Stammtisch --->
 * <b>Wir suchen Vorträge für die nächsten Stammtische!</b><br>Möchte jemand einen Vortrag oder einen Lightning-Talk halten? Prima! Sobald wir eine konkrete Zusage haben, werden diese bei der Ankündigung des jeweiligen Termins mit bekannt geben.<br>Also, wie immer: Ich bitte um kurze Info an mich, ob jemand noch weitere (für uns relevante) Themen parat hat, die er uns näher bringen möchte. ''Verkaufsveranstalter werden alle 20 Minuten ausgebuht und müssen dann eine (neue) Runde Bier bezahlen.''
 
