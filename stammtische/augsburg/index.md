@@ -48,8 +48,7 @@ Nach unserem Piloten bei der meteocontrol GmbH im Dezember 2024 werden wir versu
 
 Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf spannende Vorträge und interessante Diskussionen!
 
-- Q3: September: 24.9.25 (Thing)
-- Q4: Oktober: 22.10.25 (tbd.)
+- Q4: Oktober: 22.10.25 (Thing)
 - Q4: November: 26.11.25 (tbd.)
 - Q4: Dezember: --- ❄️ -Pause
   
@@ -63,18 +62,19 @@ Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf
 - Q2: Juni: 24.06.26
 - Q3: Juli: 22.7.26
 - Q3: August --- 🌞 -Pause
+- Q3: September: 23.9.25
 
 
 
-### Ankündigung - 15. Stammtisch am 24.09.2025 im Thing (Vorderer Lech 45, 86150 Augsburg)
+### Ankündigung - 16. Stammtisch am 22.10.2025 im Thing (Vorderer Lech 45, 86150 Augsburg)
 
-Raus aus der Sommerpause 🌞 und rein in den Jahresendspurt ❄️ 
+Vor zwei Jahren 🤯 entstand auf der [Hackerkiste](https://hackerkiste.de/) 🧑‍💻📦 in Augsburg die Idee einen IT-Security Stammtisch zu gründen. Und nächste Woche Mittwoch, einen Tag vor der Hackerkiste 2025, findet dieser **OWASP Stammtisch** zum 16. Mal statt! Wie gewohnt im [Thing](https://www.mein-thing.de/). 
 
-Gerade wenn es draußen kälter wird, sollte man sich ins Warme flüchten. Daher findet zu diesem Zweck "drinnen" am 🗓️ Mittwoch dem 24.09. der 15. OWASP Augsburg Stammtisch statt. Und zwar im Thing um 19:00 - wie gewohnt! :-)
+⚠️Wir suchen noch immer einen Vortrag⚠️
 
-👋 **Wir haben noch keine Agenda und würden uns über Vorträge freuen!**
+Willst du uns über eine Idee informieren, uns ein Problem vorstellen, das dich umtreibt, ein cooles Tool vorstellen oder was ganz anderes mit uns teilen, dann gib Bescheid und erzähl uns was! 🗣️ 
 
-Aber vielleicht haben die letzten beiden Monate ja auch genug Gesprächsstoff (Bitnami, qix, npx -> yolo, ...) für einen kommunikativen Abend geliefert. 🤔 Bringt gerne Themen mit!
+Aber auch ohne Vortrag bist du uns herzlich willkommen und es finden sich sicherlich Themen, über die wir sprechen können. 🤓 
 
 #### Ort: Thing (Vorderer Lech 45, 86150 Augsburg)
 
