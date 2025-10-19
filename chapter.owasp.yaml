@@ -1,0 +1,36 @@
+community:
+  - name: chapter-germany
+    platform: slack
+    url: https://owasp.slack.com/archives/C649BB1P0
+    description: OWASP German Chapter
+leaders:
+  - name: Tobias Glemser
+    email: tobias.glemser@owasp.org
+    github: owasp-tobias-glemser
+  - name: Bastian Braun
+    email: bastian.braun@owasp.org
+  - name: Bjoern Kimminich
+    email: bjoern.kimminich@owasp.org
+    github: bkimminich
+  - name: Jan Wolff
+    email: jan.wolff@owasp.org
+    github: JanWolff
+  - name: Dirk Wetter
+    email: dirk@owasp.org
+    github: drwetter
+location:
+  country: Germany
+  country_code: DE
+  region: Europe
+  latitude: 51.1638175
+  longitude: 10.4478313
+name: OWASP Germany
+repositories:
+  - name: www-chapter-germany
+    url: https://github.com/OWASP/www-chapter-germany
+    description: OWASP Foundation Web Repository
+tags:
+  - germany
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-germany
