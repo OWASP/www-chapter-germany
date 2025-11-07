@@ -48,9 +48,10 @@ Nach unserem Piloten bei der meteocontrol GmbH im Dezember 2024 werden wir versu
 
 Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf spannende Vorträge und interessante Diskussionen!
 
-- Q4: Oktober: 22.10.25 (Thing)
-- Q4: November: 26.11.25 (tbd.)
-- Q4: Dezember: --- ❄️ -Pause
+- ~~Q4: November: 26.11.25 (tbd.)~~
+- ~~Q4: Dezember: --- ❄️ -Pause~~
+-  Q4: Dezember: 03.12.25 ([Thing](https://www.mein-thing.de/), Vorderer Lech 45, 86150 Augsburg)
+⚠️ Aufgrund des [German OWASP Day](https://god.owasp.de/2025/) wird der November-Stammtisch um eine Woche verschoben!
   
 **2026**
 
@@ -62,19 +63,21 @@ Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf
 - Q2: Juni: 24.06.26
 - Q3: Juli: 22.7.26
 - Q3: August --- 🌞 -Pause
-- Q3: September: 23.9.25
+- Q3: September: 23.9.26
+- Q4: Oktober: 28.10.26
+- Q4: November: 25.11.26 (tbd.)
+- Q4: Dezember: --- ❄️ -Pause
 
 
 
-### Ankündigung - 16. Stammtisch am 22.10.2025 im Thing (Vorderer Lech 45, 86150 Augsburg)
 
-Vor zwei Jahren 🤯 entstand auf der [Hackerkiste](https://hackerkiste.de/) 🧑‍💻📦 in Augsburg die Idee einen IT-Security Stammtisch zu gründen. Und nächste Woche Mittwoch, einen Tag vor der Hackerkiste 2025, findet dieser **OWASP Stammtisch** zum 16. Mal statt! Wie gewohnt im [Thing](https://www.mein-thing.de/). 
+### Ankündigung - 17. Stammtisch am 03.12.2025 im [Thing](https://www.mein-thing.de/) (Vorderer Lech 45, 86150 Augsburg)
 
-⚠️Wir suchen noch immer einen Vortrag⚠️
-
-Willst du uns über eine Idee informieren, uns ein Problem vorstellen, das dich umtreibt, ein cooles Tool vorstellen oder was ganz anderes mit uns teilen, dann gib Bescheid und erzähl uns was! 🗣️ 
-
-Aber auch ohne Vortrag bist du uns herzlich willkommen und es finden sich sicherlich Themen, über die wir sprechen können. 🤓 
+#### Agenda: 
+📢 GOD where r u??
+Vom 25. - 26. November in Düsseldorf! Dort findet der diesjährige German OWASP Day (GOD) statt: [https://god.owasp.de/2025/](https://god.owasp.de/2025/)
+Deswegen: GOD:2025 in a nutshell!
+Ein Bericht über den German OWASP Day 2025 (25.-26. November) in Düsseldorf von Christian Kölbl.
 
 #### Ort: Thing (Vorderer Lech 45, 86150 Augsburg)
 
