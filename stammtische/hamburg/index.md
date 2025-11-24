@@ -37,12 +37,18 @@ gerne vorbei!
 
 ### Aktuelle Treffen
 
-### 74\. Meeting September 2025
+### 74\. Meeting Dezember 2025
 
-TBA
+- Speakers:
+  - Matthias Marx: *Eine Reise durch langweilige Telco-Datenlecks", Max Maaß: "Hackerbremse*
+  - Max Maaß: *Protectors of the Realm: Wie man einen Keycloak sicher hält*
+- Presentation Language: German
+- [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/311916999/)
+- Ort: Zeiseweg 9, Hamburg (CCC Hamburg)
+- Treffen: 9.12.2025, Start: 18:30 Uhr
+- Einlass ab 18h, wichtige Details: https://wiki.hamburg.ccc.de/club:z9:start
 
 ### Vergangene Treffen
-
 
 ### 73\. Meeting 16.7.2025
 
