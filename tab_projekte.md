@@ -26,12 +26,12 @@ lassen! Ein Ausschnitt:
   ![GitHub stars](https://img.shields.io/github/stars/wurstbrot/security-pins.svg?label=GitHub%20%E2%98%85&style=flat)
 * <i class="fas fa-flask" style="color:#FFA500;"></i>
   [OWASP Top 10 Privacy Risks Project](/www-project-top-10-privacy-risks/)
+* <i class="fas fa-flask" style="color:#233e81;"></i>
+  [OWASP secureCodeBox](/www-project-securecodebox/)
+  ![GitHub stars](https://img.shields.io/github/stars/secureCodeBox/secureCodeBox.svg?label=GitHub%20%E2%98%85&style=flat)
 * <i class="fas fa-egg" style="color:#233e81;"></i>
   [OWASP Docker Top 10](/www-project-docker-top-10)
   ![GitHub stars](https://img.shields.io/github/stars/OWASP/Docker-Security.svg?label=GitHub%20%E2%98%85&style=flat)
-* <i class="fas fa-egg" style="color:#233e81;"></i>
-  [OWASP secureCodeBox](/www-project-securecodebox/)
-  ![GitHub stars](https://img.shields.io/github/stars/secureCodeBox/secureCodeBox.svg?label=GitHub%20%E2%98%85&style=flat)
 * <i class="fas fa-egg" style="color:#233e81;"></i>
   [OWASP DevSecOps Maturity Model](/www-project-devsecops-maturity-model/)
   ![GitHub stars](https://img.shields.io/github/stars/wurstbrot/DevSecOps-MaturityModel.svg?label=GitHub%20%E2%98%85&style=flat)
@@ -51,5 +51,3 @@ Initiativen der OWASP Foundation:
   [OWASP AppSec Research 2013](https://2013.appsec.eu/) Konferenz in
   Hamburg
 * [Best Practices: Web Application Firewalls](https://wiki.owasp.org/index.php/Category:OWASP_Best_Practices:_Use_of_Web_Application_Firewalls)
-
-
