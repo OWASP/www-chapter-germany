@@ -35,8 +35,6 @@ lassen! Ein Ausschnitt:
 * <i class="fas fa-egg" style="color:#233e81;"></i>
   [OWASP Docker Top 10](/www-project-docker-top-10)
   ![GitHub stars](https://img.shields.io/github/stars/OWASP/Docker-Security.svg?label=GitHub%20%E2%98%85&style=flat)
-* <i class="fas fa-egg" style="color:#233e81;"></i>
-  [OWASP Top 10 für Entwickler](https://wiki.owasp.org/index.php/Category:OWASP_Top_10_fuer_Entwickler)
 
 ## Weitere Beteiligungen des German Chapter
 
