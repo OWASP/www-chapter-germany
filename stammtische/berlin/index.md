@@ -23,4 +23,4 @@ Our Events are held in English.
 
 
 ## **T E R M I N E:**
-* The **OWASP Berlin Spring Meetup** is planned for the end of June/early July
+* The **OWASP Berlin Winter 2025 Meetup** is happening on December 3rd at Forto Logistics in Prenzlauer Berg. See the [Meetup event](https://www.meetup.com/owasp-berlin/events/312179359/) for details.
