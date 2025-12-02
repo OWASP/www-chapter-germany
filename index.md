@@ -24,7 +24,7 @@ kostenlos unter einer freien Lizenz verwendbar.
 OWASP ist frei, offen und herstellerunabhängig. Alle Interessierten sind
 herzlich willkommen etwa in Projekten mitzuarbeiten oder nur am Wissen
 zu partizipieren. Eine prima Gelegenheit sich einen Eindruck zu
-verschaffen, sind die OWASP Stammtische, die regelmäßig in vielen
+verschaffen, sind die lokalen OWASP-Treffen, die regelmäßig in vielen
 deutschen Großstädten stattfinden.
 
 ## OWASP German Chapter
@@ -55,14 +55,13 @@ Wir sind auf
 * [LinkedIn](https://www.linkedin.com/company/owasp-germany/)
 * [Mastodon](https://infosec.exchange/@owasp_de)
 * [Bluesky](https://bsky.app/profile/owasp-de.bsky.social)
-* [X](https://x.com/OWASP_de/)
   
 zu finden, in absteigender Interaktionsfrequenz.
 
 
 ## Aktuelles
 
-Der German [OWASP Day 2025](https://god.owasp.de/2025/) findet am 26.11.2025 in Düsseldorf statt, unsere Konferenz ist ausverkauft. Wir haben ein bombastisches [Programm](https://god.owasp.de/2025/#program), dieses Mail mit zwei Tracks, und wie üblich ein Networking-Event am Vorabend. Die Community-Trainings sowie das [Chapter-Meeting](https://owasp.org/www-chapter-germany/chapter_meetings/) finden am 25.11.2025 statt. Details auf [god.owasp.de/2025/](https://god.owasp.de/2025/).
+Der German [OWASP Day 2025](https://god.owasp.de/2025/) fand am 26.11.2025 in Düsseldorf statt, unsere Konferenz war ausverkauft. Es gab ein bombastisches [Programm](https://god.owasp.de/2025/#program), dieses Mal mit zwei Tracks, und wie üblich ein Networking-Event am Vorabend. Die Community-Trainings sowie das [Chapter-Meeting](https://owasp.org/www-chapter-germany/chapter_meetings/) fanden eine Tag davor statt. Details auf [god.owasp.de/2025/](https://god.owasp.de/2025/). Die [Videos](https://media.ccc.de/c/god2025) sind bereits online. Der nächste German OWASP Day wird am 23./24.9.2026 in Karlsruhe stattfinden.
 
 Am 13.11.2024 fand in Leizpig in einer [wunderschönen Lokation](https://www.michaelis-leipzig.de/de/wir-betreiben/da-capo-oldtimermuseum-eventhalle/) der [German OWASP Day](https://god.owasp.de/2024) statt. Das [Programm](https://god.owasp.de/2024/#program) konnte sich wirklich blicken lassen. Am Vortrag gibt es drei Trainings und an dem Abend gab es wie üblich unser Social Event und schöne eine Gelegenheit zum Fachsimpeln, zum Austausch und zum Wiedersehen. Dank dem C3VOC hatten wir kurzfristig sogar Live-Streaming und die [Videos der einzelnen Vorträge waren am selben Tag noch auf media.ccc.de](https://media.ccc.de/c/god2024).
 
