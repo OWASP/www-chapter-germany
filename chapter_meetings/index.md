@@ -8,26 +8,14 @@ title: OWASP Germany > Chapter Meetings
 ![German Chapter Logo](../assets/images/OWASP_German_Chapter_WHITE_PNG.png)
 
 ## Was sind Chapter Meetings?
-
 In Deutschland haben wir als organisatorisches Dach ein Chapter, im Rahmen dessen wie versuchen alle Aktiven in Deutschland zu vernetzen und unsere Deutschlandkonferenzen - den German OWASP Day zu organisieren. Lokale Treffen gibt es historisch bedingt in einigen Städten als "Stammtische", in anderen Städten als sogenannte City-Chapter.
 
 Bei den Chapter-Meeting des OWASP German Chapter treffen wir uns also in erster Linie zu organisatorischen Fragen. Fachlicher Austausch und Vorträge finden bei den Stammtischen/City Chapter Meeting und natürlich beim German OWASP Day statt.
 
 ## Nächstes Chapter Meeting
+Das nächste Chapter Meeting wird voraussichtlich Mitte nächsten Jahres 2026 stattfinden. Der genaue Temin steht noch nicht fest.
 
-OWASP German Chapter Meeting Dienstag, 25. November 2025  · 14:30 bis 16:30 Uhr in Düsseldorf vor dem [German OWASP Day 2025](https://god.owasp.de) - zur Teilnahme am Chaptermeeting ist kein Ticket notwendig.
-
-Agenda:
-* Begrüßung und Vorstellung (Tobias, 10 Minuten)
-* Review altes Protokoll  (Tobias, 15 Minuten)
-* Stand und Beschluss City Chapter-Standard statt Stammtisch-Extrawurst (Tobias, 15 Minuten)
-* German OWASP Day 2026 (Kai, 30 Minuten)
-* German OWASP Day 2027 (Tobias, 10 Minuten)
-* Nachholen "Im ersten Chaptermeeting eines Jahres pflegen wir die Board Member Liste."  (Tobias, 15 Minuten)
-* Sonstiges
-
-Erweiterungen vorab an Tobias (tobias.glemser@owasp.org)
-
+Es wird aber auf jeden Fall hier und über die Mailing Liste des Chapters Germany angekündigt.
 Subscribed euch am Besten auf die [Mailing-Liste](https://groups.google.com/a/owasp.org/group/germany-chapter/), um nichts zu verpassen.
 
 ## Regelmäßige Aufgaben
@@ -35,6 +23,7 @@ Im ersten Chaptermeeting eines Jahres pflegen wir die Board Member Liste. Wer un
 
 ## Vergangene Chapter Meetings
 
+ * [2025-11-25](protocols/2025-11-25.pdf)
  * [2025-05-12](protocols/2025-05-12.pdf)
  * [2024-11-12](protocols/2024-11-12.pdf)
  * [2024-04-16](protocols/2024-04-16.pdf)
