@@ -1,3 +1,13 @@
+**17. Stammtisch am 03.12.2025 im Thing**
+
+**Speaker: Christian Kölbl**
+
+**Vortrag: GOD where r u??**
+
+Vom 25. - 26. November in Düsseldorf! Dort findet der diesjährige German OWASP Day (GOD) statt: [https://god.owasp.de/2025/](https://god.owasp.de/2025/)
+Deswegen: GOD:2025 in a nutshell!
+Ein Bericht über den German OWASP Day 2025 (25.-26. November) in Düsseldorf von Christian Kölbl.
+
 **14. Stammtisch am 23.07.2025 im Thing**
 
 **Speaker: Tobias Hellmann**
@@ -157,3 +167,4 @@ Chillig im Biergarten abhängen :-) - muss auch mal sein!
 * Vortrag Christian Kölbl: Vorstellung von OWASP inkl. Live-Demo einiger (Flagship) Projects, wie z.B. Juice Shop, (OWASP) ZAP, OWASP DSOMM / SAMM, ...
 * Austausch von Erwartungen an den Stammtisch
 * Networking
+

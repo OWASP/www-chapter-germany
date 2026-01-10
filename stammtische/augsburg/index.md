@@ -47,15 +47,10 @@ Nach unserem Piloten bei der meteocontrol GmbH im Dezember 2024 werden wir versu
 🤙 Die Rahmenbedingungen sind simple: Die Firma / das Unternehmen bekommt als Host natürlich die Gelegenheit sich 5-10 Minuten vorzustellen, Stellenanzeigen zu präsentieren, whatever und ab dann sind wir wieder neutral. Das bedeutet auch, dass idealerweise an diesem Tag kein Speaker des Hosts einen Vortrag halten "sollte"...
 
 Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf spannende Vorträge und interessante Diskussionen!
-
-- ~~Q4: November: 26.11.25 (tbd.)~~
-- ~~Q4: Dezember: --- ❄️ -Pause~~
--  Q4: Dezember: 03.12.25 ([Thing](https://www.mein-thing.de/), Vorderer Lech 45, 86150 Augsburg)
-⚠️ Aufgrund des [German OWASP Day](https://god.owasp.de/2025/) wird der November-Stammtisch um eine Woche verschoben!
   
 **2026**
 
-- Q1: Januar: 28.1.26
+- Q1: Januar: 28.1.26 MaibornWolff GmbH (Ladehofstraße 11, 86150 Augsburg)
 - Q1: Februar: 25.2.26
 - Q1: März: 25.3.26
 - Q2: April: 22.4.26
@@ -65,21 +60,25 @@ Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf
 - Q3: August --- 🌞 -Pause
 - Q3: September: 23.9.26
 - Q4: Oktober: 28.10.26
-- Q4: November: 25.11.26 (tbd.)
+- Q4: November: 25.11.26
 - Q4: Dezember: --- ❄️ -Pause
 
 
+### Ankündigung - 18. Stammtisch am 28.01.2026 bei der [MaibornWolff GmbH](https://www.maibornwolff.de/unternehmen/standorte/augsburg/) (Ladehofstraße 11, 86150 Augsburg)
 
+#### Agenda:
 
-### Ankündigung - 17. Stammtisch am 03.12.2025 im [Thing](https://www.mein-thing.de/) (Vorderer Lech 45, 86150 Augsburg)
+**Vortrag:** Effektive und effiziente Bedrohungsanalyse in Zeiten knapper Budgets
 
-#### Agenda: 
-📢 GOD where r u??
-Vom 25. - 26. November in Düsseldorf! Dort findet der diesjährige German OWASP Day (GOD) statt: [https://god.owasp.de/2025/](https://god.owasp.de/2025/)
-Deswegen: GOD:2025 in a nutshell!
-Ein Bericht über den German OWASP Day 2025 (25.-26. November) in Düsseldorf von Christian Kölbl.
+In Zeiten knapper Budgets fordert die aktuelle Gesetzgebung unter anderem mit NIS2 und CRA nun auch noch ein risikobasiertes Vorgehen, was sich zunächst nach teurem Zusatzaufwand fürs Papier anhört. Doch tatsächlich liegt genau hier der Schlüssel zu kosteneffizientem Herangehen an die IT-Sicherheit: Man erkennt dadurch, wo die knappen Mittel die größten Risiken am effizientesten senken können.
 
-#### Ort: Thing (Vorderer Lech 45, 86150 Augsburg)
+Jetzt braucht es nur noch eine schlanke, effiziente und vollständige Methode, die das im Team ohnehin vorhandene Wissen möglichst gut ausnutzt, statt zu sehr auf externe Berater zu setzen. Genau dies leisten die in diesem Vortrag anhand konkreter Beispiele vorgestellten praxisbewährten Methoden und Werkzeuge. 
+
+**Speaker:** Johannes Geiger
+
+Johannes Geiger befasst sich seit fast 30 Jahren mit IT-Security in der Anwendungsentwicklung, im IT-Betrieb und in der Beratung. Als IT-Sicherheitsarchitekt untersucht er regelmäßig Infrastrukturen und Softwareprojekte auf ihre Security-Risiken, entwirft gemeinsam mit Entwickler:innen und Administrator:innen Absicherungskonzepte und unterstützt Unternehmen dabei, IT-Sicherheit in den Köpfen und in den Prozessen zu verankern.
+
+#### Ort: MaibornWolff GmbH (Ladehofstraße 11, 86150 Augsburg)
 
 #### Zeit: 19:00
 
@@ -100,6 +99,13 @@ Auf Wunsch wirst du als Speaker genannt, verlinkt und deine Folien veröffentlic
 ### Geplante Vorträge / Diskussionen / ...
 
 Immer her mit Euren Ideen! :-) 
+
+### Weitere Infos findet ihr unter:
+ * https://owasp.org/www-chapter-germany/stammtische/augsburg/
+ * https://owasp.org/www-chapter-augsburg/
+ * https://www.meetup.com/de-DE/owasp-augsburg-chapter/
+ * https://www.linkedin.com/groups/9858092/
+ * https://www.linkedin.com/company/owasp-augsburg/
 
 ### Links
 * Jeder kann an [OWASP-Projekten](/projects/) mitwirken
