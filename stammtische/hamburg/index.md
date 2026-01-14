@@ -53,7 +53,7 @@ gerne vorbei!
 - Treffen: 9.12.2025, Start: 18:30 Uhr
 - Einlass ab 18h, wichtige Details: https://wiki.hamburg.ccc.de/club:z9:start
 - Slides Matthias: coming soon
-- [Slides Max](assets/slides/2025-12%20Max%20Maaß%20kcwarden.pdf)
+- [Slides Max](assets/slides/2025-12%20Max%20Maaß%20-%20kcwarden.pdf)
 
 ### 73\. Meeting 16.7.2025
 
