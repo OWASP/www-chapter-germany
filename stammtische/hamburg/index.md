@@ -45,7 +45,7 @@ gerne vorbei!
 ### 74\. Meeting Dezember 2025
 
 - Speakers:
-  - Matthias Marx: *Eine Reise durch langweilige Telco-Datenlecks", Max Maaß: "Hackerbremse*
+  - Matthias Marx: *Eine Reise durch langweilige Telco-Datenlecks*
   - Max Maaß: *Protectors of the Realm: Wie man einen Keycloak sicher hält*
 - Presentation Language: German
 - [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/311916999/)
