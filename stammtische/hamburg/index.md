@@ -21,6 +21,7 @@ an Marketing, OWASP ist vendorunabhängig.
 Wer und Interesse hat mitzuwirken oder hosten möchte, bitte bei Dirk Wetter oder Björn Kimminich
 melden (vorname.nachname@owasp.org).
 
+
 ### Wie bekomme ich Treffen mit?
 
 Tritt unserer [Meetup-Gruppe](http://www.meetup.com/OWASP-Hamburg-Stammtisch/) bei, um
@@ -37,6 +38,10 @@ gerne vorbei!
 
 ### Aktuelle Treffen
 
+- TBA
+
+### Vergangene Treffen
+
 ### 74\. Meeting Dezember 2025
 
 - Speakers:
@@ -44,11 +49,11 @@ gerne vorbei!
   - Max Maaß: *Protectors of the Realm: Wie man einen Keycloak sicher hält*
 - Presentation Language: German
 - [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/311916999/)
-- Ort: Zeiseweg 9, Hamburg (CCC Hamburg)
+- Ort: Zeiseweg 9, Hamburg (CCC Hansestadt Hamburg e.V.)
 - Treffen: 9.12.2025, Start: 18:30 Uhr
 - Einlass ab 18h, wichtige Details: https://wiki.hamburg.ccc.de/club:z9:start
-
-### Vergangene Treffen
+- Slides Matthias: coming soon
+- [Slides Max](assets/slides/2025-12%20Max%20Maaß%20kcwarden.pdf)
 
 ### 73\. Meeting 16.7.2025
 
