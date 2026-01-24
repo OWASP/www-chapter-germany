@@ -6,5 +6,4 @@
 
 ### Kontakt
 
-* [MeetUp](https://www.meetup.com/owasp-karlsruhe/)
 * [Mastodon](https://chaos.social/@owasp_ka)
