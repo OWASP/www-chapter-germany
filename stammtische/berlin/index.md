@@ -23,4 +23,4 @@ Our Events are held in English.
 
 
 ## **T E R M I N E:**
-* Our **Spring 2026 Meetup** will likely happen in late February/early March 2026. Join the [Meetup group](https://www.meetup.com/owasp-berlin/) to not miss it!
+* Our **Spring 2026 Meetup** will happen on February 26th, 2026 at the Bosch Innovation Campus at Tempelhofer Hafen. See the [meetup event](https://www.meetup.com/owasp-berlin/events/313069416/) for details. 
