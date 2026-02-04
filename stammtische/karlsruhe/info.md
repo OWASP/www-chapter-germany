@@ -6,4 +6,5 @@
 
 ### Kontakt
 
+* [Mailingliste](https://lists.entropia.de/info/owasp-ka)
 * [Mastodon](https://chaos.social/@owasp_ka)
