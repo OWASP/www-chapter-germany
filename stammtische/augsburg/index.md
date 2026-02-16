@@ -50,8 +50,7 @@ Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf
   
 **2026**
 
-- Q1: Januar: 28.1.26 MaibornWolff GmbH (Ladehofstraße 11, 86150 Augsburg)
-- Q1: Februar: 25.2.26
+- Q1: Februar: 25.2.26 - Gaststätte Thing, Vorderer Lech 45, 86150 Augsburg
 - Q1: März: 25.3.26
 - Q2: April: 22.4.26
 - Q2: Mai: 27.05.26
@@ -63,22 +62,29 @@ Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf
 - Q4: November: 25.11.26
 - Q4: Dezember: --- ❄️ -Pause
 
+**2027**
 
-### Ankündigung - 18. Stammtisch am 28.01.2026 bei der [MaibornWolff GmbH](https://www.maibornwolff.de/unternehmen/standorte/augsburg/) (Ladehofstraße 11, 86150 Augsburg)
+- Q1: Januar: 27.01.27 tbd.
+
+
+
+### Ankündigung - 19. Stammtisch am 25.02.2026 im [Thing]([http://www.mein-thing.de/]) (Vorderer Lech 45, 86150 Augsburg)
 
 #### Agenda:
 
-**Vortrag:** Effektive und effiziente Bedrohungsanalyse in Zeiten knapper Budgets
+**Vortrag:** Defectdojo & DevSecOps
 
-In Zeiten knapper Budgets fordert die aktuelle Gesetzgebung unter anderem mit NIS2 und CRA nun auch noch ein risikobasiertes Vorgehen, was sich zunächst nach teurem Zusatzaufwand fürs Papier anhört. Doch tatsächlich liegt genau hier der Schlüssel zu kosteneffizientem Herangehen an die IT-Sicherheit: Man erkennt dadurch, wo die knappen Mittel die größten Risiken am effizientesten senken können.
+Als Lighting Talk / Q&A-Session / Diskussionsrunde stellt Christian Kölbl das OWASP ASPM Tool Defectdojo vor, sowie OSS-Möglichkeiten darum eine DevSecOps-Pipeline aufzubauen.
+ASPM? 🤔 Natürlich Applications and Security Posture! Oder anders gesagt: Jede Menge Tools, jede Menge Dashboards, aber keine einheitliche Übersicht 🤓 .
+See u there! 
 
-Jetzt braucht es nur noch eine schlanke, effiziente und vollständige Methode, die das im Team ohnehin vorhandene Wissen möglichst gut ausnutzt, statt zu sehr auf externe Berater zu setzen. Genau dies leisten die in diesem Vortrag anhand konkreter Beispiele vorgestellten praxisbewährten Methoden und Werkzeuge. 
+**Speaker:** Christian Kölbl
 
-**Speaker:** Johannes Geiger
+Ein Lautsprecher ist ein Schallwandler, der elektrische Energie in akustische Energie umwandelt...so gesehen ist Christian ein IT-Security-Lautsprecher :-)
 
-Johannes Geiger befasst sich seit fast 30 Jahren mit IT-Security in der Anwendungsentwicklung, im IT-Betrieb und in der Beratung. Als IT-Sicherheitsarchitekt untersucht er regelmäßig Infrastrukturen und Softwareprojekte auf ihre Security-Risiken, entwirft gemeinsam mit Entwickler:innen und Administrator:innen Absicherungskonzepte und unterstützt Unternehmen dabei, IT-Sicherheit in den Köpfen und in den Prozessen zu verankern.
+Christian ist Gründer des OWASP Augsburg Stammtischs und arbeitet als IT-Security-Architect an der Umwandlung von DevOps in DevSecOps.
 
-#### Ort: MaibornWolff GmbH (Ladehofstraße 11, 86150 Augsburg)
+#### Ort: Gaststätte Thing (Vorderer Lech 45, 86150 Augsburg)
 
 #### Zeit: 19:00
 
