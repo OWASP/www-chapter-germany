@@ -1,3 +1,14 @@
+**18. Stammtisch am 28.01.2026 im Thing**
+
+**Speaker: Johannes Geiger**
+
+**Vortrag: Effektive und effiziente Bedrohungsanalyse in Zeiten knapper Budgets**
+
+In Zeiten knapper Budgets fordert die aktuelle Gesetzgebung unter anderem mit NIS2 und CRA nun auch noch ein risikobasiertes Vorgehen, was sich zunächst nach teurem Zusatzaufwand fürs Papier anhört. Doch tatsächlich liegt genau hier der Schlüssel zu kosteneffizientem Herangehen an die IT-Sicherheit: Man erkennt dadurch, wo die knappen Mittel die größten Risiken am effizientesten senken können.
+
+Jetzt braucht es nur noch eine schlanke, effiziente und vollständige Methode, die das im Team ohnehin vorhandene Wissen möglichst gut ausnutzt, statt zu sehr auf externe Berater zu setzen. Genau dies leisten die in diesem Vortrag anhand konkreter Beispiele vorgestellten praxisbewährten Methoden und Werkzeuge. 
+
+
 **17. Stammtisch am 03.12.2025 im Thing**
 
 **Speaker: Christian Kölbl**
