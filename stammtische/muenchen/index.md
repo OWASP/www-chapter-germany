@@ -15,10 +15,13 @@ meetup-group: OWASP_Muenchen_Stammtisch
 <!---- Nach vielen Online-Meetings ein persönliches Treffen und Diskutieren :-) --->
 <!--- **Vortrag gesucht &mdash; Vor-Ort-Treffen an einem neuen Ort!** --->
 <!--- **\>\>\> Wir suchen noch einen Vortrag für den Stammtisch! Bitte melde Dich bei uns, wenn Du ein Thema aus dem Bereich IT-Sicherheit oder Informationssicherheit für uns hast. \<\<\<** --->
-Einladung zum (150.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Montag, den 17.11.2025 um 18:30 Uhr** (geänderter Tag)<br><br>
-**Agenda:**<br>
+Einladung zum (151.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Montag, den 23.03.2026 um 18:30 Uhr** (geänderter Tag)<br><br>
+**\>\>\> Save the date: Montag, den 23.03.2026 um 18:30 Uhr \<\<\<**
+
+**\>\>\> Aktuelle Infos: \<\<\<**<br>- Meetup.com wurde von der OWASP-Foundation aus Kostengründen gekündigt.<br>- Die Webseiten der Chapter sollen ebenfalls umziehen, also auch die des German Chapters<br>- Ankündigungen</b> erfolgen weiterhin über die [<b>Mailing-Liste des German Chapters</b>](https://groups.google.com/a/owasp.org/group/germany-chapter/)
+<!--- **Agenda:**<br>
 * **Vortrag: OWASP Top 10:2025-RC1 - Neuerungen und Hintergründe (Torsten Gigler)**<br>Wir haben den Release Candidate für die Top10:2025 veröffentlicht. Der Vortrag stellt die Neuerungen vor und gibt Hintergrundinformation zu unserer Vorgehensweise.<br>Torsten ist interner IT-Sicherheits-Berater, spezialisiert auf IT-Infrastruktur- und Anwendungs-Sicherheit (> 25 Jahre).<br>Bei OWASP ist er seit 2013 aktiv: U.a. seit 2017 Co-Lead des OWASP-Top10-Projekts (2013 bereits Contributor), Mitorganisator des Stammtischs München (seit 2015), Contributor beim 'O-Saft - OWASP SSL Advanced Forensic Tool',  Projekt-Lead “OWASP Open Security Information Base (OSIB)” (2023).
- 
+-->  
 * Wir suchen noch Vorträge für die kommenden Stammtische
 
 \>\>\> Bitte **meldet Euch** bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, damit wir wissen, für wie viele Personen wir reservieren können. \<\<\<
@@ -27,7 +30,7 @@ Einladung zum (150.) **OWASP-Stammtisch in München** im **Café am Josephsplatz
 [U2 Josephsplatz, Ausgang F im Süden](https://www.mvg.de/aushangfahrplan/P8_H_JO_0.pdf).
 
 **Zeit:** <br>
-Montag, 17.11.2025 um 18:30 Uhr
+Montag, 23.03.2026 um 18:30 Uhr
 
 <!---- **Anmeldung:** <br>
 \>\>\> Bitte **meldet Euch** vor dem Meeting bei `torsten<Punkt>gigler<ät>owasp<Punkt>org` **an**, da die Anzahl der möglichen Teilnehmer begrenzt ist.
