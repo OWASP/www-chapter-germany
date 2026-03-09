@@ -18,7 +18,7 @@ meetup-group: OWASP_Muenchen_Stammtisch
 Einladung zum (151.) **OWASP-Stammtisch in München** im **Café am Josephsplatz** (U2 Josephsplatz) am **Montag, den 23.03.2026 um 18:30 Uhr** (geänderter Tag)<br><br>
 **\>\>\> Save the date: Montag, den 23.03.2026 um 18:30 Uhr \<\<\<**
 
-**\>\>\> Aktuelle Infos: \<\<\<**<br>- Meetup.com wurde von der OWASP-Foundation aus Kostengründen gekündigt.<br>- Die Webseiten der Chapter sollen ebenfalls umziehen, also auch die des German Chapters<br>- Ankündigungen</b> erfolgen weiterhin über die [<b>Mailing-Liste des German Chapters</b>](https://groups.google.com/a/owasp.org/group/germany-chapter/)
+**\>\>\> Aktuelle Infos: \<\<\<**<br>- Meetup.com wurde von der OWASP-Foundation aus Kostengründen gekündigt.<br>- Die Webseiten der Chapter sollen ebenfalls umziehen, also auch die des German Chapters<br>- <b>Ankündigungen</b> erfolgen weiterhin über die [<b>Mailing-Liste des German Chapters</b>](https://groups.google.com/a/owasp.org/group/germany-chapter/)
 <!--- **Agenda:**<br>
 * **Vortrag: OWASP Top 10:2025-RC1 - Neuerungen und Hintergründe (Torsten Gigler)**<br>Wir haben den Release Candidate für die Top10:2025 veröffentlicht. Der Vortrag stellt die Neuerungen vor und gibt Hintergrundinformation zu unserer Vorgehensweise.<br>Torsten ist interner IT-Sicherheits-Berater, spezialisiert auf IT-Infrastruktur- und Anwendungs-Sicherheit (> 25 Jahre).<br>Bei OWASP ist er seit 2013 aktiv: U.a. seit 2017 Co-Lead des OWASP-Top10-Projekts (2013 bereits Contributor), Mitorganisator des Stammtischs München (seit 2015), Contributor beim 'O-Saft - OWASP SSL Advanced Forensic Tool',  Projekt-Lead “OWASP Open Security Information Base (OSIB)” (2023).
 -->  
