@@ -13,9 +13,15 @@ In Deutschland haben wir als organisatorisches Dach ein Chapter, im Rahmen desse
 Bei den Chapter-Meeting des OWASP German Chapter treffen wir uns also in erster Linie zu organisatorischen Fragen. Fachlicher Austausch und Vorträge finden bei den Stammtischen/City Chapter Meeting und natürlich beim German OWASP Day statt.
 
 ## Nächstes Chapter Meeting
-Das nächste Chapter Meeting wird voraussichtlich Mitte nächsten Jahres 2026 stattfinden. Der genaue Temin steht noch nicht fest.
+Wir treffen uns am 31. März 2026 um 20.30 Uhr hier: https://meet.google.com/oib-xcfj-kbk
 
-Es wird aber auf jeden Fall hier und über die Mailing Liste des Chapters Germany angekündigt.
+Vorläufige Agenda:
+ * Begrüßung und Vorstellung
+ * Review altes Protokoll
+ * Die Geschichte des OWASP Germany Chapters (Dirk, 15 Minuten)
+ * German OWASP Day 2026
+ * German OWASP Day 2027
+
 Subscribed euch am Besten auf die [Mailing-Liste](https://groups.google.com/a/owasp.org/group/germany-chapter/), um nichts zu verpassen.
 
 ## Regelmäßige Aufgaben
