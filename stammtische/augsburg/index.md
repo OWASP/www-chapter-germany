@@ -50,9 +50,8 @@ Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf
   
 **2026**
 
-- Q2: Mai: 27.05.26 - Gaststätte Thing, Vorderer Lech 45, 86150 Augsburg
-- Q2: Juni: 24.06.26
-- Q3: Juli: 22.7.26
+- Q2: Juni: 24.06.26 - Gaststätte Thing, Vorderer Lech 45, 86150 Augsburg
+- Q3: Juli: 22.7.26 - Orange Cyberdefense?
 - Q3: August --- 🌞 -Pause
 - Q3: September: 23.9.26
 - Q4: Oktober: 28.10.26
@@ -65,26 +64,15 @@ Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf
 - Q1: Februar: 24.2.27 tbd.
 - Q1: März: 24.3.27 tbd.
 - Q2: April: 28.4.27 tbd.
+- Q2: Mai: 26.05.27 tbd.
 
-### Ankündigung - 22. Stammtisch am 27.05.2026 im [Thing]([http://www.mein-thing.de/]) (Vorderer Lech 45, 86150 Augsburg)
+### Ankündigung - 23. Stammtisch am 24.06.2026 im [Thing]([http://www.mein-thing.de/]) (Vorderer Lech 45, 86150 Augsburg)
 
-#### Agenda: Meine ersten Schritte für ein sicheres Homelab.
+#### Agenda: 
 
-Faruq möchte über seine ersten Erfahrungen berichten, ein Homelab aufzusetzen, und wie er versucht hat, dieses mit dem bisher Gelernten sicher zu betreiben. Dabei hat er versucht, relevante Aspekte aus den OWASP Top Ten in seiner Bedrohungsanalyse zu beachten. Die Struktur seines Vortrags sieht so aus:
-
-👉 Wer ich bin und was ich mache.
-
-👉 Wieso ich dieses Experiment gemacht habe: Theorie in Praxis umsetzen und Abhängigkeiten reduzieren.
-
-👉 Der Aufbau meines Homelabs (Geräte, Tools, Struktur, Dienste)
-
-👉 Fazit: LAN vorher vs. nachher.
-
-👉 Diskussionsrunde bezüglich potenzieller kritischer Angriffsvektoren, die ich übersehen habe.
-
-**Speaker:  Faruq Suriaganda** 
-
-Ich mache derzeit eine Umschulung zur Fachinformatikerin für Systemintegration (oder: zum Fachinformatiker für Systemintegration) mit dem Fokus, später in Richtung DevSecOps gehen zu wollen. Ich komme aus der Softwareentwicklung, spezifisch dem Game Development. Ich gehe bewusst den Schritt zur Systemintegration, da ich der Meinung bin, dass ich für später sowohl das Programmieren als auch das Netzwerk gut beherrschen muss.
+Nächsten Mittwoch am 24.06.26 findet der 2️⃣ 3️⃣ . OWASP Augsburg Stammtisch im Thing statt. Es ist kein Vortrag geplant, daher vermutlich gemütliches Beisammensein im Biergarten. 
+Daher umso ❗ **wichtiger**❗ wegen der Platzreservierung ( 🪑🪑🪑) :
+**Bitte gebt unbedingt Bescheid**, wenn ihr kommt und ggf. wie viele Leute ihr mitbringt, damit wir auch genug Platz ⬆️ haben oder ggf. die Reservierung nach unten ⬇️ korrigieren können.
 
 #### Ort: Gaststätte Thing (Vorderer Lech 45, 86150 Augsburg)
 

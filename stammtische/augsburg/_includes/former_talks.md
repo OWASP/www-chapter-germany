@@ -1,3 +1,21 @@
+**22. Stammtisch am 27.05.2026 im Thing**
+
+**Speaker:  Faruq Suriaganda** 
+
+**Vortrag: Meine ersten Schritte für ein sicheres Homelab.**
+
+Faruq möchte über seine ersten Erfahrungen berichten, ein Homelab aufzusetzen, und wie er versucht hat, dieses mit dem bisher Gelernten sicher zu betreiben. Dabei hat er versucht, relevante Aspekte aus den OWASP Top Ten in seiner Bedrohungsanalyse zu beachten. Die Struktur seines Vortrags sieht so aus:
+
+👉 Wer ich bin und was ich mache.
+
+👉 Wieso ich dieses Experiment gemacht habe: Theorie in Praxis umsetzen und Abhängigkeiten reduzieren.
+
+👉 Der Aufbau meines Homelabs (Geräte, Tools, Struktur, Dienste)
+
+👉 Fazit: LAN vorher vs. nachher.
+
+👉 Diskussionsrunde bezüglich potenzieller kritischer Angriffsvektoren, die ich übersehen habe.
+
 **21. Stammtisch am 22.04.2026 im Thing**
 
 **Speaker:  Christopher P. Proske** 
