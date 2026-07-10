@@ -40,15 +40,36 @@ gerne vorbei!
 
 ### Aktuelle Treffen
 
-### 75\. Treffen April 2026
+### 76\. Treffen Juli/August 2026
 
-- Securityschnack / Networking
+- Sprecher: Janik Hollenbach, Björn Kimminich
+- *Fresh Squeezed: Prompt-Injecting Juice Shops New AI Brain*
+- Ort + Datum: TBC
+- Presentation Language: German (TBC)
+
+
+### 77\. Treffen: 15.9.2026
+
+- Sprecher: Dr. Tim Sattler
+- Titel: TBD. Tim bringt uns Informationssicherheit aus der CISO-Perspektive näher
+- Presentation Language: German (TBC)
+- Ort: TBD
+
+### 78\. Treffen: 12.10.2026
+
+- Speaker: Jim Manico 
+- Title: *ORDNUNG! PRÄZISION! SPEZIFIKATION! Why Secure Software Begins Before the First Line of Code*
+- Presentation Language: English
+- Ort: TBD
+  
+
+### Vergangene Treffen
+
+Securityschnack / Networking
 - Ort: [Blockbräu Hamburg](https://www.openstreetmap.org/node/1700738403)
 - Treffen: 28.4.2026, Start: 18:00 Uhr
 - [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/314339260/)
 
-
-### Vergangene Treffen
 
 ### 74\. Meeting Dezember 2025
 
