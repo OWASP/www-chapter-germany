@@ -43,7 +43,7 @@ gerne vorbei!
 ### 76\. Treffen Juli/August 2026
 
 - Sprecher: Janik Hollenbach, Björn Kimminich
-- *Fresh Squeezed: Prompt-Injecting Juice Shops New AI Brain*
+- *Freshly Squeezed: Prompt-Injecting Juice Shops New AI Brain*
 - Ort + Datum: TBC
 - Presentation Language: German (TBC)
 
