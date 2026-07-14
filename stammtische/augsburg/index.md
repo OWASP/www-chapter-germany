@@ -50,8 +50,7 @@ Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf
   
 **2026**
 
-- Q2: Juni: 24.06.26 - Gaststätte Thing, Vorderer Lech 45, 86150 Augsburg
-- Q3: Juli: 22.7.26 - Orange Cyberdefense?
+- Q3: Juli: 22.7.26 - Orange Cyberdefense (Curt-Frenzel-Straße 10A · Augsburg)
 - Q3: August --- 🌞 -Pause
 - Q3: September: 23.9.26
 - Q4: Oktober: 28.10.26
@@ -65,16 +64,45 @@ Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf
 - Q1: März: 24.3.27 tbd.
 - Q2: April: 28.4.27 tbd.
 - Q2: Mai: 26.05.27 tbd.
+- Q2: Juni: 23.06.27 - tbd.
 
-### Ankündigung - 23. Stammtisch am 24.06.2026 im [Thing]([http://www.mein-thing.de/]) (Vorderer Lech 45, 86150 Augsburg)
+
+### Ankündigung - 24. Stammtisch am 22.07.2026 im [Orange Cyberdefens]([[http://www.mein-thing.de/](https://www.orangecyberdefense.com/de/)]) (Curt-Frenzel-Straße 10A · Augsburg)
 
 #### Agenda: 
 
-Nächsten Mittwoch am 24.06.26 findet der 2️⃣ 3️⃣ . OWASP Augsburg Stammtisch im Thing statt. Es ist kein Vortrag geplant, daher vermutlich gemütliches Beisammensein im Biergarten. 
-Daher umso ❗ **wichtiger**❗ wegen der Platzreservierung ( 🪑🪑🪑) :
-**Bitte gebt unbedingt Bescheid**, wenn ihr kommt und ggf. wie viele Leute ihr mitbringt, damit wir auch genug Platz ⬆️ haben oder ggf. die Reservierung nach unten ⬇️ korrigieren können.
+Diesmal gibt es **ZWEI Vorträge** (je ca. 30 Minuten + Diskussion) und wir besuchen Orange Cyberdefense!!
 
-#### Ort: Gaststätte Thing (Vorderer Lech 45, 86150 Augsburg)
+**1. Vortrag Günther Kriele - 154 Prompts später: Was LLM-Red-Teaming übrig lässt, und was man damit anfangen kann**
+
+Ich habe ein Playbook mit 154 Angriffsprompts gegen produktive LLM-Setups gebaut und laufen lassen. Prompt Injection, Jailbreaks, Data Exfiltration, Tool-Missbrauch. Der erste Teil des Vortrags ist ein Erfahrungsbericht: Welche Angriffsklassen funktionieren erschreckend zuverlässig, welche Schutzmaßnahmen halten, und wo die OWASP Top 10 für LLM Applications in der Praxis stumpf werden.
+Der zweite Teil handelt davon, was danach passiert. Meistens nämlich nichts, außer einem PDF. Ich habe versucht, die Findings strukturiert weiterzureichen, in Richtung EU AI Act, ISO 42001 und den BSI-A5-Draft, mit OSCAL als Format. Ich zeige, welcher Teil dieser Kette trägt und an welcher Stelle die Automatisierung ehrlicherweise Unfug produziert.
+Der A5-Community-Draft ist bis zum 31. August offen für Kommentare. Wer nach diesem Abend mitschreiben will, ist eingeladen. Im September gibts dazu sicherlich neue News sodass man das Thema weiterhin nehmen kann oder man fokussiert sich dann auf AI RedTeamings (DeepKeep, Mythos/cyber5.5/GLM Modellfamilien).
+Frage an die Runde zum Schluss: Wo ist der Ansatz naiv?
+
+**2. Vortrag Michael Helwig - The Map of Artificial Treasures: What to Automate in Security - and Why?**
+
+With the rise of AI, especially large language models, it seems every security workflow will soon be automated or heavily supported by automation - from LLM-powered threat-intelligence enrichment or compliance mappings to AI-written threat models, codefixes and complete CISO roadmaps. But which processes will truly benefit, and in which cases will AI just increase the risk of adding cost and complexity? As security managers or leaders, how can we determine where to focus our efforts and investments upfront?
+
+This talk presents a practical framework for evaluating the effectiveness of AI-driven automation in application security and related fields. First, we explore how to identify processes that are strong candidates for automation based on criteria such as repeatability, return on investment, and risk tolerance. Then, we map typical security processes to AI approaches, including large language models (LLMs), traditional machine learning, retrieval-augmented generation (RAG), and hybrid systems.
+
+We will learn how these solutions are applied to critical security areas, such as vulnerability management, secure software development, threat detection, and compliance. We will explore an AI Capability Map, industry benchmarks, and real-world examples, such as the use of RAG-powered chatbots for security guidance and LLMs for compliance analysis. Our goal is to help you determine where AI would be a good fit for your organization and where you would likely see measurable value when applying it, so that you can make informed decisions. Also, we will examine the available data: In which areas of the industry is value already being recognized? We explore potential pitfalls, from fragile LLM implementations to poor risk modeling, and discuss how to avoid wasting resources.
+
+Using industry data, real-world experience, and structured criteria, this talk provides security leaders and practitioners with more guidance in this rapidly evolving field.
+
+#### Über unsere Sprecher
+
+**Kurz-Bio Günther:**
+
+Ich komme aus einem kleinen österreichischen Bergdorf (Möggers) - Karl Klammer war mein erster intelligenter Assistent und hat mich nachhaltig fasziniert. Alles, was ich über KI und Security weiß, habe ich mir selbst beigebracht, meistens indem ich Dinge kaputtgemacht habe, die eigentlich funktionieren sollten. ...und durch Zugang zu Mentoren und Geeks, die mich machen ließen.
+Heute arbeite ich als Commercial AI Generalist bei Orange Cyberdefense in Augsburg, zuständig im Workstream für End-to-End-Automatisierung und an der Schnittstelle von LLM-Sicherheit, Agenten-Architektur und Regulatorik. Ich baue Red-Team-Playbooks für Sprachmodelle, evaluiere Use Cases, bastle an OSCAL-basierten Compliance-Artefakten und lese EU-Verordnungen, weil sie sonst niemand liest (oder ich baue mir ein Game um die Verordnungen "durchzuspielen".
+Meine These: KI gibt uns die Möglichkeit, das Langweiligste überhaupt, nämlich Compliance-Tapeten, cool und anwendbar zu machen. Glaube ich jedenfalls.
+
+**Über Michael:**
+
+I am security consultant and founder of secureIO GmbH, a consulting company that focuses on building application security programs and consulting clients from different industries on secure software development and compliance. I am focussing on DevSecOps, security testing, AI automation, vulnerability management processes and maturing application security programs on a strategic level.
+
+#### Ort: Orange Cyberdefens (VCurt-Frenzel-Straße 10A · Augsburg)
 
 #### Zeit: 19:00
 
