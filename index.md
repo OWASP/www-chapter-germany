@@ -61,7 +61,7 @@ zu finden, in absteigender Interaktionsfrequenz.
 
 ## Aktuelles und mehr
 
-Der nächste German OWASP Day wird am 23./24.9.2026 in Karlsruhe stattfinden. Wie üblich werden wieder zwei Tracks haben an dem Konferenztag und wenige Community-Trainings am Tag davor. Nähere Angaben sind der [Webseite](https://god.owasp.de/2026/) zu entnehmen. Der Call for Trainings wird bald eröffnet, im Nachgang folgt der Call for Presentations,
+Der nächste German OWASP Day wird am 23./24.9.2026 in Karlsruhe stattfinden. Wie üblich werden wieder zwei Tracks an dem Konferenztag anbieten und  Community-Trainings am Tag davor. Nähere Angaben sind der [Webseite](https://god.owasp.de/2026/) zu entnehmen. Das Programm steht und wir freuen uns auf zwei spannende Tage.
 
 Der German [OWASP Day 2025](https://god.owasp.de/2025/) fand am 26.11.2025 in Düsseldorf statt, unsere Konferenz war ausverkauft. Es gab ein bombastisches [Programm](https://god.owasp.de/2025/#program), dieses Mal mit zwei Tracks, und wie üblich ein Networking-Event am Vorabend. Die Community-Trainings sowie das [Chapter-Meeting](https://owasp.org/www-chapter-germany/chapter_meetings/) fanden eine Tag davor statt. Details auf [god.owasp.de/2025/](https://god.owasp.de/2025/). Die [Videos](https://media.ccc.de/c/god2025) sind bereits online. 
 
