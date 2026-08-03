@@ -26,7 +26,7 @@ melden (vorname.nachname@owasp.org).
 
 Tritt unserer [Meetup-Gruppe](http://www.meetup.com/OWASP-Hamburg-Stammtisch/) bei, um
 zeitnah über Treffen informiert zu bleiben. Die Meetup-Seite ist etwas aktueller als diese Seite. Zudem
-findet man auf Meetup immer den Abstract, wie auch in unserer [Linkedin-Gruppe](https://www.linkedin.com/company/owasp-meeting-hamburg/) und 
+findet man auf Meetup immer den Abstract, wie auch in unserer [LinkedIn-Gruppe](https://www.linkedin.com/company/owasp-meeting-hamburg/) und
 auf [Mastodon](https://infosec.exchange/@owasp_hamburg). Old School werden Treffen über die OWASP-Deutschland
 [Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/) angekündigt.
 
@@ -40,36 +40,41 @@ gerne vorbei!
 
 ### Aktuelle Treffen
 
+
+### 77\. Treffen: 15.9.2026
+
+- Sprecher: Dr. Tim Sattler
+- Titel: TBD. Tim bringt uns Informationssicherheit aus der CISO-Perspektive näher
+- Presentation Language: German or English (TBD)
+- Ort: TBD
+- [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/315788715/)
+
+
+
+### 78\. Treffen: 12.10.2026
+
+- Speaker: Jim Manico
+- Title: *ORDNUNG! PRÄZISION! SPEZIFIKATION! Why Secure Software Begins Before the First Line of Code*
+- Presentation Language: English
+- Ort: TBD
+
+
+### Vergangene Treffen
+
 ### 76\. Treffen Juli/August 2026
 
 - Sprecher: Janik Hollenbach, Björn Kimminich
 - *Freshly Squeezed: Prompt-Injecting Juice Shops New AI Brain*
 - Ort + Datum: TBC
 - Presentation Language: German (TBC)
+- [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/315684286/)
+- [Slides](assets/slides/2026_07_28%20OWASP%20Juice%20Shop%20-%20Sommer,%20Sonne,%20Saftladen%20;-\).pdf)
 
+### 75\. Treffen April 2026 Securityschnack / Networking
 
-### 77\. Treffen: 15.9.2026
-
-- Sprecher: Dr. Tim Sattler
-- Titel: TBD. Tim bringt uns Informationssicherheit aus der CISO-Perspektive näher
-- Presentation Language: German (TBC)
-- Ort: TBD
-
-### 78\. Treffen: 12.10.2026
-
-- Speaker: Jim Manico 
-- Title: *ORDNUNG! PRÄZISION! SPEZIFIKATION! Why Secure Software Begins Before the First Line of Code*
-- Presentation Language: English
-- Ort: TBD
-  
-
-### Vergangene Treffen
-
-Securityschnack / Networking
 - Ort: [Blockbräu Hamburg](https://www.openstreetmap.org/node/1700738403)
 - Treffen: 28.4.2026, Start: 18:00 Uhr
 - [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/314339260/)
-
 
 ### 74\. Meeting Dezember 2025
 
