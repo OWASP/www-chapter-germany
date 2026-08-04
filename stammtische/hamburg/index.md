@@ -68,7 +68,7 @@ gerne vorbei!
 - Ort + Datum: TBC
 - Presentation Language: German (TBC)
 - [Meetup](https://www.meetup.com/owasp-hamburg-stammtisch/events/315684286/)
-- [Slides](assets/slides/2026_07_28%20OWASP%20Juice%20Shop%20-%20Sommer,%20Sonne,%20Saftladen%20;-\).pdf)
+- [Slides](assets/slides/2026_07_28%20OWASP%20Juice%20Shop%20-%20Sommer,%20Sonne,%20Saftladen%20%3B-%29.pdf)
 
 ### 75\. Treffen April 2026 Securityschnack / Networking
 
